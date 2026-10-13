@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 101,
-  "sources": 121
+  "evenements": 102,
+  "sources": 122
  },
  "evenements": [
   {
@@ -2319,6 +2319,25 @@
    "liens": []
   },
   {
+   "id": "2026-09-17_unieuro",
+   "date": "2026-09-17",
+   "date_affichee": "17 sept. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Italie : Vusion a terminé le déploiement dans les 268 magasins en propre d'Unieuro",
+   "texte": "Selon Vusion, à la réouverture du magasin Unieuro de Lissone (étiquettes couleur grand format, Engage Rails, navigation intérieure avec le partenaire Pointr) : « Vusion ha completato il rollout nei 268 punti vendita diretti ». L'extension « anche alla rete dei punti vendita affiliati » se poursuit, sans nombre ni calendrier. Ni volume d'étiquettes ni montant ; annonce sur LinkedIn, pas de communiqué.",
+   "sources": [
+    "S123"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 17/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-09-21_resultats-s1-2026",
    "date": "2026-09-21",
    "date_affichee": "21 sept. 2026",
@@ -3832,6 +3851,16 @@
    "archive": "integral",
    "note": "Page non datée ; date retenue : celle du post qui la cite.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S123",
+   "date_source": "2026-09-17",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion (compte officiel), 17/09/2026 : réouverture du magasin Unieuro de Lissone et fin du déploiement dans les 268 magasins en propre d'Unieuro",
+   "url": "https://www.linkedin.com/posts/vusion-unieuro-connectedstore-ugcPost-7506394780843573248-t-No/",
+   "archive": "integral",
+   "note": "Date tirée de l'identifiant du post (7506394780843573248 → 17/09/2026). Texte transmis par un lecteur.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -4185,6 +4214,18 @@
     "2026-09-02_abc-lavpris"
    ],
    "note": "ABC Lavpris (16 magasins)"
+  },
+  {
+   "id": "lissone",
+   "nom": "Lissone (Lombardie)",
+   "lat": 45.613,
+   "lon": 9.244,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-09-17_unieuro"
+   ],
+   "note": "Magasin Unieuro ; 268 magasins en propre équipés en Italie"
   }
  ],
  "non_localises": [
