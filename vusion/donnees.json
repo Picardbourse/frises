@@ -19,7 +19,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-13",
- "arrete_au": "2026-10-12",
+ "arrete_au": "2026-10-13",
  "version_provisoire": true,
  "config": {
   "code": "vusion",
@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 97,
-  "sources": 113
+  "evenements": 101,
+  "sources": 121
  },
  "evenements": [
   {
@@ -1097,18 +1097,20 @@
     "contrats"
    ],
    "statut": "doc",
-   "titre": "Dr. Max (pharmacies, Europe centrale) choisit VusionGroup",
-   "texte": "Partenariat avec Dr. Max, « l'une des principales chaînes de pharmacies en Europe » : déploiement déjà engagé dans « 220 de ses magasins », qui « devrait s'achever fin 2026 » (Option Finance, reprenant le communiqué). Nombre total de magasins visés non relevé.",
+   "titre": "Dr. Max (pharmacies) choisit VusionGroup pour 1 000 magasins dans six pays",
+   "texte": "Déploiement de VusionCloud et des étiquettes électroniques dans « 1,000 stores across 6 countries » (« Czech Republic, Slovakia, Romania, Italy, Serbia, and Poland »), sur plus de 3 000 pharmacies du groupe. Le déploiement « has already begun in 220 of its stores » ; « the target date for completion has been set for the end of 2026 ». Ni volume d'étiquettes ni montant.",
    "sources": [
+    "S118",
     "S113"
    ],
    "sources_libelle": [
+    "CP VusionGroup du 15/04/2025",
     "Option Finance, 15/04/2025"
    ],
    "engagements": [
     {
      "id": "2025-04-15_dr-max#e1",
-     "texte": "Fin du déploiement chez Dr. Max « fin 2026 »",
+     "texte": "Fin du déploiement dans les 1 000 magasins Dr. Max « fin 2026 »",
      "echeance": "2026-12-31",
      "statut": "todo",
      "statue_par": "",
@@ -2164,6 +2166,26 @@
    "liens": []
   },
   {
+   "id": "2026-08-10_el-jamon-hanshow",
+   "date": "2026-08-10",
+   "date_affichee": "10 août 2026",
+   "sujets": [
+    "contrats",
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Supermercados El Jamón (Espagne) retient Hanshow pour près de 3 millions d'étiquettes",
+   "texte": "Étiquettes du concurrent Hanshow pour l'ensemble du réseau : « nearly 3 million electronic shelf labels » « over the next three years », dont une première phase dans une centaine de supermarchés en 2026. Montant non communiqué.",
+   "sources": [
+    "S115"
+   ],
+   "sources_libelle": [
+    "Communiqué Hanshow, 10/08/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-08-19_rossotono",
    "date": "2026-08-19",
    "date_affichee": "19 août 2026",
@@ -2190,6 +2212,49 @@
    ]
   },
   {
+   "id": "2026-09-01_alcampo-hanshow",
+   "date": "2026-09-01",
+   "date_affichee": "1er sept. 2026",
+   "sujets": [
+    "contrats",
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Alcampo (Espagne) retient Hanshow : 560 000 étiquettes dans 84 supermarchés",
+   "texte": "Étiquettes « fabricadas por Hanshow » pour 84 supermarchés d'Alcampo (sur 507 magasins en Espagne), plus de 560 000 étiquettes en 2026 ; investissement de 3,8 M€ sur l'exercice selon Alimarket (montant non repris par Hanshow). Une autre phrase d'Alimarket évoque un peu plus de cinquante magasins : le nombre est à prendre avec prudence.",
+   "sources": [
+    "S116",
+    "S117"
+   ],
+   "sources_libelle": [
+    "Alimarket, 01/09/2026",
+    "Communiqué Hanshow, 02/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-02_abc-lavpris",
+   "date": "2026-09-02",
+   "date_affichee": "2 sept. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Danemark : étiquettes Vusion dans les 16 magasins ABC Lavpris (intégrateur Lexit Group)",
+   "texte": "Selon l'intégrateur Lexit Group, ABC Lavpris est passé aux étiquettes électroniques « across all 16 stores », avec des « electronic shelf labels from Vusion Group », des terminaux Zebra et l'application magasin de Lexit. Ni nombre d'étiquettes, ni montant, ni calendrier ; pas de communication de Vusion.",
+   "sources": [
+    "S121",
+    "S122"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Lexit Group, 02/09/2026",
+    "Lexit Group, étude de cas ABC Lavpris"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-09-02_asda-517",
    "date": "2026-09-02",
    "date_affichee": "2 sept. 2026",
@@ -2212,6 +2277,27 @@
      "cible": "2025-10-07_asda-express"
     }
    ]
+  },
+  {
+   "id": "2026-09-04_blooms-karabar",
+   "date": "2026-09-04",
+   "date_affichee": "4 sept. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Australie : étiquettes et Video Rails Vusion dans une pharmacie Blooms The Chemist (Karabar)",
+   "texte": "Selon un chef de projet ayant participé au déploiement : « Last week, we completed the deployment of Vusion's smart retail solutions at Blooms The Chemist Karabar », avec étiquettes électroniques, solution Engage et « digital Video Rails ». Un magasin, dans un réseau de plus de 100 pharmacies ; pas de communication de Vusion ni de Blooms sur un déploiement plus large. Le post est repris par un vice-président régional des ventes de Vusion, qui cite dm-drogerie markt, Dr Max et Benu Apoteka parmi les partenaires du secteur santé-beauté. Par ailleurs, le concurrent Zkong présente Blooms The Chemist parmi ses références (3 400 étiquettes, page non datée).",
+   "sources": [
+    "S119",
+    "S120"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn, 04/09/2026",
+    "Zkong, étude de cas non datée"
+   ],
+   "engagements": [],
+   "liens": []
   },
   {
    "id": "2026-09-17_huawei",
@@ -3666,6 +3752,86 @@
    "archive": "integral",
    "note": "Version déposée à l'AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/06/FCACT074954_20250624.pdf (non consultée).",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S115",
+   "date_source": "2026-08-10",
+   "type": "presse",
+   "reference": "Hanshow (communiqué), 10/08/2026 : Supermercados El Jamón choisit Hanshow pour la digitalisation de ses magasins dans le sud de l'Espagne",
+   "url": "https://www.hanshow.com/en/news/supermercados-el-jam%C3%B3n-selects-hanshow-to-advance-in-store-digitalization-across-southern-spain",
+   "archive": "integral",
+   "note": "Concurrent (Hanshow). Repris par Alimarket le 27/08/2026 : « cerca de 3 M de etiquetas electrónicas », « durante los próximos tres años », « un centenar de supermercados » en première phase.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S116",
+   "date_source": "2026-09-01",
+   "type": "presse",
+   "reference": "Alimarket, 01/09/2026 : « Alcampo instalará etiquetas electrónicas en 84 establecimientos »",
+   "url": "https://www.alimarket.es/alimentacion/noticia/430348/alcampo-instalara-etiquetas-electronicas-en-84-establecimientos",
+   "archive": "integral",
+   "note": "Une autre phrase de l'article évoque un peu plus de cinquante magasins : nombre de magasins à prendre avec prudence (le communiqué Hanshow dit 84).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S117",
+   "date_source": "2026-09-02",
+   "type": "presse",
+   "reference": "Hanshow (communiqué), 02/09/2026 : Alcampo s'associe à Hanshow pour la digitalisation de ses magasins en Espagne",
+   "url": "https://www.hanshow.com/en/news/alcampo-partners-with-hanshow-to-advance-store-digitalization-and-reduce-paper-consumption-across-spain",
+   "archive": "integral",
+   "note": "Concurrent (Hanshow).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S118",
+   "date_source": "2025-04-15",
+   "type": "CP",
+   "reference": "CP VusionGroup du 15/04/2025 : « Leading pharmacy chain Dr. Max partners with VusionGroup for advanced store digitalization across Europe »",
+   "url": "https://webdisclosure.com/press-release/store-electronic-systems-ses-epa-sesl-leading-pharmacy-chain-dr-max-partners-with-vusiongroup-for-advanced-store-digitalization-across-europe-4GTISL5q1fL",
+   "archive": "integral",
+   "note": "Chiffres repris le 06/09/2026 dans un post LinkedIn d'un consultant extérieur (associé de Pygmalios), qui cite ce communiqué ; signalé par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S119",
+   "date_source": "2026-09-04",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'un chef de projet ayant participé au déploiement, 04/09/2026, repris par un vice-président régional des ventes de Vusion : solutions Vusion à la pharmacie Blooms The Chemist de Karabar (Australie)",
+   "url": "https://www.linkedin.com/posts/andrew-dixon-99665b4_together-with-other-partners-such-as-dm-drogerie-activity-7501575869640081410-iC04",
+   "archive": "integral",
+   "note": "Post d'origine : activité 7501500748833218560 (04/09/2026) ; reprise : activité 7501575869640081410 (04/09/2026). Texte transmis par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S120",
+   "date_source": "",
+   "type": "web",
+   "reference": "Zkong (fournisseur d'étiquettes concurrent), étude de cas « Blooms The Chemist », page non datée",
+   "url": "https://www.zkong.com/blooms-the-chemist.html",
+   "archive": "integral",
+   "note": "Concurrent. Page non datée : ne permet pas de dater le déploiement ni de savoir combien de pharmacies sont concernées.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S121",
+   "date_source": "2026-09-02",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Lexit Group, 02/09/2026 : étiquettes électroniques dans les 16 magasins ABC Lavpris (Danemark)",
+   "url": "https://lnkd.in/p/eiXAtPnN",
+   "archive": "integral",
+   "note": "Post daté du 02/09/2026 à 14:10 (date relevée par un lecteur). Texte transmis par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S122",
+   "date_source": "2026-09-02",
+   "type": "web",
+   "reference": "Lexit Group, étude de cas « Effective in-store communication at ABC Lavpris » (page non datée, citée par le post du 02/09/2026)",
+   "url": "https://www.lexitgroup.com/customer-stories/effective-in-store-communication-at-abc-lavpris",
+   "archive": "integral",
+   "note": "Page non datée ; date retenue : celle du post qui la cite.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -3995,6 +4161,30 @@
    "evenements": [
     "2021-10-28_ca-9m-2021"
    ]
+  },
+  {
+   "id": "karabar",
+   "nom": "Karabar (Nouvelle-Galles du Sud)",
+   "lat": -35.375,
+   "lon": 149.233,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-09-04_blooms-karabar"
+   ],
+   "note": "Pharmacie Blooms The Chemist"
+  },
+  {
+   "id": "danemark",
+   "nom": "Danemark",
+   "lat": 56.0,
+   "lon": 9.5,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-09-02_abc-lavpris"
+   ],
+   "note": "ABC Lavpris (16 magasins)"
   }
  ],
  "non_localises": [
