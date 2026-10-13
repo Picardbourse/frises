@@ -163,6 +163,10 @@ dialog::backdrop{background:rgba(0,0,0,.45)}
 #map{height:440px;border-radius:4px;border:1px solid var(--rule);background:var(--bg)}
 @media (max-width:560px){#map{height:340px}}
 .carte .legend{margin:8px 0 0}
+.mtime{display:flex;align-items:center;gap:10px;margin:10px 0 0;font-family:var(--f-display);font-size:.85rem}
+.mtime input{flex:1;accent-color:var(--accent);min-width:0}
+.mtime button{border:1px solid var(--rule);background:var(--bg);color:inherit;border-radius:4px;width:34px;height:28px;cursor:pointer;font-size:.9rem}
+#mdate{min-width:9.5em;text-align:right;color:var(--muted);font-variant-numeric:tabular-nums}
 .mleg{display:flex;flex-wrap:wrap;gap:6px 16px;font-family:var(--f-display);font-size:.8rem;margin:8px 0 0;color:var(--muted)}
 .mleg i{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:5px;vertical-align:-1px}
 .mleg i.zone{background:transparent!important;border:2px dashed currentColor;width:12px;height:12px}
@@ -208,8 +212,13 @@ dialog::backdrop{background:rgba(0,0,0,.45)}
 
 <section class="carte" id="carte" hidden>
   <h2>Carte des lieux</h2>
-  <p class="legend">Chaque point renvoie aux événements de la frise. Un lieu n'est placé qu'au niveau de précision donné par la source : site, ville, région ou pays (cercle en pointillé). Les filtres de sujets s'appliquent aussi à la carte.</p>
+  <p class="legend">Chaque point renvoie aux événements de la frise. Un lieu n'est placé qu'au niveau de précision donné par la source : site, ville, région ou pays (cercle en pointillé). Les filtres de sujets s'appliquent aussi à la carte. Le curseur fait apparaître les lieux au fil des dates de la frise (▶ pour l'animation).</p>
   <div id="map" role="region" aria-label="Carte des lieux"></div>
+  <div class="mtime" id="mtime">
+    <button type="button" id="mplay" aria-label="Lancer l'animation">▶</button>
+    <input type="range" id="mrange" min="0" max="0" value="0" aria-label="Date affichée sur la carte">
+    <span id="mdate" aria-live="polite"></span>
+  </div>
   <div class="mleg" id="mleg"></div>
   <div id="nonloc"></div>
 </section>
@@ -334,23 +343,49 @@ function renderMap(){
     const m=L.circleMarker([l.lat,l.lon],zone?{radius:13,color:col,weight:2,dashArray:"4 3",fillColor:col,fillOpacity:.12}:{radius:l.precision==="site"?7:6,color:"#fff",weight:1.5,fillColor:col,fillOpacity:.95});
     const evs=l.evenements.map(id=>byId[id]).filter(Boolean).sort((a,b)=>a.date.localeCompare(b.date));
     m.bindPopup(`<b>${esc(l.nom)}</b><span class="pp">précision : ${PREC[l.precision]||l.precision}${l.note?" · "+esc(l.note):""}</span>${evs.length?`<ul>${evs.map(e=>`<li>${fr(e.date)} · <a href="#${e.id}">${esc(e.titre)}</a></li>`).join("")}</ul>`:""}`,{maxWidth:320});
-    m.addTo(MAP); MK.push({l,m}); bounds.push([l.lat,l.lon]);
+    const d0=evs.length?evs[0].date:null;
+    m.addTo(MAP); MK.push({l,m,mo:d0?mIdx(d0):null,shown:true}); bounds.push([l.lat,l.lon]);
   }
   MAP.fitBounds(bounds,{padding:[20,20]});
+  initTime();
   Object.entries(DATA.config.legende_carte||{}).forEach(([k,v])=>{if(MTYPES[k])MTYPES[k].l=v;});
   $("mleg").innerHTML=Object.entries(MTYPES).filter(([k])=>L0.some(l=>l.type===k)).map(([k,v])=>`<span><i style="background:var(${v.c})"></i>${v.l}</span>`).join("")+`<span><i class="zone"></i>Localisation au niveau de la région ou du pays</span>`;
   const NL=DATA.non_localises||[];
   if(NL.length) $("nonloc").innerHTML=`<p class="nonloc" style="margin-bottom:2px"><b>Non localisés</b> (lieu non publié par la source) :</p><ul class="nonloc">${NL.map(n=>byId[n.evenement]?`<li><a href="#${n.evenement}">${esc(byId[n.evenement].titre)}</a> — ${esc(n.raison)}</li>`:"").join("")}</ul>`;
 }
+const MOIS=["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc."];
+const mIdx=d=>{const [y,m]=d.split("-");return (+y)*12+(+m)-1;};
+const mLab=i=>MOIS[i%12]+" "+Math.floor(i/12);
+let T0=0,TCUR=Infinity,TPLAY=null;
+function initTime(){
+  const ds=EV.map(e=>e.date).filter(Boolean).sort(); if(!ds.length){$("mtime").hidden=true;return;}
+  T0=mIdx(ds[0])-1; const T1=Math.max(mIdx(ds[ds.length-1]),mIdx(TODAY));
+  const r=$("mrange"); r.min=0; r.max=T1-T0; r.value=T1-T0; TCUR=T1;
+  const lab=()=>{const n=MK.filter(k=>k.shown).length; $("mdate").textContent=(+r.value===+r.max?"tout · ":mLab(TCUR)+" · ")+n+" lieu"+(n>1?"x":"");};
+  r.addEventListener("input",()=>{stopPlay();TCUR=T0+(+r.value);updateMap();lab();});
+  $("mplay").addEventListener("click",()=>{
+    if(TPLAY){stopPlay();return;}
+    if(+r.value>=+r.max) r.value=0;
+    $("mplay").textContent="⏸"; $("mplay").setAttribute("aria-label","Mettre en pause");
+    TPLAY=setInterval(()=>{ r.value=+r.value+1; TCUR=T0+(+r.value); updateMap(); lab(); if(+r.value>=+r.max) stopPlay(); },180);
+  });
+  window.__mlab=lab; lab();
+}
+function stopPlay(){ if(TPLAY){clearInterval(TPLAY);TPLAY=null;} const b=$("mplay"); if(b){b.textContent="▶"; b.setAttribute("aria-label","Lancer l'animation");} }
 function updateMap(){
   if(!MAP) return;
-  for(const {l,m} of MK){
-    const vis=!l.evenements.length||l.evenements.some(id=>byId[id]&&byId[id].sujets.some(t=>state.topics.includes(t)));
-    if(vis&&!MAP.hasLayer(m)) m.addTo(MAP); if(!vis&&MAP.hasLayer(m)) MAP.removeLayer(m);
+  for(const k of MK){
+    const {l,m}=k;
+    const evOk=id=>{const e=byId[id]; return e&&e.sujets.some(t=>state.topics.includes(t))&&mIdx(e.date)<=TCUR;};
+    const vis=!l.evenements.length||l.evenements.some(evOk);
+    if(vis&&!MAP.hasLayer(m)){ m.addTo(MAP); if(TPLAY){const r0=m.getRadius(); m.setRadius(r0*2.2); setTimeout(()=>m.setRadius(r0),450);} }
+    if(!vis&&MAP.hasLayer(m)) MAP.removeLayer(m);
+    k.shown=vis;
   }
+  if(window.__mlab) window.__mlab();
 }
 function lieuxDe(id){return (DATA.lieux||[]).filter(l=>l.evenements.includes(id));}
-function showLieu(lid){const x=MK.find(k=>k.l.id===lid); if(!x) return; $("carte").scrollIntoView({behavior:"smooth"}); if(!MAP.hasLayer(x.m)) x.m.addTo(MAP); MAP.setView([x.l.lat,x.l.lon],Math.max(MAP.getZoom(),x.l.precision==="pays"?4:x.l.precision==="region"?6:9)); x.m.openPopup();}
+function showLieu(lid){const x=MK.find(k=>k.l.id===lid); if(!x) return; stopPlay(); const r=$("mrange"); if(r&&+r.value<+r.max){r.value=r.max; TCUR=T0+(+r.max); updateMap();} $("carte").scrollIntoView({behavior:"smooth"}); if(!MAP.hasLayer(x.m)) x.m.addTo(MAP); MAP.setView([x.l.lat,x.l.lon],Math.max(MAP.getZoom(),x.l.precision==="pays"?4:x.l.precision==="region"?6:9)); x.m.openPopup();}
 document.addEventListener("click",ev=>{const b=ev.target.closest("[data-lieu]"); if(b){ev.preventDefault();showLieu(b.dataset.lieu);}});
 
 function renderTally(){
