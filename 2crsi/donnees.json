@@ -1,0 +1,4283 @@
+{
+ "_a_lire": "Export lisible par machine de la frise des faits 2CRSi : même contenu que la page index.html, qui est rendue en JavaScript. Chaque événement porte une date et renvoie à une ou plusieurs sources (identifiants Sxxx de la liste « sources », avec leur url). Merci de citer la source d'origine plutôt que cet export, et de vérifier « genere_le » : la page peut avoir été mise à jour depuis.",
+ "legende": {
+  "statut_evenement": {
+   "doc": "fait documenté (communiqué, registre, article, document officiel)",
+   "decl": "déclaration publique (dirigeant, partenaire), non vérifiée par ailleurs",
+   "echeance": "échéance annoncée, à venir"
+  },
+  "statut_engagement": {
+   "ok": "tenu",
+   "warn": "recalé (échéance ou montant revu)",
+   "bad": "échu sans communication",
+   "nd": "passé, non documenté à ce jour",
+   "todo": "à venir"
+  },
+  "liens": "relations entre événements : reporte, confirme, infirme, précise",
+  "sources_forum": "une source de type forum ne vaut que pour le document qu'elle cite ou reproduit",
+  "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
+ },
+ "page": "index.html",
+ "genere_le": "2026-10-13",
+ "arrete_au": "2026-10-12",
+ "version_provisoire": true,
+ "config": {
+  "code": "2crsi",
+  "nom": "2CRSi",
+  "intro": "Chronologie des communiqués, registres, articles de presse et déclarations publiques du dirigeant, de 2021 aux échéances annoncées. Chaque ligne porte une date et une source ; chaque source est consultable. Les engagements datés sont suivis jusqu'à leur échéance.",
+  "note_exercice": "Exercice fiscal du 1er juillet au 30 juin : « 2026/27 » se termine le 30 juin 2027.",
+  "avertissement": "Plusieurs échéances tombent dans les semaines qui viennent, dont les résultats annuels du 29/10/2026 : la frise sera mise à jour après chacune.",
+  "contact": "picard_bourse@proton.me",
+  "sujets": {
+   "nygc": {
+    "label": "NYGC (contrat 610 M$)",
+    "c": "--t-1"
+   },
+   "aether": {
+    "label": "ÆTHER / gigafactory",
+    "c": "--t-2"
+   },
+   "valeo": {
+    "label": "Valeo / Inde",
+    "c": "--t-3"
+   },
+   "res": {
+    "label": "Résultats & guidance",
+    "c": "--t-4"
+   },
+   "gouv": {
+    "label": "Gouvernance & dirigeant",
+    "c": "--t-5"
+   },
+   "griz": {
+    "label": "Grizzly & enquête",
+    "c": "--t-6"
+   },
+   "mkt": {
+    "label": "Marché",
+    "c": "--t-7"
+   },
+   "autre": {
+    "label": "Autres contrats",
+    "c": "--t-8"
+   }
+  }
+ },
+ "nb": {
+  "evenements": 100,
+  "sources": 106
+ },
+ "evenements": [
+  {
+   "id": "2021-05-17_rouses-point",
+   "date": "2021-05-17",
+   "date_affichee": "17 mai 2021",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi annonce un campus américain à Rouses Point (NY)",
+   "texte": "Ancien site Pfizer racheté en 2018 par ERS-Rouses Point LLC : production de serveurs, data center, chauffage par chaleur fatale. 12 M$ déjà investis, 8 M$ planifiés sur 5 ans. Le seul data center opérationnel de NYGC se trouve aujourd'hui dans la même commune (64 Maple St). Selon le PDG (webinaire du 19/06/2026), Joseph Church a acheté des serveurs à 2CRSi en mai 2021 et les a fait héberger sur le site de Rouses Point jusqu'en août 2022.",
+   "sources": [
+    "S001"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 17/05/2021 (AccessNewswire ; AMF EQS FCEQS002176/77)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2022-10-19_hpc-defense",
+   "date": "2022-10-19",
+   "date_affichee": "19 oct. 2022",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Contrat HPC avec un grand groupe européen de la défense",
+   "texte": "Conception, fabrication et déploiement d'un cluster de calcul haute performance. Le secteur défense devient le premier du groupe en contrats en cours, avec 80 M€ de chiffre d'affaires attendu sur 52 mois (ensemble du secteur, pas ce seul contrat). Livraison intégrale sur l'exercice clos fin février 2023 : l'exercice fiscal se terminait alors en février.",
+   "sources": [
+    "S043"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 19/10/2022"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-02-28_normes-francaises",
+   "date": "2023-02-28",
+   "date_affichee": "févr. 2023",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Passage des comptes consolidés des IFRS aux normes françaises",
+   "texte": "Depuis l'exercice clos le 28 février 2023, les comptes consolidés sont établis selon le règlement ANC 2020-01 (normes françaises) ; auparavant en IFRS. Les comptes consolidés restent établis volontairement, Euronext Growth ne l'imposant pas.",
+   "sources": [
+    "S065"
+   ],
+   "sources_libelle": [
+    "Rapport financier semestriel au 31/12/2025, annexe"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-05-10_thales-alenia",
+   "date": "2023-05-10",
+   "date_affichee": "10 mai 2023",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Contrat d'étude avec Thales Alenia Space",
+   "texte": "Étude de systèmes informatiques embarqués pour les systèmes spatiaux (serveurs, stations de travail, cartes durcies résistant au décollage, au vide et aux radiations). Aucun montant publié.",
+   "sources": [
+    "S044"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 10/05/2023"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-07-18_cession-boston",
+   "date": "2023-07-18",
+   "date_affichee": "18 juil. 2023",
+   "sujets": [
+    "res",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Cession de Boston Limited : dette ramenée de 54,6 M€ à moins de 17 M€",
+   "texte": "Participation cédée à une filiale de Source Code, LLC (Norwood, Massachusetts). Produit affecté au désendettement et aux capitaux propres ; dividende exceptionnel de 0,20 € par action. Remboursement du solde de 9 M€ du prêt d'acquisition de 2019 et extinction de 13 M€ d'engagements envers les minoritaires.",
+   "sources": [
+    "S045"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 18/07/2023"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-09-12_lt-inde-2023",
+   "date": "2023-09-12",
+   "date_affichee": "12 sept. 2023",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "doc",
+   "titre": "Accord avec une filiale de Larsen & Toubro pour l'edge en Inde",
+   "texte": "Déploiement de serveurs Atlantis 1SR et d'edge data centers VRuna sur deux sites indiens en phase initiale. Suite envisagée : une proposition commune pour 1 200 edge data centers destinés à un opérateur télécom indien. Aucun montant ; aucun communiqué de suivi trouvé.",
+   "sources": [
+    "S014"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 12/09/2023 (AMF EQS FCEQS005031)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-11-15_haw-achat-2023",
+   "date": "2023-11-15",
+   "date_affichee": "nov. 2023",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "La holding d'Alain Wilmouth acquiert 3,5 M d'actions à 1,10 €",
+   "texte": "Premier actionnaire de 2CRSi.",
+   "sources": [
+    "S021"
+   ],
+   "sources_libelle": [
+    "Registre AMF des transactions de dirigeants"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-01-15_contrat-cadre-610",
+   "date": "2024-01-30",
+   "date_affichee": "30 janv. 2024",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Contrat de 610 M$ avec un opérateur américain de centres de données",
+   "texte": "Communiqué daté de Rouses Point (NY). Le montant se décompose en 210 M$ pour équiper quatre nouveaux centres de calcul sur 18 mois, puis 400 M$ de commandes sur les quatre années suivantes. Le client, non nommé, affiche une feuille de route de plus de 30 sites et 1 700 MW dans plus de 20 États d'ici 2030. Il sera ensuite identifié comme New York GreenCloud (NYGC). Le communiqué ne parle pas de « contrat-cadre ».",
+   "sources": [
+    "S002"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 30/01/2024 (AMF EQS FCEQS005546)"
+   ],
+   "engagements": [
+    {
+     "id": "2024-01-15_contrat-cadre-610#e1",
+     "texte": "210 M$ pour quatre centres de calcul « pour les 18 mois à venir »",
+     "echeance": "2025-07-31",
+     "statut": "warn",
+     "statue_par": "S009",
+     "note": "aucun CA NYGC au 30/06/2026 (CP 23/07) ; livraisons recalées « par phases » 2026/27–28 (réponse du 16/07)"
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2024-12-31_alispalu-serveurs",
+   "date": "2024-12-31",
+   "date_affichee": "31 déc. 2024",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Vente de 118 serveurs à ALISPALU, société détenue à 100 % par le PDG",
+   "texte": "Le conseil d'administration autorise la vente à ALISPALU SAS (partie liée, détenue à 100 % par Alain Wilmouth) de 118 serveurs Intel Walker Pass installés chez Green Data et utilisés dans un contrat client, pour 3 870 400 € HT (32 800 € par serveur), avec une période de transition jusqu'au départ du client. Au premier semestre 2025/26, un complément de prix de 1,3 M€ est facturé à ALISPALU pour la location transitoire de ces serveurs.",
+   "sources": [
+    "S065"
+   ],
+   "sources_libelle": [
+    "Rapport financier semestriel au 31/12/2025, § 2.3"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-03-17_cloud-solutions",
+   "date": "2025-03-17",
+   "date_affichee": "17 mars 2025",
+   "sujets": [
+    "nygc",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Lancement de 2CRSi Cloud Solutions sur trois data centers, dont Chateaugay (NY)",
+   "texte": "Nouvelle activité de services cloud s'appuyant sur trois data centers : NA0 à Nanterre, RP1 à Rouses Point (NY) et CH2 à Chateaugay (NY). Chateaugay est le site où, selon le PDG (webinaire du 19/06/2026), Joseph Church avait transféré ses machines en 2022, et où NYGC affiche un projet « en construction ».",
+   "sources": [
+    "S066",
+    "S065"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 17/03/2025",
+    "Rapport financier semestriel au 31/12/2025, § 1.1.3"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-19_webinaire-church"
+    },
+    {
+     "type": "precise",
+     "cible": "2021-05-17_rouses-point"
+    }
+   ]
+  },
+  {
+   "id": "2025-06-26_vente-100-musd",
+   "date": "2025-06-26",
+   "date_affichee": "26 juin 2025",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Vente de plus de 100 M$ de serveurs IA dans l'État de New York",
+   "texte": "Serveurs NVIDIA H200, client non nommé, livraison en deux temps en juillet et août 2025. Le communiqué rappelle un CA d'environ 20 M€ au premier semestre 2024/25 et un objectif de plus de 200 M€ sur l'exercice.",
+   "sources": [
+    "S057"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 26/06/2025"
+   ],
+   "engagements": [
+    {
+     "id": "2025-06-26_vente-100-musd#e1",
+     "texte": "Livraison en juillet et août 2025",
+     "echeance": "2025-08-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "aucune pièce ne confirme ni n'infirme la livraison ; le RFS au 31/12/2025 ne détaille pas les contrats livrés"
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-07-01_aether-candidature",
+   "date": "2025-07-01",
+   "date_affichee": "1er juil. 2025",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Dépôt de la candidature ÆTHER à l'appel à manifestation d'intérêt « AI Gigafactories »",
+   "texte": "Candidature déposée auprès de la Commission européenne et d'EuroHPC (programme InvestAI), l'une des 76 reçues en Europe. Membres non nommés : « grands groupes français et européens » totalisant plus de 30 Md€ de CA. Deux sites industriels dans le Grand Est ; capacité annoncée équivalente à 200 000 GPU H100, racks jusqu'à 600 kW, électricité « carbone négatif » par pyrolyse et biochar, objectif Tier IV.",
+   "sources": [
+    "S054"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 01/07/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-07-02_jde-sites-grand-est",
+   "date": "2025-07-02",
+   "date_affichee": "2 juil. 2025",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "Journal des Entreprises : deux sites visés en Grand Est, dont Saint-Avold",
+   "texte": "Extrait recopié d'une interview du PDG (Journal des Entreprises, 02/07/2025) : pour éviter l'artificialisation de terres agricoles, le premier site visé est Saint-Avold, dans l'ancienne zone industrielle Elf/Total (friche exploitée par GazelEnergie, centrale Émile-Huchet), avec 1 500 emplois à la clé ; le second site potentiel est prévu le long du Rhin, près d'une infrastructure hydroélectrique. Les notes entre parenthèses (loi du 14/04/2025) sont du journaliste. Antérieur de quelques jours au dépôt de la candidature ÆTHER (01/07/2025) ; aucune pièce ne relie ces deux sites à FR-SXB1 / FR-SXB2.",
+   "sources": [
+    "S108"
+   ],
+   "sources_libelle": [
+    "Journal des Entreprises, 02/07/2025 (extrait recopié sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-07-01_aether-candidature"
+    }
+   ]
+  },
+  {
+   "id": "2025-07-08_commande-54-musd",
+   "date": "2025-07-08",
+   "date_affichee": "8 juil. 2025",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Commande de 54 M$ de serveurs IA au Royaume-Uni",
+   "texte": "Serveurs NVIDIA HGX H200, client non nommé, livraisons progressives à partir d'août 2025.",
+   "sources": [
+    "S058"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 08/07/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-07-24_ca-2024-25",
+   "date": "2025-07-24",
+   "date_affichee": "24 juil. 2025",
+   "sujets": [
+    "res",
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Chiffre d'affaires 2024/25 : 220,8 M€ (+31 %)",
+   "texte": "Le communiqué attend du contrat de 610 M$ les « premières facturations significatives liées aux prestations de services » de 2CRSi Cloud Solutions, « contribuant ainsi à l'amélioration progressive du taux de marge moyen d'EBITDA ». Un an plus tard, le CP du 23/07/2026 reprend la même promesse en l'attribuant au projet ÆTHER, le contrat de 610 M$ n'ayant généré aucun chiffre d'affaires.",
+   "sources": [
+    "S070"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 24/07/2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-01-15_contrat-cadre-610"
+    }
+   ]
+  },
+  {
+   "id": "2025-08-13_malaisie-47",
+   "date": "2025-08-13",
+   "date_affichee": "13 août 2025",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Contrat de 47 M€ (prix liste) pour la Malaisie",
+   "texte": "Serveurs IA pour « des partenaires internationaux », livraison intégrale prévue d'ici fin 2025. La Malaisie a instauré le 14/07/2025 une autorisation préalable à la réexportation des puces d'IA.",
+   "sources": [
+    "S059"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 13/08/2025"
+   ],
+   "engagements": [
+    {
+     "id": "2025-08-13_malaisie-47#e1",
+     "texte": "Livraison intégrale « d'ici fin 2025 »",
+     "echeance": "2025-12-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "aucune pièce ne confirme ni n'infirme la livraison ; le RFS au 31/12/2025 ne détaille pas les contrats livrés"
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-09-29_commande-290",
+   "date": "2025-09-29",
+   "date_affichee": "29 sept. 2025",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Première commande ferme NYGC : 290 M$ au prix liste",
+   "texte": "2 304 GPU Blackwell Ultra, site d'environ 40 MW dans la région de Sacramento. Le titre du CP (d'après son URL) est « Première commande du contrat 610m : 290 millions d'USD pour la Californie », alors que la réponse du 16/07/2026 présente le contrat de 610 M$ comme conclu avec une autre société que NYGC, le contrat de 290 M$ l'étant avec NYGC : écart non tranché (extrait recopié dans S003 ; texte intégral à archiver). Annonce après clôture ; cours de 9,06 € la veille à 13,80 € quatre séances plus tard (+52 %). Extrait du CP (recopié) : « première commande de 290 millions de dollars US (prix liste) inscrite dans le cadre du contrat global de 610 M$, signé en janvier 2024 » ; livraison « prévue pour le printemps 2026 » sur un site près de Sacramento alimenté par une centrale biomasse, AI Factory pouvant atteindre 40 MW d'ici fin 2027. Un article du 30/09/2025 (S104, média non identifié) rapporte une hausse de 11 % du titre ce jour-là et cite 2 304 GPU Blackwell Ultra, des DPU BlueField-3 et une solution de stockage WEKA. Le CP rattache donc bien la commande de 290 M$ au contrat global de 610 M$ : c'est la lecture de la réponse du 16/07 (S009), qui distingue les deux, qui reste à rapprocher.",
+   "sources": [
+    "S003",
+    "S104",
+    "S009"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/09/2025",
+    "Article de presse du 30/09/2025 (texte recopié sur le forum)",
+    "Réponse détaillée au rapport Grizzly, 16/07/2026 (lecture 290 / 610)"
+   ],
+   "engagements": [
+    {
+     "id": "2025-09-29_commande-290#e1",
+     "texte": "Livraison « au printemps 2026 »",
+     "echeance": "2026-05-31",
+     "statut": "warn",
+     "statue_par": "S006",
+     "note": "reportée « courant l'été 2026 » par le CP du 26/03 (décalage d'environ trois mois, infrastructures énergétiques du client), puis « fin de l'été » par la réponse du 16/07"
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-10-15_e3nv-buena-vista",
+   "date": "2025-10-15",
+   "date_affichee": "15 oct. 2025",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "E3NV présenté comme constructeur du data center de Buena Vista",
+   "texte": "Un article de présentation d'E3NV (data centers modulaires « SuperPods », immersion) associe NYGC, E3NV et 2CRSi sur le projet Buena Vista, 2CRSi devant fournir « plus de 290 M$ de systèmes ». L'article est marqué « brouillon, partenaires en cours de validation ». La fiche datacentermap du site ne nomme pas E3NV.",
+   "sources": [
+    "S050",
+    "S051"
+   ],
+   "sources_libelle": [
+    "impactcp.org, 15/10/2025",
+    "message forum du 15/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    }
+   ]
+  },
+  {
+   "id": "2025-10-20_naffco",
+   "date": "2025-10-20",
+   "date_affichee": "20 oct. 2025",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Partenariat NAFFCO pour des « usines d'IA modulaires » au Moyen-Orient et en Afrique",
+   "texte": "NAFFCO (Dubaï, équipements de lutte contre l'incendie et ingénierie) conçoit et fabrique les modules conteneurisés ; 2CRSi fournit le matériel informatique et l'intégration. Cadre de collaboration sans montant, volume ni calendrier.",
+   "sources": [
+    "S060"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 20/10/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-10-30_resultats-2024-25",
+   "date": "2025-10-30",
+   "date_affichee": "30 oct. 2025",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats annuels 2024/25 : EBITDA 5,6 M€, « remise exceptionnelle » à un grand client américain",
+   "texte": "CA 220,7 M€ (+32 % vs proforma 12 mois). EBITDA 5,6 M€ contre 6,4 M€ : marge pesée par une remise exceptionnelle accordée à un grand client américain en compensation d'un retard de livraison. Résultat net 2,1 M€. Trésorerie négative (−0,2 M€) au 30/06/2025, environ 8,2 M€ au 20/10. Endettement 13 M€. Objectif 2025/26 : EBITDA 36 M€, CA au-delà des 300 M€ du plan.",
+   "sources": [
+    "S061"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 30/10/2025"
+   ],
+   "engagements": [
+    {
+     "id": "2025-10-30_resultats-2024-25#e1",
+     "texte": "Objectif d'EBITDA de 36 M€ pour l'exercice 2025/26",
+     "echeance": "2026-10-29",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Objectif réaffirmé le 26/03/2026 sous la forme « un EBITDA supérieur à 36 M€, en fonction du rythme de déploiement des projets » (S006) ; vérifiable avec les comptes certifiés du 29/10."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-03-26_s1-2025-26"
+    }
+   ]
+  },
+  {
+   "id": "2025-11-04_valeo-partenariat",
+   "date": "2025-11-04",
+   "date_affichee": "4 nov. 2025",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "doc",
+   "titre": "Partenariat stratégique Valeo × 2CRSi : refroidissement immersif pour l'edge",
+   "texte": "Accord pour concevoir des systèmes de refroidissement par immersion dans un fluide diélectrique, destinés aux sites décentralisés (antennes 5G). Première solution présentée à Data Centre World Paris les 5 et 6 novembre 2025. Aucun terme financier.",
+   "sources": [
+    "S062"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 04/11/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-11-14_green-data-100",
+   "date": "2025-11-14",
+   "date_affichee": "14 nov. 2025",
+   "sujets": [
+    "res",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Acquisition des 45 % restants de Green Data pour 4 500 €",
+   "texte": "Participation portée de 55 % à 100 % ; le groupe n'exerçait pas le contrôle auparavant « en raison de son mode de gouvernance ». Actif net comptable à la date d'acquisition : −10,6 M€ ; écart d'acquisition provisoire 10,6 M€. Contribution au S1 2025/26 : 148 k€ de CA, −268 k€ de résultat net. Green Data, fondée en mars 2019, héberge les serveurs vendus à ALISPALU.",
+   "sources": [
+    "S065"
+   ],
+   "sources_libelle": [
+    "Rapport financier semestriel au 31/12/2025, § 3.2.1.5"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-12-31_alispalu-serveurs"
+    }
+   ]
+  },
+  {
+   "id": "2025-11-15_valeo-debut",
+   "date": "2025-11-15",
+   "date_affichee": "nov. 2025",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "doc",
+   "titre": "Début du partenariat Valeo × 2CRSi",
+   "texte": "Date de départ indiquée dans le communiqué commun de février 2026.",
+   "sources": [
+    "S004"
+   ],
+   "sources_libelle": [
+    "CP Valeo / 2CRSi du 16/02/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-12-17_atlas-6md",
+   "date": "2025-12-17",
+   "date_affichee": "17 déc. 2025",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Atlas Cloud AI et NYGC annoncent un partenariat de 6 Md$",
+   "texte": "Investissement initial de 250 M$ pour le site d'Ione (Buena Vista) : 288 systèmes HGX B300, soit 2 304 GPU, le nombre exact de la commande passée à 2CRSi. Serveurs nommés : « 2CRSi Godì 1.8E2D-NV8 ». Communiqué du client, pas de 2CRSi.",
+   "sources": [
+    "S026"
+   ],
+   "sources_libelle": [
+    "Businesswire, 17/12/2025"
+   ],
+   "engagements": [
+    {
+     "id": "2025-12-17_atlas-6md#e1",
+     "texte": "Déploiement à pleine échelle « by February 2026 » (annonce d'Atlas Cloud et de NYGC, pas de 2CRSi)",
+     "echeance": "2026-02-28",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Échéance annoncée par Atlas Cloud et NYGC, pas par 2CRSi ; aucune communication ultérieure."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2026-01-14_buena-vista-achat",
+   "date": "2026-01-14",
+   "date_affichee": "14 janv. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "NYGC acquiert le site de la centrale de Buena Vista (comté d'Amador, CA)",
+   "texte": "Site d'une centrale biomasse à l'arrêt, pas de data center construit. Partenaire pyrolyse annoncé : BucSha Energy. DataCenterDynamics indique une NYGC « fondée en 2024 ». La propriété du site reste à préciser : un recensement du 23/07 (registre du Secrétaire d'État de Californie) l'attribue à Oneto Group LLC, et à la séance du 22/09 la famille Oneto présente la centrale comme la sienne.",
+   "sources": [
+    "S027",
+    "S028",
+    "S069"
+   ],
+   "sources_libelle": [
+    "Businesswire, 14/01/2026",
+    "DataCenterDynamics, 19/01/2026",
+    "recensement forum du 23/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-12-17_atlas-6md"
+    }
+   ]
+  },
+  {
+   "id": "2026-01-29_s1-record",
+   "date": "2026-01-29",
+   "date_affichee": "29 janv. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Premier semestre 2025/26 record : plus de 198 M€",
+   "texte": "CA S1 supérieur à 198 M€ (+850 %), flux de trésorerie opérationnel positif, trésorerie supérieure à 9 M€ au 31/12/2025. Le groupe dit attendre de dépasser ses prévisions annuelles de CA et de marge d'EBITDA. Consultation finale de la Commission sur les AI Gigafactories attendue « d'ici mi-mars 2026 ». Le rapport semestriel précise : achats passés de 12,3 M€ à 187,6 M€ ; endettement brut 11,2 M€, trésorerie 8,9 M€, dette nette 2,3 M€ ; le CP indique que le projet ÆTHER « n'aura pas d'impact significatif sur la trésorerie de 2CRSi », son financement reposant sur « un mix public-privé dans le cadre du programme européen InvestAI », indépendamment du calendrier et des résultats des dispositifs de subvention européens ; le rapport ne confirme pas individuellement la livraison des contrats annoncés en 2025, qu'il liste comme « événements commerciaux ».",
+   "sources": [
+    "S063",
+    "S065"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/01/2026",
+    "Rapport financier semestriel au 31/12/2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-03-26_s1-2025-26"
+    }
+   ]
+  },
+  {
+   "id": "2026-02-16_valeo-new-delhi",
+   "date": "2026-02-16",
+   "date_affichee": "16 févr. 2026",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "doc",
+   "titre": "Valeo et 2CRSi présentent un data center edge à immersion pour l'Inde",
+   "texte": "Présentation à l'AI Impact Summit de New Delhi. Unité compacte sans eau ni refroidisseur, pour la 5G et l'inférence IA. Conception et production en Inde (sites Valeo de Pune et Chennai). Aucun montant ni volume publié.",
+   "sources": [
+    "S004"
+   ],
+   "sources_libelle": [
+    "CP du 16/02/2026 (AMF EQS FCEQS008030)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-02-16_valeo-new-delhi#e1",
+     "texte": "Démarrage de la production Valeo × 2CRSi en Inde : « le cycle de validation devrait aboutir à un démarrage de production en novembre 2026 »",
+     "echeance": "2026-11-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Citation reprise du résumé de S004 ; texte intégral du CP à archiver."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-11-15_valeo-debut"
+    },
+    {
+     "type": "precise",
+     "cible": "2023-09-12_lt-inde-2023"
+    }
+   ]
+  },
+  {
+   "id": "2026-02-17_commande-140",
+   "date": "2026-02-17",
+   "date_affichee": "17 févr. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Commande de 140 M€ (prix liste) d'un client canadien pour un cloud IA au Japon",
+   "texte": "Serveurs d'IA pour l'entraînement ou l'inférence de très grands modèles. Premières livraisons au printemps 2026, déploiement progressif pendant l'été, livraison attendue avant la fin de l'exercice (30/06/2026).",
+   "sources": [
+    "S005"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 17/02/2026 (AMF EQS FCEQS008039)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-02-18_aether-negociation-site",
+   "date": "2026-02-18",
+   "date_affichee": "18 févr. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Négociation exclusive pour un site industriel ÆTHER dans le Grand Est",
+   "texte": "40 MW initiaux, jusqu'à 300 MW à long terme, racks de plus de 130 kW en refroidissement liquide. 2CRSi « n'a pas vocation à assurer le portage capitalistique du projet » : une structure dédiée avec des partenaires spécialisés porte le financement, l'immobilier et l'énergie ; aucun actif immobilier au bilan, pas d'augmentation de capital. Le consortium est dit créé en juin 2025. Sites possibles aussi étudiés en Allemagne et au Luxembourg.",
+   "sources": [
+    "S055"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 18/02/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-07-01_aether-candidature"
+    }
+   ]
+  },
+  {
+   "id": "2026-02-24_chemours",
+   "date": "2026-02-24",
+   "date_affichee": "24 févr. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Chemours et 2CRSi s'associent pour le refroidissement liquide biphasé",
+   "texte": "Après la qualification du fluide Chemours sur les serveurs 2CRSi, partenariat pour accélérer l'adoption de l'immersion biphasée dans les serveurs haute densité. Détail à compléter (texte à coller).",
+   "sources": [
+    "S056"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 24/02/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-03-26_s1-2025-26",
+   "date": "2026-03-26",
+   "date_affichee": "26 mars 2026",
+   "sujets": [
+    "res",
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Résultats S1 2025/26 et relèvement de la guidance",
+   "texte": "CA S1 : 204,7 M€ (+880 %). EBITDA 9,6 M€, résultat net 8,6 M€. Guidance annuelle relevée de 300 M€ à plus de 400 M€. « Point sur les principales commandes » : la commande d'environ 290 M€ annoncée en septembre 2025 « sera exécutée courant l'été 2026, avec un décalage d'environ trois mois lié à l'adaptation des infrastructures énergétiques en Californie du client, sans incidence sur la valeur du contrat ». Le CP affiche « l'ambition de franchir le cap du milliard d'euros de chiffre d'affaires sans nécessité d'appel au marché pour assurer cette croissance organique ».",
+   "sources": [
+    "S006",
+    "S067"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 26/03/2026",
+    "Zonebourse, 19/06/2026 : résumé du webinaire (extrait)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-03-26_s1-2025-26#e1",
+     "texte": "Chiffre d'affaires 2025/26 « pouvant dépasser 400 M€ »",
+     "echeance": "2026-07-23",
+     "statut": "ok",
+     "statue_par": "S010",
+     "note": "416,2 M€ publiés le 23/07"
+    },
+    {
+     "id": "2026-03-26_s1-2025-26#e3",
+     "texte": "Ambition de franchir « le cap du milliard d'euros de chiffre d'affaires » en 2026/27, « sans nécessité d'appel au marché »",
+     "echeance": "2027-06-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Ambition confirmée le 19/06 en questions-réponses du webinaire (résumé Zonebourse, S067) et le 23/07/2026 : « 2CRSi confirme son ambition d'atteindre un chiffre d'affaires d'un milliard d'euros sur l'exercice 2026/27 » (S010). Une ambition n'est pas un objectif chiffré ferme. Le CP du 12/10/2026 (S113) estime que les premières capacités de l'AI Factory de FR-SXB2 représentent « un potentiel de chiffre d'affaires supérieur à un milliard d'euros » sur 2026-2027, sous réserve des permis et des composants."
+    }
+   ],
+   "liens": [
+    {
+     "type": "reporte",
+     "cible": "2025-09-29_commande-290"
+    },
+    {
+     "type": "confirme",
+     "cible": "2025-10-30_resultats-2024-25"
+    }
+   ]
+  },
+  {
+   "id": "2026-03-31_conseil-administration",
+   "date": "2026-03-31",
+   "date_affichee": "mars 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Composition du conseil d'administration : sept membres, trois indépendantes",
+   "texte": "Alain Wilmouth (PDG), Michel Wilmouth, Estelle Schang, HAW représentée par Jean-Louis Wilmouth, et trois administrateurs indépendants : Lilla Merabet, Hervé Landau, Nathalie Roos. Mandats de trois ans. Actions détenues (RFS) : HAW 10 509 960, Alain Wilmouth 1 010 552, Michel Wilmouth 879 962, soit environ 55 % du capital (22 367 975 actions au 31/12/2025 ; 22 596 441 au 25/03/2026).",
+   "sources": [
+    "S065"
+   ],
+   "sources_libelle": [
+    "Rapport financier semestriel au 31/12/2025, § 2.4"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-04-20_voleon-199",
+   "date": "2026-04-20",
+   "date_affichee": "20 avr. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Voleon Capital Management : position courte nette de 1,99 %",
+   "texte": "Dépêche Reuters du 20/04/2026 : 1,99 % du capital au 20/04. Cette position correspond à celle du 17/04 (publiée le 20/04). Le registre AMF (S022) montre que Voleon a été au-dessus de 2 % du 04/03 au 15/04/2026, avec un maximum de 2,32 % (positions du 11/03 et du 07/04), ce que la dépêche seule ne montre pas.",
+   "sources": [
+    "S072",
+    "S022"
+   ],
+   "sources_libelle": [
+    "Reuters via Boursorama, 20/04/2026",
+    "Registre AMF des positions courtes nettes, export du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-04-24_aether-creation",
+   "date": "2026-04-24",
+   "date_affichee": "24 avr. 2026",
+   "sujets": [
+    "aether",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Création d'AETHER Infrastructures",
+   "texte": "SASU au capital de 1 M€, siège à Sarreguemines, zéro salarié, code APE holding. Actionnaire unique : la holding d'Alain Wilmouth. Immatriculée le 04/05/2026 ; aucune modification au registre à la dernière mise à jour (18/08).",
+   "sources": [
+    "S020"
+   ],
+   "sources_libelle": [
+    "Pappers / RNE (SIREN 104 395 389), avec référence BODACC A n°20260092"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-02-18_aether-negociation-site"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-02_election-amador-d5",
+   "date": "2026-06-02",
+   "date_affichee": "2 juin 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Comté d'Amador : Brian Oneto battu par Jamie Lubenko dans le district 5",
+   "texte": "Brian Oneto, superviseur sortant et membre de la famille propriétaire du site de Buena Vista avant son rachat par NYGC en janvier 2026 (vendeur à confirmer), perd l'élection du district 5 (46,9 % contre 53,2 %) face à Jamie Lubenko, qui a fait campagne sur la transparence. À la séance du 22/09, Lubenko est présentée comme « superviseure élue », et la récusation d'Oneto sur le dossier est évoquée.",
+   "sources": [
+    "S069",
+    "S023"
+   ],
+   "sources_libelle": [
+    "recensement forum du 23/07/2026 (résultats officiels à rattacher)",
+    "séance du 22/09/2026 (Amador)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-22_amador-22-09"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-09_commande-allemande",
+   "date": "2026-06-09",
+   "date_affichee": "9 juin 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Commande allemande : 194 serveurs, 110 M€ au prix catalogue",
+   "texte": "Commande passée le 7 mai, annoncée le 9 juin avec la moitié livrée. Intégralement payée avant livraison, livrée et comptabilisée avant la clôture du 30 juin. Réalité de l'opération confirmée par l'expert indépendant le 15/09.",
+   "sources": [
+    "S007",
+    "S013"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 09/06/2026",
+    "CP du 15/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-11_calyos",
+   "date": "2026-06-11",
+   "date_affichee": "11 juin 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Calyos et 2CRSi Edge s'associent pour le calcul IA « au plus près du terrain »",
+   "texte": "Communiqué commun publié le 11/06/2026. Détail à compléter (texte à coller).",
+   "sources": [
+    "S046"
+   ],
+   "sources_libelle": [
+    "CP du 11/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-12_achats-pdg-juin",
+   "date": "2026-06-12",
+   "date_affichee": "juin 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Achats d'actions du PDG entre 18,50 € et 26,20 €",
+   "texte": "Déclarations au registre. MAR art. 19 : fenêtre négative de 30 jours avant les résultats annuels, donc plus d'achat possible avant le 29/10.",
+   "sources": [
+    "S021"
+   ],
+   "sources_libelle": [
+    "Registre AMF des transactions de dirigeants"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-18_grizzly-rapport",
+   "date": "2026-06-18",
+   "date_affichee": "18 juin 2026",
+   "sujets": [
+    "griz"
+   ],
+   "statut": "doc",
+   "titre": "Rapport du vendeur à découvert Grizzly Research",
+   "texte": "Allégations portant notamment sur NYGC (société récente, relation antérieure non divulguée avec le dirigeant) et sur la réalité de revenus. Le rapport existe ; ses allégations sont celles d'un vendeur à découvert.",
+   "sources": [
+    "S036",
+    "S047"
+   ],
+   "sources_libelle": [
+    "Rapport Grizzly Research, juin 2026",
+    "CP 2CRSi du 18/06/2026 (contestation)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-18_positions-juin",
+   "date": "2026-06-18",
+   "date_affichee": "18 juin 2026",
+   "sujets": [
+    "griz",
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Registre AMF : positions de Grizzly Capital Management et de Voleon en juin",
+   "texte": "Grizzly Capital Management LP : 0,89 % (position du 17/06, publiée le 18/06), 0,52 % (18/06, publiée le 19/06), 0 % (22/06, publiée le 23/06). Voleon Capital Management LP : 0,79 % (16/06), 0,64 % (22/06), 0,50 % (23/06), puis 0,44 % (24/06, publiée le 25/06), sous le seuil, après un maximum de 2,32 %. Qube : 0,59 % (24/06), 0,67 % (29/06). Les versions du forum sont confirmées pour les dates de position. Constat de dates : la position à 0,89 % du 17/06 est publiée le 18/06, jour de sortie du rapport de Grizzly Research. Le registre ne précise pas le lien entre Grizzly Capital Management LP et Grizzly Research. Le rapport (S036) contient seulement l'avertissement standard selon lequel, à sa publication, « certaines Personnes Associées » à Grizzly Research LLC détiennent une position vendeuse sur l'émetteur ; il ne nomme aucun fonds et la définition annoncée (« ci-dessous ») ne figure pas dans la traduction française : la version anglaise (S090) a le même avertissement, avec « as defined hereunder » sans définition ensuite : le lien n'est donc pas établi par pièce.",
+   "sources": [
+    "S022",
+    "S036",
+    "S090"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes, export du 09/10/2026",
+    "Rapport Grizzly Research du 18/06/2026 (traduction française, avertissement p. 4)",
+    "Rapport Grizzly Research du 18/06/2026 (version anglaise, avertissement p. 4)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-19_reponse-point-par-point",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "griz"
+   ],
+   "statut": "doc",
+   "titre": "Réponse point par point au rapport Grizzly",
+   "texte": "Après un premier communiqué de contestation le 18/06 (17:45) et un communiqué « 2CRSi explique le short-biased de Grizzly » (15:08), la société publie à 20:17 sa réponse point par point et « réaffirme la réalité de son activité ».",
+   "sources": [
+    "S048",
+    "S047"
+   ],
+   "sources_libelle": [
+    "CP du 19/06/2026",
+    "CP du 18/06/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-19_webinaire-buena-vista",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire du PDG : Buena Vista, Atlas Cloud et Jerry Tang",
+   "texte": "Church aurait acheté une centrale « qui vaut 200 millions de dollars » ; le PDG dit avoir vu une évaluation KPMG à 95 M$. Redémarrage annoncé « autour du 17 juillet », 5 MW d'« IA Factory » dès l'été, 16,2 MW en production continue mi-septembre. Atlas Cloud est présenté comme « le client de notre client » ; le PDG a connu son dirigeant Jerry Tang parce qu'ils ont été « escroqués par la même personne » (enquête du FBI). Sur le programme de 6 Md$ : « je ne suis pas impliqué… aucune idée de combien sera pour nous ». « J'adorerais être actionnaire de NYGC. » À la question sur le milliard de 2026/27 [33:56–34:21] : « ce qu'on espère c'est déjà les 290 millions… ça sera un peu plus parce que les prix ayant monté… nous on facture toujours à la date de livraison et pas à la date de commande » (transcription automatique, qui rattache ces 290 M à « Green Buffalo Data » et au « projet de Joe Church »).",
+   "sources": [
+    "S015"
+   ],
+   "sources_libelle": [
+    "Webinaire du 19/06/2026 (transcription automatique, 09:46–11:19, 19:45–22:06, 33:56–34:21)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-06-19_webinaire-buena-vista#e1",
+     "texte": "Redémarrage de la centrale « aux alentours du 17 juillet » (fête prévue pour le « premier kWh après rénovation »)",
+     "echeance": "2026-07-17",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "[10:40–10:56] et [11:10–11:26] de S015. Le 12/07 la rénovation était en cours avec un test prévu en août (S097) ; le 26/08 le redémarrage était annoncé « pour les semaines à venir » (S098, résumé de la FAQ) ; date effective non établie."
+    },
+    {
+     "id": "2026-06-19_webinaire-buena-vista#e2",
+     "texte": "5 MW d'« IA Factory » dès l'été 2026",
+     "echeance": "2026-09-22",
+     "statut": "bad",
+     "statue_par": null,
+     "note": "Phase 1 de 5 MW réaffirmée par écrit « pour la fin de l'été 2026 » dans la réponse du 16/07 (S009) ; aucune communication de la société au 11/10 ; le 22/09 et le 01/10 aucun permis de data center n'est déposé (S023, S033)."
+    },
+    {
+     "id": "2026-06-19_webinaire-buena-vista#e3",
+     "texte": "« Normalement mi-septembre » : 16,2 MW produits en permanence, dont 5 MW pour l'IA Factory",
+     "echeance": "2026-09-15",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Le 01/10 la centrale (18 MW) est décrite « en tests » (S033) ; la production continue de 16 MW n'est pas établie à la date d'arrêté."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-12-17_atlas-6md"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-19_webinaire-church",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire du PDG : l'historique de la relation avec Joseph Church",
+   "texte": "Church a acheté à 2CRSi des machines à GPU pour « plusieurs millions de dollars », payées en mai 2021, hébergées sur le site 2CRSi de Rouses Point. Le 4 août 2022, il les a transférées vers son site de Chateaugay. Elles servaient au minage d'Ethereum ; le site s'est arrêté avec la fin de ce minage. « J'ai jamais été bon moi dans le mining. »",
+   "sources": [
+    "S015"
+   ],
+   "sources_libelle": [
+    "Webinaire du 19/06/2026 (transcription automatique, 03:13–04:25)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2021-05-17_rouses-point"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-19_webinaire-comptes",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "nygc",
+    "res"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire du PDG : ce que NYGC pèse dans les comptes",
+   "texte": "NYGC représente « moins de 100 000 dollars » des 400 M€ de chiffre d'affaires : seul un travail de marketing a été facturé. Sur les 610 M$, 2CRSi « espère déjà les 290 millions », qui correspondent au « transfert de Green Buffalo Data à NYGC », Joseph Church étant « le CEO des deux ». Remises clients de 20 à plus de 30 % sur le prix liste. Marge sur les serveurs « entre 5 et 10 % ». L'EBITDA n'atteindra pas 12 % du CA (cet objectif dépendait de la livraison NYGC) ; objectif maintenu à 36 M€, fourchette de 33 à 40 M€.",
+   "sources": [
+    "S015"
+   ],
+   "sources_libelle": [
+    "Webinaire du 19/06/2026 (transcription automatique, 18:50, 31:38–34:34, 44:08)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-19_webinaire-usines",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "valeo",
+    "aether",
+    "res"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire du PDG : usines, client japonais, sites ÆTHER",
+   "texte": "« On a vraiment trois usines. Une 4e qui est en cours de développement avec Valeo. » Le client canadien est facturé au Canada et livré dans un data center au Japon. ÆTHER : deux sites industriels en cours d'achat, dont un de 56 000 m² ; la SAS d'infrastructure, sans salarié, a été créée à Sarreguemines « pour éviter tout soupçon d'abus de biens sociaux », 2CRSi lui refacturant le travail de ses équipes. Sur l'appel d'offres européen [30:45–31:07] : « ne pas avoir la Commission européenne à bord, c'est peut-être un meilleur projet » ; elle « sert de catalyseur et de vecteur de communication » ; réponse de l'UE attendue « pas avant décembre », « mais nous en décembre on aura déjà ouvert ».",
+   "sources": [
+    "S015"
+   ],
+   "sources_libelle": [
+    "Webinaire du 19/06/2026 (transcription automatique, 00:33, 15:06–15:29, 26:45, 29:02)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-04-24_aether-creation"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-02-16_valeo-new-delhi"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-02-17_commande-140"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-30_eurohpc-appel"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-21_interview-economies",
+   "date": "2026-06-21",
+   "date_affichee": "21 juin 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "decl",
+   "titre": "Interview : « toutes ses économies » dans 2CRSi",
+   "texte": "Le PDG annonce investir toutes ses économies dans 2CRSi et invite à faire de même. Évoque Haffner Energy, dont il a « entendu parler par des actionnaires communs ». Les achats annoncés apparaissent ensuite au registre.",
+   "sources": [
+    "S016"
+   ],
+   "sources_libelle": [
+    "Interview « La Bourse et la Vie », 21/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-26_les-echos-aw",
+   "date": "2026-06-26",
+   "date_affichee": "26 juin 2026",
+   "sujets": [
+    "griz"
+   ],
+   "statut": "decl",
+   "titre": "Les Echos : Alain Wilmouth juge le rapport Grizzly « manipulatoire et trompeuse »",
+   "texte": "Titre de l'article des Echos du 26/06/2026 : « Alain Wilmouth : L'histoire telle que rapportée par Grizzly Research est manipulatoire et trompeuse ». Seul le titre est connu ; le texte de l'entretien reste à retrouver.",
+   "sources": [
+    "S083"
+   ],
+   "sources_libelle": [
+    "Les Echos, 26/06/2026 (titre seul)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-01_portzamparc-59",
+   "date": "2026-07-01",
+   "date_affichee": "1er juil. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Portzamparc : « Conserver », objectif 59,3 € ; 2CRSi dans la liste « High Five »",
+   "texte": "Selon Zonebourse (01/07/2026, repris par Option Finance et Easybourse), la recommandation de Portzamparc « reste à \"conserver\" avec un objectif de cours de 59,3 euros », soit un potentiel de 55 % ; le titre est intégré à la liste « High Five » des petites et moyennes valeurs recommandées, Portzamparc y voyant un « point d'entrée inespéré » après l'offensive de Grizzly Research. L'article ne mentionne pas d'objectif antérieur : on ne peut pas dire si la cible a été abaissée ou maintenue.",
+   "sources": [
+    "S071"
+   ],
+   "sources_libelle": [
+    "Zonebourse, 01/07/2026 (repris par Option Finance et Easybourse)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-01_verification-independante",
+   "date": "2026-07-01",
+   "date_affichee": "1er juil. 2026",
+   "sujets": [
+    "griz",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Procédure de vérification indépendante sur le contrat allemand",
+   "texte": "2CRSi engage une vérification indépendante relative à son contrat allemand (CP du 01/07/2026, 20:04). Décision du conseil d'administration du 29/06, sur recommandation du Comité d'audit et des risques ; processus commencé le 22/06 par un comité d'audit exceptionnel d'administrateurs indépendants ; confirmations directes auprès des banques, du client et des transporteurs ; mission de « constats factuels », distincte de celle d'un commissaire aux comptes, limitée à ce contrat.",
+   "sources": [
+    "S049"
+   ],
+   "sources_libelle": [
+    "CP du 01/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-09_commande-allemande"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07_mission-malaisie",
+   "date": "2026-07-07",
+   "date_affichee": "7–8 juil. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "2CRSi participe à la mission d'affaires Business France en Malaisie",
+   "texte": "Post LinkedIn de 2CRSi : les 7 et 8 juillet 2026, deux représentants de la société participent à la « Mission Business 2026 – Malaisie » organisée par Business France, en présence du ministre délégué chargé du Commerce extérieur ; la société voit dans la Malaisie un pôle d'« usines d'IA » à GPU NVIDIA B300 puis Rubin. Le post n'annonce aucun contrat ni commande.",
+   "sources": [
+    "S096"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn 2CRSi (texte recopié sur le forum le 24/08)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-08-13_malaisie-47"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07_raise-gala",
+   "date": "2026-07-07",
+   "date_affichee": "7–8 juil. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "2CRSi : gala RAISE AI à Versailles, « lancement officiel » du consortium ÆTHER, puis soirée du 08/07",
+   "texte": "Dans un post LinkedIn, 2CRSi indique que le 07/07/2026, lors du gala RAISE AI au Château de Versailles, son PDG a invité neuf dirigeants « au lancement officiel du consortium ÆTHER » : NHOOD/Ceetrus (groupe Projex), Axelera AI, OUTSCALE (Dassault Systèmes), Demathieu Bard, Equans, Groupe ÉS, TotalEnergies, Socomec et Dumarey Group. Le 08/07, 2CRSi a organisé une soirée sur les Champs-Élysées pour ses partenaires, avec le soutien de NVIDIA et GIGABYTE. Deux de ces invités (TotalEnergies, Dumarey Group) ne figurent pas parmi les douze membres cités dans le CP du 08/07 : le post parle d'invités, pas de membres.",
+   "sources": [
+    "S091"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn 2CRSi (texte recopié sur le forum le 11/08)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-08_aether-12-membres",
+   "date": "2026-07-08",
+   "date_affichee": "8 juil. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Le consortium ÆTHER se dévoile : 12 membres",
+   "texte": "2CRSi, Dassault Systèmes/OUTSCALE, Axelera AI, SiPearl, Viridien, Haffner Energy, Nhood, Demathieu Bard, Equans, Groupe ÉS, Socomec, Projex. Candidature aux « AI Gigafactories » européennes. Puissance initiale 42 MW, objectif > 400 MW. NVIDIA n'est pas membre.",
+   "sources": [
+    "S008"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 08/07/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-07-08_aether-12-membres#e1",
+     "texte": "Propositions de RTE pour FR-SXB1 « attendues pour la fin juillet 2026 »",
+     "echeance": "2026-07-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Livrable de RTE, attendu par la société ; aucune communication publique depuis."
+    },
+    {
+     "id": "2026-07-08_aether-12-membres#e2",
+     "texte": "Démarrage de FR-SXB1 « courant 2027 »",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-07-08_aether-12-membres#e3",
+     "texte": "Finalisation de l'acquisition de FR-SXB1 « avant la fin octobre 2026 », condition posée au démarrage du site « courant de l'année 2027 »",
+     "echeance": "2026-10-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-04-24_aether-creation"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-13_boursorama-portzamparc",
+   "date": "2026-07-13",
+   "date_affichee": "13 juil. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Boursorama : 2CRSi dans les « Convictions S2 2026 » de Portzamparc, cible 59,30 €",
+   "texte": "Article du 13/07 (liste publiée le 10/07) : les huit valeurs sont « assorties d'une recommandation à l'achat » ; 2CRSi « le dossier le plus offensif de la sélection », cible 59,30 €, soit +86 % sur le cours du 9 juillet ; risques cités : marge brute, pénuries de composants, communication financière. Divergence non résolue : Option Finance indiquait « Conserver » pour la même cible le 01/07, et l'article est crédité comme rédigé avec l'aide d'une IA.",
+   "sources": [
+    "S076",
+    "S071"
+   ],
+   "sources_libelle": [
+    "Boursorama, 13/07/2026",
+    "Option Finance / Zonebourse, 01/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-01_portzamparc-59"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-14_ny-moratoire",
+   "date": "2026-07-14",
+   "date_affichee": "14 juil. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "État de New York : moratoire d'un an sur les data centers de plus de 50 MW",
+   "texte": "Décret signé le 14/07/2026 par la gouverneure Kathy Hochul : gel d'un an des permis environnementaux pour les projets de plus de 50 MW ; hôpitaux, universités et petits sites exemptés. Aucune pièce ne rattache ce texte aux sites new-yorkais de NYGC (Rouses Point, Chateaugay) ; contexte seulement.",
+   "sources": [
+    "S078"
+   ],
+   "sources_libelle": [
+    "AI Weekly, 14/07/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-16_reponse-grizzly",
+   "date": "2026-07-16",
+   "date_affichee": "16 juil. 2026",
+   "sujets": [
+    "nygc",
+    "griz"
+   ],
+   "statut": "doc",
+   "titre": "Réponse détaillée au rapport Grizzly",
+   "texte": "Réponse aux 34 allégations. Allégation n° 1 : la hausse du chiffre d'affaires américain s'expliquerait par la gamme de serveurs IA lancée en 2023, le redressement de 2CRSi Corporation après le Covid et la défaillance de Blade, le renfort des équipes commerciales et un accès facilité aux composants Nvidia après les restrictions d'exportation du 7 octobre 2022. Allégation n° 2 : les « 71 % en Asie » (CA par zone de livraison, CP du 25/07/2024) et les « ≈ 50 % en Amérique du Nord » (CA facturé depuis la zone, rapport annuel 2023/24) seraient deux mesures distinctes. Allégation n° 3 : le contrat-cadre de 610 M$ « n'a donné lieu à aucune facturation sur l'exercice considéré ». Allégation n° 4 : le contrat de 610 M$ de janvier 2024 a pour contrepartie « une société américaine (différente de NYGC) » dirigée par Joseph Church, autour d'un projet d'agriculture robotisée sous serre valorisant la chaleur des serveurs ; une première installation est « en développement dans le sud de la Californie », les sites suivants retardés par la remise en cause d'incitations fiscales (Inflation Reduction Act). Le contrat de 290 M$ a pour contrepartie NYGC (Buena Vista) : phase 1 de 5 MW « toujours programmée pour la fin de l'été 2026 », seconde phase d'environ 15 MW ultérieure, « valeur du contrat dans le CA 2026/27 ». Ni 2CRSi ni Alain Wilmouth ne détiennent de participation ou de mandat dans ces entités. Allégation n° 10 : Church est client depuis mai 2021 ; ses serveurs, hébergés à Rouses Point, ont été transférés le 4 août 2022 sur son site de Chateaugay (ancienne centrale biomasse, local de 2 MW). Allégation n° 17 : une livraison à l'été 2026 est « compatible avec une montée en puissance du site en 2027-2028 ».",
+   "sources": [
+    "S009"
+   ],
+   "sources_libelle": [
+    "Réponse détaillée du 16/07/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-07-16_reponse-grizzly#e1",
+     "texte": "Phase 1 NYGC (5 MW) « toujours programmée pour la fin de l'été 2026 »",
+     "echeance": "2026-09-22",
+     "statut": "bad",
+     "statue_par": null,
+     "note": "aucune communication de la société au 11/10"
+    },
+    {
+     "id": "2026-07-16_reponse-grizzly#e2",
+     "texte": "NYGC dans le CA 2026/27",
+     "echeance": "2027-06-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "exercice clos le 30/06/2027"
+    }
+   ],
+   "liens": [
+    {
+     "type": "reporte",
+     "cible": "2025-09-29_commande-290"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    },
+    {
+     "type": "precise",
+     "cible": "2024-01-15_contrat-cadre-610"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-06-19_webinaire-church"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-23_ca-annuel-2025-26",
+   "date": "2026-07-23",
+   "date_affichee": "23 juil. 2026",
+   "sujets": [
+    "res",
+    "nygc",
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "CA annuel 2025/26 : 416,2 M€ (+88 %), non audité",
+   "texte": "Le CP rappelle que « le contrat-cadre de 610 M€ visé dans notre réponse détaillée du 16 juillet 2026 n'a pas généré de chiffre d'affaires sur l'exercice 2025/26 : la croissance de l'exercice repose intégralement sur d'autres commandes, livrées et facturées » (le CP écrit 610 M€, les autres pièces 610 M$ ; il ne nomme pas NYGC). Il « anticipe des prises de commandes en hausse, dont une partie à livrer sur l'exercice en cours ». Services : 24,7 M€ (contre 8,3 M€) ; l'activité 2CRSi Cloud Solutions a enregistré ses « premières facturations significatives, notamment dans le cadre du projet ÆTHER ». Premier client < 20 % du CA, cinq premiers ≈ 70 % (> 90 % un an plus tôt). Trésorerie au 30/06 : 14,4 M€. Ambition 2026/27 : « le milliard d'euros de chiffre d'affaires en ligne de mire ».",
+   "sources": [
+    "S010"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 23/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-03-26_s1-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-07-24_ca-2024-25"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27_boursier-achat",
+   "date": "2026-07-27",
+   "date_affichee": "27 juil. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Boursier.com repasse à l'achat sur 2CRSi (cours 29,20 €)",
+   "texte": "Après avoir « pris des bénéfices », Boursier.com recommande de prendre position : valorisation de 650 M€ « attractive », marge « à confirmer le 29 octobre ». L'article écrit que Grizzly « a depuis entièrement racheté sa position » et que « des hedge funds demeurent en vente à découvert ». Il mentionne un EBITDA « à plus de 36 M€ au lieu de 5,6 M€ » et un financement « par autofinancement » : formules du journaliste, à rapprocher du CP du 26/03 (« sans nécessité d'appel au marché »).",
+   "sources": [
+    "S075"
+   ],
+   "sources_libelle": [
+    "Boursier.com, 27/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-23_ca-annuel-2025-26"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27_vad-qube-citadel",
+   "date": "2026-07-27",
+   "date_affichee": "27 juil. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "Positions courtes publiées : Qube 0,83 % et Citadel Securities (Europe) 0,64 %",
+   "texte": "Série d'abord reportée par des membres du forum, puis recoupée avec l'export du registre AMF (S022) : toutes les valeurs ci-dessous y figurent (date de la position ; publication au jour ouvré suivant). Qube Research & Technologies : 0,71 % (03/07), 0,65 % (06/07), 0,57 % (10/07), 0,44 % (13/07, sous le seuil), 0,51 % (21/07, ≈ 115 000 titres), 0,74 % (23/07), 0,83 % (27/07, ≈ 187 550 titres). Citadel Securities (Europe) : 0,53 % (23/07), 0,64 % (27/07, ≈ 144 617 titres), puis 0,79 % au 28/07, Qube restant à 0,83 % : soit 1,62 % publiés (≈ 366 000 titres). Les deux déclarations du 23/07 ne sont apparues sur le site que le 24/07 en fin de journée (le registre date leur début de publication du 27/07) ; références citées : 2026E1128983 (Qube) et 2026E1129073 (Citadel). Qube était déjà déclaré à 0,85 % le 27/08/2025. Seuil de publication : 0,5 %. Selon le registre, Qube monte ensuite à 0,94 % (30/07) puis 0,88 % (03/08) et Citadel est à 0,67 % le 30/07. La série de Citadel se poursuit début août (0,58 % puis 0,37 %) : voir l'événement du 05/08.",
+   "sources": [
+    "S073",
+    "S074",
+    "S077",
+    "S022"
+   ],
+   "sources_libelle": [
+    "Message forum, 29/07/2026 (tableau)",
+    "Message forum, 29/07/2026",
+    "Ideal-Investisseur, 28/08/2025",
+    "Registre AMF des positions courtes nettes, export du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-29_outscale-blog",
+   "date": "2026-07-29",
+   "date_affichee": "29 juil. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "OUTSCALE (Dassault Systèmes) annonce prendre part à ÆTHER",
+   "texte": "Billet de blog d'OUTSCALE, marque Cloud et IA de Dassault Systèmes : OUTSCALE « prend part » au consortium ÆTHER, qui compte douze membres (2CRSi, SiPearl, Axelera AI, Viridien, Ès, Socomec, Haffner Energy, Equans, Demathieu Bard, Nhood, Projex Ingénierie, OUTSCALE). Le projet vise deux sites dans la région de Strasbourg, FR-SXB1 et FR-SXB2, « actuellement en négociation avancée d'acquisition », avec « une ambition d'atteindre à terme une capacité électrique supérieure à 400 MW ». Le texte ne désigne aucun porteur opérationnel.",
+   "sources": [
+    "S080",
+    "S111"
+   ],
+   "sources_libelle": [
+    "Blog OUTSCALE, 29/07/2026 (texte recopié sur le forum)",
+    "Post LinkedIn d'une dirigeante de Dassault Systèmes (même message, lien lnkd.in)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30_demathieu-bard",
+   "date": "2026-07-30",
+   "date_affichee": "30 juil. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Demathieu Bard communique sur son entrée dans le consortium ÆTHER",
+   "texte": "Post LinkedIn relayé le 30/07 : Demathieu Bard « vient d'officialiser son entrée » dans le consortium ÆTHER Infrastructures, candidat à l'appel « AI Gigafactory », avec « le lancement de négociations finales pour développer deux premiers campus » dans la région de Strasbourg. L'entreprise figurait déjà parmi les douze membres cités dans le CP du 08/07 : ce n'est pas une nouvelle adhésion.",
+   "sources": [
+    "S079"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn (Le Pont / Demathieu Bard), recopié sur le forum"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30_eurohpc-appel",
+   "date": "2026-07-30",
+   "date_affichee": "30 juil. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Lancement de l'appel européen « AI Gigafactories »",
+   "texte": "Jusqu'à 7 gigafactories. L'État français s'engage à commander 100 M€ de calcul « au projet qui sera retenu sur le sol français ». Selon l'AFP : sept gigafactories en deux lots (quatre projets à 500 M€ de fonds européens, trois à 1 Md€), 18 États cofinanceurs, environ 10 Md€ publics et 20 Md€ privés attendus, lauréats début 2027, mise en chantier espérée au T1 2027. L'engagement français porte sur « l'achat de capacité auprès d'opérateurs privés, à l'horizon 2027 », « distinct des investissements que l'État conduit par ailleurs dans ses propres infrastructures de calcul ». Selon Le Monde (31/07), 4 Md€ des 5 Md€ annoncés par l'UE dépendent du prochain cadre budgétaire, encore en négociation, et le cahier des charges environnemental reste « vague ». Consortium concurrent en France : AION (Iliad, Orange, EDF, Capgemini…). Le même jour, les résultats T2 de Viridien, membre d'ÆTHER, ne mentionnent pas le projet.",
+   "sources": [
+    "S024",
+    "S025",
+    "S030",
+    "S081",
+    "S082"
+   ],
+   "sources_libelle": [
+    "EuroHPC JU",
+    "numerique.gouv.fr, 30/07/2026",
+    "Viridien, résultats T2 2026",
+    "AFP, 30/07/2026",
+    "Le Monde, 31/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03_mission-expert",
+   "date": "2026-08-03",
+   "date_affichee": "3 août 2026",
+   "sujets": [
+    "griz"
+   ],
+   "statut": "doc",
+   "titre": "Mission d'investigation indépendante : périmètre et calendrier",
+   "texte": "Le conseil d'administration, sur recommandation du comité d'audit, mandate un cabinet indépendant (non nommé) via ses conseils externes. Périmètre : exercices clos aux 30 juin 2024, 2025 et 2026 ; répartition géographique du CA ; traçabilité des transactions avec les principaux clients, dont le contrat allemand ; risques liés au contrat de 610 M$ (dépendance, non-matérialisation, contrepartie) ; revue des 21 tiers cités par Grizzly ; sites exploités en propre. La vérification du contrat allemand lancée le 01/07 y est intégrée. Le communiqué précise qu'il ne s'agit ni d'un audit ni d'une revue exhaustive. Précisions d'après l'extrait recopié du CP (S011) : la mission « donnera lieu à un rapport de constats factuels » ; ses conclusions « ne pourront être extrapolées au-delà du périmètre examiné » ; le contrat allemand « sera traité en priorité et fera l'objet de premières conclusions » ; la synthèse des principaux constats sera communiquée par les canaux réglementés dès les premières conclusions ; un élément significatif apparu en cours de mission serait porté à la connaissance du marché « sans délai ».",
+   "sources": [
+    "S011"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 03/08/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-08-03_mission-expert#e1",
+     "texte": "Premières conclusions « courant septembre 2026 »",
+     "echeance": "2026-09-30",
+     "statut": "ok",
+     "statue_par": "S013",
+     "note": "publiées le 15/09"
+    },
+    {
+     "id": "2026-08-03_mission-expert#e2",
+     "texte": "Rapport définitif de l'expert « devant en principe être remis en octobre 2026 »",
+     "echeance": "2026-10-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "attendu avec les résultats du 29/10"
+    },
+    {
+     "id": "2026-08-03_mission-expert#e3",
+     "texte": "Synthèse des principaux constats communiquée dès les premières conclusions",
+     "echeance": "2026-09-30",
+     "statut": "ok",
+     "statue_par": "S013",
+     "note": "CP du 15/09/2026 (contrat allemand)"
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-01_verification-independante"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-04_quanthor",
+   "date": "2026-08-04",
+   "date_affichee": "4 août 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Lettre d'intention avec Quanthor (sécurité post-quantique)",
+   "texte": "Quanthor (Sherbrooke, Québec) : modules Forge et Qbox fondés sur des fonctions physiques non clonables et la cryptographie post-quantique. 2CRSi fournira et intégrera les plateformes serveur ; Quanthor prend un engagement d'approvisionnement progressif. Lettre d'intention, pas de contrat.",
+   "sources": [
+    "S064"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 04/08/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-08-05_aether-gouvernance",
+   "date": "2026-08-05",
+   "date_affichee": "5 août 2026",
+   "sujets": [
+    "aether",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Gouvernance d'AETHER Infrastructures et avancement des sites",
+   "texte": "Société présidée par la holding d'Alain Wilmouth, actionnaire unique. 2CRSi lui a facturé 629 760 € HT sur 2025/26. FR-SXB1 : offre ferme et engageante (rachat de société) en attente de validation par le conseil d'administration du vendeur, avec exclusivité. FR-SXB2 : offre ferme (rachat d'actifs) ayant obtenu l'accord définitif et formel du vendeur le 31/07/2026 ; occupation partielle dès le 01/10/2026 ; signature de l'acte au plus tard le 31/12/2026 ; 25 MW disponibles à Strasbourg avec liaison redondante, puissance appelée à croître selon les disponibilités accordées par le gestionnaire de réseau ; le site doit aussi accueillir la fabrication de modules d'IA Factory (2CRSi Cloud Solutions) et l'atelier métallurgique de 2CRSi. CP émis « à la suite des échanges avec l'AMF ».",
+   "sources": [
+    "S012"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 05/08/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-08-05_aether-gouvernance#e1",
+     "texte": "Occupation partielle de FR-SXB2 « dès le 1er octobre 2026 »",
+     "echeance": "2026-10-01",
+     "statut": "warn",
+     "statue_par": "S113",
+     "note": "Recalé : le CP du 12/10/2026 annonce un bail permettant d'occuper les zones disponibles « dès le 15 octobre »."
+    },
+    {
+     "id": "2026-08-05_aether-gouvernance#e3",
+     "texte": "Signature de l'acte de vente de FR-SXB2 « au plus tard le 31 décembre 2026 » (« calendrier indicatif »)",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Promesse de vente signée le 09/10/2026 (CP du 12/10, S113) ; réalisation soumise à l'agrément du Port Autonome de Strasbourg.",
+     "avenir": false
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-05_citadel-058",
+   "date": "2026-08-05",
+   "date_affichee": "5–6 août 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Citadel Securities (Europe) : position courte à 0,58 % puis 0,37 %",
+   "texte": "Série d'abord reportée par des membres du forum, puis confirmée par l'export du registre AMF (S022). Citadel Securities (Europe) Limited : 0,53 % (position du 23/07), 0,64 % (27/07), 0,79 % (28/07), 0,67 % (30/07), 0,58 % (04/08, publiée le 05/08), puis 0,37 % (05/08, publiée le 06/08), sous le seuil de 0,5 % : la publication cesse le 07/08. « La déclaration date du 4 août » (message du forum) correspond donc à la position à 0,58 %. Le registre ne montre aucune position publiée de Citadel avant le 23/07 : l'entrée « vers 27 € le 21 juillet » avancée sur le forum n'est pas étayée.",
+   "sources": [
+    "S086",
+    "S087",
+    "S022"
+   ],
+   "sources_libelle": [
+    "Message forum, 05/08/2026 (avis AMF relayé)",
+    "Messages forum, 06/08/2026",
+    "Registre AMF des positions courtes nettes, export du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-27_vad-qube-citadel"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-05_high-five-aout",
+   "date": "2026-08-05",
+   "date_affichee": "5 août 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Portzamparc renouvelle sa liste High Five d'août : 2CRSi maintenue",
+   "texte": "Selon Boursier.com (05/08, 14:14), la liste d'août de Portzamparc comprend 2CRSI (« point d'entrée inespéré, news-flow porteur sur le nouvel exercice »), ID Logistics, LISI, Rubis et Thermador. Un post LinkedIn du 07/08 précise : deux entrées (ID Logistics, Rubis), trois valeurs maintenues (2CRSi, LISI, Thermador). Une dépêche Agefi-Dow Jones du 05/08 (11:04) confirme l'entrée de Rubis. Le titre s'échangeait à 27,74 € (+8 % sur la veille). Des listes différentes, produites par des assistants IA ou attribuées à un site tiers, annonçaient la sortie de 2CRSi : elles sont démenties par ces pièces.",
+   "sources": [
+    "S084",
+    "S085",
+    "S089"
+   ],
+   "sources_libelle": [
+    "Boursier.com, 05/08/2026 14:14",
+    "Post LinkedIn de Romain Dion, 07/08/2026",
+    "Agefi-Dow Jones via ABC Bourse, 05/08/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-01_portzamparc-59"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-06_nygc-page-facebook",
+   "date": "2026-08-06",
+   "date_affichee": "juil.–août 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "Page Facebook de NYGC : « data center proposé de 16 MW » à Buena Vista",
+   "texte": "Une page « Project Buena Vista » attribuée à NYGC, créée en juillet 2026 selon le message qui la relaie le 06/08, décrit « le centre de données proposé de 16 MW » à l'ancienne centrale biomasse près d'Ione : l'installation a été « ramenée à la fonctionnalité », le projet « ne prendra aucune énergie de la grille locale » et sera soumis au processus de permis du comté. La puissance de 16 MW est antérieure à la séance du 22/09, à comparer avec « environ 40 MW » (CP du 29/09/2025), « 5 MW puis environ 15 MW » (réponse du 16/07/2026) et « 41 → 16 MW » (séance du 22/09).",
+   "sources": [
+    "S088"
+   ],
+   "sources_libelle": [
+    "Page Facebook « Project Buena Vista » (texte recopié sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-16_reponse-grizzly"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-12_nygc-eau",
+   "date": "2026-08-12",
+   "date_affichee": "12 août 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "NYGC : refroidissement en circuit fermé, 6 000 gallons à la première recharge, eau livrée par camion",
+   "texte": "Selon la page Facebook « Project Buena Vista » (post du 12/08, 18 h 46), le data center utilisera un refroidissement à circuit fermé qui recycle l'eau. La première recharge prend environ 6 000 gallons (« ce que 20 ménages utilisent en une journée »), puis quelques centaines de gallons par an pour l'entretien. L'eau sera acheminée par camion plutôt que prélevée sur l'approvisionnement local, et NYGC ne recherche « aucune nouvelle propriété ou connexion d'eau » pour le data center. À comparer avec la citation d'une fiche TSS Consultants (jusqu'à 250 gallons par minute pour la centrale) : elle concerne la centrale, pas le data center, et n'est pas archivée.",
+   "sources": [
+    "S095"
+   ],
+   "sources_libelle": [
+    "Page Facebook NYGC, 12/08/2026 (traduction recopiée sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-15_rue89-dumarey",
+   "date": "2026-08-15",
+   "date_affichee": "15 août 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "Rue89 Strasbourg : ÆTHER viserait le site Dumarey Powerglide ; besoins en eau chiffrés par le consortium",
+   "texte": "Selon Rue89 Strasbourg, Aether Infrastructures chercherait à s'implanter sur le site strasbourgeois de Dumarey Powerglide (cessation d'activité annoncée début 2026, groupe à la recherche d'un acquéreur) ; d'anciens syndicalistes confirment l'intérêt d'une société pour un projet de data center (eau, fonderie, forte capacité électrique) ; une entreprise de défense aurait visité le site le 12/02/2026 ; l'Agence de développement Alsace soutiendrait une candidature (150 à 400 emplois). Information de presse (« selon nos informations ») ; ni la société ni ÆTHER ne l'ont confirmée, aucune pièce ne relie ce site à FR-SXB1 ou FR-SXB2. Le même article rapporte la réponse écrite du consortium sur l'eau : objectif de classe A de la Commission (efficacité inférieure à 0,10 L/kWh pour la partie AI Factory), puis, sur relance, une estimation « entre 4 101 et 13 104 mètres cubes par an » selon les processeurs graphiques utilisés. Il indique aussi une lettre de soutien du président de la Région Grand Est (juin 2026), 76 candidatures à l'appel européen dont le groupement français concurrent AION, et reprend du CP du 08/07/2026 le démarrage du premier centre « courant de l'année 2027 », sous réserve de l'acquisition du site avant fin octobre 2026. Le CP de 2CRSi du 12/10/2026 confirme que FR-SXB2 est le site Dumarey Powerglide (promesse de vente signée le 09/10).",
+   "sources": [
+    "S032"
+   ],
+   "sources_libelle": [
+    "Rue89 Strasbourg, 15/08/2026 (article abonnés)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-07-01_aether-candidature"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17_qube-aout",
+   "date": "2026-08-17",
+   "date_affichee": "30 juil.–24 août 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Qube Research & Technologies : 0,94 % puis 0,88 %, 0,79 %, 0,82 % et 0,79 % en août",
+   "texte": "Suite de la série du registre AMF (S022), après 0,83 % au 27/07 : 0,94 % (30/07), 0,88 % (03/08), 0,79 % (14/08, publiée le 17/08), 0,82 % (17/08), 0,79 % (21/08, publiée le 24/08), puis 0,66 % au 08/09 (voir l'événement du 16/09). Un message du forum le 10/08 citait « 0,51 % » (≈ 115 000 titres) : c'est la position du 21/07, pas celle du 10/08 (0,88 % à cette date ; 198 848 actions, 5,70 M€ d'après un site de suivi). Les chiffres sont ceux du registre ; le sens des mouvements (couverture, prise de bénéfice, renforcement) n'est pas déductible du registre.",
+   "sources": [
+    "S022"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes (export du 09/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-27_vad-qube-citadel"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-20_csb-buena-vista",
+   "date": "2026-08-20",
+   "date_affichee": "12 juil.–21 août 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "Reportage CSB / myMotherLode : propos du superviseur Brown sur Buena Vista (permis, eau, camions)",
+   "texte": "Reportage de Central Sierra Broadcasting repris par myMotherLode (20 et 21/08). Le superviseur du district 3 du comté d'Amador, Jeff Brown, dit avoir visité le site le 12/07 (l'un des articles parle de « mars »). Selon lui : la centrale serait rénovée dans les prochains mois et d'abord exploitée pour établir ses capacités ; le zonage convient, mais il n'a connaissance d'aucune demande de permis ni d'étude d'impact environnemental en cours pour un agrandissement ; environ 4 M$ déjà investis, 171 M$ supplémentaires prévus pour moderniser l'installation et construire le data center. Citation de son post Facebook : « L'installation est toujours en pleine rénovation et un test de fonctionnement à petite échelle est prévu en août. À ce jour, aucune demande de permis de construire ni étude d'impact environnemental pour le centre d'intelligence artificielle n'ont encore été déposées. » Autres points rapportés : eau du Jackson irrigation district, refroidissement en circuit fermé, accès permanent de l'Air District aux données de la centrale, environ 40 trajets de camions par jour. Un candidat au Congrès (M. Masuda) exprime des réserves sur l'eau, le bruit et la capacité à tenir les engagements. Ces propos sont ceux de Brown tels que rapportés ; il y précise ne pas avoir de connaissance directe de dossiers de permis.",
+   "sources": [
+    "S093",
+    "S097"
+   ],
+   "sources_libelle": [
+    "myMotherLode, 20/08/2026 (traduction recopiée)",
+    "Reportage CSB, partie 1 (traduction recopiée le 21/08)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-08-20_csb-buena-vista#e1",
+     "texte": "Test de fonctionnement à petite échelle de la centrale en août 2026",
+     "echeance": "2026-08-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Annonce rapportée du superviseur ; aucune pièce n'indique si le test a eu lieu."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-20_nygc-prudence",
+   "date": "2026-08-20",
+   "date_affichee": "20 août 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "NYGC : « transparence, mais pas au détriment de la précision » ; certaines demandes d'autorisation « pas encore déposées »",
+   "texte": "Sur la page Facebook « Project Buena Vista », NYGC écrit le 20/08 qu'il ne peut pas encore s'exprimer publiquement sur certains sujets, « que ce soit parce qu'une demande d'autorisation n'a pas encore été déposée, qu'une étude n'est pas terminée ou que cela concerne des détails commerciaux » ; les questions sur l'eau, l'électricité, les émissions, la circulation ou les autorisations doivent être « vérifiées ». Le texte ne dit pas quelle demande n'est pas déposée. Selon un message du même jour (M468368739), le blog myMotherLode a publié les 20 et 21/08 deux articles reprenant le reportage de Central Sierra Broadcasting : redémarrage de la centrale « semble confirmé », data center encore au stade de projet.",
+   "sources": [
+    "S094"
+   ],
+   "sources_libelle": [
+    "Page Facebook NYGC, 20/08/2026 (traduction recopiée sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-24_nygc-precisions",
+   "date": "2026-08-24",
+   "date_affichee": "22–24 août 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "Post LinkedIn d'un tiers : annonces attribuées à NYGC (centrale 18 MW brut / 16 MW net, ATC déposée, Use Permit avant dépôt, 51 emplois)",
+   "texte": "Un analyste indépendant publie le 22 et le 23/08 un post LinkedIn en deux parties, qui attribue à NYGC (sans produire le message d'origine) les informations suivantes : la centrale redémarre dans sa configuration historique, sans pyrolyse à ce stade, à 18 MW brut dont environ 2 MW autoconsommés, soit 16 MW nets ; la phase 1 du data center est annoncée à 5 MW IT ; la demande d'Authority to Construct / Permit to Operate a été déposée auprès de l'Air Pollution Control District ; le Use Permit (centrale et data center) est « en cours de finalisation avant son dépôt » auprès du Planning Department du comté ; aucun nouveau droit d'eau ne serait nécessaire ; 2CRSi est « cité à nouveau comme partenaire stratégique » ; 25 emplois pour la centrale et 26 pour le data center, soit au moins 51 emplois. Le texte lui-même indique donc que le Use Permit du data center n'est pas déposé. Deux membres rapportent le 24 et le 25/08 des réponses de l'Air District et du Planning Department selon lesquelles aucune demande n'avait été déposée ; ces courriers ou courriels n'ont pas été publiés et ne sont donc pas retenus comme faits.",
+   "sources": [
+    "S092"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'un tiers, parties 1–2 (texte recopié sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-20_nygc-prudence"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-26_nygc-faq",
+   "date": "2026-08-26",
+   "date_affichee": "26 août 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "NYGC (FAQ) : permis du data center non déposés, 16 MW, centrale redémarrée « dans les semaines à venir »",
+   "texte": "D'après le résumé qu'un membre donne le 05/09 de la FAQ publiée le 26/08 sur la page Facebook « Project Buena Vista » (le texte de la FAQ n'est pas produit) : les permis du data center « n'ont pas encore été déposés » ; des études d'ingénierie et environnementales sont en cours pour constituer un dossier complet portant sur la construction et l'exploitation (alimentation électrique, eau, bruit, conception), qui suivra le processus d'examen standard du comté d'Amador. La capacité de 16 MW est présentée comme l'alimentation dédiée au data center, base de la future demande de permis. Refroidissement en circuit fermé : ≈ 6 000 gallons au remplissage, quelques centaines par an apportés par camion, aucun nouveau contrat ni raccordement d'eau. La centrale redémarre sous ses permis existants, remise en état « presque achevée », redémarrage annoncé pour « les semaines à venir ». Combustible : déchets agricoles, bois de construction et démolition, éclaircies forestières dans un rayon d'environ 60 miles. Clients : commerciaux en IA et cloud (pas un hyperscaler) ; aucune mention d'Atlas Cloud AI ; 51 emplois permanents attendus (25 à la centrale, 26 au data center) ; ≈ 32 camions par jour ; alimentation prise directement sur la centrale, sans réseau public. Le texte résumé ne parle plus d'une extension à 40/41 MW (déduction du membre, M468414986). Le post tiers du 22–23/08 (S092) attribuait à NYGC une demande ATC/PTO déposée et un Use Permit « en cours de finalisation avant son dépôt » : les deux ne sont pas forcément incompatibles (permis de la centrale ou du data center), mais aucun des deux textes d'origine n'est produit. Un membre qui avait écrit que le Use Permit du data center était « en cours d'instruction » a retiré cette formule le 06/09 (M468415865). La page « Project Buena Vista » du site de NYGC (capture du 11/10/2026, S112) confirme directement une partie de ces éléments : redémarrage d'une centrale biomasse « précédemment autorisée » sous les permis existants du comté, data center d'IA de 16 MW alimenté directement par la centrale et non par le réseau, surplus exporté vers le réseau, refroidissement « sans raccordement d'eau permanent » (eau apportée, non prélevée localement), « jusqu'à 16 MW » dédiés au data center. La page ne dit rien de l'état des demandes de permis du data center ; ce point ne repose toujours que sur le résumé S098.",
+   "sources": [
+    "S112",
+    "S098",
+    "S092"
+   ],
+   "sources_libelle": [
+    "Site de NYGC, page « Project Buena Vista » (capture du 11/10/2026)",
+    "Résumé de la FAQ NYGC du 26/08 par un membre du forum (05/09)",
+    "Post LinkedIn tiers des 22–23/08 (comparaison)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-08-26_nygc-faq#e1",
+     "texte": "Redémarrage de la centrale « dans les semaines à venir » (FAQ du 26/08)",
+     "echeance": "2026-09-30",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Échéance indicative (« semaines à venir » à partir du 26/08). Les pièces ultérieures (S023 du 22/09, S033 du 01/10) décrivent une centrale « en tests » ; pas de date de redémarrage commercial établie."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-20_nygc-prudence"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-24_nygc-precisions"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-16_reponse-grizzly"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-12_nygc-eau"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28_haffner-offre",
+   "date": "2026-08-28",
+   "date_affichee": "28 août 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Haffner Energy lance une offre énergétique pour data centers",
+   "texte": "Se présente comme « membre fondateur » d'ÆTHER. Fait état de « premières propositions commerciales », sans client ni commande nommés. Un article de presse du 02/09 (média non identifié, texte recopié) décrit l'offre : plateforme CORE100, variante multi-module C-iB, configuration à dix modules dont deux redondants ; selon le PDG de Haffner, un projet peut nécessiter plus de dix modules, chacun intégré dans un data center « à service complet » générant environ 6 M€ de revenus pour Haffner (près de trois fois un module de production de gaz de synthèse seul). Ce chiffre concerne les revenus de Haffner, pas ceux de 2CRSi ; l'article ne cite aucun client ni commande.",
+   "sources": [
+    "S031",
+    "S102"
+   ],
+   "sources_libelle": [
+    "CP Haffner Energy, GlobeNewswire, 28/08/2026",
+    "Article de presse du 02/09/2026 (texte recopié sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02_portzamparc-achat",
+   "date": "2026-09-02",
+   "date_affichee": "2 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Portzamparc à l'achat, objectif 63,80 €, maintien en High Five",
+   "texte": "Note de l'analyste Maxence Dhoury : « un point d'entrée au-delà des secousses », contexte « durablement porteur ». Cours vers 26,3 €. Indice de datation : le 63,80 € s'affichait sur Zonebourse le 24/07 à 17:54 et des messages du 24/07 et du 28/07 le relient à l'après-CA du 23/07 ; le relèvement se situerait donc entre le 23/07 et le 24/07, mais aucune pièce ne le date. La liste High Five du 05/08 maintient 2CRSi. Le même jour, Figaro Patrimoine titre « Portzamparc vise +148 % pour l'action d'une techno strasbourgeoise » (extrait recopié) : la liste High Five affiche +24,3 % depuis sa première publication de 2026 (CAC Mid & Small −0,7 %) ; 2CRSi « figure dans la sélection depuis trois mois » ; objectif de 63,80 €, soit +147 % par rapport à un cours « qui tutoie les 26 € » ; résultats annuels rappelés pour le 29/10. La liste de septembre recopiée (S100) donne 2CRSi (+148 %), Nanobiotix (+63 %), Entech et Infotel (maintenues d'août), CBO Territoria. La mention « depuis trois mois » n'est pas recoupée : aucune pièce ne retrace les entrées et sorties de 2CRSi dans la liste au fil des mois.",
+   "sources": [
+    "S068",
+    "S099",
+    "S100"
+   ],
+   "sources_libelle": [
+    "Option Finance / Zonebourse, 02/09/2026",
+    "Figaro Patrimoine, 02/09/2026 (extrait recopié sur le forum)",
+    "Liste High Five de septembre 2026 (recopiée sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-01_portzamparc-59"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-13_boursorama-portzamparc"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-05_high-five-aout"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-10_edge-mod",
+   "date": "2026-09-10",
+   "date_affichee": "sept. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "decl",
+   "titre": "2CRSi Edge : plus de 200 serveurs livrés au ministère britannique de la Défense",
+   "texte": "Serveurs durcis sans ventilateur, via Akhter, fabriqués à Manchester. Aucun montant publié.",
+   "sources": [
+    "S018"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de 2CRSi Edge"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-11_ibc-amsterdam",
+   "date": "2026-09-11",
+   "date_affichee": "11–14 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "2CRSi à l'IBC 2026 (RAI Amsterdam), 11–14 septembre",
+   "texte": "Post LinkedIn de 2CRSi (texte recopié sur le forum) : deux représentants commerciaux de la société sont présents à l'IBC 2026 (International Broadcasting Convention) au RAI Amsterdam du 11 au 14 septembre. Le post ne mentionne ni contrat, ni commande, ni produit annoncé.",
+   "sources": [
+    "S101"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn 2CRSi (texte recopié sur le forum le 04/09)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-12_aw-etude-rte",
+   "date": "2026-09-12",
+   "date_affichee": "sept. 2026",
+   "sujets": [
+    "aether",
+    "gouv"
+   ],
+   "statut": "decl",
+   "titre": "Étude personnelle du PDG sur la capacité électrique pour les data centers",
+   "texte": "Post LinkedIn : 14 ans de données RTE, conclusion favorable au Grand Est, où le consortium ÆTHER développe son projet (conflit d'intérêts mentionné dans le post). Le texte du post (relayé intégralement par des membres le 27/09) donne : 92 TWh exportés en 2025 ; import 22 h sur 24 le 06/01/2026 ; 18 GW réservés chez RTE pour les data centers, dont 13 GW en Île-de-France et Hauts-de-France ; 6,5 à 9,6 GW absorbables avec un hiver comme 2025-26 et 0 à 3,5 GW avec une vague de froid comme février 2012 ; analyse de 16 pages disponible sur demande.",
+   "sources": [
+    "S017"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'Alain Wilmouth, sept. 2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-15_expert-conclusions",
+   "date": "2026-09-15",
+   "date_affichee": "15 sept. 2026",
+   "sujets": [
+    "griz",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Premières conclusions de l'expert indépendant",
+   "texte": "Le CP du 15/09/2026 (EQS, 18:22) annonce les premières conclusions de la mission confiée à un expert indépendant (non nommé) sur la commande de 194 serveurs Godì Blackwell Ultra annoncée le 09/06. Travaux sur l'ensemble des pièces disponibles (devis, bons de commande, bons de livraison, factures, relevés bancaires, écritures comptables de 2CRSi SA) et recherches d'intelligence économique sur le client et les tiers. Confirmés : l'existence de la commande passée le 07/05/2026 par le client allemand et de l'achat correspondant auprès du fournisseur ; l'encaissement par 2CRSi de l'intégralité du prix facturé et le paiement intégral du fournisseur, l'un et l'autre avant la livraison ; la comptabilisation de l'ensemble (achat, vente, règlements) dans les comptes de l'exercice clos le 30/06/2026. Les conclusions « portent exclusivement sur cette opération » ; 2CRSi rendra compte des autres points soulevés par Grizzly « au plus tard lors de la publication de ses résultats annuels ». Mention de bas de CP : la mission « ne constitue ni un audit, ni une revue exhaustive de la comptabilité, des opérations ou du dispositif de contrôle interne de 2CRSi, ni une mission de certification des comptes, laquelle relève des commissaires aux comptes ». Le CP ne donne ni le nom du cabinet, ni la date de livraison, ni l'identité du client. Des messages du forum contestant que la commande relève de l'exercice 2025/26 sont contredits par le CP (comptabilisation sur l'exercice clos le 30/06/2026).",
+   "sources": [
+    "S013"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 15/09/2026 (EQS Group, 18:22 ; texte recopié sur le forum)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-09-15_expert-conclusions#e1",
+     "texte": "Compte rendu des autres points soulevés par Grizzly « au plus tard lors de la publication des résultats annuels »",
+     "echeance": "2026-10-29",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "résultats annuels annoncés pour le 29/10/2026 ; le rapport final de la mission est attendu « en principe » en octobre (CP du 03/08)"
+    }
+   ],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-06-09_commande-allemande"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-08-03_mission-expert"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-16_reponse-grizzly"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-07-01_verification-independante"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-16_pareto-oslo",
+   "date": "2026-09-16",
+   "date_affichee": "16–17 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "Le PDG intervient à la conférence énergie de Pareto Securities (Oslo)",
+   "texte": "Post LinkedIn du PDG (texte recopié sur le forum le 15/09) : 2CRSi est à Oslo pour la 33e conférence annuelle sur l'énergie de Pareto Securities, les 16 et 17 septembre ; Alain Wilmouth intervient pour présenter 2CRSi et sa vision de l'infrastructure informatique haute performance et économe en énergie.",
+   "sources": [
+    "S103"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn du PDG (texte recopié sur le forum le 15/09)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-16_portzamparc-commentaire",
+   "date": "2026-09-16",
+   "date_affichee": "16 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "Portzamparc commente le communiqué du 15/09 : « Achat », objectif 63,8 €",
+   "texte": "Extrait recopié d'un article de Zonebourse du 16/09 : Portzamparc juge l'annonce du 15/09 « presque un non-sujet » tant la conclusion sur cette commande « paraissait évidente », mais « une première étape pour normaliser la vie boursière du groupe » ; la mission « se poursuit sur les autres points soulevés dans le rapport short et devrait comme prévu rendre ses conclusions avant la publication des résultats annuels fin octobre ». La recommandation « Achat » est confirmée, objectif 63,8 € (cible, non un cours : le titre cotait ≈ 26–29 € à l'époque, cours à documenter).",
+   "sources": [
+    "S106"
+   ],
+   "sources_libelle": [
+    "Zonebourse, 16/09/2026 (extrait recopié sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-02_portzamparc-achat"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-09-15_expert-conclusions"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-16_qube-sous-seuil",
+   "date": "2026-09-16",
+   "date_affichee": "16 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Qube Research & Technologies : position courte à 0,23 %, sous le seuil",
+   "texte": "Qube : 0,66 % (position du 08/09), 0,71 % (14/09, publiée le 15/09), puis 0,23 % (15/09, publiée le 16/09), sous le seuil de publication de 0,5 % ; la publication cesse le 17/09. Aucune nouvelle position de Qube n'est publiée jusqu'au 02/10. Cadre réglementaire (règlement UE 236/2012, art. 5 et 6) : notification à l'autorité dès 0,1 % (non publiée), publication à partir de 0,5 % ; aucune obligation de déclarer un passage à 0,00 % ; la ligne « 0 % » éventuellement vue sur un site de suivi correspond à la sortie du champ publiable et non à une position nulle certifiée. Réponse d'Épargne Info Service (AMF) recopiée sur le forum (M468459586, 18/09) : les informations sont conservées dans la base jusqu'au franchissement à la baisse du seuil de 0,5 % ; passé ce seuil la publication peut ne plus être accessible. Des affirmations du forum selon lesquelles Qube serait à 0,00 % ne sont pas étayées par S022. Le 23/09 un membre constate que shortsell.nl ne publie pas les positions sous 0,5 %.",
+   "sources": [
+    "S022"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes, export du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-27_vad-qube-citadel"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-17_qube-aout"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17_ems-europe-paris",
+   "date": "2026-09-17",
+   "date_affichee": "17 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "Le PDG participe à une table ronde de l'Electronics Day EMS Europe (Paris)",
+   "texte": "Programme recopié : session n° 3 « Infrastructure d'IA et chaîne d'approvisionnement électronique européenne », de 13 h 30 à 14 h 30, table ronde à laquelle participe Alain Wilmouth (2CRSi) avec d'autres intervenants ; la session comporte une présentation principale sur l'écosystème électronique matériel de l'IA. Aucune annonce de contrat ni de montant ; la participation effective du PDG n'est attestée que par le programme.",
+   "sources": [
+    "S107"
+   ],
+   "sources_libelle": [
+    "Programme de l'événement (session 3 recopiée sur le forum)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-16_pareto-oslo"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-22_amador-22-09",
+   "date": "2026-09-22",
+   "date_affichee": "22 sept. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Comté d'Amador : le projet de Buena Vista qualifié de « concept exploratoire »",
+   "texte": "Séance publique du Board of Supervisors : cible ramenée de 41 à 16 MW, aucun permis déposé, environ un an de tests de la centrale avant toute demande de permis pour un data center. Joseph Church y parle d'un data center de 16 MW alimenté par la centrale. Un intervenant relève que NYGC diffusait dès le 19/01/2026 aux investisseurs des coûts, des modèles de GPU et des dates de mise en service, sans dossier déposé au comté. Aucune décision (point hors ordre du jour) ; le comté voisin de Calaveras a adopté un moratoire d'urgence. Un résumé de membre rapporte aussi que le fondateur de NYGC a qualifié les 40 MW annoncés de « concept exploratoire antérieur » (40 MW dans ce résumé, 41 MW dans l'événement : à harmoniser sur S023).",
+   "sources": [
+    "S023"
+   ],
+   "sources_libelle": [
+    "Séance du Board of Supervisors (Amador County) : résumé d'une transcription de l'enregistrement YouTube"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "infirme",
+     "cible": "2026-07-16_reponse-grizzly"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-01-14_buena-vista-achat"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-30_millennium",
+   "date": "2026-09-30",
+   "date_affichee": "30 sept. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Position courte de Millennium : 0,5 % du capital",
+   "texte": "Position de 0,50 % du capital au 29/09 (publiée le 30/09), environ 115 000 titres, soit près de 3 M€, puis 0,45 % au 01/10 (publiée le 02/10), sous le seuil de publication de 0,5 % : la publication cesse le 05/10. La ligne du registre recopiée sur le forum porte la référence 2026E1141344 (Millennium International Management LP, 0,50 %, 2026-09-30 = date de publication).",
+   "sources": [
+    "S022"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-01_calaveras-01-10",
+   "date": "2026-10-01",
+   "date_affichee": "1er oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Calaveras Enterprise visite Buena Vista avec Joseph Church",
+   "texte": "Plus de pyrolyse ni de 41 MW ; aucune demande de permis pour un data center. Plan : exploiter la centrale existante (18 MW, en tests) sous ses permis d'origine et vendre 16 MW nets sous un contrat d'achat d'électricité en négociation. 25 emplois permanents. Investissement décrit d'environ 4 M$ ; Church refuse de chiffrer davantage.",
+   "sources": [
+    "S033"
+   ],
+   "sources_libelle": [
+    "Calaveras Enterprise (Tori James), 01/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "infirme",
+     "cible": "2026-07-16_reponse-grizzly"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-01-14_buena-vista-achat"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-02_registre-vad-synthese",
+   "date": "2026-10-02",
+   "date_affichee": "2 oct. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Registre AMF : aucune position courte publiée au-dessus de 0,5 % au 02/10",
+   "texte": "Synthèse de l'export du registre (S022), de août 2025 à octobre 2026, cinq détenteurs. Maxima : Voleon 2,32 % (11/03 et 07/04/2026), Qube 1,64 % (14/11/2025), Citadel Securities (Europe) 0,79 % (28/07/2026), Grizzly Capital Management 0,89 % (17/06/2026), Millennium 0,50 % (29/09/2026). Somme maximale des positions publiées d'après ce calcul : environ 3,07 % (Qube 1,64 % et Voleon 1,43 %) autour du 17/11/2025 ; 1,62 % au 28/07/2026. Dernière ligne publiée de chacun : Qube 0,23 % (15/09), Millennium 0,45 % (01/10), Citadel 0,37 % (05/08), Voleon 0,44 % (24/06), Grizzly 0 % (22/06) : aucun n'est au-dessus du seuil au 02/10/2026. Entre deux lignes, le registre ne dit pas quelle est la position exacte ; les positions inférieures à 0,5 % ne sont pas connues, sauf la ligne de sortie.",
+   "sources": [
+    "S022"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes, export du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-27_vad-qube-citadel"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-06_bac-visite",
+   "date": "2026-10-06",
+   "date_affichee": "6 oct. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "Post de Baltimore Aircoil : visite de deux membres de l'équipe 2CRSi",
+   "texte": "Un post LinkedIn d'une employée de Baltimore Aircoil Company (BAC) remercie deux membres de l'équipe 2CRSi pour leur visite et évoque la manière dont les deux sociétés pourraient « collaborer sur nos solutions » (#immersioncooling). Il s'agit d'une visite ; aucune collaboration, contrat ou partenariat n'est annoncé par 2CRSi ni par BAC.",
+   "sources": [
+    "S110"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'une employée de BAC (recopié sur le forum)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-06_ncpr-chateaugay",
+   "date": "2026-10-06",
+   "date_affichee": "6 oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "North Country Public Radio enquête sur le projet de Chateaugay (NY)",
+   "texte": "Terrain acheté 500 000 $ en 2022. Le supervisor municipal dit n'avoir aucune nouvelle de Church depuis trois ans ; Church a reconnu au Ledger Dispatch que le projet est au point mort, alors que le site de NYGC l'affiche « en construction ». Deux jugements impayés (38 000 $ et 54 000 $) cités. Moratoire local d'un an en rédaction.",
+   "sources": [
+    "S034"
+   ],
+   "sources_libelle": [
+    "NCPR (Emily Russell), 06/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-06_nygc-5-sites"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-06_nygc-5-sites",
+   "date": "2026-10-06",
+   "date_affichee": "6 oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Portefeuille NYGC : 5 sites, 3 MW opérationnels",
+   "texte": "Rouses Point (NY) : seul site en service, 3 MW, immersion Submer. Chateaugay (NY) : « en construction ». Buena Vista, Loyalton et Bakersfield (CA) : annonce, faisabilité ou sans données.",
+   "sources": [
+    "S035"
+   ],
+   "sources_libelle": [
+    "Fiches datacentermap.com reprenant le site de NYGC, capturées le 06/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-06_ncpr-chateaugay"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-07_godi-axelera",
+   "date": "2026-10-07",
+   "date_affichee": "7 oct. 2026",
+   "sujets": [
+    "aether",
+    "autre"
+   ],
+   "statut": "decl",
+   "titre": "Serveur Godì 1.4 prêt pour l'accélérateur Europa d'Axelera AI",
+   "texte": "Post du PDG : le serveur 1U bi-EPYC Godì 1.4 SP5-D peut accueillir jusqu'à quatre cartes Europa d'Axelera AI, membre du consortium ÆTHER. Le texte recopié sur le forum précise : architecture Europa d'Axelera arrivée ; jusqu'à 4 cartes PCIe Gen5 ; double processeur AMD EPYC ; 1U refroidi par air. Le membre date le post du 07/10 ; il est relayé dès le 06/10 à 16 h 22 sur le forum : date à vérifier sur le post d'origine.",
+   "sources": [
+    "S019"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'Alain Wilmouth, 07/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-09_sxb2-promesse",
+   "date": "2026-10-09",
+   "date_affichee": "9 oct. 2026 (CP du 12/10)",
+   "sujets": [
+    "aether",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "FR-SXB2 : promesse de vente signée pour le site Dumarey Powerglide (Port du Rhin)",
+   "texte": "Selon le CP du 12/10/2026, Aether Infrastructures a signé le 09/10 une promesse de vente portant sur le site industriel Dumarey Powerglide (ex-Punch Powerglide et General Motors), au Port du Rhin à Strasbourg : c'est le site FR-SXB2. Environ 90 hectares et 110 000 m² de bâtiments ; le site « ambitionne de devenir, à terme, le plus grand site industriel d'Europe dédié aux infrastructures d'intelligence artificielle ». Un bail conclu en parallèle permet d'occuper « dès le 15 octobre » les zones déjà disponibles. La réalisation de la vente « reste soumise aux conditions d'usage, dont l'agrément du Port Autonome de Strasbourg ». Organisation en trois pôles (Aether Utilities pour l'énergie, Aether Facilities pour le campus, Aether Compute pour l'AI Factory). Énergie : 25 MW fournis par Strasbourg Électricité Réseaux ; stockage et sécurisation étudiés avec SOCOMEC ; une unité de thermolyse de biomasse avec cogénération de froid étudiée avec Haffner Energy. 2CRSi, « fournisseur pressenti des serveurs du site », « estime que le déploiement des premières capacités de calcul de l'AI Factory sur l'exercice 2026-2027 représente pour le groupe un potentiel de chiffre d'affaires supérieur à un milliard d'euros », sous réserve : « un retard dans l'obtention des permis ou dans la disponibilité des composants pourrait reporter tout ou partie des livraisons au-delà de la clôture de l'exercice » (fin juin 2027). Le groupe souhaite aussi y relocaliser l'intégration des serveurs Godì, puis la production de cartes mères. Partenaires cités en plus de Nhood et Projex : ÉS, Valeo, Demathieu Bard, Equans, Axelera AI, VSORA, SiPearl, Nvidia, AMD, Viridien, Dassault Systèmes, Outscale, Superphenix, Clever Cloud (le CP parle de « partenaires qui viennent compléter cet écosystème », sans préciser lesquels sont membres du consortium).",
+   "sources": [
+    "S113"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 12/10/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-10-09_sxb2-promesse#e1",
+     "texte": "Occupation des zones disponibles du site FR-SXB2 « dès le 15 octobre » (bail)",
+     "echeance": "2026-10-15",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-10-09_sxb2-promesse#e2",
+     "texte": "Réalisation de la vente de FR-SXB2, « soumise aux conditions d'usage, dont l'agrément du Port Autonome de Strasbourg »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Échéance du 31/12/2026 reprise du CP du 05/08 (« au plus tard le 31 décembre 2026 ») ; le CP du 12/10 ne redonne pas de date.",
+     "avenir": false
+    }
+   ],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-08-15_rue89-dumarey"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-05_aether-gouvernance"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29_resultats-29-10",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "res",
+    "griz",
+    "nygc"
+   ],
+   "statut": "echeance",
+   "titre": "Résultats annuels certifiés et rapport définitif de l'expert",
+   "texte": "Comptes 2025/26 certifiés (EY) ; solde des points Grizzly, dont NYGC.",
+   "sources": [
+    "S013"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 15/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-31_sxb1-echeance",
+   "date": "2026-10-31",
+   "date_affichee": "fin oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : acquisition de FR-SXB1",
+   "texte": "Le CP du 08/07/2026 conditionne le démarrage de FR-SXB1 « courant de l'année 2027 » à « une finalisation de l'acquisition définitive du site avant la fin octobre 2026 ». Au 05/08/2026, l'offre ferme et engageante (rachat de société) était en attente de validation par le conseil d'administration du vendeur. Se vérifiera aussi au registre : apparition d'une filiale d'AETHER Infrastructures.",
+   "sources": [
+    "S008",
+    "S012"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 08/07/2026 (échéance)",
+    "CP 2CRSi du 05/08/2026 (état de l'offre)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "avenir": false
+  },
+  {
+   "id": "2026-11-12_eurohpc-cloture",
+   "date": "2026-11-12",
+   "date_affichee": "12 nov. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Clôture de l'appel « AI Gigafactories »",
+   "texte": "Clôture le 12/11/2026 selon Le Monde (31/07) ; l'AFP dit « en novembre ». Les dates du 03/12 et du 20/11 avancées ailleurs ne sont pas retenues ; à confirmer sur la page officielle de la Commission.",
+   "sources": [
+    "S024",
+    "S082",
+    "S081"
+   ],
+   "sources_libelle": [
+    "EuroHPC JU",
+    "Le Monde, 31/07/2026",
+    "AFP, 30/07/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-11-15_valeo-sop",
+   "date": "2026-11-15",
+   "date_affichee": "nov. 2026",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : démarrage de la production Valeo × 2CRSi en Inde",
+   "texte": "",
+   "sources": [
+    "S004"
+   ],
+   "sources_libelle": [
+    "CP du 16/02/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "avenir": false
+  },
+  {
+   "id": "2026-12-31_sxb2-echeance",
+   "date": "2026-12-31",
+   "date_affichee": "31 déc. 2026",
+   "sujets": [
+    "aether",
+    "res"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : signature de FR-SXB2 ; clôture du S1 2026/27",
+   "texte": "Premier semestre de l'exercice de l'ambition « milliard ».",
+   "sources": [
+    "S012",
+    "S113"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 05/08/2026",
+    "CP 2CRSi du 12/10/2026 (promesse de vente)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2027-02-01_eurohpc-selection",
+   "date": "2027-02-01",
+   "date_affichee": "début 2027",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Sélection des gigafactories européennes",
+   "texte": "Une seule enveloppe nationale de 100 M€ annoncée pour la France.",
+   "sources": [
+    "S025"
+   ],
+   "sources_libelle": [
+    "numerique.gouv.fr"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2027-06-30_cloture-2026-27",
+   "date": "2027-06-30",
+   "date_affichee": "30 juin 2027",
+   "sujets": [
+    "res",
+    "nygc"
+   ],
+   "statut": "echeance",
+   "titre": "Clôture de l'exercice 2026/27",
+   "texte": "Échéance de l'ambition « milliard » et de l'entrée de NYGC dans le chiffre d'affaires.",
+   "sources": [
+    "S009",
+    "S010"
+   ],
+   "sources_libelle": [
+    "Réponse détaillée au rapport Grizzly, 16/07/2026",
+    "CP 2CRSi du 23/07/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  }
+ ],
+ "questions_ouvertes": [
+  {
+   "sujet": "nygc",
+   "question": "Où en est le calendrier du contrat NYGC ?",
+   "etat": "La livraison annoncée « au printemps 2026 », puis la « phase 1 fin de l'été 2026 », n'ont pas fait l'objet d'une communication actualisée de la société.",
+   "attendu": "Un point de situation daté de la société (attendu au plus tard avec les résultats du 29/10/2026)."
+  },
+  {
+   "sujet": "nygc",
+   "question": "610 M$ ou 610 M€, et quel lien avec la commande de 290 M$ ?",
+   "etat": "Le CP du 23/07/2026 écrit « 610 M€ », les autres pièces « 610 M$ ». Le CP du 29/09/2025 rattache la commande de 290 M$ au contrat global de 610 M$, que la réponse du 16/07/2026 présente séparément.",
+   "attendu": "Une clarification écrite de la société."
+  },
+  {
+   "sujet": "nygc",
+   "question": "Quelle est la puissance du site de Buena Vista ?",
+   "etat": "Environ 40 MW d'ici fin 2027 (CP du 29/09/2025), 5 puis environ 15 MW (réponse du 16/07/2026), 16 MW (page Facebook de NYGC, séance du comté d'Amador du 22/09/2026). Le site de NYGC (capture du 11/10/2026) indique 16 MW.",
+   "attendu": "Un chiffre de référence de NYGC ou de la société, ou une pièce du comté."
+  },
+  {
+   "sujet": "nygc",
+   "question": "Les demandes de permis du data center de Buena Vista sont-elles déposées ?",
+   "etat": "Les éléments publics divergent : un post tiers parle d'une demande déposée, la FAQ de NYGC du 26/08 (résumée sur le forum) et les déclarations rapportées des services du comté indiquent le contraire. La page « Project Buena Vista » du site de NYGC (capture du 11/10/2026) n'aborde pas ce point.",
+   "attendu": "Les pièces du comté d'Amador (Planning Department, Air District)."
+  },
+  {
+   "sujet": "nygc",
+   "question": "Qui possède le site de Buena Vista ?",
+   "etat": "La centrale a été acquise par NYGC (communiqué du 14/01/2026) ; la propriété du terrain n'est pas documentée.",
+   "attendu": "Le registre foncier du comté d'Amador."
+  },
+  {
+   "sujet": "nygc",
+   "question": "Qu'est-ce que Green Buffalo Data ?",
+   "etat": "Société liée au dirigeant de NYGC, citée par le PDG de 2CRSi au webinaire du 19/06/2026 (33:56) ; identité non établie.",
+   "attendu": "Un registre de sociétés ou une communication de NYGC."
+  },
+  {
+   "sujet": "nygc",
+   "question": "Le campus 2CRSi de Rouses Point (2021) a-t-il un lien avec le data center NYGC de la même commune ?",
+   "etat": "Aucune pièce ne relie les deux.",
+   "attendu": "Une communication de la société ou de NYGC."
+  },
+  {
+   "sujet": "aether",
+   "question": "Où est FR-SXB1 ?",
+   "etat": "FR-SXB2 est désormais identifié : le site Dumarey Powerglide au Port du Rhin (CP du 12/10/2026). Aucune pièce de la société ne localise FR-SXB1 ; des articles de presse et des messages du forum évoquent des emplacements possibles, sans confirmation.",
+   "attendu": "Une communication de la société ou d'ÆTHER Infrastructures.",
+   "sources": [
+    "S113"
+   ]
+  },
+  {
+   "sujet": "aether",
+   "question": "Le raccordement électrique de FR-SXB1 est-il proposé ?",
+   "etat": "Des propositions de RTE étaient attendues « avant fin juillet 2026 » ; aucune communication depuis.",
+   "attendu": "Une communication de la société ou de RTE."
+  },
+  {
+   "sujet": "aether",
+   "question": "Comment ÆTHER Infrastructures est-elle financée ?",
+   "etat": "SASU au capital de 1 M€, actionnaire unique la holding du dirigeant (registre, mise à jour du 18/08/2026 ; « actuellement l'actionnaire unique » selon le CP du 05/08). Le CP du 18/02/2026 annonçait que « le portage financier, immobilier et énergétique sera assuré par une structure dédiée regroupant des partenaires spécialisés » et que 2CRSi « n'a pas vocation à assurer le portage capitalistique du projet ». Le CP du 12/10/2026 décrit trois pôles (Aether Utilities, Aether Facilities, Aether Compute) sans préciser s'il s'agit de sociétés ni qui les détient. Aucune pièce ne nomme les partenaires financiers ni l'origine des fonds ; le dirigeant a relativisé l'intérêt de l'aide européenne lors du webinaire du 19/06/2026.",
+   "attendu": "L'entrée de partenaires au capital (registre) ou une communication sur la structure de portage.",
+   "sources": [
+    "S020",
+    "S012",
+    "S055",
+    "S113",
+    "S015"
+   ]
+  },
+  {
+   "sujet": "aether",
+   "question": "Combien de membres compte le consortium ÆTHER ?",
+   "etat": "Douze membres au CP du 08/07/2026, confirmés de leur côté par OUTSCALE (blog du 29/07) ; un média en compte treize. Le CP du 12/10/2026 liste des « partenaires qui viennent compléter cet écosystème », dont quatre jamais cités auparavant (VSORA, Superphenix, Clever Cloud, Valeo) ; Socomec et Haffner Energy ne figurent pas dans cette liste mais sont cités dans le corps du communiqué comme associés aux solutions énergétiques à l'étude (stockage « avec SOCOMEC », unité de thermolyse « étudiée avec Haffner Energy »). Aucun des nouveaux noms n'a communiqué sur ÆTHER à ce jour ; VSORA, SiPearl et Equans figurent aussi dans l'écosystème du consortium concurrent AION (CP du 20/05/2026). Une infographie du même jour diffusée sur LinkedIn par un salarié de 2CRSi range au contraire les vingt noms, dont NVIDIA, AMD, Socomec et Haffner Energy, sous le titre « LE CONSORTIUM ÆTHER ».",
+   "attendu": "Une liste à jour publiée par le consortium.",
+   "sources": [
+    "S008",
+    "S080",
+    "S113",
+    "S114",
+    "S115",
+    "S116"
+   ]
+  },
+  {
+   "sujet": "valeo",
+   "question": "Le démarrage industriel en Inde de novembre 2026 est-il confirmé ?",
+   "etat": "L'échéance figure dans les pièces de février 2026 ; la « 4e usine » indienne affichée sur le site de 2CRSi n'est pas documentée par ailleurs. Les chiffres de performance (PUE, -30 à 35 % de consommation) sont à vérifier sur le texte du CP. Le rapport financier semestriel au 31/12/2025 (S065) ne mentionne ni l'Inde ni Chennai.",
+   "attendu": "Une communication de Valeo ou de 2CRSi ; le texte intégral du CP du 16/02/2026.",
+   "sources": [
+    "S065"
+   ]
+  },
+  {
+   "sujet": "valeo",
+   "question": "Quel est le statut réglementaire du fluide diphasique utilisé ?",
+   "etat": "Le statut PFAS / REACH du fluide Opteon 2P50, sa production en volume et une éventuelle certification NVIDIA ne sont pas documentés dans la frise.",
+   "attendu": "Les pièces de l'ECHA, de Chemours et de NVIDIA."
+  },
+  {
+   "sujet": "res",
+   "question": "Quelle est la politique d'annonce des contrats ?",
+   "etat": "Une règle « contrats annoncés une fois livrés et payés » est attribuée au dirigeant sur le forum, sans pièce publique retrouvée (elle ne figure pas dans le webinaire du 19/06/2026).",
+   "attendu": "La source d'origine (interview, réponse écrite) ou une communication de la société."
+  },
+  {
+   "sujet": "res",
+   "question": "Propos attribués au dirigeant sans source publique",
+   "etat": "Plusieurs propos circulent sans pièce : révision à la hausse des 290 M$, fourchette d'EBITDA, livraisons « à partir de septembre 2026 », réajustement du contrat malaisien. Ils ne sont pas repris comme faits.",
+   "attendu": "L'enregistrement ou le texte d'origine."
+  },
+  {
+   "sujet": "res",
+   "question": "Historique des comptes et des guidances",
+   "etat": "Les rapports annuels 2021/22 à 2024/25 et l'historique des guidances de chiffre d'affaires ne sont pas encore archivés dans la frise.",
+   "attendu": "Les documents de référence et CP d'origine."
+  },
+  {
+   "sujet": "res",
+   "question": "Calendrier de communication financière 2026/27",
+   "etat": "Heure de publication du 29/10/2026 et dates des publications suivantes non confirmées par un calendrier officiel.",
+   "attendu": "Le calendrier financier de la société."
+  },
+  {
+   "sujet": "griz",
+   "question": "Qui est l'expert indépendant ?",
+   "etat": "Le CP du 15/09/2026 ne nomme pas le cabinet. Les noms avancés publiquement ne reposent sur aucune pièce.",
+   "attendu": "Une communication de la société (rapport attendu avant fin octobre)."
+  },
+  {
+   "sujet": "griz",
+   "question": "Quel lien entre Grizzly Capital Management LP et Grizzly Research ?",
+   "etat": "Le registre AMF des positions courtes nomme Grizzly Capital Management LP ; le rapport de Grizzly Research ne nomme pas de fonds.",
+   "attendu": "Une pièce officielle reliant les deux entités."
+  },
+  {
+   "sujet": "griz",
+   "question": "D'où vient l'engagement de répondre à tous les points « d'ici fin octobre » ?",
+   "etat": "La formule circule ; la source exacte (CP du 05/08/2026 ou autre) reste à rattacher.",
+   "attendu": "Le texte du communiqué concerné."
+  },
+  {
+   "sujet": "gouv",
+   "question": "Qui sont les commissaires aux comptes ?",
+   "etat": "Leur identité n'est pas encore rattachée à une pièce dans la frise.",
+   "attendu": "Le document de référence ou le rapport financier annuel."
+  },
+  {
+   "sujet": "mkt",
+   "question": "Historique de cours officiel",
+   "etat": "Plusieurs cours cités (plus haut du 02/06/2026, suspension du 18 au 22/06, réservations de cotation) n'ont pas encore de source officielle archivée.",
+   "attendu": "Les avis et historiques Euronext."
+  },
+  {
+   "sujet": "mkt",
+   "question": "Position Voleon au registre AMF",
+   "etat": "Une position datée du 02/06/2026 n'apparaît dans les publications qu'à partir du 18/08/2026.",
+   "attendu": "Une explication de l'AMF ou du déclarant."
+  },
+  {
+   "sujet": "mkt",
+   "question": "Notes de Portzamparc",
+   "etat": "La date du relèvement à « Achat » (objectif 63,80 €) et la séquence des entrées et sorties de la liste « High Five » ne sont pas établies par une pièce. Un message du forum du 08/07/2026 attribue à Portzamparc une validation de la première tranche NYGC (205 M) « courant septembre, octobre 2026 » ; la note n'est pas retrouvée.",
+   "attendu": "Les notes ou publications de Portzamparc.",
+   "sources": [
+    "S053"
+   ]
+  },
+  {
+   "sujet": "autre",
+   "question": "Projets annoncés sans bilan public",
+   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu.",
+   "attendu": "Une communication de la société, de ses partenaires ou de Bpifrance."
+  },
+  {
+   "sujet": "autre",
+   "question": "Distinctions et niveau de partenariat NVIDIA",
+   "etat": "Les distinctions citées (« Rising Star », « Star Performer ») et le niveau de partenariat ne sont pas documentés.",
+   "attendu": "Les pièces de NVIDIA ou de la société."
+  },
+  {
+   "sujet": "autre",
+   "question": "Interviews du dirigeant à archiver",
+   "etat": "Les Echos (26/06/2026), RAISE 2026 (8–9/07), Journal des Entreprises (22/06/2026) : textes ou transcriptions non encore archivés.",
+   "attendu": "Les articles et enregistrements d'origine."
+  }
+ ],
+ "sources": [
+  {
+   "id": "S001",
+   "date_source": "2021-05-17",
+   "type": "CP",
+   "reference": "CP 2CRSi : campus de Rouses Point (NY)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2021/05/FCEQS002177_20210517.pdf",
+   "archive": "integral",
+   "note": "AMF EQS FCEQS002176/77 ; AccessNewswire. Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S002",
+   "date_source": "2024-01-30",
+   "type": "CP",
+   "reference": "CP 2CRSi du 30/01/2024 : contrat de 610 M$ avec un opérateur américain de centres de données",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2024/01/FCEQS005546_20240130.pdf",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S003",
+   "date_source": "2025-09-29",
+   "type": "CP",
+   "reference": "CP 2CRSi : première commande de 290 M$ (NYGC)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/premiere-commande-du-contrat-610m-290-millions-d-usd-pour-la-californie-155",
+   "archive": "integral",
+   "note": "Texte à coller. Le titre du CP (d'après l'URL) est « Première commande du contrat 610m : 290 millions d'USD pour la Californie » ; la réponse du 16/07/2026 présente le contrat de 610 M$ comme conclu avec une autre société que NYGC. | Extrait (premier paragraphe) recopié sur le forum (M468448981, 15/09/2026) ; texte intégral à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S004",
+   "date_source": "2026-02-16",
+   "type": "CP",
+   "reference": "CP Valeo × 2CRSi : solution edge à immersion pour l'Inde (AI Impact Summit, New Delhi)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2026/02/FCEQS008030_20260216.pdf",
+   "archive": "integral",
+   "note": "AMF EQS FCEQS008030",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S005",
+   "date_source": "2026-02-17",
+   "type": "CP",
+   "reference": "CP 2CRSi : commande de 140 M€ (prix liste) d'un client canadien pour un cloud IA au Japon",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2026/02/FCEQS008039_20260217.pdf",
+   "archive": "integral",
+   "note": "Aussi : investors.2crsi.com/wp-content/uploads/2026/02/2CRSi-annonce-une-commande-de-140-ME.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S006",
+   "date_source": "2026-03-26",
+   "type": "CP",
+   "reference": "CP 2CRSi : résultats S1 2025/26",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/resultats-1er-semestre-2025-26-chiffre-d-affaires-204-7-m-x9-8-ebitda-de-9-6-m-x4-6-102",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S007",
+   "date_source": "2026-06-09",
+   "type": "CP",
+   "reference": "CP 2CRSi : commande de 110 M€ (prix catalogue), client allemand",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-annonce-une-vente-de-110-m-1-de-serveurs-godi-blackwell-ultra-en-allemagne-94",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S008",
+   "date_source": "2026-07-08",
+   "type": "CP",
+   "reference": "CP 2CRSi : le consortium ÆTHER se dévoile",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-membre-du-consortium-æther-37",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S009",
+   "date_source": "2026-07-16",
+   "type": "CP",
+   "reference": "Réponse détaillée de 2CRSi au rapport Grizzly",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/reponse-detaillee-de-2crsi-aux-allegations-du-rapport-grizzly-research-du-18-juin-2026-30",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S010",
+   "date_source": "2026-07-23",
+   "type": "CP",
+   "reference": "CP 2CRSi : chiffre d'affaires annuel 2025/26",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/un-chiffre-d-affaires-annuel-de-416-2-m-en-croissance-de-88-sur-l-exercice-2025-26-2",
+   "archive": "integral",
+   "note": "Extrait du PDF (pdftotext). Le CP écrit « contrat-cadre de 610 M€ » alors que la réponse du 16/07 et les autres pièces parlent de 610 M$ : écart non tranché.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S011",
+   "date_source": "2026-08-03",
+   "type": "CP",
+   "reference": "CP 2CRSi du 03/08/2026 : mission d'investigation indépendante, périmètre et calendrier",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/mission-d-investigation-independante-en-lien-avec-les-allegations-du-rapport-grizzly-research-2crsi-precise-le-perimetre-et-le-calendrier-19",
+   "archive": "integral",
+   "note": "Texte à coller. | Extrait seulement (périmètre, portée, calendrier), recopié sur le forum (M468448549, 15/09 ; calendrier aussi dans M468442504, 14/09) ; texte intégral à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S012",
+   "date_source": "2026-08-05",
+   "type": "CP",
+   "reference": "CP 2CRSi : gouvernance d'AETHER Infrastructures et avancement des sites",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-informe-le-marche-sur-la-gouvernance-de-la-societe-aether-infrastructures-et-l-avancement-du-projet-aether-auquel-2crsi-participe-comme-membre-du-consortium-14",
+   "archive": "integral",
+   "note": "Texte à coller. Émis « à la suite des échanges avec l'AMF ».",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S013",
+   "date_source": "2026-09-15",
+   "type": "CP",
+   "reference": "CP 2CRSi : premières conclusions de l'expert indépendant",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/commande-de-194-serveurs-annoncee-le-9-juin-20261-l-expert-independant-confirme-la-realite-de-la-vente-avec-le-client-allemand-177",
+   "archive": "integral",
+   "note": "Texte à coller. | Texte intégral recopié sur le forum (version EQS Group du 15/09/2026 18:22 CET, M468448661, 15/09 19:36 ; mêmes mots dans M468448624) ; à comparer à la page du site.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S014",
+   "date_source": "2023-09-12",
+   "type": "CP",
+   "reference": "CP 2CRSi : accord avec une filiale de Larsen & Toubro (edge, Inde)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/09/FCEQS005031_20230912.pdf",
+   "archive": "integral",
+   "note": "AMF EQS FCEQS005031",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S015",
+   "date_source": "2026-06-19",
+   "type": "transcription",
+   "reference": "Webinaire d'Alain Wilmouth du 19/06/2026 (transcription automatique YouTube, horodatée, s'arrête à 44:23)",
+   "url": "https://www.youtube.com/watch?v=g_ukFCasXQg",
+   "archive": "integral",
+   "note": "Transcription automatique : erreurs de noms propres (Ros Point = Rouses Point, Château = Chateaugay, NOC/Ino GC = NYGC, Etherum = Ethereum).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S016",
+   "date_source": "2026-06-21",
+   "type": "interview",
+   "reference": "Interview d'Alain Wilmouth, « La Bourse et la Vie », 21/06/2026",
+   "url": "https://www.youtube.com/live/edAkVAbmmF8",
+   "archive": "integral",
+   "note": "Vidéo. Horodatages à relever.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S017",
+   "date_source": "2026-09-12",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'Alain Wilmouth : étude personnelle sur la capacité électrique (données RTE)",
+   "url": "https://lnkd.in/p/e2fqW5Zi",
+   "archive": "reference",
+   "note": "Texte à coller."
+  },
+  {
+   "id": "S018",
+   "date_source": "2026-09-10",
+   "type": "linkedin",
+   "reference": "Post LinkedIn 2CRSi Edge : serveurs rugged livrés au ministère britannique de la Défense",
+   "url": "https://www.linkedin.com/posts/2crsiedge_2crsiedge-ruggedcomputing-edgecomputing-activity-7510264458250838016-xoq3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4ZBvMB6M8HVfTZaYs7P_Rta61DjSvLWUs",
+   "archive": "reference",
+   "note": "Texte à coller."
+  },
+  {
+   "id": "S019",
+   "date_source": "2026-10-07",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'Alain Wilmouth : Godì 1.4 SP5-D prêt pour l'AIPU Europa d'Axelera AI",
+   "url": "https://lnkd.in/p/eYAe9et2",
+   "archive": "integral",
+   "note": "Texte repris d'une copie postée sur le forum le 08/10.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S020",
+   "date_source": "2026-08-18",
+   "type": "registre",
+   "reference": "Pappers / RNE : AETHER Infrastructures SASU, SIREN 104 395 389",
+   "url": "https://www.pappers.fr/entreprise/aether-infrastructures-104395389",
+   "archive": "integral",
+   "note": "Relevé du 05/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S021",
+   "date_source": "2026-06-30",
+   "type": "registre",
+   "reference": "Registre AMF des transactions de dirigeants (2CRSi)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "reference",
+   "note": "22 déclarations 2021-2026, 15 achats / 7 ventes. Achats de juin 2026 entre 18,50 et 26,20 €. Nov. 2023 : 3,5 M titres à 1,10 €."
+  },
+  {
+   "id": "S022",
+   "date_source": "2026-10-09",
+   "type": "registre",
+   "reference": "Registre AMF des positions courtes nettes (2CRSi)",
+   "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/ventes-decouvert",
+   "archive": "integral",
+   "note": "Export des données ouvertes AMF du 09/10/2026 (dernières publications au 02/10/2026) ; lignes 2CRSi extraites dans textes/S022.txt. Millennium 0,50 % (29/09, publié le 30/09) puis 0,45 % (01/10, publié le 02/10). Seuil de publication : 0,5 %.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S023",
+   "date_source": "2026-09-22",
+   "type": "officiel",
+   "reference": "Amador County Board of Supervisors, séance du 22/09/2026 : résumé d'une transcription YouTube posté sur le forum",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S024",
+   "date_source": "2026-07-30",
+   "type": "officiel",
+   "reference": "EuroHPC JU : appel « AI Gigafactories »",
+   "url": "https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en",
+   "archive": "reference",
+   "note": "Clôture 12/11 ou 03/12/2026 selon les sources."
+  },
+  {
+   "id": "S025",
+   "date_source": "2026-07-30",
+   "type": "officiel",
+   "reference": "numerique.gouv.fr : appel à projet AI Gigafactory, engagement de 100 M€ de l'État",
+   "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/appel-a-projet-europeen-calculs-ia-ai-gigafactory-aigf/",
+   "archive": "reference",
+   "note": ""
+  },
+  {
+   "id": "S026",
+   "date_source": "2025-12-17",
+   "type": "CP tiers",
+   "reference": "Businesswire : Atlas Cloud AI × New York GreenCloud, partenariat de 6 Md$",
+   "url": "https://www.businesswire.com/news/home/20251217923131/en/",
+   "archive": "integral",
+   "note": "Texte à coller. CEO Atlas : Jerry Tang. 250 M$ initial = 288 HGX B300 = 2 304 GPU. Serveurs « 2CRSi Godì 1.8E2D-NV8 ». Extrait relevé le 11/10/2026 ; texte intégral à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S027",
+   "date_source": "2026-01-14",
+   "type": "CP tiers",
+   "reference": "Businesswire : NYGC acquiert le site de Buena Vista",
+   "url": "https://www.businesswire.com/news/home/20260114033592/en/NewYork-GreenCloud-Acquires-Buena-Vista-Biomass-Power-Facility-to-Launch-First-Carbon-Negative-AI-Factory",
+   "archive": "reference",
+   "note": "Texte à coller."
+  },
+  {
+   "id": "S028",
+   "date_source": "2026-01-19",
+   "type": "presse",
+   "reference": "DataCenterDynamics : NYGC et Buena Vista",
+   "url": "",
+   "archive": "reference",
+   "note": ""
+  },
+  {
+   "id": "S030",
+   "date_source": "2026-07-30",
+   "type": "CP tiers",
+   "reference": "Viridien : résultats T2 2026 (GlobeNewswire)",
+   "url": "https://www.globenewswire.com/news-release/2026/07/30/3336238/0/en/viridien-2026-second-quarter-results.html",
+   "archive": "reference",
+   "note": "Aucune mention d'ÆTHER."
+  },
+  {
+   "id": "S031",
+   "date_source": "2026-08-28",
+   "type": "CP tiers",
+   "reference": "Haffner Energy : offre énergétique pour data centers (GlobeNewswire)",
+   "url": "https://datacentremagazine.com/globenewswire/3352499",
+   "archive": "reference",
+   "note": "« membre fondateur » d'ÆTHER ; « premières propositions commerciales ». URL : republication par Data Centre Magazine (original GlobeNewswire non retrouvé)."
+  },
+  {
+   "id": "S032",
+   "date_source": "2026-08-15",
+   "type": "presse",
+   "reference": "Rue89 Strasbourg (Guillaume Krempp), 15/08/2026, modifié le 17/08 : « À Strasbourg, un projet de « gigafactory » dédié à l'intelligence artificielle et des zones d'ombre »",
+   "url": "https://www.rue89strasbourg.com/strasbourg-projet-gigafactory-intelligence-artificielle-394810",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S033",
+   "date_source": "2026-10-01",
+   "type": "presse",
+   "reference": "Calaveras Enterprise (Tori James) : visite du site de Buena Vista avec Joseph Church",
+   "url": "",
+   "archive": "reference",
+   "note": ""
+  },
+  {
+   "id": "S034",
+   "date_source": "2026-10-06",
+   "type": "presse",
+   "reference": "North Country Public Radio (Emily Russell) : « A Plattsburgh man planned a data center in Chateaugay. Locals are pushing back »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S035",
+   "date_source": "2026-10-06",
+   "type": "web",
+   "reference": "datacentermap.com : fiches NYGC (5 sites), capturées le 06/10/2026",
+   "url": "",
+   "archive": "reference",
+   "note": "Rouses Point 3 MW (Submer) ; Chateaugay « in construction » ; Buena Vista « Announced » ; Loyalton ; Bakersfield."
+  },
+  {
+   "id": "S036",
+   "date_source": "2026-06-18",
+   "type": "rapport",
+   "reference": "Grizzly Research : rapport sur 2CRSi",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S043",
+   "date_source": "2022-10-19",
+   "type": "CP",
+   "reference": "CP 2CRSi : contrat HPC avec un grand groupe européen de la défense",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2022/10/FCEQS003866_20221019.pdf",
+   "archive": "integral",
+   "note": "Texte repris d'une copie postée sur le forum le 19/10/2022, conforme au CP (AMF EQS FCEQS003866). Exercice fiscal clos fin février à l'époque.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S044",
+   "date_source": "2023-05-10",
+   "type": "CP",
+   "reference": "CP 2CRSi : contrat d'étude avec Thales Alenia Space (systèmes embarqués spatiaux)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/05/FCEQS004657_20230510.pdf",
+   "archive": "integral",
+   "note": "Texte repris d'une copie postée sur le forum le 10/05/2023, conforme au CP.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S045",
+   "date_source": "2023-07-18",
+   "type": "CP",
+   "reference": "CP 2CRSi : finalisation de la cession de Boston Limited",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/07/FCEQS004884_20230718.pdf",
+   "archive": "integral",
+   "note": "AMF EQS FCEQS004884",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S046",
+   "date_source": "2026-06-11",
+   "type": "CP",
+   "reference": "CP 2CRSi : « Calyos et 2CRSi Edge s'associent pour apporter le calcul IA au plus près du terrain »",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/calyos-et-2crsi-edge-s-associent-pour-apporter-le-calcul-ia-au-plus-pres-du-terrain-92",
+   "archive": "integral",
+   "note": "Publié le 11/06/2026 à 18:00 (liste Euronext). Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S047",
+   "date_source": "2026-06-18",
+   "type": "CP",
+   "reference": "CP 2CRSi : « 2CRSi conteste le contenu du document publié par Grizzly Research et prépare une réponse documentée »",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-conteste-le-contenu-du-document-publie-par-grizzly-research-et-prepare-une-reponse-documentee-necessitant-la-suspension-de-la-cotation-de-son-titre-91",
+   "archive": "integral",
+   "note": "18/06/2026 17:45. Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S048",
+   "date_source": "2026-06-19",
+   "type": "CP",
+   "reference": "CP 2CRSi : « 2CRSi répond point par point au rapport de Grizzly Research et réaffirme la réalité de son activité » (et CP « 2CRSi explique le short-biased de Grizzly », 15:08)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-repond-point-par-point-au-rapport-de-grizzly-research-et-reaffirme-la-realite-de-son-activite-55",
+   "archive": "integral",
+   "note": "19/06/2026 20:17. Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S049",
+   "date_source": "2026-07-01",
+   "type": "CP",
+   "reference": "CP 2CRSi : « 2CRSi engage une procédure de vérification indépendante relative à son contrat allemand »",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-engage-une-procedure-de-verification-independante-relative-a-son-contrat-allemand-49",
+   "archive": "integral",
+   "note": "01/07/2026 20:04. Texte à coller. À rapprocher du CP du 03/08 déjà au registre (S011).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S050",
+   "date_source": "2025-10-15",
+   "type": "presse",
+   "reference": "impactcp.org : « How E3NV's Data Center 2.0 is powering the next generation of AI infrastructure »",
+   "url": "https://impactcp.org/uncategorized/how-e3nvs-data-center-2-0-is-powering-the-next-generation-of-ai-infrastructure/",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S051",
+   "date_source": "2026-07-15",
+   "type": "forum",
+   "reference": "Message forum du 15/07/2026, fil « Évolution du programme NYGC : partenaire E3NV en charge de l'ingénierie IA »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S053",
+   "date_source": "2026-07-08",
+   "type": "forum",
+   "reference": "Message forum du 08/07/2026, fil « On n'entend pas [membre] »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S054",
+   "date_source": "2025-07-01",
+   "type": "CP",
+   "reference": "CP 2CRSi du 01/07/2025 : dépôt de la candidature du consortium ÆTHER à l'AMI « AI Gigafactories »",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-a-depose-la-candidature-du-consortium-europeen-æther-pour-developper-une-ai-gigafactory-au-cœur-de-l-europe-la-premiere-avec-un-bilan-carbone-negatif-160",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S055",
+   "date_source": "2026-02-18",
+   "type": "CP",
+   "reference": "CP 2CRSi du 18/02/2026 : négociation exclusive pour un site industriel dédié aux AI Gigafactories (ÆTHER)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-initie-au-sein-du-consortium-æther-infrastructure-une-negociation-exclusive-pour-l-implantation-d-un-site-industriel-strategique-dedie-aux-ai-gigafactories-105",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S056",
+   "date_source": "2026-02-24",
+   "type": "CP",
+   "reference": "CP 2CRSi du 24/02/2026 : Chemours et 2CRSi s'associent pour le refroidissement liquide biphasé (après qualification du fluide)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/apres-la-qualification-reussie-du-fluide-chemours-et-2crsi-s-associent-pour-accelerer-l-adoption-du-refroidissement-liquide-biphase-dans-les-serveurs-haute-densite-et-les-infrastructures-informatiques-103",
+   "archive": "integral",
+   "note": "Texte à coller. Lien avec le sujet PFAS (Opteon 2P50).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S057",
+   "date_source": "2025-06-26",
+   "type": "CP",
+   "reference": "CP 2CRSi du 26/06/2025 : vente de serveurs IA de plus de 100 M$ aux États-Unis (État de New York)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-annonce-une-vente-de-serveurs-d-intelligence-artificielle-d-une-valeur-de-100-millions-de-dollars-aux-etats-unis-162",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S058",
+   "date_source": "2025-07-08",
+   "type": "CP",
+   "reference": "CP 2CRSi du 08/07/2025 : commande de 54 M$ de serveurs IA au Royaume-Uni",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-annonce-une-commande-de-54-millions-d-usd-de-serveurs-ia-au-royaume-uni-159",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S059",
+   "date_source": "2025-08-13",
+   "type": "CP",
+   "reference": "CP 2CRSi du 13/08/2025 : contrat de 47 M€ pour la Malaisie",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-decroche-un-contrat-de-47-millions-d-euros-pour-equiper-la-malaisie-en-serveurs-ia-157",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S060",
+   "date_source": "2025-10-20",
+   "type": "CP",
+   "reference": "CP 2CRSi du 20/10/2025 : partenariat NAFFCO (usines d'IA modulaires, Moyen-Orient et Afrique)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/le-groupe-naffco-et-2crsi-annoncent-un-partenariat-strategique-pour-developper-des-usines-d-intelligence-artificielle-ia-modulaires-a-travers-le-moyen-orient-et-l-afrique-153",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S061",
+   "date_source": "2025-10-30",
+   "type": "CP",
+   "reference": "CP 2CRSi du 30/10/2025 : résultats annuels 2024/25",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-poursuit-sa-trajectoire-de-croissance-rentable-151",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S062",
+   "date_source": "2025-11-04",
+   "type": "CP",
+   "reference": "CP 2CRSi du 04/11/2025 : partenariat Valeo pour le refroidissement immersif des edge data centers",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/valeo-et-2crsi-s-associent-pour-developper-des-solutions-innovantes-de-refroidissement-immersif-pour-les-centres-de-donnees-de-peripherie-edge-data-centers-150",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S063",
+   "date_source": "2026-01-29",
+   "type": "CP",
+   "reference": "CP 2CRSi du 29/01/2026 : 1er semestre record, plus de 198 M€",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/1er-semestre-record-198-m-108",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S064",
+   "date_source": "2026-08-04",
+   "type": "CP",
+   "reference": "CP 2CRSi du 04/08/2026 : lettre d'intention avec Quanthor (sécurité post-quantique)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/quanthor-et-2crsi-s-associent-pour-securiser-les-infrastructures-critiques-a-l-ere-post-quantique-17",
+   "archive": "integral",
+   "note": "Texte à coller.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S065",
+   "date_source": "2026-03-31",
+   "type": "officiel",
+   "reference": "Rapport financier semestriel 2CRSi au 31 décembre 2025 (73 p.)",
+   "url": "https://investors.2crsi.com",
+   "archive": "integral",
+   "note": "PDF déposé dans textes/pdf/S065.pdf ; texte extrait dans textes/S065.txt. Date de publication à préciser (fin mars 2026).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S066",
+   "date_source": "2025-03-17",
+   "type": "CP",
+   "reference": "CP 2CRSi du 17/03/2025 : lancement de 2CRSi Cloud Solutions",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/2crsi-lance-2crsi-cloud-solutions-des-services-cloud-haute-performance-167",
+   "archive": "reference",
+   "note": "Texte à coller."
+  },
+  {
+   "id": "S067",
+   "date_source": "2026-06-19",
+   "type": "presse",
+   "reference": "Zonebourse (repris par BFM Bourse / TradingSat), 19/06/2026 19:09 : « 2CRSI, résumé du webinaire » — extrait",
+   "url": "https://www.tradingsat.com/2crsi-FR0013341781/actualites/2crsi-2crsi-resume-du-webinaire-1165401.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S068",
+   "date_source": "2026-09-02",
+   "type": "presse",
+   "reference": "Option Finance / Zonebourse, 02/09/2026 : « 2CRSi, toujours dans les petits papiers de Portzamparc, progresse en Bourse »",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-02-2crsi-toujours-dans-les-petits-papiers-de-portzamparc-progresse-en-bourse.html",
+   "archive": "reference",
+   "note": ""
+  },
+  {
+   "id": "S069",
+   "date_source": "2026-07-23",
+   "type": "forum",
+   "reference": "Message forum du 23/07/2026, fil « Le data center de Buena Vista : c'est pas gagné ! » (recensement administratif)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S070",
+   "date_source": "2025-07-24",
+   "type": "CP",
+   "reference": "CP 2CRSi du 24/07/2025 : chiffre d'affaires 2024/25 de 220,8 M€ (+31 %)",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/le-groupe-2crsi-a-realise-un-chiffre-d-affaires-de-220-8-m-pour-l-exercice-fiscal-2024-2025-en-progression-de-31-158",
+   "archive": "reference",
+   "note": "Texte à coller. Contient : « L'exécution du contrat de 610 millions de dollars annoncé en janvier 2024 devrait permettre à 2CRSi Cloud Solutions de générer ses premières facturations significatives liées aux prestations de services »."
+  },
+  {
+   "id": "S071",
+   "date_source": "2026-07-01",
+   "type": "presse",
+   "reference": "Option Finance / Zonebourse, 01/07/2026 : « 2CRSi porté par une note de Portzamparc qui voit un point d'entrée inespéré »",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-01-2crsi-porte-par-une-note-de-portzamparc-qui-voit-un-point-dentree-inespere.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S072",
+   "date_source": "2026-04-20",
+   "type": "presse",
+   "reference": "Reuters via Boursorama, 20/04/2026 15:49 : « Voleon Capital Management dévoile une position courte nette sur 2CRSI »",
+   "url": "https://www.boursorama.com/bourse/actualites-amp/voleon-capital-management-devoile-une-position-courte-nette-sur-2crsi-c2ad704cd4c283dfc682ce1a3757a20e",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S073",
+   "date_source": "2026-07-29",
+   "type": "forum",
+   "reference": "Message forum du 29/07/2026, fil « Un autre fond est rentré le 27 .. le yoyo » (tableau des déclarations)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S074",
+   "date_source": "2026-07-29",
+   "type": "forum",
+   "reference": "Message forum du 29/07/2026, fil « Déclarations VAD du jour »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S075",
+   "date_source": "2026-07-27",
+   "type": "presse",
+   "reference": "Boursier.com, 27/07/2026 : « 2CRSi : le rétablissement en cours » (conseil Achat, cours 29,20 €)",
+   "url": "https://www.boursedirect.fr/fr/actualites/categorie/conseils/2crsi-retablissement-en-cours-boursier-2d864a3354fd2b0754ac78a872cb58ccf18d3186",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S076",
+   "date_source": "2026-07-13",
+   "type": "presse",
+   "reference": "Boursorama, 13/07/2026 10:55 : « Valeurs moyennes : les 8 convictions de Portzamparc pour le second semestre »",
+   "url": "https://www.boursorama.com/bourse/actualites-amp/valeurs-moyennes-les-8-convictions-de-portzamparc-pour-le-second-semestre-92b55c32855021abd2eebb70a1ca0b5f",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S077",
+   "date_source": "2025-08-28",
+   "type": "presse",
+   "reference": "Ideal-Investisseur, 28/08/2025 : « 2CRSI : position courte nette déclarée par Qube Research & Technologies Limited »",
+   "url": "https://www.ideal-investisseur.fr/actions-b/2crsi-position-courte-nette-dclare-par-qube-research-technologies-limited/4254.html",
+   "archive": "reference",
+   "note": "0,85 % du capital au 27/08/2025."
+  },
+  {
+   "id": "S078",
+   "date_source": "2026-07-14",
+   "type": "presse",
+   "reference": "AI Weekly, 14/07/2026 : « Hochul décrète un moratoire d'un an sur les data centers > 50 MW »",
+   "url": "https://aiweekly.co/fr/alerts/hochul-dcrte-un-moratoire-dun-an-sur-les-data-centers-50-mw",
+   "archive": "reference",
+   "note": "Agrégateur ; la source primaire (décret du gouverneur, ou Le Monde du 15/07 cité sur le forum) reste à retrouver."
+  },
+  {
+   "id": "S079",
+   "date_source": "2026-07-30",
+   "type": "linkedin",
+   "reference": "Post LinkedIn (Le Pont / Demathieu Bard) : Demathieu Bard « officialise son entrée » dans le consortium ÆTHER Infrastructures",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S080",
+   "date_source": "2026-07-29",
+   "type": "web",
+   "reference": "Blog OUTSCALE (Dassault Systèmes), 29/07/2026 : « Consortium ÆTHER : l'Europe se dote d'une capacité industrielle pour l'IA à l'échelle »",
+   "url": "https://blog.outscale.com/en/aether-consortium-building-europes-industrial-capability-for-ai-at-scale/",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S081",
+   "date_source": "2026-07-30",
+   "type": "presse",
+   "reference": "AFP, 30/07/2026 : « L'Union européenne lance un appel d'offres géant pour rattraper son retard dans l'IA »",
+   "url": "https://bourse.fortuneo.fr/actualites/ia-pour-rester-dans-la-course-l-ue-lance-un-appel-d-offres-geant-4977224",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S082",
+   "date_source": "2026-07-31",
+   "type": "presse",
+   "reference": "Le Monde daté du 31/07/2026 : article sur l'appel d'offres européen « AI Gigafactories » (extrait)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S083",
+   "date_source": "2026-06-26",
+   "type": "presse",
+   "reference": "Les Echos, 26/06/2026 : « Alain Wilmouth : L'histoire telle que rapportée par Grizzly Research est manipulatoire et trompeuse »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S084",
+   "date_source": "2026-08-05",
+   "type": "presse",
+   "reference": "Boursier.com, 05/08/2026 14:14 : High Five d'août de Portzamparc (2CRSI, ID Logistics, LISI, Rubis, Thermador)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S085",
+   "date_source": "2026-08-07",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Romain Dion (rédacteur en chef, Bourse et Placements), 07/08/2026 : Portzamparc renouvelle sa liste High Five le 05/08",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S086",
+   "date_source": "2026-08-05",
+   "type": "forum",
+   "reference": "Message forum du 05/08/2026 16:39 relayant un avis AMF : Citadel Securities Europe, position courte nette de 0,58 % sur 2CRSI",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S087",
+   "date_source": "2026-08-06",
+   "type": "forum",
+   "reference": "Messages forum du 06/08/2026 sur la position de Citadel Securities (Europe) à 0,37 %",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S088",
+   "date_source": "2026-07-31",
+   "type": "web",
+   "reference": "Page Facebook officielle « Project Buena Vista » (NYGC), créée en juillet 2026 — texte recopié",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S089",
+   "date_source": "2026-08-05",
+   "type": "presse",
+   "reference": "Agefi-Dow Jones via ABC Bourse, 05/08/2026 11:04 : Portzamparc relève Rubis à « acheter » et l'ajoute à sa liste High Five",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S090",
+   "date_source": "2026-06-18",
+   "type": "rapport",
+   "reference": "Grizzly Research : « 2CRSi Caught Red-Handed: Fabricated Revenues & Projections via Undisclosed Related Parties » (version anglaise originale, 46 pages)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S091",
+   "date_source": "2026-07-08",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de 2CRSi : gala RAISE AI (Château de Versailles, 07/07/2026) et soirée du 08/07",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S092",
+   "date_source": "2026-08-23",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'un analyste indépendant, « NYGC sort enfin du silence », parties 1 (22/08) et 2 (23/08)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S093",
+   "date_source": "2026-08-20",
+   "type": "presse",
+   "reference": "myMotherLode (reprise du reportage de Central Sierra Broadcasting), « Ione, 20 août 2026 » — Buena Vista AI Factory",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S094",
+   "date_source": "2026-08-20",
+   "type": "web",
+   "reference": "Page Facebook « Project Buena Vista » (NYGC), post du 20/08/2026 : transparence et précision",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S095",
+   "date_source": "2026-08-12",
+   "type": "web",
+   "reference": "Page Facebook « Project Buena Vista » (NYGC), post du 12/08/2026 18:46 : utilisation de l'eau",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S096",
+   "date_source": "2026-07-07",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de 2CRSi : « Mission Business 2026 – Malaisie » de Business France (07–08/07/2026)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S097",
+   "date_source": "2026-08-21",
+   "type": "presse",
+   "reference": "Reportage de Central Sierra Broadcasting (partie 1), repris par un média local : visite du superviseur Brown le 12/07/2026",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S098",
+   "date_source": "2026-08-26",
+   "type": "forum",
+   "reference": "Résumé commenté par un membre de la FAQ publiée le 26/08/2026 sur la page Facebook « Project Buena Vista » (NYGC)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S099",
+   "date_source": "2026-09-02",
+   "type": "presse",
+   "reference": "Figaro Patrimoine, 02/09/2026 : « Portzamparc vise +148 % pour l'action d'une techno strasbourgeoise »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S100",
+   "date_source": "2026-09-02",
+   "type": "presse",
+   "reference": "Liste « High Five » de septembre 2026 de Portzamparc (liste recopiée, média d'origine non identifié)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S101",
+   "date_source": "2026-09-04",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de 2CRSi : présence à l'IBC 2026, RAI Amsterdam (11–14/09/2026)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S102",
+   "date_source": "2026-09-02",
+   "type": "presse",
+   "reference": "Article de presse du 02/09/2026 (média non identifié) : Haffner Energy lance une offre modulaire biomasse pour data centers",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S103",
+   "date_source": "2026-09-15",
+   "type": "linkedin",
+   "reference": "Post LinkedIn du PDG de 2CRSi : conférence énergie de Pareto Securities, Oslo (16–17/09/2026)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S104",
+   "date_source": "2025-09-30",
+   "type": "presse",
+   "reference": "Article de presse du 30/09/2025 (média non identifié) : « 2CRSi entouré après une commande majeure aux Etats-Unis »",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S106",
+   "date_source": "2026-09-16",
+   "type": "presse",
+   "reference": "Zonebourse, 16/09/2026 : commentaire de Portzamparc sur le communiqué du 15/09 (extrait recopié)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S107",
+   "date_source": "2026-09-17",
+   "type": "web",
+   "reference": "Programme de l'Electronics Day EMS Europe (Paris, 17/09/2026), session n° 3 (traduction recopiée)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S108",
+   "date_source": "2025-07-02",
+   "type": "presse",
+   "reference": "Journal des Entreprises, 02/07/2025 : interview du PDG sur les deux sites de data centers en Grand Est (extrait recopié)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S110",
+   "date_source": "2026-10-06",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'une employée de Baltimore Aircoil Company (BAC), 06/10/2026 : visite de deux membres de l'équipe 2CRSi (recopié)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S111",
+   "date_source": "2026-07-29",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'une membre du comité exécutif de Dassault Systèmes (Europe, Afrique, Moyen-Orient) : OUTSCALE prend part au consortium ÆTHER",
+   "url": "https://lnkd.in/p/eTC52fGg",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S112",
+   "date_source": "2026-10-11",
+   "type": "web",
+   "reference": "Site de NYGC, page « Project Buena Vista » (présentation et FAQ), capturée le 11/10/2026",
+   "url": "https://nygc.ai/project-buena-vista",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S113",
+   "date_source": "2026-10-12",
+   "type": "CP",
+   "reference": "CP 2CRSi du 12/10/2026 : Aether Infrastructures signe une promesse de vente pour le site FR-SXB2 (Dumarey Powerglide, Port du Rhin)",
+   "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261012-FR.pdf",
+   "archive": "integral",
+   "note": "PDF déposé par l'auteur de la frise (textes/pdf/S113.pdf, 4 pages) ; texte dans textes/S113.txt (bloc des contacts retiré).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S114",
+   "date_source": "2026-07-13",
+   "type": "presse",
+   "reference": "Silicon.fr, 13/07/2026 (modifié le 16/07) : « AI Gigafactories : resté dans l'ombre d'AION, Æther sort du bois »",
+   "url": "https://www.silicon.fr/business-1367/ai-gigafactories-aether-aion-228257",
+   "archive": "integral",
+   "note": "La phrase sur la structure distincte reprend le CP 2CRSi du 18/02/2026 (S055).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S115",
+   "date_source": "2026-05-20",
+   "type": "CP tiers",
+   "reference": "Communiqué du consortium AION (Ardian, Artefact, Bull, Capgemini, EDF, iliad, Orange, Scaleway), 20/05/2026 : candidature française à une AI Gigafactory",
+   "url": "https://www.capgemini.com/fr-fr/wp-content/uploads/sites/6/2026/05/20-05-2026_CP-AION.pdf",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S116",
+   "date_source": "2026-10-12",
+   "type": "linkedin",
+   "reference": "Infographie « Aether Infrastructures signe FR-SXB2 », en-tête « Communiqué de presse – Strasbourg, le 12 octobre 2026 », publiée sur LinkedIn par un salarié de 2CRSi",
+   "url": "https://lnkd.in/p/eymFY2VW",
+   "archive": "integral",
+   "note": "Document de communication, pas un communiqué réglementé. Le CP du 12/10/2026 (S113) parle d'« autres partenaires qui viennent compléter cet écosystème » et dit que le site « ambitionne de devenir, à terme » le plus grand d'Europe.",
+   "texte_archive": "sources_textes.json"
+  }
+ ],
+ "lieux": [
+  {
+   "id": "strasbourg-siege",
+   "nom": "Strasbourg : siège et usine de 2CRSi",
+   "lat": 48.5987,
+   "lon": 7.7662,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2026-03-31_conseil-administration"
+   ],
+   "note": "Siège social (32 rue Jacobi-Netter) selon le rapport semestriel."
+  },
+  {
+   "id": "fr-sxb2",
+   "nom": "FR-SXB2 : site Dumarey Powerglide, Port du Rhin (Strasbourg)",
+   "lat": 48.5745,
+   "lon": 7.7985,
+   "precision": "site",
+   "type": "site",
+   "evenements": [
+    "2026-08-15_rue89-dumarey",
+    "2026-10-09_sxb2-promesse",
+    "2026-12-31_sxb2-echeance"
+   ],
+   "note": "Position approximative du site industriel du Port du Rhin."
+  },
+  {
+   "id": "sarreguemines",
+   "nom": "Sarreguemines : siège d'AETHER Infrastructures",
+   "lat": 49.1097,
+   "lon": 7.0687,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2026-04-24_aether-creation",
+    "2026-08-05_aether-gouvernance"
+   ],
+   "note": "Siège social au registre (7 place de la Gare)."
+  },
+  {
+   "id": "saint-avold",
+   "nom": "Saint-Avold : premier site évoqué en 2025",
+   "lat": 49.104,
+   "lon": 6.707,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2025-07-02_jde-sites-grand-est"
+   ],
+   "note": "Cité dans une interview du PDG (Journal des Entreprises) ; pas confirmé ensuite."
+  },
+  {
+   "id": "versailles",
+   "nom": "Versailles : gala RAISE AI",
+   "lat": 48.8049,
+   "lon": 2.1204,
+   "precision": "site",
+   "type": "evenement",
+   "evenements": [
+    "2026-07-07_raise-gala"
+   ]
+  },
+  {
+   "id": "nanterre",
+   "nom": "Nanterre : data center NA0",
+   "lat": 48.8924,
+   "lon": 2.2069,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2025-03-17_cloud-solutions"
+   ]
+  },
+  {
+   "id": "paris",
+   "nom": "Paris : Electronics Day EMS Europe",
+   "lat": 48.8566,
+   "lon": 2.3522,
+   "precision": "ville",
+   "type": "evenement",
+   "evenements": [
+    "2026-09-17_ems-europe-paris"
+   ]
+  },
+  {
+   "id": "rouses-point",
+   "nom": "Rouses Point (NY) : campus 2CRSi (ex-site Pfizer)",
+   "lat": 44.9937,
+   "lon": -73.3651,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2021-05-17_rouses-point",
+    "2024-01-15_contrat-cadre-610",
+    "2025-03-17_cloud-solutions",
+    "2026-06-19_webinaire-church",
+    "2026-10-06_nygc-5-sites"
+   ]
+  },
+  {
+   "id": "chateaugay",
+   "nom": "Chateaugay (NY) : site CH2 / projet de Joseph Church",
+   "lat": 44.9264,
+   "lon": -74.0796,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2025-03-17_cloud-solutions",
+    "2026-10-06_ncpr-chateaugay",
+    "2026-10-06_nygc-5-sites"
+   ]
+  },
+  {
+   "id": "etat-ny",
+   "nom": "État de New York",
+   "lat": 43.0,
+   "lon": -75.5,
+   "precision": "region",
+   "type": "institution",
+   "evenements": [
+    "2025-06-26_vente-100-musd",
+    "2026-07-14_ny-moratoire"
+   ],
+   "note": "Localisation au niveau de l'État : vente à un client non nommé ; moratoire de la gouverneure."
+  },
+  {
+   "id": "buena-vista",
+   "nom": "Buena Vista, Ione (comté d'Amador, CA) : site NYGC",
+   "lat": 38.353,
+   "lon": -120.933,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2025-09-29_commande-290",
+    "2025-10-15_e3nv-buena-vista",
+    "2025-12-17_atlas-6md",
+    "2026-01-14_buena-vista-achat",
+    "2026-06-02_election-amador-d5",
+    "2026-06-19_webinaire-buena-vista",
+    "2026-08-06_nygc-page-facebook",
+    "2026-08-12_nygc-eau",
+    "2026-08-20_csb-buena-vista",
+    "2026-08-20_nygc-prudence",
+    "2026-08-24_nygc-precisions",
+    "2026-08-26_nygc-faq",
+    "2026-09-22_amador-22-09",
+    "2026-10-01_calaveras-01-10",
+    "2026-10-06_nygc-5-sites"
+   ],
+   "note": "Ancienne centrale biomasse ; position au niveau de la commune d'Ione."
+  },
+  {
+   "id": "loyalton",
+   "nom": "Loyalton (CA) : site annoncé par NYGC",
+   "lat": 39.6763,
+   "lon": -120.241,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-10-06_nygc-5-sites"
+   ]
+  },
+  {
+   "id": "bakersfield",
+   "nom": "Bakersfield (CA) : site annoncé par NYGC",
+   "lat": 35.3733,
+   "lon": -119.0187,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-10-06_nygc-5-sites"
+   ]
+  },
+  {
+   "id": "norwood",
+   "nom": "Norwood (MA) : acquéreur de Boston Limited",
+   "lat": 42.1945,
+   "lon": -71.1995,
+   "precision": "ville",
+   "type": "partenaire",
+   "evenements": [
+    "2023-07-18_cession-boston"
+   ]
+  },
+  {
+   "id": "sherbrooke",
+   "nom": "Sherbrooke (Québec) : Quanthor",
+   "lat": 45.4042,
+   "lon": -71.8929,
+   "precision": "ville",
+   "type": "partenaire",
+   "evenements": [
+    "2026-08-04_quanthor"
+   ]
+  },
+  {
+   "id": "royaume-uni",
+   "nom": "Royaume-Uni : commande de 54 M$",
+   "lat": 52.6,
+   "lon": -1.5,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2025-07-08_commande-54-musd"
+   ],
+   "note": "Client non nommé."
+  },
+  {
+   "id": "manchester",
+   "nom": "Manchester : usine 2CRSi Edge (serveurs du MoD)",
+   "lat": 53.4808,
+   "lon": -2.2426,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2026-09-10_edge-mod"
+   ]
+  },
+  {
+   "id": "allemagne",
+   "nom": "Allemagne : commande de 194 serveurs (110 M€)",
+   "lat": 51.1657,
+   "lon": 10.4515,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-06-09_commande-allemande",
+    "2026-07-01_verification-independante",
+    "2026-08-03_mission-expert",
+    "2026-09-15_expert-conclusions"
+   ],
+   "note": "Client non nommé ; localisation au niveau du pays."
+  },
+  {
+   "id": "amsterdam",
+   "nom": "Amsterdam : IBC 2026 (RAI)",
+   "lat": 52.3418,
+   "lon": 4.8883,
+   "precision": "site",
+   "type": "evenement",
+   "evenements": [
+    "2026-09-11_ibc-amsterdam"
+   ]
+  },
+  {
+   "id": "oslo",
+   "nom": "Oslo : conférence énergie de Pareto Securities",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "precision": "ville",
+   "type": "evenement",
+   "evenements": [
+    "2026-09-16_pareto-oslo"
+   ]
+  },
+  {
+   "id": "dubai",
+   "nom": "Dubaï : NAFFCO",
+   "lat": 25.2048,
+   "lon": 55.2708,
+   "precision": "ville",
+   "type": "partenaire",
+   "evenements": [
+    "2025-10-20_naffco"
+   ]
+  },
+  {
+   "id": "inde",
+   "nom": "Inde : L&T, puis Valeo (edge à immersion)",
+   "lat": 21.0,
+   "lon": 78.0,
+   "precision": "pays",
+   "type": "partenaire",
+   "evenements": [
+    "2023-09-12_lt-inde-2023",
+    "2026-11-15_valeo-sop"
+   ]
+  },
+  {
+   "id": "new-delhi",
+   "nom": "New Delhi : AI Impact Summit (Valeo × 2CRSi)",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "precision": "ville",
+   "type": "evenement",
+   "evenements": [
+    "2026-02-16_valeo-new-delhi"
+   ]
+  },
+  {
+   "id": "malaisie",
+   "nom": "Malaisie : contrat de 47 M€ et mission Business France",
+   "lat": 4.2105,
+   "lon": 101.9758,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2025-08-13_malaisie-47",
+    "2026-07-07_mission-malaisie"
+   ]
+  },
+  {
+   "id": "japon",
+   "nom": "Japon : cloud IA d'un client canadien",
+   "lat": 36.2,
+   "lon": 138.25,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-02-17_commande-140",
+    "2026-06-19_webinaire-usines"
+   ],
+   "note": "Client facturé au Canada, livraison dans un data center au Japon."
+  }
+ ],
+ "non_localises": [
+  {
+   "evenement": "2022-10-19_hpc-defense",
+   "raison": "client de la défense non nommé"
+  },
+  {
+   "evenement": "2026-02-18_aether-negociation-site",
+   "raison": "site du Grand Est non nommé dans le communiqué"
+  },
+  {
+   "evenement": "2026-07-08_aether-12-membres",
+   "raison": "FR-SXB1 : aucune pièce de la société ne localise le site"
+  },
+  {
+   "evenement": "2026-10-31_sxb1-echeance",
+   "raison": "FR-SXB1 : aucune pièce de la société ne localise le site"
+  }
+ ],
+ "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
+}

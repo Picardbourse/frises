@@ -1,0 +1,4011 @@
+{
+ "_a_lire": "Export lisible par machine de la frise des faits VusionGroup : même contenu que la page index.html, qui est rendue en JavaScript. Chaque événement porte une date et renvoie à une ou plusieurs sources (identifiants Sxxx de la liste « sources », avec leur url). Merci de citer la source d'origine plutôt que cet export, et de vérifier « genere_le » : la page peut avoir été mise à jour depuis.",
+ "legende": {
+  "statut_evenement": {
+   "doc": "fait documenté (communiqué, registre, article, document officiel)",
+   "decl": "déclaration publique (dirigeant, partenaire), non vérifiée par ailleurs",
+   "echeance": "échéance annoncée, à venir"
+  },
+  "statut_engagement": {
+   "ok": "tenu",
+   "warn": "recalé (échéance ou montant revu)",
+   "bad": "échu sans communication",
+   "nd": "passé, non documenté à ce jour",
+   "todo": "à venir"
+  },
+  "liens": "relations entre événements : reporte, confirme, infirme, précise",
+  "sources_forum": "une source de type forum ne vaut que pour le document qu'elle cite ou reproduit",
+  "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
+ },
+ "page": "index.html",
+ "genere_le": "2026-10-13",
+ "arrete_au": "2026-10-12",
+ "version_provisoire": true,
+ "config": {
+  "code": "vusion",
+  "nom": "VusionGroup",
+  "intro": "Chronologie des communiqués, registres, articles de presse et déclarations publiques des dirigeants, de 2021 aux échéances annoncées. Chaque ligne porte une date et une source ; chaque source est consultable. Les engagements datés sont suivis jusqu'à leur échéance.",
+  "note_exercice": "Exercice fiscal sur l'année civile.",
+  "avertissement": "Plusieurs échéances tombent dans les semaines qui viennent, dont le chiffre d'affaires du 3e trimestre (20/10/2026) et le Capital Markets Day du 18/11/2026 : la frise sera mise à jour après chacune.",
+  "contact": "picard_bourse@proton.me",
+  "sujets": {
+   "contrats": {
+    "label": "Contrats & clients",
+    "c": "--t-1"
+   },
+   "usa": {
+    "label": "États-Unis & réglementation",
+    "c": "--t-2"
+   },
+   "res": {
+    "label": "Résultats & guidance",
+    "c": "--t-3"
+   },
+   "gouv": {
+    "label": "Gouvernance & actionnariat",
+    "c": "--t-4"
+   },
+   "vad": {
+    "label": "VAD & analystes",
+    "c": "--t-5"
+   },
+   "produit": {
+    "label": "Produits & technologie",
+    "c": "--t-6"
+   },
+   "mkt": {
+    "label": "Marché",
+    "c": "--t-7"
+   },
+   "autre": {
+    "label": "Autres",
+    "c": "--t-8"
+   }
+  }
+ },
+ "nb": {
+  "evenements": 97,
+  "sources": 113
+ },
+ "evenements": [
+  {
+   "id": "2021-03-31_resultats-2020",
+   "date": "2021-03-31",
+   "date_affichee": "31 mars 2021",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats 2020 et objectifs « VUSION-23 » : 400 M€ en 2021, 800 M€ en 2023",
+   "texte": "CA 2020 de 290,3 M€ (+17 %), EBITDA 16,0 M€, résultat net −7,6 M€ ; prises de commandes record de 455 M€. Objectifs : croissance de plus de 30 % en 2021, « soit un objectif de chiffre d'affaires d'environ 400 M€ pour 2021 et d'environ 800 M€ à l'horizon 2023 », et un ratio EBITDA/CA de plus de 15 % à l'horizon 2023.",
+   "sources": [
+    "S003"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 31/03/2021 : résultats 2020"
+   ],
+   "engagements": [
+    {
+     "id": "2021-03-31_resultats-2020#e1",
+     "texte": "CA 2021 « d'environ 400 M€ »",
+     "echeance": "2021-12-31",
+     "statut": "ok",
+     "statue_par": "S004",
+     "note": "422,6 M€ publiés le 27/01/2022"
+    },
+    {
+     "id": "2021-03-31_resultats-2020#e2",
+     "texte": "CA « d'environ 800 M€ à l'horizon 2023 »",
+     "echeance": "2023-12-31",
+     "statut": "ok",
+     "statue_par": "S005",
+     "note": "801,4 M€ publiés le 24/01/2024"
+    },
+    {
+     "id": "2021-03-31_resultats-2020#e3",
+     "texte": "Ratio EBITDA/CA de « plus de 15 % » à l'horizon 2023",
+     "echeance": "2023-12-31",
+     "statut": "warn",
+     "statue_par": "S006",
+     "note": "Non atteint : EBITDA 2023 de 102,3 M€, soit 12,8 % (CP du 27/03/2024)."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2021-04-07_walmart-canada",
+   "date": "2021-04-07",
+   "date_affichee": "7 avr. 2021",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Walmart Canada : étiquettes électroniques dans 328 magasins",
+   "texte": "La technologie « sera déployée dans 328 magasins Walmart Canada sur une période de deux ans ». Aucun montant publié.",
+   "sources": [
+    "S007"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 07/04/2021 : Walmart Canada (328 magasins)"
+   ],
+   "engagements": [
+    {
+     "id": "2021-04-07_walmart-canada#e1",
+     "texte": "Déploiement dans 328 magasins Walmart Canada « sur une période de deux ans »",
+     "echeance": "2023-04-30",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Aucune pièce ne confirme la fin du déploiement."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2021-04-08_boe-cession",
+   "date": "2021-04-08",
+   "date_affichee": "8 avr. 2021",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "BOE cède 1,3 million d'actions à 44 € ; le flottant passe à 32 %",
+   "texte": "Placement accéléré de 1,3 million d'actions existantes par BOE Smart Retail HK (pas d'augmentation de capital). BOE détient ensuite 60,2 % ; flottant porté de 24 % à 32 %. Engagement de conservation de 90 jours ; BOE indique vouloir rester actionnaire de long terme.",
+   "sources": [
+    "S008"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 09/04/2021 : augmentation du flottant (cession BOE)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2021-04-28_ca-t1-2021",
+   "date": "2021-04-28",
+   "date_affichee": "28 avr. 2021",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "T1 2021 : CA de 84 M€ (+66 %), objectif de 400 M€ confirmé",
+   "texte": "CA du T1 de 84,1 M€ (+65,6 %), commandes de 111,0 M€. Le contrat Walmart Canada sera intégré aux commandes du T2. Réserve sur l'approvisionnement en composants électroniques au second semestre.",
+   "sources": [
+    "S009"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 28/04/2021 : chiffre d'affaires T1 2021"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2021-07-29_ca-s1-2021",
+   "date": "2021-07-29",
+   "date_affichee": "29 juil. 2021",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "S1 2021 : CA de 202,8 M€ (+71 %)",
+   "texte": "CA S1 de 202,8 M€ (+71,3 %), commandes de 309,3 M€ (+86,9 %). Le groupe « reste confiant sur son objectif de chiffre d'affaires pour 2021 à environ 400 M€ ».",
+   "sources": [
+    "S010"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 29/07/2021 : chiffre d'affaires S1 2021"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2021-10-28_ca-9m-2021",
+   "date": "2021-10-28",
+   "date_affichee": "28 oct. 2021",
+   "sujets": [
+    "res",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "9 mois 2021 : +51 % ; arrêt de l'usine Jabil au Vietnam",
+   "texte": "CA T3 de 87,5 M€ (+19 %), 9 mois de 290,3 M€ (+51 %). L'usine du sous-traitant Jabil au Vietnam est à l'arrêt ; retour à une activité normale prévu « courant novembre ».",
+   "sources": [
+    "S011"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 28/10/2021 : chiffre d'affaires 9 mois 2021"
+   ],
+   "engagements": [
+    {
+     "id": "2021-10-28_ca-9m-2021#e1",
+     "texte": "Retour à une activité normale de l'usine Jabil « courant novembre » 2021",
+     "echeance": "2021-11-30",
+     "statut": "nd",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2022-01-27_ca-2021",
+   "date": "2022-01-27",
+   "date_affichee": "27 janv. 2022",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "CA 2021 de 422,6 M€ (+46 %)",
+   "texte": "CA 2021 de 422,6 M€ (+45,6 %), dont 132,3 M€ au T4 ; commandes de 601,8 M€. Contraintes d'approvisionnement attendues en 2022. Les résultats du 03/03/2022 donnent 422,9 M€.",
+   "sources": [
+    "S004"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 27/01/2022 : chiffre d'affaires 2021"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2021-03-31_resultats-2020"
+    }
+   ]
+  },
+  {
+   "id": "2022-03-03_resultats-2021",
+   "date": "2022-03-03",
+   "date_affichee": "3 mars 2022",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats 2021 : EBITDA 32,3 M€ ; croissance de 30 à 50 % attendue en 2022",
+   "texte": "CA 422,9 M€, EBITDA 32,3 M€ (7,6 %), résultat net +2,0 M€, position nette de trésorerie +8,3 M€. Objectifs : « une croissance attendue entre +30% et +50% en 2022 » ; marge d'EBITDA d'environ 15 % à l'horizon 2023.",
+   "sources": [
+    "S012"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 03/03/2022 : résultats 2021"
+   ],
+   "engagements": [
+    {
+     "id": "2022-03-03_resultats-2021#e1",
+     "texte": "Croissance du CA 2022 « entre +30% et +50% » (fourchette basse relevée à 40 % le 25/07/2022)",
+     "echeance": "2022-12-31",
+     "statut": "ok",
+     "statue_par": "S013",
+     "note": "CA 2022 de 619,1 M€ (+46,4 %), CP du 26/01/2023."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2022-03-10_walmart-us",
+   "date": "2022-03-10",
+   "date_affichee": "10 mars 2022",
+   "sujets": [
+    "contrats",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Walmart étend aux États-Unis le pilote mené en Arkansas",
+   "texte": "Le pilote d'étiquettes électroniques mené en Arkansas « will now be expanded to a much larger set of locations across the country ». Aucun nombre de magasins, aucun montant, aucune durée.",
+   "sources": [
+    "S014"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 10/03/2022 : extension du déploiement chez Walmart aux États-Unis"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2022-04-28_ca-t1-2022",
+   "date": "2022-04-28",
+   "date_affichee": "28 avr. 2022",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "T1 2022 : CA de 120,2 M€ (+43 %), commandes record",
+   "texte": "CA du T1 de 120,2 M€ (+42,9 %), dont Europe 91,4 M€ ; prises de commandes record de 170,1 M€ (+53,2 %). Le PDG évoque un « solide démarrage » malgré les tensions sur les chaînes d'approvisionnement et le confinement en Chine.",
+   "sources": [
+    "S070",
+    "S071"
+   ],
+   "sources_libelle": [
+    "CP du 28/04/2022",
+    "Présentation du T1 2022"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2022-05-03_sesim-option",
+   "date": "2022-05-03",
+   "date_affichee": "3 mai 2022",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "SESIM, holding du management, exerce son option de liquidité",
+   "texte": "SESIM notifie à BOE l'exercice de l'option prévue au pacte d'actionnaires de 2017 pour devenir actionnaire direct ; BOE Smart Retail HK détient 60,2 %. SESIM dit vouloir « demeurer un actionnaire de long terme ».",
+   "sources": [
+    "S015"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 03/05/2022 : SESIM exerce son option de liquidité"
+   ],
+   "engagements": [
+    {
+     "id": "2022-05-03_sesim-option#e1",
+     "texte": "Mise en œuvre de l'option « dans le courant du 2° trimestre 2022 »",
+     "echeance": "2022-06-30",
+     "statut": "warn",
+     "statue_par": "S016",
+     "note": "Réalisée le 17/11/2022 (avis AMF)."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2022-07-25_ca-s1-2022",
+   "date": "2022-07-25",
+   "date_affichee": "25 juil. 2022",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "S1 2022 : CA de 285 M€ (+41 %), objectif annuel relevé à +40-50 %",
+   "texte": "CA S1 de 285,0 M€ (+40,6 %), commandes de 385,0 M€. « La croissance du CA pour l'exercice 2022 attendue entre +40 % et +50 % » (fourchette basse relevée de 30 à 40 %).",
+   "sources": [
+    "S017"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 25/07/2022 : chiffre d'affaires S1 2022"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2022-03-03_resultats-2021"
+    }
+   ]
+  },
+  {
+   "id": "2022-09-08_resultats-s1-2022",
+   "date": "2022-09-08",
+   "date_affichee": "8 sept. 2022",
+   "sujets": [
+    "res",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Résultats S1 2022 ; échange de la coentreprise chinoise contre 9,5 % de BOE-YiYun",
+   "texte": "EBITDA S1 de 25,3 M€ (8,9 %), résultat net 4,9 M€. Le conseil du 22/07/2022 a approuvé l'échange des 51 % de la coentreprise chinoise contre 9,5 % de BOE-YiYun (effet trésorerie d'environ −20 M€), cession attendue « d'ici la fin du 3° trimestre 2022 ». CA 2022 attendu à plus de 600 M€.",
+   "sources": [
+    "S018"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 08/09/2022 : résultats S1 2022"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2022-10-27_ca-t3-2022",
+   "date": "2022-10-27",
+   "date_affichee": "27 oct. 2022",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "T3 2022 : CA de 181,8 M€ (+108 %) ; objectif de 800 M€ en 2023 réaffirmé",
+   "texte": "CA 9 mois de 467,7 M€. « CA annuel 2022 attendu à plus de 600 M€ » ; les commandes « couvrent d'ores et déjà plus de 80% de notre objectif de CA de 800 M€ » pour 2023.",
+   "sources": [
+    "S019"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 27/10/2022 : chiffre d'affaires T3 2022"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2022-11-09_vusion27",
+   "date": "2022-11-09",
+   "date_affichee": "9 nov. 2022",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Plan « VUSION '27 » : 2,2 Md€ de CA, 22 % de marge d'EBITDA et 650 M€ de VAS en 2027",
+   "texte": "Présentation du Capital Markets Day : « AMBITION 2027 TARGET » de « REV €2.2B (40% in US) », « 30% CAGR » et « 1B Connected IOT devices » ; objectif opérationnel « EBITDA 22% » ; ventes passant de « 600+ » M€ en 2022 à « 2,200 » M€ en 2027 et solutions à valeur ajoutée (VAS) de 95 à 650 M€. Par zone : Europe 1,1 Md€, Amérique du Nord 0,9 Md€. Les communiqués ultérieurs maintiennent les ambitions du plan sans les rechiffrer.",
+   "sources": [
+    "S072",
+    "S020"
+   ],
+   "sources_libelle": [
+    "Présentation du Capital Markets Day du 09/11/2022",
+    "Easybourse et Option Finance, 09/11/2022"
+   ],
+   "engagements": [
+    {
+     "id": "2022-11-09_vusion27#e1",
+     "texte": "CA de 2,2 Md€ en 2027, dont 40 % aux États-Unis",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Le CP du 26/02/2026 indique que « le Groupe maintient ses ambitions présentées à l'automne 2022 dans son plan stratégique Vusion-27 » ; nouveau plan annoncé pour le Capital Markets Day du 18/11/2026."
+    },
+    {
+     "id": "2022-11-09_vusion27#e2",
+     "texte": "Marge d'EBITDA de 22 % en 2027",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2022-11-09_vusion27#e3",
+     "texte": "VAS de 650 M€ en 2027",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "211 M€ en 2025 ; environ +40 % visé en 2026."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2022-11-17_sesim-boe",
+   "date": "2022-11-17",
+   "date_affichee": "17 nov. 2022",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "SESIM détient 11,97 % ; BOE passe sous 50 % (environ 42 %)",
+   "texte": "Selon les avis AMF : SESIM reçoit des actions issues d'un placement de BOE de juillet 2022 et d'un échange de titres ; elle détient 1 897 837 actions (11,97 %). BOE Smart Retail passe sous 50 % avec 6 631 349 actions (42 % selon le tableau des franchissements du document d'enregistrement universel 2025 ; le second avis AMF, 222C2525, reste à archiver) ; fin de l'action de concert avec le management. SESIM déclare ne pas rechercher le contrôle ; une partie de l'acquisition est financée par un prêt garanti par un nantissement de sa participation.",
+   "sources": [
+    "S016",
+    "S077"
+   ],
+   "sources_libelle": [
+    "AMF, avis 222C2515 et 222C2525 (22-23/11/2022) : franchissements de seuils SESIM et BOE Sm",
+    "Document d'enregistrement universel 2025 (historique des franchissements)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2022-05-03_sesim-option"
+    }
+   ]
+  },
+  {
+   "id": "2023-01-26_ca-2022",
+   "date": "2023-01-26",
+   "date_affichee": "26 janv. 2023",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "CA 2022 de 619,1 M€ (+46 %) ; objectif de 800 M€ en 2023 inchangé",
+   "texte": "CA 2022 de 619,1 M€ (+46,4 %), dont plus de 100 M€ en Amérique du Nord ; commandes de 685 M€ ; solutions à valeur ajoutée (VAS) de 93 M€, 15 % du CA. « Notre objectif de 800 M€ de CA reste donc inchangé pour cette année ».",
+   "sources": [
+    "S013"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 26/01/2023 : chiffre d'affaires 2022"
+   ],
+   "engagements": [
+    {
+     "id": "2023-01-26_ca-2022#e1",
+     "texte": "CA de 800 M€ en 2023",
+     "echeance": "2023-12-31",
+     "statut": "ok",
+     "statue_par": "S005",
+     "note": "801,4 M€ publiés le 24/01/2024."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2023-03-08_resultats-2022",
+   "date": "2023-03-08",
+   "date_affichee": "8 mars 2023",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats 2022 : EBITDA 58,6 M€ (9,4 %), résultat net 18,7 M€",
+   "texte": "CA 620,9 M€, EBITDA 58,6 M€, dette nette hors IFRS 16 de 40,5 M€. Acquisitions : MarketHub, In the Memory, Belive.ai en cours. Objectifs : environ +30 % en 2023 (800 M€), investissements de 5 à 7 % du CA par an jusqu'en 2027.",
+   "sources": [
+    "S021"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 08/03/2023 : résultats 2022"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-04-27_walmart-bsa",
+   "date": "2023-04-27",
+   "date_affichee": "27 avr. 2023",
+   "sujets": [
+    "contrats",
+    "usa",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Accord stratégique avec Walmart : 500 magasins et bons de souscription jusqu'à 10 % du capital",
+   "texte": "1 761 200 bons de souscription réservés à Walmart (jusqu'à 10 % du capital), prix d'exercice 112,19 €, exerçables quand les paiements cumulés de Walmart atteignent 700 M USD puis linéairement jusqu'à 3 Md USD, sur 7 ans. Le contrat « pourrait s'élever à un montant de plusieurs milliards de dollars sur les 5 à 7 prochaines années ». Selon la presse : première phase de 500 magasins en 12 à 18 mois, 60 millions d'étiquettes ; le titre gagne 41 % en séance.",
+   "sources": [
+    "S022",
+    "S023"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 27/04/2023 : bons de souscription réservés à Walmart",
+    "BFM Bourse / Tradingsat, 27/04/2023 : « Avec Walmart qui envisage de prendre 10% de son ca"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-06-02_age-bsa",
+   "date": "2023-06-02",
+   "date_affichee": "2 juin 2023",
+   "sujets": [
+    "gouv",
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "L'assemblée approuve à près de 99 % les bons de souscription de Walmart",
+   "texte": "L'AGE du 02/06 « a approuvé à près de 99% l'émission de 1 761 200 bons de souscription d'actions » ; émission décidée par le conseil le 05/06.",
+   "sources": [
+    "S024"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 05/06/2023 : l'AG approuve les BSA Walmart"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2023-04-27_walmart-bsa"
+    }
+   ]
+  },
+  {
+   "id": "2023-06-22_gotham-partie-1",
+   "date": "2023-06-22",
+   "date_affichee": "22 juin 2023",
+   "sujets": [
+    "vad",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Gotham City Research attaque ; la société dénonce des « gross inaccuracies »",
+   "texte": "Rapport « The Circular Dance with a Chinese Twirl » : accusations portant notamment sur la relation avec BOE (actionnaire, fournisseur, partenaire et client). Le conseil estime à l'unanimité que le rapport « includes several gross inaccuracies and/or misunderstandings » ; opérations avec BOE déclarées, à conditions de marché et éliminées en consolidation ; comptes 2020-2022 certifiés sans réserve. Cotation suspendue le 22/06 ; à la reprise le 23/06, le titre perd près de 60 % (166,80 € → 69,60 €).",
+   "sources": [
+    "S025",
+    "S026",
+    "S002"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 22/06/2023 : réponse au rapport de Gotham City Research",
+    "BFM Bourse / Tradingsat, 26/06/2023 : « Après son plongeon en Bourse, SES-imagotag contre-",
+    "Cours du 21/06 au 06/07/2023 recopiés par l'auteur de la frise"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-06-26_reponse-detaillee",
+   "date": "2023-06-26",
+   "date_affichee": "26 juin 2023",
+   "sujets": [
+    "vad",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Réponse détaillée au rapport de Gotham",
+   "texte": "CA consolidé 2022 de 620,9 M€ présenté comme « generated in its entirety by sales to external clients » ; flux E Ink → SES → usine BOE neutralisés en consolidation ; coentreprise chinoise : 19 M€ de CA en 2022 (31 M€ selon Gotham), cédée contre 8,9 % de BOE-YiYun. SESIM détient 12 %. Le titre rebondit de 16 % le 26/06 et de 19 % le 27/06.",
+   "sources": [
+    "S027",
+    "S002"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 26/06/2023 : réponse détaillée au rapport Gotham",
+    "Cours recopiés par l'auteur de la frise"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2023-06-22_gotham-partie-1"
+    }
+   ]
+  },
+  {
+   "id": "2023-06-28_auditeurs-justice",
+   "date": "2023-06-28",
+   "date_affichee": "28 juin 2023",
+   "sujets": [
+    "vad",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Deloitte et KPMG attestent ; la société saisit l'AMF et prépare une plainte",
+   "texte": "Les commissaires aux comptes attestent que les transactions avec BOE (53,1, unité à vérifier) ont été neutralisées et exclues du CA consolidé 2022. La société mandate ses conseils pour alerter l'AMF et engager des procédures, notamment auprès du Parquet national financier. Annonce anticipée : CA du T2 supérieur à 200 M€, « record historique ».",
+   "sources": [
+    "S028"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 28/06/2023 : suites données au rapport Gotham, performance du S1"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2023-06-22_gotham-partie-1"
+    }
+   ]
+  },
+  {
+   "id": "2023-07-07_gotham-partie-2",
+   "date": "2023-07-07",
+   "date_affichee": "7 juil. 2023",
+   "sujets": [
+    "vad",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Seconde partie du rapport Gotham ; plainte déposée au Parquet national financier",
+   "texte": "Gotham publie une seconde partie consacrée à la gouvernance (site de R&D autrichien loué par des dirigeants, indépendance d'administrateurs investis dans SESIM, selon la presse). La société notifie l'AMF et dépose plainte auprès du PNF le jour même ; le rapport « ne contient rien de plus que la poursuite d'accusations fausses et délibérément trompeuses ». Réfutation détaillée publiée le 10/07 (connue par la presse).",
+   "sources": [
+    "S029",
+    "S001"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 07/07/2023 : réaction à la seconde publication de Gotham, plainte au PN",
+    "Retour d'expérience de l'auteur de la frise (forum, 19/06/2026)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-07-27_ca-s1-2023",
+   "date": "2023-07-27",
+   "date_affichee": "27 juil. 2023",
+   "sujets": [
+    "res",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "S1 2023 : CA de 380 M€ (+33 %), sans chiffre d'affaires avec BOE",
+   "texte": "CA T2 de 221 M€ (+33 %), S1 de 380 M€ ; commandes de 518 M€ (+35 %). Le CP rappelle que « le chiffre d'affaires consolidé du Groupe ne comporte pas non plus de chiffre d'affaires avec BOE ». Objectif de 800 M€ en 2023 ; les États-Unis premier pays « dès 2024 ».",
+   "sources": [
+    "S030"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 27/07/2023 : chiffre d'affaires S1 2023"
+   ],
+   "engagements": [
+    {
+     "id": "2023-07-27_ca-s1-2023#e1",
+     "texte": "Les États-Unis premier pays du groupe « dès 2024 »",
+     "echeance": "2024-12-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "Les communiqués publient des zones (Amériques/Asie-Pacifique), pas le CA par pays."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2023-07-28_gotham-suite",
+   "date": "2023-07-28",
+   "date_affichee": "28 juil. 2023",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "La société n'entend plus commenter les observations de Gotham",
+   "texte": "Renvoi aux réponses des 26/06 et 10/07 : « SES-imagotag n'entend pas commenter davantage les observations formulées par GC ».",
+   "sources": [
+    "S031"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 28/07/2023 : réaction au communiqué de Gotham City"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-09-11_resultats-s1-2023",
+   "date": "2023-09-11",
+   "date_affichee": "11 sept. 2023",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats S1 2023 : EBITDA 43,5 M€ (11,4 %), free cash-flow positif",
+   "texte": "EBITDA 43,5 M€ ; résultat net 91,5 M€ dont 76,4 M€ de gain de réévaluation des BSA Walmart (15,1 M€ hors cet effet) ; free cash-flow +34,5 M€ ; dette nette 6,0 M€.",
+   "sources": [
+    "S032"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 11/09/2023 : résultats S1 2023"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2023-10-26_ca-t3-2023",
+   "date": "2023-10-26",
+   "date_affichee": "26 oct. 2023",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "T3 2023 : CA de 182,5 M€ (+0,4 %)",
+   "texte": "CA 9 mois de 563,2 M€ (+20,4 %) ; zone Amériques/Asie-Pacifique en baisse de 39,4 % au T3. T4 attendu « to a high of €240m+ ».",
+   "sources": [
+    "S033"
+   ],
+   "sources_libelle": [
+    "CP SES-imagotag du 26/10/2023 : chiffre d'affaires T3 2023"
+   ],
+   "engagements": [
+    {
+     "id": "2023-10-26_ca-t3-2023#e1",
+     "texte": "CA du T4 2023 « €240m+ »",
+     "echeance": "2023-12-31",
+     "statut": "warn",
+     "statue_par": "S005",
+     "note": "238,2 M€ publiés le 24/01/2024, légèrement sous le niveau annoncé."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2023-11-28_bpifrance-5",
+   "date": "2023-11-28",
+   "date_affichee": "28 nov. 2023",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Bpifrance (fonds LAC I) franchit 5 % du capital",
+   "texte": "919 655 actions, 5,76 % du capital, acquises sur le marché. Le fonds détient 8,21 % selon le CP du 07/03/2024.",
+   "sources": [
+    "S034"
+   ],
+   "sources_libelle": [
+    "AMF, avis 223C1980 (05/12/2023) : Bpifrance (LAC I) franchit 5 %"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-01-10_vusiongroup",
+   "date": "2024-01-10",
+   "date_affichee": "10 janv. 2024",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "SES-imagotag devient VusionGroup",
+   "texte": "Changement de nom approuvé par l'AG du 23/06/2023 ; « SESimagotag demeure le nom de la principale division produit ».",
+   "sources": [
+    "S035"
+   ],
+   "sources_libelle": [
+    "CP du 10/01/2024 : SES-imagotag devient VusionGroup"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-01-24_ca-2023",
+   "date": "2024-01-24",
+   "date_affichee": "24 janv. 2024",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "CA 2023 de 801,4 M€ ; objectif d'un milliard en 2024",
+   "texte": "CA 2023 de 801,4 M€ (+29 %), T4 de 238,2 M€ (+55 %), commandes de 950 M€ (+39 %). Objectif : « franchir en 2024 le cap du milliard d'euros de chiffre d'affaires retraité ».",
+   "sources": [
+    "S005"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 24/01/2024 : chiffre d'affaires 2023"
+   ],
+   "engagements": [
+    {
+     "id": "2024-01-24_ca-2023#e1",
+     "texte": "CA 2024 retraité d'un milliard d'euros",
+     "echeance": "2024-12-31",
+     "statut": "ok",
+     "statue_par": "S043",
+     "note": "1 010,5 M€ ajustés (CP du 26/02/2025)."
+    }
+   ],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2023-01-26_ca-2022"
+    }
+   ]
+  },
+  {
+   "id": "2024-03-07_gouvernance",
+   "date": "2024-03-07",
+   "date_affichee": "7 mars 2024",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Gouvernance : vice-présidence de P. Brabeck-Letmathe, entrée d'un représentant de Bpifrance",
+   "texte": "P. Brabeck-Letmathe devient vice-président et administrateur référent ; deux administrateurs indépendants proposés, dont un représentant de Bpifrance (LAC1 : 8,21 %) ; conseil porté à 10 membres, 60 % d'indépendants.",
+   "sources": [
+    "S036"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 07/03/2024 : évolution de la gouvernance"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-03-27_resultats-2023",
+   "date": "2024-03-27",
+   "date_affichee": "27 mars 2024",
+   "sujets": [
+    "res",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Résultats 2023 : EBITDA 102,3 M€ (12,8 %) ; guidance 2024 détaillée",
+   "texte": "CA IFRS 802,0 M€, EBITDA 102,3 M€, résultat net 79,6 M€ dont 48,6 M€ de réévaluation des BSA ; dividende de 0,30 €. Guidance 2024 : 1 Md€ de CA, VAS de 120 à 140 M€, marge d'EBITDA ajusté en hausse de 50 à 100 points de base.",
+   "sources": [
+    "S006"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 27/03/2024 : résultats 2023"
+   ],
+   "engagements": [
+    {
+     "id": "2024-03-27_resultats-2023#e1",
+     "texte": "VAS 2024 de 120 à 140 M€",
+     "echeance": "2024-12-31",
+     "statut": "warn",
+     "statue_par": "S041",
+     "note": "Abaissé à 100-110 M€ le 28/10/2024 ; 105,7 M€ réalisés."
+    },
+    {
+     "id": "2024-03-27_resultats-2023#e2",
+     "texte": "Marge d'EBITDA 2024 en hausse de 50 à 100 points de base (relevée à 100 à 200 points de base le 12/09/2024)",
+     "echeance": "2024-12-31",
+     "statut": "ok",
+     "statue_par": "S043",
+     "note": "15,9 % en 2024 contre 12,8 % en 2023."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2024-04-30_walmart-avenant",
+   "date": "2024-04-30",
+   "date_affichee": "30 avr. 2024",
+   "sujets": [
+    "contrats",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Avenant Walmart : environ 1 Md€ de commandes",
+   "texte": "Avenant pour accélérer le déploiement d'EdgeSense et VusionCloud chez Walmart US : prise de commandes d'environ 1 Md€ ; Walmart pourra commencer à exercer ses BSA une fois le CA correspondant réalisé.",
+   "sources": [
+    "S037"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 30/04/2024 : avenant Walmart (EdgeSense, VusionCloud)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2023-04-27_walmart-bsa"
+    }
+   ]
+  },
+  {
+   "id": "2024-05-24_shadowfall",
+   "date": "2024-05-24",
+   "date_affichee": "24 mai 2024",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "Message de Shadowfall relayé par Gotham ; la société dénonce une « manipulation du cours »",
+   "texte": "Un message de Matthew Earl (Shadowfall) sur X, ne nommant aucune société, est relayé par Gotham. VusionGroup : « Nous semblons assister à une nouvelle manipulation du cours » ; la communication visée concerne E Ink et non BOE. Titre −16 % à l'ouverture. Shadowfall apparaît au registre AMF des positions courtes d'avril 2024 à mars 2025 (jusqu'à 0,61 %).",
+   "sources": [
+    "S038",
+    "S068"
+   ],
+   "sources_libelle": [
+    "BFM Bourse / Tradingsat, 24/05/2024 : « Le titre chute, manipulation de cours dénoncée »",
+    "Registre AMF des positions courtes nettes (VusionGroup), export open data du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-08-07_ace-hardware",
+   "date": "2024-08-07",
+   "date_affichee": "7 août 2024",
+   "sujets": [
+    "contrats",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Ace Hardware (États-Unis) choisit VusionGroup",
+   "texte": "Accord pour digitaliser les magasins de l'enseigne, qui compte « over 5,000 locations across the United States. » Le communiqué évoque un « future deployment » de la gamme complète, sans calendrier, volume ni montant.",
+   "sources": [
+    "S097"
+   ],
+   "sources_libelle": [
+    "Communiqué VusionGroup du 07/08/2024 (Business Wire)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-08-09_sesim",
+   "date": "2024-08-09",
+   "date_affichee": "9 août 2024",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "SESIM se refinance ; P. Brabeck-Letmathe monte à 11,17 % de SESIM",
+   "texte": "Nouveau prêt de 20 M€ pour racheter des titres SESIM ; « SESIM conserve 12% du capital et des droits de vote de VusionGroup ». Parmen (Gadou/Bottine) cède 310 000 titres SESIM ; P. Brabeck-Letmathe investit 12 M€.",
+   "sources": [
+    "S039"
+   ],
+   "sources_libelle": [
+    "CP du 09/08/2024 : SESIM, opérations de financement et de reclassement de titres"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-09-12_resultats-s1-2024",
+   "date": "2024-09-12",
+   "date_affichee": "12 sept. 2024",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats S1 2024 : EBITDA ajusté 13,7 %, trésorerie nette de 215 M€",
+   "texte": "EBITDA ajusté 59,1 M€ ; résultat net IFRS −24,4 M€ (réévaluation des BSA −13,0 M€) ; free cash-flow 203,0 M€ ; trésorerie nette 214,9 M€. Hausse de marge 2024 relevée : « en croissance de 100 à 200 points de base sur l'ensemble de l'année ».",
+   "sources": [
+    "S040"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 12/09/2024 : résultats S1 2024"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-10-28_ca-t3-2024",
+   "date": "2024-10-28",
+   "date_affichee": "28 oct. 2024",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "T3 2024 : +22 % ajusté, EMEA −37 % ; objectif VAS abaissé",
+   "texte": "CA T3 ajusté de 222,9 M€ ; commandes 9 mois de 1 156 M€ (+63 %) ; EMEA −37,2 % au T3. Objectif VAS ramené à 100-110 M€. Selon la presse (29/10), CA sous le consensus ; titre −6,3 %.",
+   "sources": [
+    "S041"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 28/10/2024 : chiffre d'affaires T3 2024"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2024-12-23_walmart-4600",
+   "date": "2024-12-23",
+   "date_affichee": "23 déc. 2024",
+   "sujets": [
+    "contrats",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Walmart étend le déploiement à ses 4 600 magasins américains",
+   "texte": "2 300 magasins supplémentaires, soit l'ensemble des 4 600 magasins américains de Walmart ; la prise de commande supplémentaire d'environ 1 Md€ « sera intégrée aux chiffres des trimestres à venir ». Le 18/12, The Fresh Market (166 magasins d'ici fin 2025) avait été annoncé.",
+   "sources": [
+    "S042"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 23/12/2024 : Walmart étend le déploiement à tous ses magasins américains"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-04-30_walmart-avenant"
+    }
+   ]
+  },
+  {
+   "id": "2025-02-26_resultats-2024",
+   "date": "2025-02-26",
+   "date_affichee": "26 févr. 2025",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats 2024 : 1 Md€ de CA ajusté, EBITDA ajusté 15,9 % ; +40 % visés en 2025",
+   "texte": "CA ajusté 1 010,5 M€ (IFRS 954,7 M€), EBITDA ajusté 160,5 M€ (15,9 %), résultat net IFRS −28,9 M€, free cash-flow 391 M€, trésorerie nette 392,8 M€, commandes de 1 628 M€ ; dividende de 0,60 €. Objectifs 2025 : environ +40 % de CA, VAS environ +80 %, marge d'EBITDA ajusté en hausse de 100 à 200 points de base.",
+   "sources": [
+    "S043"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 26/02/2025 : résultats annuels 2024"
+   ],
+   "engagements": [
+    {
+     "id": "2025-02-26_resultats-2024#e1",
+     "texte": "CA 2025 « env. +40% » (relevé à environ 1,5 Md€ le 15/09/2025)",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "1 527 M€ ajustés (+51 %)."
+    },
+    {
+     "id": "2025-02-26_resultats-2024#e2",
+     "texte": "Marge d'EBITDA ajusté 2025 « en hausse de 100 à 200 pts de base » (relevée à +200 à 300 points de base)",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "18,2 % contre 15,9 %."
+    },
+    {
+     "id": "2025-02-26_resultats-2024#e3",
+     "texte": "VAS 2025 « env.+80% »",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "VAS de 211 M€ contre 105,7 M€."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-04-15_dr-max",
+   "date": "2025-04-15",
+   "date_affichee": "15 avr. 2025",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Dr. Max (pharmacies, Europe centrale) choisit VusionGroup",
+   "texte": "Partenariat avec Dr. Max, « l'une des principales chaînes de pharmacies en Europe » : déploiement déjà engagé dans « 220 de ses magasins », qui « devrait s'achever fin 2026 » (Option Finance, reprenant le communiqué). Nombre total de magasins visés non relevé.",
+   "sources": [
+    "S113"
+   ],
+   "sources_libelle": [
+    "Option Finance, 15/04/2025"
+   ],
+   "engagements": [
+    {
+     "id": "2025-04-15_dr-max#e1",
+     "texte": "Fin du déploiement chez Dr. Max « fin 2026 »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-04-23_ca-t1-2025",
+   "date": "2025-04-23",
+   "date_affichee": "23 avr. 2025",
+   "sujets": [
+    "res",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "T1 2025 : CA ajusté de 233 M€ (+31 %), commandes record de 532 M€",
+   "texte": "CA IFRS de 215,2 M€ (+25 %), ajusté de 232,8 M€ (+31 %) ; commandes de 532 M€ (+94 %) tirées par les États-Unis ; VAS de 33 M€ (+71 %). Objectif annuel réitéré d'un CA ajusté de 1,4 Md€ (+40 %). Le PDG indique que le déploiement de Walmart « se poursuit conformément au plan ».",
+   "sources": [
+    "S074",
+    "S075",
+    "S076"
+   ],
+   "sources_libelle": [
+    "CP du 23/04/2025",
+    "Présentation du T1 2025",
+    "Transcription de la conférence du T1 2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2025-02-26_resultats-2024"
+    }
+   ]
+  },
+  {
+   "id": "2025-04-30_boe-7pc",
+   "date": "2025-04-30",
+   "date_affichee": "30 avr. 2025",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "BOE cède 7 % du capital à 178 € et descend à 24,94 %",
+   "texte": "Placement privé de « 1,12 million d'actions de VusionGroup (correspondant à environ 7% du capital social) » à 178 € ; flottant porté d'environ 40 à 47 % ; rachat par la société de 101 123 actions au même prix ; conservation de 6 mois pour BOE. Selon l'AMF, BOE détient ensuite 4 007 754 actions (24,94 %).",
+   "sources": [
+    "S045",
+    "S046"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 30/04/2025 : cession par BOE de 7 % du capital",
+    "AMF, déclaration de franchissement de seuils de BOE Smart Retail (13/05/2025)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-05-23_coop",
+   "date": "2025-05-23",
+   "date_affichee": "23 mai 2025",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Co-op (Royaume-Uni) : environ 2 400 magasins",
+   "texte": "Selon la presse : environ 1 500 magasins d'ici fin 2025 et tous les magasins d'ici fin 2026.",
+   "sources": [
+    "S047"
+   ],
+   "sources_libelle": [
+    "Easybourse, 23/05/2025 : « VusionGroup: contrat majeur avec Co-op au Royaume-Uni »"
+   ],
+   "engagements": [
+    {
+     "id": "2025-05-23_coop#e1",
+     "texte": "Environ 1 500 magasins Co-op équipés d'ici fin 2025",
+     "echeance": "2025-12-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2025-05-23_coop#e2",
+     "texte": "Tous les magasins Co-op d'ici fin 2026",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-06-24_eroski",
+   "date": "2025-06-24",
+   "date_affichee": "24 juin 2025",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Eroski (Espagne) : VusionCloud et étiquettes dans ses hypermarchés et grands magasins",
+   "texte": "Déploiement dans « all their hypermarkets and larger stores », déjà « well underway » ; ni nombre de magasins ni calendrier chiffré.",
+   "sources": [
+    "S114"
+   ],
+   "sources_libelle": [
+    "Communiqué VusionGroup du 24/06/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-06-30_walmart-exerce",
+   "date": "2025-06-30",
+   "date_affichee": "30 juin 2025",
+   "sujets": [
+    "gouv",
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Walmart exerce 650 000 bons de souscription et revend les actions",
+   "texte": "Exercice de 650 000 BSA et cession d'autant d'actions par placement accéléré ; trésorerie du groupe +72,8 M€. « Walmart Inc. retains 1,111,200 warrants that may give access to a total of approx. 6.5 % of the share capital ».",
+   "sources": [
+    "S048"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 01/07/2025 : exercice de BSA et cession d'actions par Walmart"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2023-04-27_walmart-bsa"
+    }
+   ]
+  },
+  {
+   "id": "2025-08-12_hr4966",
+   "date": "2025-08-12",
+   "date_affichee": "12 août 2025",
+   "sujets": [
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Proposition de loi fédérale H.R.4966 visant les étiquettes électroniques",
+   "texte": "Déposée par Rashida Tlaib (22 coparrains). Section 5 : un magasin alimentaire de plus de 10 000 pieds carrés « may not use an electronic shelf label or any digital shelf display technology ». Simple dépôt : pas d'adoption à ce jour selon les pièces réunies.",
+   "sources": [
+    "S049"
+   ],
+   "sources_libelle": [
+    "Congrès des États-Unis, H.R.4966 « Stop Price Gouging in Grocery Stores Act of 2025 »"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-09-15_resultats-s1-2025",
+   "date": "2025-09-15",
+   "date_affichee": "15 sept. 2025",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats S1 2025 : EBITDA ajusté 16,7 % ; objectif relevé à environ 1,5 Md€",
+   "texte": "CA ajusté 649,3 M€, EBITDA ajusté 108,4 M€ ; résultat net IFRS −9,7 M€ (charge non monétaire des BSA Walmart de 66,7 M€) ; trésorerie nette 513,1 M€. Objectifs 2025 relevés : « un chiffre d'affaires annuel d'environ 1,5 milliard d'€ en données ajustées », marge « +200 à 300 points de base » ; « une solide croissance en 2026 ».",
+   "sources": [
+    "S050"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 15/09/2025 : résultats S1 2025"
+   ],
+   "engagements": [
+    {
+     "id": "2025-09-15_resultats-s1-2025#e1",
+     "texte": "CA 2025 « d’environ 1,5 milliard d’€ en données ajustées »",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "1 527 M€ ajustés publiés le 26/02/2026 (« légèrement dépassé notre objectif annuel de 1,5 Md€ »)"
+    },
+    {
+     "id": "2025-09-15_resultats-s1-2025#e2",
+     "texte": "« dépassement de son objectif initial de croissance du chiffre d’affaires VAS de +80% »",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "VAS 2025 de 211 M€, « doublement » annoncé le 26/02/2026"
+    },
+    {
+     "id": "2025-09-15_resultats-s1-2025#e3",
+     "texte": "Marge d’EBITDA ajusté 2025 en hausse de « +200 à 300 points de base »",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "18,2 % contre 15,9 % en 2024, soit +2,3 points"
+    },
+    {
+     "id": "2025-09-15_resultats-s1-2025#e4",
+     "texte": "« génération de free cash-flow positive » en 2025",
+     "echeance": "2025-12-31",
+     "statut": "ok",
+     "statue_par": "S044",
+     "note": "Free cash-flow 2025 de 56 M€"
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-02-26_resultats-2024"
+    }
+   ]
+  },
+  {
+   "id": "2025-10-07_asda-express",
+   "date": "2025-10-07",
+   "date_affichee": "7 oct. 2025",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Asda déploie les étiquettes Vusion dans plus de 250 magasins Express",
+   "texte": "Environ 700 000 étiquettes dans plus de 250 des magasins Express les plus récents d'Asda (Royaume-Uni), selon la presse spécialisée. Le communiqué VusionGroup d'origine (vers le 03/10/2025) n'est pas archivé.",
+   "sources": [
+    "S095"
+   ],
+   "sources_libelle": [
+    "Retail Optimiser, 07/10/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-10-22_ca-t3-2025",
+   "date": "2025-10-22",
+   "date_affichee": "22 oct. 2025",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "T3 2025 : CA ajusté de 355,3 M€ (+59 %)",
+   "texte": "9 mois ajustés de 1 004,6 M€ ; commandes sur 12 mois de 1 764 M€. T4 attendu à environ 500 M€ ; « the outlook and visibility for 2026 are excellent ».",
+   "sources": [
+    "S052"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 22/10/2025 : chiffre d'affaires T3 2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-10-22_morrisons",
+   "date": "2025-10-22",
+   "date_affichee": "22 oct. 2025",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Morrisons : 497 supermarchés, environ 10,8 millions d'étiquettes",
+   "texte": "« Le déploiement commencera début 2026. »",
+   "sources": [
+    "S051"
+   ],
+   "sources_libelle": [
+    "CP VusionGroup du 22/10/2025 : Morrisons (Royaume-Uni)"
+   ],
+   "engagements": [
+    {
+     "id": "2025-10-22_morrisons#e1",
+     "texte": "Début du déploiement chez Morrisons « début 2026 »",
+     "echeance": "2026-03-31",
+     "statut": "nd",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2025-10-31_dm",
+   "date": "2025-10-31",
+   "date_affichee": "31 oct. 2025",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "dm-drogerie markt : partenariat EdgeSense",
+   "texte": "« around 20 stores already live to date » ; « Approximately 70 stores are planned in the current phase ». Pas de volume global ni de montant.",
+   "sources": [
+    "S092"
+   ],
+   "sources_libelle": [
+    "Communiqué VusionGroup du 31/10/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2025-11-26_obi",
+   "date": "2025-11-26",
+   "date_affichee": "26 nov. 2025",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "OBI : solutions VusionGroup dans plus de 200 magasins en Allemagne",
+   "texte": "Déploiement « across more than 200 stores in Germany » ; OBI compte plus de 640 magasins en Europe.",
+   "sources": [
+    "S093"
+   ],
+   "sources_libelle": [
+    "Communiqué VusionGroup du 26/11/2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-01-07_vusion",
+   "date": "2026-01-07",
+   "date_affichee": "7 janv. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "VusionGroup devient Vusion (nom commercial)",
+   "texte": "Plus de 600 millions d'objets connectés déployés dans 60 000 magasins ; la dénomination sociale reste inchangée.",
+   "sources": [
+    "S053"
+   ],
+   "sources_libelle": [
+    "CP du 07/01/2026 : VusionGroup devient Vusion"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-01-13_exane-falaise",
+   "date": "2026-01-13",
+   "date_affichee": "13-19 janv. 2026",
+   "sujets": [
+    "vad",
+    "res",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Exane passe à « neutre » ; débat sur une chute d'activité après Walmart",
+   "texte": "Exane BNP Paribas passe à neutre (objectif ramené de 275 à 210 €). Selon l'Agefi, Exane estime que Walmart représentait environ 35 % du CA 2024 et dépasserait 53 % en 2026. Interrogée, la direction des relations investisseurs indique que l'activité « allait continuer à croître en 2027 » et 2028 ; un gérant cité évoque un « trou d'air dans les commandes ». Le 19/01, selon BFM Bourse (article non archivé), Berenberg abaisse son objectif à 252 € en évoquant un risque de « falaise » en 2027. Le titre perd environ 30 % en six séances.",
+   "sources": [
+    "S054",
+    "S069"
+   ],
+   "sources_libelle": [
+    "BFM Bourse / Tradingsat, 16/01/2026",
+    "ABC Bourse / Agefi, 14/01/2026 (chiffres d'Exane)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-01-28_senukai",
+   "date": "2026-01-28",
+   "date_affichee": "28 janv. 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Senukai (pays baltes) : les 94 magasins et un pilote de vision par IA",
+   "texte": "Déploiement « across all their 94 stores » et pilote de la solution de vision par ordinateur dans deux rayons.",
+   "sources": [
+    "S090"
+   ],
+   "sources_libelle": [
+    "Communiqué Vusion du 28/01/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-02-04_extra-shop",
+   "date": "2026-02-04",
+   "date_affichee": "4 févr. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Extra Shop (Belgique) : 40 magasins, via Proximus NXT",
+   "texte": "Solutions Vusion dans « 40 of their locations in Belgium », installées par le partenaire Proximus NXT. Le chiffre de 1 700 magasins cité dans le communiqué correspond à l'ensemble des magasins belges déjà équipés par Vusion, tous clients confondus.",
+   "sources": [
+    "S091"
+   ],
+   "sources_libelle": [
+    "Communiqué Vusion du 04/02/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-02-12_s3892",
+   "date": "2026-02-12",
+   "date_affichee": "12 févr. 2026",
+   "sujets": [
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Proposition de loi au Sénat (S.3892) : interdire les étiquettes électroniques dans les grands magasins alimentaires",
+   "texte": "« Banning electronic shelf labels in large grocery stores », au-delà de 10 000 pieds carrés (sec. 5(a)). Statut : déposé (« Introduced »).",
+   "sources": [
+    "S055"
+   ],
+   "sources_libelle": [
+    "Sénat des États-Unis, S.3892 « Stop Price Gouging in Grocery Stores Act of 2026 » (communi"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-08-12_hr4966"
+    }
+   ]
+  },
+  {
+   "id": "2026-02-18_carrefour",
+   "date": "2026-02-18",
+   "date_affichee": "18 févr. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Carrefour digitalisera tous ses hypermarchés et supermarchés en France",
+   "texte": "Aucun montant ni nombre de magasins. Le CP du 30/07/2026 précise que l'accord est « assorti d'une exclusivité de 3 ans en Europe ». Titre −12,4 % le jour de l'annonce selon l'Agefi. Le CP du 21/04/2026 précise que le contrat est assorti d'une exclusivité de 3 ans en Europe.",
+   "sources": [
+    "S056",
+    "S063",
+    "S058"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 18/02/2026 : Carrefour",
+    "CP Vusion du 30/07/2026 (exclusivité)",
+    "CP Vusion du 21/04/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-02-18_carrefour#e1",
+     "texte": "Déploiement Carrefour en France « d'ici 2030 »",
+     "echeance": "2030-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2026-02-26_resultats-2025",
+   "date": "2026-02-26",
+   "date_affichee": "26 févr. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats 2025 : CA ajusté 1 527 M€, EBITDA ajusté 18,2 % ; +15 à 20 % visés en 2026",
+   "texte": "CA ajusté 1 527 M€ (+51 % ; 1 472 M€ en IFRS), EBITDA ajusté 277 M€, résultat net IFRS 84 M€, free cash-flow 56 M€, trésorerie nette 439 M€, commandes 1 703 M€ (+5 %) ; dividende de 0,90 € ; rachat d'actions de 30 M€. « le Groupe maintient ses ambitions présentées à l'automne 2022 dans son plan stratégique Vusion-27 », sans les rechiffrer. Le 21/04/2026, le résultat net IFRS 2025 est porté à 142 M€ (produit de change latent de 58 M€).",
+   "sources": [
+    "S044"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 26/02/2026 : résultats annuels 2025"
+   ],
+   "engagements": [
+    {
+     "id": "2026-02-26_resultats-2025#e1",
+     "texte": "Croissance du CA 2026 « de 15% à 20% à taux de change et droits de douane constants »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Confirmée les 21/04, 30/07 et 21/09/2026 ; la croissance publiée pourrait être inférieure à cause des avoirs sur droits de douane (CP du 30/07)."
+    },
+    {
+     "id": "2026-02-26_resultats-2025#e2",
+     "texte": "VAS 2026 « en forte progression d'environ +40% »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-02-26_resultats-2025#e3",
+     "texte": "Marge d'EBITDA ajusté 2026 « en hausse de plus de 100 pts de base »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2022-11-09_vusion27"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-04-21_ca-t1-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-03-03_rachat",
+   "date": "2026-03-03",
+   "date_affichee": "3 mars 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Lancement du rachat d'actions (30 M€ au plus) ; 148 304 actions rachetées au 14/09",
+   "texte": "Mandat de rachat annoncé avec les résultats 2025, lancé le 03/03/2026, « pouvant atteindre jusqu'à 30 millions d'euros ». Au 14/09/2026, la société avait racheté 148 304 actions pour 16,7 M€ ; le 21/09, elle annonce un nouveau mandat « dans le prolongement de celui annoncé le 3 mars dernier et arrivé à son terme » (CP des résultats semestriels).",
+   "sources": [
+    "S094",
+    "S065"
+   ],
+   "sources_libelle": [
+    "ABC Bourse, 03/03/2026",
+    "CP Vusion du 21/09/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-02-26_resultats-2025"
+    }
+   ]
+  },
+  {
+   "id": "2026-03-11_berenberg",
+   "date": "2026-03-11",
+   "date_affichee": "11 mars 2026",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "Berenberg reste à l'achat, objectif ramené de 252 à 250 €",
+   "texte": "Berenberg relève des commandes du S2 2025 inférieures de 13 % à ses estimations et au consensus ; selon le courtier, Walmart US représente environ 5 % du marché potentiel et environ 85 % du marché n'est pas pénétré.",
+   "sources": [
+    "S085"
+   ],
+   "sources_libelle": [
+    "Option Finance / Zonebourse, 11/03/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-03-18_interspar",
+   "date": "2026-03-18",
+   "date_affichee": "18 mars 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "INTERSPAR (Autriche) : 27 hypermarchés équipés, une vingtaine de sites prévus en 2026",
+   "texte": "« After rolling out Vusion's electronic shelf labels in 27 INTERSPAR hypermarkets, » « we are planning to deploy around 20 additional locations this year. » (directeur général d'INTERSPAR Autriche). Le déploiement concerne aussi Maximarkt.",
+   "sources": [
+    "S082"
+   ],
+   "sources_libelle": [
+    "Communiqué Vusion du 18/03/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-03-30_walmex",
+   "date": "2026-03-30",
+   "date_affichee": "30 mars 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Walmart Mexico : EdgeSense dans les magasins Express et Supercenters",
+   "texte": "Plus de 1,7 million d'étiquettes et 180 000 rails EdgeSense ; aucun montant.",
+   "sources": [
+    "S057"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 30/03/2026 : Walmart Mexico étend le partenariat"
+   ],
+   "engagements": [
+    {
+     "id": "2026-03-30_walmex#e1",
+     "texte": "Magasins Express de Walmart Mexico équipés « d'ici la fin de 2026 »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2026-04-21_ca-t1-2026",
+   "date": "2026-04-21",
+   "date_affichee": "21 avr. 2026",
+   "sujets": [
+    "res",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "T1 2026 : CA ajusté de 294 M€ (+26 %) ; fin du déploiement Walmart US en fin d'année",
+   "texte": "VAS 51 M€ (+53 %), commandes 316 M€. Objectif annuel de 15 à 20 % de croissance confirmé ; « la fin du déploiement Walmart aux Etats-Unis en fin d'année ». Selon l'Agefi, CA sous le consensus ; titre −6,4 % à l'ouverture. Le même communiqué porte le résultat net IFRS 2025 de 84 à 142 M€ après un produit de change latent de 58 M€ qui « n’a aucun impact sur la trésorerie », et précise que le contrat Carrefour est « assorti d’une exclusivité de 3 ans en Europe ».",
+   "sources": [
+    "S058"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 21/04/2026 : chiffre d'affaires T1 2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-04-21_ca-t1-2026#e1",
+     "texte": "Fin du déploiement Walmart aux États-Unis « en fin d'année » 2026",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2026-04-21_conf-t1",
+   "date": "2026-04-21",
+   "date_affichee": "21 avr. 2026",
+   "sujets": [
+    "res",
+    "usa"
+   ],
+   "statut": "decl",
+   "titre": "Conférence du T1 : l'accélération chez Walmart a avancé du CA de 2027 ; ambition 2027 maintenue",
+   "texte": "Thierry Gadou : « It's true that the acceleration of the Walmart rollout has pulled in some revenue from '27 to '25 and '26. » et « we still believe it is possible to reach our 27 Ambition. » Carrefour : déploiement « starting this year in H2 and then continuing in '27 and '28. » Marché américain équipé à « 15% to 20% including Walmart » ; « about 100,000 to 150,000 AI cameras » prévues en 2026.",
+   "sources": [
+    "S081"
+   ],
+   "sources_libelle": [
+    "Vusion"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-04-21_ca-t1-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-04-23_glasshouse",
+   "date": "2026-04-23",
+   "date_affichee": "23-27 avr. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Un administrateur, via The Glasshouse SA, achète 80 000 actions pour environ 10,7 M€",
+   "texte": "The Glasshouse SA, personne morale liée à Peter Brabeck-Letmathe (administrateur, vice-président du conseil) : 12 000 actions à 136,71 € le 23/04, 33 000 à 134,26 € le 24/04 et 35 000 à 132,17 € le 27/04/2026. Deux déclarations ont été rectifiées le lendemain (erreur de date) ; la déclaration n° 2026DD1110626 est archivée, les deux autres opérations proviennent du récapitulatif ABC Bourse.",
+   "sources": [
+    "S079",
+    "S080"
+   ],
+   "sources_libelle": [
+    "AMF (BDIF)",
+    "ABC Bourse"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-04-24_deu-2025",
+   "date": "2026-04-24",
+   "date_affichee": "24 avr. 2026",
+   "sujets": [
+    "gouv",
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Document d'enregistrement universel 2025 : dix clients font 85 % du CA ; BOE à 23,79 %",
+   "texte": "Au titre de 2025, « les dix premiers clients du Groupe représentaient ainsi environ 85 % du chiffre d'affaires consolidé du Groupe » (facteur de risque de dépendance). Actionnariat au 31/12/2025 : BOE Smart Retail 23,79 %, SESIM 10,29 %, LAC I (Bpifrance) 7,78 %, Yuanhan Materials (groupe E Ink) 5,74 %, public 51,73 %. Le document, déposé le 24/04/2026, a été remplacé le 18/05/2026 par une version corrigée sur des points mineurs.",
+   "sources": [
+    "S077"
+   ],
+   "sources_libelle": [
+    "Document d'enregistrement universel 2025"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-05-05_coop-estonie",
+   "date": "2026-05-05",
+   "date_affichee": "5 mai 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Coop Estonie retient StrongPoint et Vusion (environ 8 M€)",
+   "texte": "« The companies will act as their exclusive Electronic Shelf Labels supplier, and Coop Estonia has signed a contract. » Montant pouvant atteindre « approximately 8 million euros » selon le nombre de magasins ; démarrage au S2 2026 (communiqué de StrongPoint, contractant principal).",
+   "sources": [
+    "S083"
+   ],
+   "sources_libelle": [
+    "StrongPoint, 05/05/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-01_exane",
+   "date": "2026-06-01",
+   "date_affichee": "1 juin 2026",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "Exane repasse à « surperformance », objectif ramené de 210 à 180 €",
+   "texte": "Exane BNP Paribas relève sa recommandation de « neutre » à « surperformance » et abaisse son objectif à 180 €. Le titre gagne plus de 9 % à l'ouverture.",
+   "sources": [
+    "S084"
+   ],
+   "sources_libelle": [
+    "ABC Bourse, 01/06/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-01-13_exane-falaise"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-04_ag",
+   "date": "2026-06-04",
+   "date_affichee": "4 juin 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Assemblée générale : toutes les résolutions adoptées, dividende de 0,90 € versé le 12/06",
+   "texte": "L'assemblée « a adopté l'ensemble des résolutions agréées par le Conseil d'Administration ». « Ce dividende sera mis en paiement le 12 juin 2026. » Cooptation de Lyne Castonguay ratifiée ; Peter Brabeck-Letmathe reste vice-président et administrateur référent ; Marcela Martin préside le comité d'audit.",
+   "sources": [
+    "S087"
+   ],
+   "sources_libelle": [
+    "ABC Bourse, 04/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-16_bizerba-ukraine",
+   "date": "2026-06-16",
+   "date_affichee": "16 juin 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Ukraine : Bizerba Ukraine présente les étiquettes Vusion et Captana dans son offre (RAU Expo 2026)",
+   "texte": "Au salon RAU Expo 2026, Bizerba Ukraine présente son offre pour les supermarchés, qui comprend « електронні цінники Vusion » (étiquettes électroniques) et Captana, aux côtés de balances Bizerba, de caisses HiStone POS et d'antivols Checkpoint. Le post montre une distribution des solutions Vusion en Ukraine par Bizerba ; il ne cite aucun client.",
+   "sources": [
+    "S110"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Bizerba Ukraine (16/06/2026)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-16_jysk",
+   "date": "2026-06-16",
+   "date_affichee": "16 juin 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "JYSK étend le partenariat en Europe",
+   "texte": "Environ 1,2 million d'étiquettes pour 450 magasins nordiques, environ 3 millions pour 750 nouveaux magasins, et migration vers VusionCloud.",
+   "sources": [
+    "S059"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 16/06/2026 : JYSK"
+   ],
+   "engagements": [
+    {
+     "id": "2026-06-16_jysk#e1",
+     "texte": "Environ 2 500 magasins JYSK « d'ici 2027 »",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2026-06-16_tesco-hanshow",
+   "date": "2026-06-16",
+   "date_affichee": "16 juin 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Tesco retient Hanshow pour environ 3 000 magasins au Royaume-Uni",
+   "texte": "Étiquettes « supplied by Chinese technology firm Hanshow », déployées dans « around 3,000 UK locations » « over the next two years », après un test en 2025.",
+   "sources": [
+    "S103"
+   ],
+   "sources_libelle": [
+    "Grocery Gazette, 16/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-23_gratis",
+   "date": "2026-06-23",
+   "date_affichee": "23 juin 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Gratis (Turquie) : environ 2 millions d'étiquettes dans 300 magasins",
+   "texte": "Première phase : « le déploiement d'environ 2 millions d'étiquettes électroniques dans 300 points de vente à travers la Turquie », qui « devrait être achevé au début du second semestre 2026 ».",
+   "sources": [
+    "S088"
+   ],
+   "sources_libelle": [
+    "Option Finance / Zonebourse, 23/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-25_berenberg",
+   "date": "2026-06-25",
+   "date_affichee": "25 juin 2026",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "Berenberg reste à l'achat, objectif ramené de 250 à 220 €",
+   "texte": "« L'analyste maintient ainsi sa recommandation 'achat' tout en abaissant son objectif de cours de 250 à 220 euros. » Selon le courtier, la fin du déploiement Walmart en 2026 rend les objectifs 2027 exigeants ; il cite comme leviers la pénétration des 350 clients (environ 50 %), le renouvellement de la base installée, de nouveaux marchés et les logiciels.",
+   "sources": [
+    "S086"
+   ],
+   "sources_libelle": [
+    "Bourse Direct / Boursier, 25/06/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-03-11_berenberg"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26_halytska-svizhyna",
+   "date": "2026-06-26",
+   "date_affichee": "26 juin 2026 (post du 30/06)",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Ukraine : étiquettes Vusion et Vusion Rail dans le premier magasin « digital » de Halytska Svizhyna (Lviv), via Bizerba",
+   "texte": "Magasin ouvert le 26/06/2026 à Lviv. Le 30/06, Bizerba Ukraine indique avoir participé aux solutions de « Retail Media » du nouveau magasin amiral, « Разом з Vusion ». Le 15/09, elle précise : Halytska Svizhyna « відкрила свій перший магазин у digital-форматі » (son premier magasin au format digital), équipé d'« електронних цінників (ESL) компанії Vusion » et de « Vusion Rail (V:Rail) », qui diffuse aussi des vidéos publicitaires en rayon. « Premier » s'entend pour la chaîne, pas pour Vusion en Ukraine. Un magasin ; pas de communication de Vusion.",
+   "sources": [
+    "S111",
+    "S112"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Bizerba Ukraine (30/06/2026)",
+    "Post LinkedIn de Bizerba Ukraine (15/09/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-16_bizerba-ukraine"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-15_alphavalue",
+   "date": "2026-07-15",
+   "date_affichee": "15 juil. 2026",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "AlphaValue initie le suivi à « vendre », objectif 71 €",
+   "texte": "AlphaValue cite « une forte consommation de trésorerie en 2026 et d'une baisse imminente du chiffre d'affaires en 2027 » ; l'article rappelle que les États-Unis « représentent 70% de l'activité du groupe ». Titre −11 % en séance.",
+   "sources": [
+    "S060"
+   ],
+   "sources_libelle": [
+    "BFM Bourse / Tradingsat, 15/07/2026 : AlphaValue initie Vusion à « vendre »"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-15_decathlon",
+   "date": "2026-07-15",
+   "date_affichee": "15 juil. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Decathlon dépasse 700 magasins équipés, dans 54 pays",
+   "texte": "« Decathlon a franchi au deuxième trimestre 2026 le cap des 700 magasins équipés de ses solutions digitales. » Étape d'un partenariat existant, pas un nouveau contrat.",
+   "sources": [
+    "S089"
+   ],
+   "sources_libelle": [
+    "ABC Bourse, 15/07/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-15_new-jersey",
+   "date": "2026-07-15",
+   "date_affichee": "juil. 2026",
+   "sujets": [
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "New Jersey : moratoire d'un an sur les nouvelles étiquettes électroniques",
+   "texte": "Fair Price Protection Act signé par la gouverneure : moratoire d'un an sur les nouvelles installations. Selon Fortune, Walmart vise environ 2 300 magasins américains d'ici la fin de l'année et juge la réaction excessive (Fortune, article non archivé). Aucune déclaration de Vusion trouvée. Date exacte de signature à préciser.",
+   "sources": [
+    "S062"
+   ],
+   "sources_libelle": [
+    "Invidis, 27/07/2026 : « US Retail: Electronic Shelf Labels Under Fire » ; Fortune, 15/09/2"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-16_conad-trescore",
+   "date": "2026-07-16",
+   "date_affichee": "16 juil. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Italie : étiquettes Vusion dans le nouveau Conad de Trescore Cremasco (intégrateur SNG Group)",
+   "texte": "Selon l'intégrateur SNG Group – SID Parma, le Conad ouvert à Trescore Cremasco (Lombardie) est équipé d'« etichette elettroniche Vusion », en rayon et en grands écrans au rayon fruits et légumes, avec des balances Bizerba. Un magasin ; pas de communication de Vusion ni de Conad sur un déploiement plus large.",
+   "sources": [
+    "S108"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de SNG Group – SID Parma (16/07/2026)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-27_ism",
+   "date": "2026-07-27",
+   "date_affichee": "27 juil. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Accord en vue d'acquérir In-Store Media (environ 120 M€ de CA)",
+   "texte": "ISM : environ 120 M€ de CA en 2025, plus de 90 enseignes, 9 pays. Prix non communiqué ; financement par dette ; finalisation soumise aux autorisations réglementaires.",
+   "sources": [
+    "S061"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 27/07/2026 : accord en vue d'acquérir In-Store Media"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-30_ca-s1-2026",
+   "date": "2026-07-30",
+   "date_affichee": "30 juil. 2026",
+   "sujets": [
+    "res",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "S1 2026 : CA ajusté +29 %, commandes −22 % ; Capital Markets Day le 18/11",
+   "texte": "CA ajusté 839,3 M€ (+29,3 %), VAS 125 M€ (+39 %), commandes S1 de 681 M€ (−22 %), 1 511 M€ sur 12 mois (−15 %). Remboursements de droits de douane américains : environ 60 M$ reçus en juillet, environ 80 M$ attendus sur l'année. Nouveau plan stratégique au Capital Markets Day du 18/11/2026. Base VusionCloud : « 522 millions d’ESL connectées », tous clients confondus.",
+   "sources": [
+    "S063"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 30/07/2026 : chiffre d'affaires S1 2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-07-31_alphavalue-77",
+   "date": "2026-07-31",
+   "date_affichee": "31 juil. 2026",
+   "sujets": [
+    "vad",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Selon AlphaValue, Walmart pèse 77 % des ventes IFRS du S1 2026",
+   "texte": "Option Finance rapporte qu'AlphaValue estime que « Walmart représente 77% des ventes IFRS du semestre » ; la société ne publie pas la part de son premier client. Le même article indique que « Stifel maintient sa recommandation à l'achat ».",
+   "sources": [
+    "S098"
+   ],
+   "sources_libelle": [
+    "Option Finance / Zonebourse, 31/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-30_ca-s1-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-05_bloomberg",
+   "date": "2026-08-05",
+   "date_affichee": "5 août 2026",
+   "sujets": [
+    "gouv",
+    "mkt"
+   ],
+   "statut": "decl",
+   "titre": "Selon Bloomberg, Vusion étudierait des options stratégiques, dont une vente",
+   "texte": "Revue à un stade préliminaire, sondage de fonds de capital-investissement, selon Bloomberg. « Vusion n'a pas souhaité commenter ces informations. » Titre +4,7 %. Information de presse non confirmée par la société.",
+   "sources": [
+    "S064"
+   ],
+   "sources_libelle": [
+    "ABC Bourse et Boursorama, 05/08/2026 : selon Bloomberg, Vusion étudierait des options stra"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-08-19_rossotono",
+   "date": "2026-08-19",
+   "date_affichee": "19 août 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Italie : étiquettes Vusion installées dans un supermarché Rossotono (intégrateur SNG Group)",
+   "texte": "Selon l'intégrateur SNG Group – SID Parma, « Nuova installazione completata presso il Supermercato Rossotono in provincia di Reggio Calabria » : étiquettes électroniques Vusion en rayon, aux fruits et légumes et aux surgelés, avec des caisses automatiques Glory. Le post porte sur un magasin d'une enseigne qui en compte plus de 250 dans le sud de l'Italie (Apulia Distribuzione, selon un annuaire de franchises ; le forum parle de plus de 300) ; il ne dit pas si d'autres magasins de l'enseigne sont équipés. Pas de communication de Vusion.",
+   "sources": [
+    "S107",
+    "S109"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de SNG Group – SID Parma, 19/08/2026",
+    "L'Express Franchise, fiche Rossotono"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-16_conad-trescore"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02_asda-517",
+   "date": "2026-09-02",
+   "date_affichee": "2 sept. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Asda termine le déploiement dans ses 517 magasins Express",
+   "texte": "« over 1.2 million electronic shelf labels (ESLs) » « across Asda's 517 Express stores », avec Vusion et ses partenaires Renovotec et HL Display ; investissement de plus de 7,5 M£ (communiqué d'Asda).",
+   "sources": [
+    "S096"
+   ],
+   "sources_libelle": [
+    "Asda (communiqué), 02/09/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-10-07_asda-express"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17_huawei",
+   "date": "2026-09-17",
+   "date_affichee": "17 sept. 2026",
+   "sujets": [
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Vusion parmi les fondateurs du « Smart Retail Pioneer Program » de Huawei",
+   "texte": "Lancé à Huawei Connect 2026 : « Huawei, the China Chain Store & Franchise Association (CCFA), Yum China, Meiyijia and Vusion, launched » ce programme. Sans engagement chiffré.",
+   "sources": [
+    "S101"
+   ],
+   "sources_libelle": [
+    "Intelligent CIO (APAC), 21/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-21_resultats-s1-2026",
+   "date": "2026-09-21",
+   "date_affichee": "21 sept. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats S1 2026 : EBITDA ajusté 19,1 % ; plus d'1 Md€ de commandes attendu au S2",
+   "texte": "EBITDA ajusté 160 M€ (+48 %), résultat net ajusté 77 M€ (IFRS 132 M€) ; free cash-flow opérationnel de 127 M€ (+51 %) et trésorerie nette de 197 M€ à fin juin 2026. Le rapport semestriel précise que les acomptes reçus sont passés de 415 M€ à fin 2025 à 193 M€ à fin juin 2026, « soit une consommation de 222 M€ », à mesure des livraisons. Objectifs 2026 confirmés. Selon la presse, la direction attend plus d'un milliard d'euros de commandes au second semestre (conférence téléphonique). Titre +13,7 % le 22/09. En euros publiés, le CA 2026 « pourrait être négativement impacté par un effet frais de douane d’environ 100 M€ et un effet devises d’environ 50 M€ ». Nouveau mandat de rachat d'actions annoncé.",
+   "sources": [
+    "S065",
+    "S066",
+    "S078"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 21/09/2026 : résultats S1 2026",
+    "BFM Bourse / Tradingsat, 22/09/2026 : « Avec 1 milliard d'euros de prises de commandes att",
+    "Rapport financier semestriel 2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-09-21_resultats-s1-2026#e1",
+     "texte": "Plus d'1 Md€ de prises de commandes au S2 2026 (propos rapportés de la conférence téléphonique)",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Rapporté par BFM Bourse ; à vérifier dans le communiqué ou l'enregistrement."
+    }
+   ],
+   "liens": []
+  },
+  {
+   "id": "2026-09-29_jbhifi",
+   "date": "2026-09-29",
+   "date_affichee": "29 sept. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "JB Hi-Fi (Australie) choisit Vusion",
+   "texte": "Déploiement après un pilote, avec extension à la Nouvelle-Zélande ; ni volume ni montant. Selon Stifel (29/09), le contrat « pourrait représenter un chiffre d'affaires de 10 à 20 millions d'euros pour Vusion ».",
+   "sources": [
+    "S067",
+    "S099"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 29/09/2026 : JB Hi-Fi (Australie)",
+    "Bourse Direct / Boursier, 29/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-01_masoutis",
+   "date": "2026-10-01",
+   "date_affichee": "1 oct. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Masoutis (Grèce) étend le déploiement des étiquettes Vusion",
+   "texte": "Extension du déploiement après une première phase (titre de l'article ; corps non relu).",
+   "sources": [
+    "S100"
+   ],
+   "sources_libelle": [
+    "Retail Technology Innovation Hub, 01/10/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-01_walmart-cnbc",
+   "date": "2026-10-01",
+   "date_affichee": "1 oct. 2026",
+   "sujets": [
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "Walmart : plus de 4 300 magasins américains équipés d'étiquettes électroniques (CNBC)",
+   "texte": "« More than 4,300 stores now have the labels, and Walmart expects every store to have them by the end of the year. » L'article ne nomme pas le fournisseur.",
+   "sources": [
+    "S102"
+   ],
+   "sources_libelle": [
+    "The Next Web, 01/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-04-21_ca-t1-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-02_faq-investisseurs",
+   "date": "2026-10-02",
+   "date_affichee": "2 oct. 2026",
+   "sujets": [
+    "res",
+    "gouv",
+    "usa"
+   ],
+   "statut": "doc",
+   "titre": "FAQ investisseurs : 90 M€ placés à plus de 3 mois dans la trésorerie nette ; pas d'augmentation de capital prévue",
+   "texte": "Document de 10 pages publié sur le site investisseurs ; il ne cite aucune note d'analyste. La trésorerie nette de 197 M€ au 30/06/2026 comprend « 90 M€ de trésorerie placée sur des échéances supérieures à trois mois ». Free cash-flow cumulé 2023-2025 de 167 M€ après déduction d'environ 400 M€ d'acomptes Walmart, « destinés à être intégralement repris en 2026 ». Sur le préfinancement des quatre lignes de production par Walmart (323 M$) : « l'intégralité de ce préfinancement est conservée par le Groupe et constitue une entrée de trésorerie définitive » ; la note comptable reproduite dans le même document précise que « le contrat prévoit que la somme reçue dans le cadre de ce préfinancement puisse être remboursée en partie en cas d’utilisation par Vusion de ces lignes pour d'autres clients », ce remboursement étant inscrit au passif pour son montant maximum attendu (non chiffré). Financement de la croissance par la dette, « sans avoir besoin de procéder à une augmentation de capital, au regard de son plan de développement actuel ». Au 30/06/2026, BOE détient 23,8 % du capital ; dirigeants et salariés environ 14 % ; le PDG détient environ 200 000 actions en direct. Une nouvelle fenêtre de liquidité de SESIM « devrait être mise en œuvre au cours des prochains mois ». Vusion indique n'avoir « jamais eu de discussions avec la Direction des Émetteurs ni la Direction des Affaires Comptables » de l'AMF sur la présentation des VAS, et confirme une croissance des VAS « d'environ 40 % » en 2026.",
+   "sources": [
+    "S106"
+   ],
+   "sources_libelle": [
+    "FAQ Investisseurs Vusion du 02/10/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-10-02_faq-investisseurs#e1",
+     "texte": "Trésorerie nette positive fin 2026, hors acquisitions, « y compris après la reprise intégrale des acomptes clients versés par Walmart »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
+    },
+    {
+     "id": "2026-10-02_faq-investisseurs#e2",
+     "texte": "Levier fin 2026 « nettement inférieur » au plafond de 2,0x l'EBITDA du plan Vusion 27",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-21_resultats-s1-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-02_vad-synthese",
+   "date": "2026-10-02",
+   "date_affichee": "2 oct. 2026",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "Positions courtes publiées : six fonds au-dessus de 0,5 %",
+   "texte": "Au 02/10/2026, positions publiées encore ouvertes : Pertento 1,05 % (depuis le 09/03), Davidson Kempner 0,59 %, Two Sigma 0,59 %, D. E. Shaw 0,58 %, Wellington 0,55 %, Brooklands 0,55 % (déclarée le 01/10). Historique depuis 2023 : 19 fonds, pics de PSquared à 2,2 % (avril 2023) et Melqart à 1,32 % (avril 2024). Gotham City Research n'apparaît jamais au registre (positions sous 0,5 % non publiées).",
+   "sources": [
+    "S068"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes (VusionGroup), export open data du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-20_ca-t3-2026",
+   "date": "2026-10-20",
+   "date_affichee": "20 oct. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : chiffre d'affaires du 3e trimestre 2026",
+   "texte": "Publication annoncée après Bourse (calendrier financier du CP du 30/07/2026).",
+   "sources": [
+    "S063"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 30/07/2026 (calendrier)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-11-18_capital-markets-day",
+   "date": "2026-11-18",
+   "date_affichee": "18 nov. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : Capital Markets Day et nouveau plan stratégique",
+   "texte": "Présentation d'un nouveau plan stratégique à Paris, annoncée dans le CP du 30/07/2026 ; le plan Vusion '27 visait 2,2 Md€ de CA en 2027 selon la presse.",
+   "sources": [
+    "S063"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 30/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2022-11-09_vusion27"
+    }
+   ]
+  }
+ ],
+ "questions_ouvertes": [
+  {
+   "sujet": "usa",
+   "question": "Quel poids pèse Walmart dans le chiffre d'affaires ?",
+   "etat": "Le document d'enregistrement universel 2025 indique que les dix premiers clients font environ 85 % du CA 2025, sans donner la part du premier. Les estimations d'analystes divergent : environ 35 % du CA 2024 et plus de 53 % en 2026 selon Exane (Agefi). Selon BFM Bourse, les États-Unis « représentent 70% de l'activité du groupe ». AlphaValue l'estime à 77 % des ventes IFRS du S1 2026 (Option Finance, 31/07/2026).",
+   "attendu": "La part du premier client dans le CA (comptes annuels, information sectorielle).",
+   "sources": [
+    "S077",
+    "S069",
+    "S060",
+    "S098"
+   ]
+  },
+  {
+   "sujet": "usa",
+   "question": "Que se passe-t-il après la fin du déploiement Walmart aux États-Unis ?",
+   "etat": "La société annonce la fin du déploiement EdgeSense chez Walmart US fin 2026 et dit que l'activité continuera de croître en 2027 et 2028 ; des analystes évoquent une « falaise ». Les commandes du S1 2026 baissent de 22 %. Le 21/04/2026, le PDG reconnaît que l'accélération chez Walmart a avancé du CA de 2027 vers 2025-2026, tout en maintenant l'ambition 2027 ; Berenberg juge ces objectifs exigeants (25/06/2026).",
+   "attendu": "Le plan stratégique du 18/11/2026 et les commandes du S2 2026.",
+   "sources": [
+    "S081",
+    "S086"
+   ]
+  },
+  {
+   "sujet": "usa",
+   "question": "Quel est le statut des textes américains visant les étiquettes électroniques ?",
+   "etat": "H.R.4966 et S.3892 sont au stade du dépôt ; le New Jersey a adopté un moratoire d'un an ; le Maryland vise la tarification personnalisée, pas les étiquettes. Aucune déclaration de Vusion sur ce sujet n'est retrouvée.",
+   "attendu": "Le suivi législatif (congress.gov) et une communication de la société."
+  },
+  {
+   "sujet": "vad",
+   "question": "Quelle suite pour la plainte déposée au Parquet national financier en 2023 ?",
+   "etat": "Plainte déposée le 07/07/2023 et AMF notifiée ; aucune information publique sur l'issue n'est retrouvée.",
+   "attendu": "Une communication de la société, de l'AMF ou du PNF."
+  },
+  {
+   "sujet": "gouv",
+   "question": "Quels mouvements d'actionnaires depuis fin 2025 ?",
+   "etat": "Au 31/12/2025 : BOE 23,79 %, SESIM 10,29 %, LAC I 7,78 %, groupe E Ink 5,74 % (document d'enregistrement universel) ; Walmart conserve 1 111 200 bons (environ 6,5 % du capital). En avril 2026, The Glasshouse SA (liée à l'administrateur P. Brabeck-Letmathe) achète 80 000 actions ; la société a racheté 148 304 actions au 14/09/2026. Aucune déclaration de franchissement de seuil postérieure n'est encore rattachée. La page FAQ du site investisseurs (consultée le 12/10/2026, pourcentages non datés) indique BOE 24,0 %, SESIM 10,4 %, Bpifrance (LAC 1) 7,8 %, E Ink 5,8 % et Qualcomm 1,9 %, soit « environ 50% du capital » flottant, pour 16 873 382 actions au 30/06/2026. La FAQ du 02/10/2026 donne BOE à 23,8 % au 30/06/2026, dirigeants et salariés à environ 14 %, et annonce une prochaine fenêtre de liquidité de SESIM.",
+   "attendu": "Les déclarations AMF de franchissement de seuils 2026.",
+   "sources": [
+    "S077",
+    "S079",
+    "S065",
+    "S105",
+    "S106"
+   ]
+  },
+  {
+   "sujet": "gouv",
+   "question": "Vusion étudie-t-elle une vente ?",
+   "etat": "Information de Bloomberg du 05/08/2026, non commentée par la société.",
+   "attendu": "Une communication de la société."
+  },
+  {
+   "sujet": "contrats",
+   "question": "Quand le seuil de 700 M USD de paiements Walmart a-t-il été atteint ?",
+   "etat": "Les bons de souscription deviennent exerçables à ce seuil ; Walmart en a exercé 650 000 le 30/06/2025, sans date publiée pour le franchissement du seuil. Les droits sont acquis en totalité à 3 Md USD de paiements cumulés ; aucune date n'est publiée pour ce second seuil non plus. Selon la FAQ du 02/10/2026, le retraitement IFRS des bons pèsera sur le CA jusqu'à ce que Walmart ait dépensé 3 Md$ avec le groupe.",
+   "attendu": "Le document d'enregistrement universel.",
+   "sources": [
+    "S106"
+   ]
+  },
+  {
+   "sujet": "contrats",
+   "question": "Qui fournit les étiquettes électroniques de Kroger ?",
+   "etat": "Kroger a équipé 20 magasins de la région de Columbus et en prévoit 60 de plus d'ici fin 2026 (WOSU, 17/06/2026), sans nommer de fournisseur. Des pilotes VusionGroup chez Kroger ont été rapportés par la presse spécialisée en 2025 (articles non archivés). Hanshow, qui a remporté Tesco au Royaume-Uni, est avancé sur le forum sans pièce.",
+   "attendu": "Un communiqué de Kroger ou d'un fournisseur.",
+   "sources": [
+    "S104",
+    "S103"
+   ]
+  },
+  {
+   "sujet": "contrats",
+   "question": "Quel est le périmètre de l'exclusivité européenne accordée par Carrefour ?",
+   "etat": "Le contrat de février 2026 porte sur les hypermarchés et supermarchés de France ; le CP du 21/04/2026 ajoute une exclusivité de 3 ans en Europe. Les pays, formats et montants hors de France ne sont pas publiés ; des pilotes dans d'autres pays sont évoqués lors de la conférence du T1.",
+   "attendu": "Des annonces de déploiement de Carrefour hors de France.",
+   "sources": [
+    "S058",
+    "S081"
+   ]
+  },
+  {
+   "sujet": "autre",
+   "question": "À quel prix et quand l'acquisition d'In-Store Media sera-t-elle finalisée ?",
+   "etat": "Le prix n'est pas publié ; l'opération doit être financée par dette et reste soumise aux autorisations réglementaires (CP du 27/07/2026). Le CP du 21/09/2026 indique un impact limité sur 2026.",
+   "attendu": "Le communiqué de réalisation de l'opération.",
+   "sources": [
+    "S061",
+    "S065"
+   ]
+  },
+  {
+   "sujet": "usa",
+   "question": "Quelle part du préfinancement Walmart pourrait être remboursée ?",
+   "etat": "La FAQ du 02/10/2026 affirme que le préfinancement des lignes (323 M$) est conservé et constitue une entrée de trésorerie définitive, tout en reproduisant la clause de remboursement partiel en cas d'utilisation des lignes pour d'autres clients, comptabilisée au passif pour le montant maximum attendu. Ce montant n'est pas publié.",
+   "attendu": "Le montant du passif correspondant dans les comptes annuels 2026.",
+   "sources": [
+    "S106"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "S001",
+   "date_source": "2026-06-19",
+   "type": "forum",
+   "reference": "Message forum (l'auteur de la frise), 19/06/2026 : retour d'expérience Vusion / Gotham 2023",
+   "url": "",
+   "archive": "integral",
+   "note": "Compilation des CP Vusion 2023 ; pièces à rattacher une à une.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S002",
+   "date_source": "2026-06-25",
+   "type": "forum",
+   "reference": "Message forum (l'auteur de la frise), 25/06/2026 : cours de Vusion du 21/06 au 06/07/2023",
+   "url": "",
+   "archive": "integral",
+   "note": "Historique de cours recopié.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S003",
+   "date_source": "2021-03-31",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 31/03/2021 : résultats 2020",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/03/FCACT054906_20210331.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S004",
+   "date_source": "2022-01-27",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 27/01/2022 : chiffre d'affaires 2021",
+   "url": "https://live.euronext.com/sites/default/files/cpr05_actus_72941_FR0010282822.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S005",
+   "date_source": "2024-01-24",
+   "type": "CP",
+   "reference": "CP VusionGroup du 24/01/2024 : chiffre d'affaires 2023",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/01/FCACT067832_20240124.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S006",
+   "date_source": "2024-03-27",
+   "type": "CP",
+   "reference": "CP VusionGroup du 27/03/2024 : résultats 2023",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/03/FCACT068600_20240327.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S007",
+   "date_source": "2021-04-07",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 07/04/2021 : Walmart Canada (328 magasins)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/04/FCACT054976_20210407.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S008",
+   "date_source": "2021-04-09",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 09/04/2021 : augmentation du flottant (cession BOE)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/04/FCACT055017_20210409.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S009",
+   "date_source": "2021-04-28",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 28/04/2021 : chiffre d'affaires T1 2021",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/04/FCACT055290_20210428.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S010",
+   "date_source": "2021-07-29",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 29/07/2021 : chiffre d'affaires S1 2021",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/07/FCACT056627_20210729.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S011",
+   "date_source": "2021-10-28",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 28/10/2021 : chiffre d'affaires 9 mois 2021",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/10/FCACT057570_20211028.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S012",
+   "date_source": "2022-03-03",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 03/03/2022 : résultats 2021",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/03/FCACT059061_20220303.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S013",
+   "date_source": "2023-01-26",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 26/01/2023 : chiffre d'affaires 2022",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/01/FCACT063111_20230126.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S014",
+   "date_source": "2022-03-10",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 10/03/2022 : extension du déploiement chez Walmart aux États-Unis",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/03/FCACT059112_20220310.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S015",
+   "date_source": "2022-05-03",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 03/05/2022 : SESIM exerce son option de liquidité",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/05/FCACT059886_20220503.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S016",
+   "date_source": "2022-11-22",
+   "type": "officiel",
+   "reference": "AMF, avis 222C2515 et 222C2525 (22-23/11/2022) : franchissements de seuils SESIM et BOE Smart Retail",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307465562_20221122.pdf",
+   "archive": "integral",
+   "note": "Second avis : https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307465627_20221123.pdf. Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S017",
+   "date_source": "2022-07-25",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 25/07/2022 : chiffre d'affaires S1 2022",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/07/FCACT060955_20220725.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S018",
+   "date_source": "2022-09-08",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 08/09/2022 : résultats S1 2022",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/09/FCACT061362_20220908.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S019",
+   "date_source": "2022-10-27",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 27/10/2022 : chiffre d'affaires T3 2022",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/10/FCACT062026_20221027.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S020",
+   "date_source": "2022-11-09",
+   "type": "presse",
+   "reference": "Easybourse et Option Finance, 09/11/2022 : Capital Markets Day, plan « Vusion '27 »",
+   "url": "https://www.easybourse.com/high-tech/news/1445476/ses-imagotag-plus-haut-plan-strategique-convainc.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S021",
+   "date_source": "2023-03-08",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 08/03/2023 : résultats 2022",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/03/FCACT063611_20230308.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S022",
+   "date_source": "2023-04-27",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 27/04/2023 : bons de souscription réservés à Walmart",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/04/FCACT064218_20230427.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S023",
+   "date_source": "2023-04-27",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat, 27/04/2023 : « Avec Walmart qui envisage de prendre 10% de son capital, SES-imagotag s'envole en Bourse »",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-avec-walmart-qui-envisage-de-prendre-10-de-son-capital-ses-imagotag-s-envole-en-bourse-1066675.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S024",
+   "date_source": "2023-06-05",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 05/06/2023 : l'AG approuve les BSA Walmart",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT064825_20230605.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S025",
+   "date_source": "2023-06-22",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 22/06/2023 : réponse au rapport de Gotham City Research",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT065061_20230622.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S026",
+   "date_source": "2023-06-26",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat, 26/06/2023 : « Après son plongeon en Bourse, SES-imagotag contre-attaque face à Gotham City Research »",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-apres-son-plongeon-en-bourse-ses-imagotag-contre-attaque-face-a-gotham-city-research-1074455.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S027",
+   "date_source": "2023-06-26",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 26/06/2023 : réponse détaillée au rapport Gotham",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT065086_20230626.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S028",
+   "date_source": "2023-06-28",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 28/06/2023 : suites données au rapport Gotham, performance du S1",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT065144_20230628.pdf",
+   "archive": "integral",
+   "note": "Version anglaise : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT065145_20230628.pdf. Unité du montant de 53,1 (US$ ou €) divergente entre les versions, à vérifier. Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S029",
+   "date_source": "2023-07-07",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 07/07/2023 : réaction à la seconde publication de Gotham, plainte au PNF",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/07/FCACT065358_20230707.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S030",
+   "date_source": "2023-07-27",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 27/07/2023 : chiffre d'affaires S1 2023",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/07/FCACT065654_20230727.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S031",
+   "date_source": "2023-07-28",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 28/07/2023 : réaction au communiqué de Gotham City",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/07/FCACT065696_20230728.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S032",
+   "date_source": "2023-09-11",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 11/09/2023 : résultats S1 2023",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/09/FCACT066048_20230911.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S033",
+   "date_source": "2023-10-26",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 26/10/2023 : chiffre d'affaires T3 2023",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/10/FCACT066737_20231026.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S034",
+   "date_source": "2023-12-05",
+   "type": "officiel",
+   "reference": "AMF, avis 223C1980 (05/12/2023) : Bpifrance (LAC I) franchit 5 %",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307514076_20231205.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S035",
+   "date_source": "2024-01-10",
+   "type": "CP",
+   "reference": "CP du 10/01/2024 : SES-imagotag devient VusionGroup",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/01/FCACT067691_20240110.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S036",
+   "date_source": "2024-03-07",
+   "type": "CP",
+   "reference": "CP VusionGroup du 07/03/2024 : évolution de la gouvernance",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/03/FCACT068412_20240307.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S037",
+   "date_source": "2024-04-30",
+   "type": "CP",
+   "reference": "CP VusionGroup du 30/04/2024 : avenant Walmart (EdgeSense, VusionCloud)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/04/FCACT069167_20240430.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S038",
+   "date_source": "2024-05-24",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat, 24/05/2024 : « Le titre chute, manipulation de cours dénoncée »",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-vusiongroup-le-titre-chute-manipulation-de-cours-denoncee-1115798.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S039",
+   "date_source": "2024-08-09",
+   "type": "CP",
+   "reference": "CP du 09/08/2024 : SESIM, opérations de financement et de reclassement de titres",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/08/FCACT070659_20240809.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S040",
+   "date_source": "2024-09-12",
+   "type": "CP",
+   "reference": "CP VusionGroup du 12/09/2024 : résultats S1 2024",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/09/FCACT070938_20240912.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S041",
+   "date_source": "2024-10-28",
+   "type": "CP",
+   "reference": "CP VusionGroup du 28/10/2024 : chiffre d'affaires T3 2024",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/10/FCACT071604_20241028.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S042",
+   "date_source": "2024-12-23",
+   "type": "CP",
+   "reference": "CP VusionGroup du 23/12/2024 : Walmart étend le déploiement à tous ses magasins américains",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/12/FCACT072367_20241223.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S043",
+   "date_source": "2025-02-26",
+   "type": "CP",
+   "reference": "CP VusionGroup du 26/02/2025 : résultats annuels 2024",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/02/FCACT073117_20250226.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S044",
+   "date_source": "2026-02-26",
+   "type": "CP",
+   "reference": "CP Vusion du 26/02/2026 : résultats annuels 2025",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/02/FCACT078445_20260226.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S045",
+   "date_source": "2025-04-30",
+   "type": "CP",
+   "reference": "CP VusionGroup du 30/04/2025 : cession par BOE de 7 % du capital",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/04/FCACT074093_20250430.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S046",
+   "date_source": "2025-05-13",
+   "type": "officiel",
+   "reference": "AMF, déclaration de franchissement de seuils de BOE Smart Retail (13/05/2025)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307582136_20250513.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S047",
+   "date_source": "2025-05-23",
+   "type": "presse",
+   "reference": "Easybourse, 23/05/2025 : « VusionGroup: contrat majeur avec Co-op au Royaume-Uni »",
+   "url": "https://www.easybourse.com/high-tech/news/1507881/vusiongroup-contrat-majeur-avec-co-op-royaume-uni.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S048",
+   "date_source": "2025-07-01",
+   "type": "CP",
+   "reference": "CP VusionGroup du 01/07/2025 : exercice de BSA et cession d'actions par Walmart",
+   "url": "https://finanzwire.com/press-release/store-electronic-systems-ses-epa-sesl-vusiongroup-increase-of-vusiongroup-share-capital-and-free-float-following-the-exercise-of-warrants-and-the-sale-of-vusiongroup-shares-by-walmart-MurkRfSl3j1",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S049",
+   "date_source": "2025-08-12",
+   "type": "officiel",
+   "reference": "Congrès des États-Unis, H.R.4966 « Stop Price Gouging in Grocery Stores Act of 2025 »",
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4966ih/html/BILLS-119hr4966ih.htm",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S050",
+   "date_source": "2025-09-15",
+   "type": "CP",
+   "reference": "CP VusionGroup du 15/09/2025 : résultats S1 2025",
+   "url": "https://s203.q4cdn.com/882900163/files/doc_financials/2025/q2/VusionGroup_CP_Resultats_S1_2025f.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S051",
+   "date_source": "2025-10-22",
+   "type": "CP",
+   "reference": "CP VusionGroup du 22/10/2025 : Morrisons (Royaume-Uni)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/10/FCACT076771_20251022.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S052",
+   "date_source": "2025-10-22",
+   "type": "CP",
+   "reference": "CP VusionGroup du 22/10/2025 : chiffre d'affaires T3 2025",
+   "url": "https://www.vusion.com/newsroom/vusiongroup-third-quarter-2025-sales-strong-growth-full-year-outlook-confirmed",
+   "archive": "integral",
+   "note": "PDF DILA non retrouvé. Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S053",
+   "date_source": "2026-01-07",
+   "type": "CP",
+   "reference": "CP du 07/01/2026 : VusionGroup devient Vusion",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/01/FCACT077720_20260107.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S054",
+   "date_source": "2026-01-16",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat, 16/01/2026 : « faut-il s'inquiéter d'un \"trou de croissance\" sur Vusion? »",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-apres-un-plongeon-de-l-action-de-30-en-six-seances-faut-il-s-inquieter-d-un-trou-de-croissance-sur-vusion-1154403.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S055",
+   "date_source": "2026-02-12",
+   "type": "officiel",
+   "reference": "Sénat des États-Unis, S.3892 « Stop Price Gouging in Grocery Stores Act of 2026 » (communiqué des sénateurs Luján et Merkley)",
+   "url": "https://www.lujan.senate.gov/?p=80377",
+   "archive": "integral",
+   "note": "Texte : https://www.heinrich.senate.gov/imo/media/doc/grocery_gouging_bill.pdf ; numéro confirmé par un agrégateur. Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S056",
+   "date_source": "2026-02-18",
+   "type": "CP",
+   "reference": "CP Vusion du 18/02/2026 : Carrefour",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/02/FCACT078335_20260218.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S057",
+   "date_source": "2026-03-30",
+   "type": "CP",
+   "reference": "CP Vusion du 30/03/2026 : Walmart Mexico étend le partenariat",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/03/FCACT078860_20260330.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S058",
+   "date_source": "2026-04-21",
+   "type": "CP",
+   "reference": "CP Vusion du 21/04/2026 : chiffre d'affaires T1 2026",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/04/FCACT079249_20260421.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S059",
+   "date_source": "2026-06-16",
+   "type": "CP",
+   "reference": "CP Vusion du 16/06/2026 : JYSK",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/06/FCACT080117_20260616.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S060",
+   "date_source": "2026-07-15",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat, 15/07/2026 : AlphaValue initie Vusion à « vendre »",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-redoutant-une-lourde-consommation-de-tresorerie-et-une-baisse-marquee-des-revenus-1166736.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S061",
+   "date_source": "2026-07-27",
+   "type": "CP",
+   "reference": "CP Vusion du 27/07/2026 : accord en vue d'acquérir In-Store Media",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/07/FCACT080726_20260727.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S062",
+   "date_source": "2026-07-27",
+   "type": "presse",
+   "reference": "Invidis, 27/07/2026 : « US Retail: Electronic Shelf Labels Under Fire » ; Fortune, 15/09/2026",
+   "url": "https://invidis.com/news/2026/07/us-retail-electronic-shelf-labels-under-fire/",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S063",
+   "date_source": "2026-07-30",
+   "type": "CP",
+   "reference": "CP Vusion du 30/07/2026 : chiffre d'affaires S1 2026",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/07/FCACT080806_20260730.pdf",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S064",
+   "date_source": "2026-08-05",
+   "type": "presse",
+   "reference": "ABC Bourse et Boursorama, 05/08/2026 : selon Bloomberg, Vusion étudierait des options stratégiques",
+   "url": "https://www.abcbourse.com/marches/vusion-bondit-en-bourse-le-groupe-explore-ses-options-strategiques-dont-un-pot_701025",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S065",
+   "date_source": "2026-09-21",
+   "type": "CP",
+   "reference": "CP Vusion du 21/09/2026 : résultats S1 2026",
+   "url": "https://www.boursorama.com/bourse/actualites/vusion-resultats-du-1er-semestre-2026-forte-croissance-du-chiffre-d-affaires-de-la-rentabilite-et-du-free-cash-flow-operationnel-confirmation-des-perspectives-annuelles-80bbe0d363f3a355cf19c50df1a197e2",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S066",
+   "date_source": "2026-09-22",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat, 22/09/2026 : « Avec 1 milliard d'euros de prises de commandes attendues au second semestre »",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-avec-1-milliard-d-euros-de-prises-de-commandes-attendues-au-second-semestre-le-specialiste-des-etiquettes-electroniques-1170523.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S067",
+   "date_source": "2026-09-29",
+   "type": "CP",
+   "reference": "CP Vusion du 29/09/2026 : JB Hi-Fi (Australie)",
+   "url": "https://www.webdisclosure.com/press-release/australian-retailer-jb-hi-fi-selects-vusion-to-advance-its-connected-store-strategy-k32odpHNXN7",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S068",
+   "date_source": "2026-10-09",
+   "type": "registre",
+   "reference": "Registre AMF des positions courtes nettes (VusionGroup), export open data du 09/10/2026",
+   "url": "https://www.data.gouv.fr/fr/datasets/historique-des-positions-courtes-nettes-sur-actions-rendues-publiques-depuis-le-1er-novembre-2012/",
+   "archive": "integral",
+   "note": "196 lignes VusionGroup extraites de l'export (19 détenteurs, 2023-2026) ; texte dans textes/S068.txt. Seules les positions d'au moins 0,5 % sont publiées. Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf) ; citations vérifiées le 12/10/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S069",
+   "date_source": "2026-01-14",
+   "type": "presse",
+   "reference": "ABC Bourse / Agefi, 14/01/2026 : « Vusion poursuit sa chute en Bourse et perd plus de 20% depuis le début de l'année »",
+   "url": "https://www.abcbourse.com/marches/vusion-poursuit-sa-chute-en-bourse-et-perd-plus-de-20-depuis-le-debut-de-l-anne_685599",
+   "archive": "reference",
+   "note": ""
+  },
+  {
+   "id": "S070",
+   "date_source": "2022-04-28",
+   "type": "CP",
+   "reference": "CP SES-imagotag du 28/04/2022 : chiffre d'affaires T1 2022",
+   "url": "",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S071",
+   "date_source": "2022-04-28",
+   "type": "CP",
+   "reference": "Présentation SES-imagotag du chiffre d'affaires T1 2022",
+   "url": "",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S072",
+   "date_source": "2022-11-09",
+   "type": "CP",
+   "reference": "Présentation du Capital Markets Day du 09/11/2022 : plan « VUSION '27 » (171 diapositives)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S074",
+   "date_source": "2025-04-23",
+   "type": "CP",
+   "reference": "CP VusionGroup du 23/04/2025 : chiffre d'affaires T1 2025",
+   "url": "",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S075",
+   "date_source": "2025-04-23",
+   "type": "CP",
+   "reference": "Présentation VusionGroup du chiffre d'affaires T1 2025",
+   "url": "",
+   "archive": "integral",
+   "note": "Texte archivé depuis le PDF fourni par l'auteur de la frise (textes/pdf).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S076",
+   "date_source": "2025-04-23",
+   "type": "transcription",
+   "reference": "Transcription de la conférence téléphonique du chiffre d'affaires T1 2025",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S077",
+   "date_source": "2026-05-18",
+   "type": "rapport",
+   "reference": "Vusion : document d'enregistrement universel 2025 (version du 18/05/2026, 376 p.)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S078",
+   "date_source": "2026-09-21",
+   "type": "rapport",
+   "reference": "Vusion : rapport financier semestriel au 30/06/2026 (74 p.)",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S079",
+   "date_source": "2026-04-27",
+   "type": "officiel",
+   "reference": "AMF (BDIF) : déclaration des transactions de dirigeants n° 2026DD1110626, The Glasshouse SA",
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2026/2026DD1110626/D2FA817E4EB896B6E47F0C7E7BDD161F0AB72D5395B5698D911141472569827A.pdf",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S080",
+   "date_source": "2026-04-28",
+   "type": "presse",
+   "reference": "ABC Bourse : transactions des dirigeants de VusionGroup (récapitulatif des déclarations AMF)",
+   "url": "https://www.abcbourse.com/marches/transactions_dirigeants/FR0010282822p",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S081",
+   "date_source": "2026-04-21",
+   "type": "transcription",
+   "reference": "Vusion : transcription de la conférence téléphonique du chiffre d'affaires du T1 2026 (21/04/2026)",
+   "url": "https://s203.q4cdn.com/882900163/files/doc_financials/2026/q1/Transcript-Vusion-Q1-2026-Sales-Conference-Call-21-04-2026.pdf",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S082",
+   "date_source": "2026-03-18",
+   "type": "CP",
+   "reference": "Vusion (newsroom), 18/03/2026 : « Vusion Partners with INTERSPAR to Bring its Customers' Experience to the Next Level »",
+   "url": "https://www.vusion.com/newsroom/vusion-partners-interspar-bring-its-customers-experience-to-the-next-level/",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S083",
+   "date_source": "2026-05-05",
+   "type": "CP",
+   "reference": "StrongPoint, 05/05/2026 : « StrongPoint and Vusion chosen by Estonian grocery retailer Coop for the digitalization of their stores »",
+   "url": "https://www.strongpoint.com/news/strongpoint-and-vusion-chosen-by-estonian-grocery-retailer-coop-for-the-digitalization-of-their-stores/",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S084",
+   "date_source": "2026-06-01",
+   "type": "presse",
+   "reference": "ABC Bourse, 01/06/2026 : « Vusion grimpe de plus de 9% après le relèvement d'Exane BNP Paribas »",
+   "url": "https://www.abcbourse.com/marches/vusion-grimpe-de-plus-de-9-apres-le-relevement-d-exane-bnp-paribas_697607",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S085",
+   "date_source": "2026-03-11",
+   "type": "presse",
+   "reference": "Option Finance / Zonebourse, 11/03/2026 : « Vusion soutenu par Berenberg »",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-03-11-vusion-soutenu-par-berenberg.html",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S086",
+   "date_source": "2026-06-25",
+   "type": "presse",
+   "reference": "Bourse Direct / Boursier, 25/06/2026 : « Vusion au rebond » (Berenberg)",
+   "url": "https://www.boursedirect.fr/fr/actualites/categorie/divers/vusion-au-rebond-boursier-d7ae8f466efb4cea87c7fd320c1080a172a47b04",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S087",
+   "date_source": "2026-06-04",
+   "type": "presse",
+   "reference": "ABC Bourse, 04/06/2026 : « Vusion approuve toutes les résolutions et confirme un dividende de 0,90 euro »",
+   "url": "https://www.abcbourse.com/marches/vusion-approuve-toutes-les-resolutions-et-confirme-un-dividende-de-0-90-euro_697868",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S088",
+   "date_source": "2026-06-23",
+   "type": "presse",
+   "reference": "Option Finance / Zonebourse, 23/06/2026 : « Vusion renforce sa présence en Turquie avec l'enseigne Gratis »",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-23-vusion-renforce-sa-presence-en-turquie-avec-lenseigne-gratis.html",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé. Communiqué déposé à l'AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/06/FCACT080181_20260623.pdf (non consulté).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S089",
+   "date_source": "2026-07-15",
+   "type": "presse",
+   "reference": "ABC Bourse, 15/07/2026 : « Vusion - Decathlon franchit le cap des 700 magasins équipés des solutions Vusion » (communiqué)",
+   "url": "https://www.abcbourse.com/marches/vusion--decathlon-franchit-le-cap-des-700-magasins-equipes-des-solutions-vusion_699686",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S090",
+   "date_source": "2026-01-28",
+   "type": "CP",
+   "reference": "Vusion (newsroom), 28/01/2026 : « Senukai, Baltics' Largest DIY Chain, Partners with Vusion to Accelerate Store Digitalization »",
+   "url": "https://www.vusion.com/newsroom/senukai-partners-with-vusion-accelerate-store-digitalization",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S091",
+   "date_source": "2026-02-04",
+   "type": "CP",
+   "reference": "Vusion (newsroom), 04/02/2026 : « Belgian Retailer Extra Shop Adopts Vusion's Innovative Solutions to Digitalize its Stores »",
+   "url": "https://www.vusion.com/newsroom/belgian-retailer-extra-shop-adopts-vusions-innovative-solutions-digitalize-stores/",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S092",
+   "date_source": "2025-10-31",
+   "type": "CP",
+   "reference": "VusionGroup (newsroom), 31/10/2025 : partenariat stratégique avec dm-drogerie markt (EdgeSense)",
+   "url": "https://www.vusion.com/newsroom/vusiongroup-announces-strategic-partnership-dm-accelerate-store-digitalization-edgesense",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S093",
+   "date_source": "2025-11-26",
+   "type": "CP",
+   "reference": "VusionGroup (newsroom), 26/11/2025 : « German DIY retailer OBI Enhances Retail Operational Efficiency and Customer Experience with VusionGroup Technologies »",
+   "url": "https://www.vusion.com/newsroom/german-diy-retailer-obi-enhances-retail-operational-efficiency-customer-experience-vusiongroup-technologies",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S095",
+   "date_source": "2025-10-07",
+   "type": "presse",
+   "reference": "Retail Optimiser, 07/10/2025 : « Asda rolls out VusionGroup's digital labels to 250 Express stores »",
+   "url": "https://retail-optimiser.de/en/asda-rolls-out-vusiongroups-digital-labels-to-250-express-stores/",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S096",
+   "date_source": "2026-09-02",
+   "type": "officiel",
+   "reference": "Asda (communiqué), 02/09/2026 : « Asda rolls out digital shelf labels across all Express convenience stores »",
+   "url": "https://corporate.asda.com/newsroom/2026/02/09/asda-rolls-out-digital-shelf-labels-across-all-express-stores",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S097",
+   "date_source": "2024-08-07",
+   "type": "CP",
+   "reference": "VusionGroup (Business Wire), 07/08/2024 : « Ace Hardware Selects VusionGroup's Innovative Solutions to Enhance Retail Experience »",
+   "url": "https://www.businesswire.com/news/home/20240807051295/en",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé. Version déposée à l'AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/08/FCACT070643_20240807.pdf ; newsroom : https://www.vusion.com/newsroom/ace-hardware-selects-vusiongroups-innovative-solutions-to-enhance-retail-experience/",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S098",
+   "date_source": "2026-07-31",
+   "type": "presse",
+   "reference": "Option Finance / Zonebourse, 31/07/2026 : « Semestre solide pour Vusion »",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-31-semestre-solide-pour-vusion.html",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S099",
+   "date_source": "2026-09-29",
+   "type": "presse",
+   "reference": "Bourse Direct / Boursier, 29/09/2026 : « Vusion : beau rebond après le contrat australien » (Stifel)",
+   "url": "https://www.boursedirect.fr/fr/actualites/categorie/divers/vusion-beau-rebond-apres-le-contrat-australien-boursier-c0073e037f97da80964145f567818ad46da65415",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S100",
+   "date_source": "2026-10-01",
+   "type": "presse",
+   "reference": "Retail Technology Innovation Hub, 01/10/2026 : « Greek food retailer Diamantis Masoutis expands its roll-out of electronic shelf labels in Vusion tie up »",
+   "url": "https://retailtechinnovationhub.com/home/2026/10/1/greek-retailer-diamantis-masoutis-expands-roll-out-of-electronic-shelf-labels-in-vusion-tie-up",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S101",
+   "date_source": "2026-09-21",
+   "type": "presse",
+   "reference": "Intelligent CIO (APAC), 21/09/2026 : lancement du Smart Retail Pioneer Program à Huawei Connect 2026",
+   "url": "https://www.intelligentcio.com/apac/?p=56362",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S102",
+   "date_source": "2026-10-01",
+   "type": "presse",
+   "reference": "The Next Web, 01/10/2026 : « Walmart shelf labels will light up to guide shoppers, CNBC reports »",
+   "url": "https://thenextweb.com/news/walmart-light-up-digital-shelf-labels",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S103",
+   "date_source": "2026-06-16",
+   "type": "presse",
+   "reference": "Grocery Gazette, 16/06/2026 : « Tesco to bring digital shelf labels to 3,000 UK stores »",
+   "url": "https://www.grocerygazette.co.uk/2026/06/16/tesco-to-bring-digital-shelf-labels-to-3000-uk-stores/",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S104",
+   "date_source": "2026-06-17",
+   "type": "presse",
+   "reference": "WOSU (Columbus), 17/06/2026 : « Kroger says new electronic price tags are more accurate and efficient »",
+   "url": "https://www.wosu.org/2026-06-17/kroger-says-new-electronic-price-tags-are-more-accurate-and-efficient",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S094",
+   "date_source": "2026-03-03",
+   "type": "presse",
+   "reference": "ABC Bourse, 03/03/2026 : « Vusion lance son programme de rachat d'actions d'un montant maximum de 30 millions d'euros »",
+   "url": "https://www.abcbourse.com/marches/vusion-lance-son-programme-de-rachat-d-actions-d-un-montant-maximum-de-30-millio_690757",
+   "archive": "integral",
+   "note": "Extraits relevés en ligne le 12/10/2026 ; texte intégral non archivé. Communiqué déposé à l'AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/03/FCACT078496_20260303.pdf (non consulté).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S105",
+   "date_source": "2026-10-12",
+   "type": "officiel",
+   "reference": "Vusion (site investisseurs) : page « Foire aux questions investisseurs », capture du 12/10/2026",
+   "url": "https://investor.vusion.com/French/contact/faqs-investisseurs/default.aspx",
+   "archive": "integral",
+   "note": "Capture PDF de la page web fournie par l'auteur de la frise (textes/pdf). La page renvoie vers une FAQ téléchargeable « en date du 2 octobre 2026 », qui n'est pas encore archivée. Les pourcentages d'actionnariat de la page ne sont pas datés.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S106",
+   "date_source": "2026-10-02",
+   "type": "officiel",
+   "reference": "Vusion : FAQ Investisseurs, mise à jour le 2 octobre 2026 (10 p.)",
+   "url": "https://investor.vusion.com/French/contact/faqs-investisseurs/default.aspx",
+   "archive": "integral",
+   "note": "PDF téléchargé par l'auteur de la frise depuis la page FAQ du site investisseurs (lien « Télécharger la dernière version de notre FAQ Investisseurs en date du 2 octobre 2026 ») ; texte archivé depuis le PDF.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S107",
+   "date_source": "2026-08-19",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de SNG Group – SID Parma (intégrateur italien), 19/08/2026 : installation dans un supermarché Rossotono (Reggio de Calabre)",
+   "url": "https://lnkd.in/p/eMp_gFNN",
+   "archive": "integral",
+   "note": "Texte original italien fourni par l'auteur de la frise ; traduction française partagée sur le forum le 20/08/2026 (« publiée il y a 22 heures »). Le post ne mentionne pas le nombre de magasins de l'enseigne.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S108",
+   "date_source": "2026-07-16",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de SNG Group – SID Parma, vers le 16/07/2026 : ouverture du Conad de Trescore Cremasco (Lombardie) équipé d'étiquettes Vusion",
+   "url": "https://www.linkedin.com/posts/sng-group-sid-parma_snggroup-conad-vusion-activity-7483449120712527872-vnUQ",
+   "archive": "integral",
+   "note": "Texte italien fourni par l'auteur de la frise. Date déduite de l'identifiant d'activité LinkedIn (16/07/2026, 09:15 UTC). Traduction : à l'occasion de l'ouverture du Conad de Trescore Cremasco, installation d'étiquettes électroniques Vusion (rayons et grands écrans au rayon fruits et légumes) et de balances Bizerba.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S109",
+   "date_source": "",
+   "type": "web",
+   "reference": "L'Express Franchise (Italie), fiche « Rossotono » : réseau et exploitant",
+   "url": "https://lexpress-franchise.com/it/franchising/rossotono/",
+   "archive": "integral",
+   "note": "Page non datée ; extrait relevé en ligne.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S110",
+   "date_source": "2026-06-16",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Bizerba Ukraine, vers le 16/06/2026 : intervention au salon RAU Expo 2026 (offre incluant les étiquettes Vusion et Captana)",
+   "url": "https://www.linkedin.com/posts/bizerba-ukraine_rauexpo2026-rauexpo2026-bizerbaukraine-activity-7472659819502456833-vioi",
+   "archive": "integral",
+   "note": "Texte ukrainien fourni par l'auteur de la frise ; date déduite de l'identifiant d'activité LinkedIn (16/06/2026). Traduction de l'extrait : à chaque irritant client, Bizerba Ukraine a une réponse : balances Bizerba à reconnaissance automatique, étiquettes électroniques Vusion, contrôle de disponibilité par vision IA Captana, caisses libre-service HiStone POS, antivol RFID Checkpoint Systems. Le post sur le magasin Halytska Svizhyna est archivé séparément (S111).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S111",
+   "date_source": "2026-06-30",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Bizerba Ukraine, vers le 30/06/2026 : ouverture le 26/06 du magasin amiral Halytska Svizhyna (Lviv), solutions de retail media",
+   "url": "https://www.linkedin.com/posts/bizerba-ukraine_bizerbaukraine-retail-retailmedia-activity-7477663642071658497-E6dD",
+   "archive": "integral",
+   "note": "Texte ukrainien fourni par l'auteur de la frise ; date déduite de l'identifiant d'activité LinkedIn (30/06/2026). Traduction : le 26 juin s'est ouvert à Lviv le nouveau magasin amiral de la chaîne Halytska Svizhyna ; Bizerba Ukraine a participé à la mise en œuvre de solutions numériques dans la zone Retail Media ; « avec Vusion, nous aidons les magasins à passer d'une infrastructure papier à un écosystème numérique de gestion ». Le post ne dit pas qu'il s'agit d'un premier magasin, ni quels produits Vusion y sont installés.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S112",
+   "date_source": "2026-09-15",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Bizerba Ukraine, 15/09/2026 : étiquettes électroniques Vusion et Vusion Rail dans le premier magasin « digital » de Halytska Svizhyna (Lviv)",
+   "url": "https://www.linkedin.com/posts/bizerba-ukraine_%D0%B3%D0%B0%D0%BB%D0%B8%D1%86%D1%8C%D0%BA%D0%B0-%D1%81%D0%B2%D1%96%D0%B6%D0%B8%D0%BD%D0%B0-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D0%BB%D0%B0-%D1%83-%D0%BB%D1%8C%D0%B2%D0%BE%D0%B2%D1%96-%D0%BF%D0%B5%D1%80%D1%88%D0%B8%D0%B9-activity-7505553562442305537-EIhW",
+   "archive": "integral",
+   "note": "Texte ukrainien fourni par l'auteur de la frise ; date déduite de l'identifiant d'activité LinkedIn (15/09/2026), cohérente avec le message du forum du même jour. Traduction : le 26 juin à Lviv, Halytska Svizhyna a ouvert son premier magasin au format digital ; Bizerba a participé à l'automatisation de la gestion des prix avec le système d'étiquettes électroniques (ESL) de Vusion, et a installé Vusion Rail (V:Rail), qui permet de changer les prix en temps réel et de diffuser des vidéos publicitaires en rayon.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S113",
+   "date_source": "2025-04-15",
+   "type": "presse",
+   "reference": "Option Finance / Zonebourse, 15/04/2025 : « VusionGroup : nouveau partenariat avec la chaîne de pharmacies européenne Dr. Max »",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2025-04-15-vusiongroup-nouveau-partenariat-avec-la-chaine-de-pharmacies-europeenne-dr-max.html",
+   "archive": "integral",
+   "note": "Communiqué VusionGroup du 15/04/2025 déposé à l'AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/04/FCACT073842_20250415.pdf (non consulté). Le chiffre de 1 000 points de vente cité sur le forum n'est pas dans l'extrait relevé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S114",
+   "date_source": "2025-06-24",
+   "type": "CP",
+   "reference": "VusionGroup (newsroom), 24/06/2025 : partenariat avec Eroski pour la transformation numérique de la distribution alimentaire espagnole",
+   "url": "https://www.vusion.com/newsroom/vusiongroup-eroski-partner-drive-digital-transformation-spanish-grocery-retail/",
+   "archive": "integral",
+   "note": "Version déposée à l'AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/06/FCACT074954_20250624.pdf (non consultée).",
+   "texte_archive": "sources_textes.json"
+  }
+ ],
+ "lieux": [
+  {
+   "id": "nanterre",
+   "nom": "Nanterre : siège de Vusion",
+   "lat": 48.8975,
+   "lon": 2.2135,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2024-01-10_vusiongroup",
+    "2026-01-07_vusion"
+   ],
+   "note": "Siège social (55 place Nelson Mandela)."
+  },
+  {
+   "id": "etats-unis",
+   "nom": "États-Unis : Walmart et Ace Hardware",
+   "lat": 39.5,
+   "lon": -98.35,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2023-04-27_walmart-bsa",
+    "2024-04-30_walmart-avenant",
+    "2024-12-23_walmart-4600",
+    "2024-08-07_ace-hardware",
+    "2026-10-01_walmart-cnbc"
+   ],
+   "note": "Déploiements nationaux : localisation au niveau du pays."
+  },
+  {
+   "id": "arkansas",
+   "nom": "Arkansas : pilote Walmart",
+   "lat": 34.9,
+   "lon": -92.4,
+   "precision": "region",
+   "type": "client",
+   "evenements": [
+    "2022-03-10_walmart-us"
+   ]
+  },
+  {
+   "id": "washington",
+   "nom": "Washington : propositions de loi fédérales",
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "precision": "ville",
+   "type": "institution",
+   "evenements": [
+    "2025-08-12_hr4966",
+    "2026-02-12_s3892"
+   ]
+  },
+  {
+   "id": "new-jersey",
+   "nom": "New Jersey : moratoire sur les nouvelles étiquettes",
+   "lat": 40.06,
+   "lon": -74.41,
+   "precision": "region",
+   "type": "institution",
+   "evenements": [
+    "2026-07-15_new-jersey"
+   ]
+  },
+  {
+   "id": "canada",
+   "nom": "Canada : Walmart Canada",
+   "lat": 56.1,
+   "lon": -106.3,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2021-04-07_walmart-canada"
+   ]
+  },
+  {
+   "id": "mexique",
+   "nom": "Mexique : Walmart de México",
+   "lat": 23.6,
+   "lon": -102.5,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-03-30_walmex"
+   ]
+  },
+  {
+   "id": "royaume-uni",
+   "nom": "Royaume-Uni : Co-op, Morrisons, Asda",
+   "lat": 52.6,
+   "lon": -1.5,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2025-05-23_coop",
+    "2025-10-22_morrisons",
+    "2025-10-07_asda-express",
+    "2026-09-02_asda-517"
+   ]
+  },
+  {
+   "id": "france",
+   "nom": "France : Carrefour",
+   "lat": 46.6,
+   "lon": 2.4,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-02-18_carrefour"
+   ],
+   "note": "Hypermarchés et supermarchés en France."
+  },
+  {
+   "id": "allemagne",
+   "nom": "Allemagne : dm, OBI",
+   "lat": 51.16,
+   "lon": 10.45,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2025-10-31_dm",
+    "2025-11-26_obi"
+   ]
+  },
+  {
+   "id": "autriche",
+   "nom": "Autriche : INTERSPAR et Maximarkt",
+   "lat": 47.6,
+   "lon": 14.1,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-03-18_interspar"
+   ]
+  },
+  {
+   "id": "espagne",
+   "nom": "Espagne : Eroski",
+   "lat": 40.0,
+   "lon": -3.7,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2025-06-24_eroski"
+   ]
+  },
+  {
+   "id": "madrid",
+   "nom": "Madrid : In-Store Media (acquisition en cours)",
+   "lat": 40.4168,
+   "lon": -3.7038,
+   "precision": "ville",
+   "type": "partenaire",
+   "evenements": [
+    "2026-07-27_ism"
+   ],
+   "note": "Société espagnole ; position au niveau de la ville."
+  },
+  {
+   "id": "belgique",
+   "nom": "Belgique : Extra Shop",
+   "lat": 50.6,
+   "lon": 4.6,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-02-04_extra-shop"
+   ]
+  },
+  {
+   "id": "europe-centrale",
+   "nom": "Europe centrale : Dr. Max",
+   "lat": 49.8,
+   "lon": 15.5,
+   "precision": "region",
+   "type": "client",
+   "evenements": [
+    "2025-04-15_dr-max"
+   ]
+  },
+  {
+   "id": "nordiques",
+   "nom": "Pays nordiques et Europe : JYSK",
+   "lat": 56.2,
+   "lon": 9.5,
+   "precision": "region",
+   "type": "client",
+   "evenements": [
+    "2026-06-16_jysk"
+   ]
+  },
+  {
+   "id": "baltes",
+   "nom": "Pays baltes : Senukai",
+   "lat": 55.3,
+   "lon": 23.9,
+   "precision": "region",
+   "type": "client",
+   "evenements": [
+    "2026-01-28_senukai"
+   ]
+  },
+  {
+   "id": "estonie",
+   "nom": "Estonie : Coop (avec StrongPoint)",
+   "lat": 58.7,
+   "lon": 25.6,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-05-05_coop-estonie"
+   ]
+  },
+  {
+   "id": "turquie",
+   "nom": "Turquie : Gratis",
+   "lat": 39.0,
+   "lon": 35.2,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-06-23_gratis"
+   ]
+  },
+  {
+   "id": "grece",
+   "nom": "Grèce : Masoutis",
+   "lat": 39.5,
+   "lon": 22.0,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-10-01_masoutis"
+   ]
+  },
+  {
+   "id": "trescore",
+   "nom": "Trescore Cremasco (Lombardie) : Conad",
+   "lat": 45.4026,
+   "lon": 9.6243,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-07-16_conad-trescore"
+   ]
+  },
+  {
+   "id": "reggio",
+   "nom": "Province de Reggio de Calabre : Rossotono",
+   "lat": 38.11,
+   "lon": 15.65,
+   "precision": "region",
+   "type": "client",
+   "evenements": [
+    "2026-08-19_rossotono"
+   ]
+  },
+  {
+   "id": "lviv",
+   "nom": "Lviv : magasin Halytska Svizhyna",
+   "lat": 49.8397,
+   "lon": 24.0297,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-06-26_halytska-svizhyna"
+   ]
+  },
+  {
+   "id": "kyiv",
+   "nom": "Kyiv : RAU Expo 2026 (Bizerba Ukraine)",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "precision": "ville",
+   "type": "evenement",
+   "evenements": [
+    "2026-06-16_bizerba-ukraine"
+   ],
+   "note": "Ville du salon RAU Expo, non précisée dans le post."
+  },
+  {
+   "id": "australie",
+   "nom": "Australie et Nouvelle-Zélande : JB Hi-Fi",
+   "lat": -25.3,
+   "lon": 134.8,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-09-29_jbhifi"
+   ]
+  },
+  {
+   "id": "pekin",
+   "nom": "Pékin : BOE (actionnaire et partenaire industriel)",
+   "lat": 39.9042,
+   "lon": 116.4074,
+   "precision": "ville",
+   "type": "partenaire",
+   "evenements": [
+    "2021-04-08_boe-cession",
+    "2022-09-08_resultats-s1-2022",
+    "2022-11-17_sesim-boe",
+    "2025-04-30_boe-7pc"
+   ],
+   "note": "Siège du groupe BOE ; les titres sont détenus par BOE Smart Retail (Hong Kong)."
+  },
+  {
+   "id": "shanghai",
+   "nom": "Shanghai : Huawei Connect 2026",
+   "lat": 31.2304,
+   "lon": 121.4737,
+   "precision": "ville",
+   "type": "evenement",
+   "evenements": [
+    "2026-09-17_huawei"
+   ]
+  },
+  {
+   "id": "vietnam",
+   "nom": "Vietnam : usine du sous-traitant Jabil",
+   "lat": 10.8,
+   "lon": 106.7,
+   "precision": "pays",
+   "type": "partenaire",
+   "evenements": [
+    "2021-10-28_ca-9m-2021"
+   ]
+  }
+ ],
+ "non_localises": [
+  {
+   "evenement": "2026-07-15_decathlon",
+   "raison": "700 magasins dans 54 pays : déploiement mondial"
+  },
+  {
+   "evenement": "2026-04-24_deu-2025",
+   "raison": "dix premiers clients non nommés"
+  }
+ ],
+ "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
+}
