@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 102,
-  "sources": 122
+  "evenements": 111,
+  "sources": 132
  },
  "evenements": [
   {
@@ -1021,6 +1021,25 @@
    "liens": []
   },
   {
+   "id": "2024-11-26_darty",
+   "date": "2024-11-26",
+   "date_affichee": "26 nov. 2024",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Darty : étiquettes Vusion dans 216 magasins en France",
+   "texte": "Selon un communiqué de VusionGroup repris par Easybourse : déploiement dans « 216 magasins au sein de l'Hexagone », avec « près de 800.000 étiquettes électroniques », après un premier projet chez Fnac en 2022. Pas de montant.",
+   "sources": [
+    "S124"
+   ],
+   "sources_libelle": [
+    "Easybourse, 26/11/2024"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2024-12-23_walmart-4600",
    "date": "2024-12-23",
    "date_affichee": "23 déc. 2024",
@@ -1203,6 +1222,26 @@
      "note": ""
     }
    ],
+   "liens": []
+  },
+  {
+   "id": "2025-06-12_carrefour-villabe",
+   "date": "2025-06-12",
+   "date_affichee": "12 juin 2025",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Carrefour teste EdgeSense dans l'hypermarché de Villabé",
+   "texte": "Magasin pilote présenté à VivaTech : « the Carrefour hypermarket in Villabé (91) », avec environ 70 000 étiquettes, 500 caméras et 7 000 rails EdgeSense ; un supermarché doit suivre. Test, sans engagement de déploiement à ce stade.",
+   "sources": [
+    "S125"
+   ],
+   "sources_libelle": [
+    "Newsroom VusionGroup, 12/06/2025"
+   ],
+   "engagements": [],
    "liens": []
   },
   {
@@ -1685,6 +1724,25 @@
    "liens": []
   },
   {
+   "id": "2026-03-25_darty-tous-magasins",
+   "date": "2026-03-25",
+   "date_affichee": "25 mars 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Darty : tous les magasins équipés, plus de 2 millions d'étiquettes Vusion",
+   "texte": "Selon Vusion : « Deployed across all Darty stores », avec « more than 2 million electronic shelf labels already installed ». En novembre 2024, le déploiement portait sur 216 magasins et près de 800 000 étiquettes. Nombre de magasins non précisé ; pas de communiqué, annonce sur LinkedIn.",
+   "sources": [
+    "S128"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 25/03/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-03-30_walmex",
    "date": "2026-03-30",
    "date_affichee": "30 mars 2026",
@@ -1710,6 +1768,26 @@
      "note": ""
     }
    ],
+   "liens": []
+  },
+  {
+   "id": "2026-04-09_dallas-cec",
+   "date": "2026-04-09",
+   "date_affichee": "9 avr. 2026",
+   "sujets": [
+    "usa",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Vusion inaugure un centre de démonstration clients à Dallas",
+   "texte": "Vusion « recently celebrated the grand opening » de son « Flagship Customer Experience Center in Dallas », qui reproduit des conditions de magasin (rayon, inventaire, opérations, retail media). Date d'inauguration non précisée (post du 09/04/2026).",
+   "sources": [
+    "S129"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 09/04/2026"
+   ],
+   "engagements": [],
    "liens": []
   },
   {
@@ -1808,6 +1886,25 @@
    "liens": []
   },
   {
+   "id": "2026-04-28_time100",
+   "date": "2026-04-28",
+   "date_affichee": "28 avr. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Vusion dans le classement TIME100 des entreprises les plus influentes de 2026",
+   "texte": "Vusion figure dans la liste TIME100 des entreprises les plus influentes de 2026 et parmi les dix entreprises les plus influentes du commerce de détail selon TIME (sans rang précis). Distinction médiatique, sans incidence chiffrée.",
+   "sources": [
+    "S127"
+   ],
+   "sources_libelle": [
+    "Newsroom VusionGroup (article TIME du 28/04/2026)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-05-05_coop-estonie",
    "date": "2026-05-05",
    "date_affichee": "5 mai 2026",
@@ -1865,6 +1962,27 @@
    ],
    "sources_libelle": [
     "ABC Bourse, 04/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-11_carrefour-push-promo",
+   "date": "2026-06-11",
+   "date_affichee": "11 juin 2026",
+   "sujets": [
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Carrefour expérimente le « push promo » avec Vusion à Villabé",
+   "texte": "Carrefour « expérimente » à Villabé l'envoi de promotions personnalisées sur le téléphone du client selon sa position en rayon (Bluetooth, application Carrefour), avec une étiquette qui clignote pour guider vers le produit ; système développé avec Vusion, « Powered by EdgeSense » selon Vusion. Le dispositif « pourrait ainsi se généraliser » : pas de décision annoncée.",
+   "sources": [
+    "S126",
+    "S130"
+   ],
+   "sources_libelle": [
+    "Journal de l'Économie, 11/06/2026",
+    "Post LinkedIn de Vusion, 11/06/2026"
    ],
    "engagements": [],
    "liens": []
@@ -2212,6 +2330,26 @@
    ]
   },
   {
+   "id": "2026-08-21_monoprix-storeview",
+   "date": "2026-08-21",
+   "date_affichee": "21 août 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Monoprix utilise Storeview (Vusion et Captana) pour suivre ses rayons",
+   "texte": "Selon Vusion : « At Monoprix, Storeview from Vusion and Captana is helping teams gain real-time visibility » sur les rayons (ruptures, réassort) depuis leurs terminaux mobiles. Ni nombre de magasins ni montant ; témoignage client en vidéo.",
+   "sources": [
+    "S131"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 21/08/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-09-01_alcampo-hanshow",
    "date": "2026-09-01",
    "date_affichee": "1er sept. 2026",
@@ -2319,6 +2457,26 @@
    "liens": []
   },
   {
+   "id": "2026-09-17_morrisons-nrf",
+   "date": "2026-09-17",
+   "date_affichee": "17 sept. 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Morrisons présente les résultats du pick-to-light Vusion à NRF Europe",
+   "texte": "Le directeur de la productivité du groupe Morrisons, sur scène à NRF Europe : « It is when we really started to scale the pick-to-light that we understood the benefits », avec une meilleure disponibilité en rayon et des gains de ventes. Ni chiffre ni calendrier du déploiement.",
+   "sources": [
+    "S132"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 17/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-09-17_unieuro",
    "date": "2026-09-17",
    "date_affichee": "17 sept. 2026",
@@ -2367,6 +2525,25 @@
      "note": "Rapporté par BFM Bourse ; à vérifier dans le communiqué ou l'enregistrement."
     }
    ],
+   "liens": []
+  },
+  {
+   "id": "2026-09-22_centrakor",
+   "date": "2026-09-22",
+   "date_affichee": "22 sept. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Centrakor choisit Vusion ; 17 000 étiquettes dans le magasin de Saint-Gilles-Croix-de-Vie",
+   "texte": "Selon Vusion, Centrakor « chose Vusion to support the modernization of its stores » ; à Saint-Gilles-Croix-de-Vie (Vendée), « 17,000 electronic shelf labels have been deployed across this 1,800 m² store », avec pick-to-light. Nombre de magasins concernés, calendrier et montant non communiqués.",
+   "sources": [
+    "S133"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 22/09/2026"
+   ],
+   "engagements": [],
    "liens": []
   },
   {
@@ -3861,6 +4038,106 @@
    "archive": "integral",
    "note": "Date tirée de l'identifiant du post (7506394780843573248 → 17/09/2026). Texte transmis par un lecteur.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S124",
+   "date_source": "2024-11-26",
+   "type": "presse",
+   "reference": "Easybourse, 26/11/2024 : « Vusion: des étiquettes électroniques déployées chez Darty »",
+   "url": "https://www.easybourse.com/high-tech/news/1496553/vusion-etiquettes-electroniques-deployees-chez-darty.html",
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S125",
+   "date_source": "2025-06-12",
+   "type": "CP",
+   "reference": "VusionGroup (newsroom), 12/06/2025 : Carrefour et VusionGroup testent le magasin connecté de nouvelle génération avec EdgeSense (VivaTech 2025)",
+   "url": "https://www.vusion.com/newsroom/carrefour-vusiongroup-test-new-generation-connected-stores-edgesense/",
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S126",
+   "date_source": "2026-06-11",
+   "type": "presse",
+   "reference": "Journal de l'Économie, 11/06/2026 : « Le push promo de Carrefour arrive : qu'est-ce que c'est ? »",
+   "url": "https://www.journaldeleconomie.fr/?p=47596",
+   "archive": "integral",
+   "note": "Signalé par un lecteur (post LinkedIn de Vusion du 11/06/2026, activité 7470882983240056833, non consulté).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S127",
+   "date_source": "2026-04-28",
+   "type": "CP",
+   "reference": "VusionGroup (newsroom) : « Vusion Named to TIME100 Most Influential Companies of 2026 and Top 10 Leaders in Retail »",
+   "url": "https://www.vusion.com/newsroom/vusion-named-to-times-top-10-most-influential-retail-companies-of-2026/",
+   "archive": "integral",
+   "note": "Date : celle de l'article de TIME (28/04/2026) ; la page de Vusion n'est pas datée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S128",
+   "date_source": "2026-03-25",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 25/03/2026 : Darty, tous les magasins équipés, plus de 2 millions d'étiquettes",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7442571363149733888/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7442571363149733888). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S129",
+   "date_source": "2026-04-09",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 09/04/2026 : inauguration du Customer Experience Center de Dallas",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7448074704428376064/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7448074704428376064). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S130",
+   "date_source": "2026-06-11",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 11/06/2026 : pilote « Push Promo » avec Carrefour, « Powered by EdgeSense »",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7470882983240056833/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7470882983240056833). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S131",
+   "date_source": "2026-08-21",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 21/08/2026 : Storeview (Vusion et Captana) chez Monoprix",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496595206729928705/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7496595206729928705). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S132",
+   "date_source": "2026-09-17",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 17/09/2026 : Morrisons présente le pick-to-light à NRF Europe",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506241895602327552/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7506241895602327552). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S133",
+   "date_source": "2026-09-22",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 22/09/2026 : Centrakor choisit Vusion ; 17 000 étiquettes à Saint-Gilles-Croix-de-Vie",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7508105831171760128/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7508105831171760128). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -3960,7 +4237,8 @@
     "2025-05-23_coop",
     "2025-10-22_morrisons",
     "2025-10-07_asda-express",
-    "2026-09-02_asda-517"
+    "2026-09-02_asda-517",
+    "2026-09-17_morrisons-nrf"
    ]
   },
   {
@@ -3971,7 +4249,10 @@
    "precision": "pays",
    "type": "client",
    "evenements": [
-    "2026-02-18_carrefour"
+    "2026-02-18_carrefour",
+    "2024-11-26_darty",
+    "2026-03-25_darty-tous-magasins",
+    "2026-08-21_monoprix-storeview"
    ],
    "note": "Hypermarchés et supermarchés en France."
   },
@@ -4226,6 +4507,43 @@
     "2026-09-17_unieuro"
    ],
    "note": "Magasin Unieuro ; 268 magasins en propre équipés en Italie"
+  },
+  {
+   "id": "villabe",
+   "nom": "Villabé (Essonne)",
+   "lat": 48.588,
+   "lon": 2.452,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2025-06-12_carrefour-villabe",
+    "2026-06-11_carrefour-push-promo"
+   ],
+   "note": "Hypermarché Carrefour pilote"
+  },
+  {
+   "id": "saint-gilles",
+   "nom": "Saint-Gilles-Croix-de-Vie (Vendée)",
+   "lat": 46.697,
+   "lon": -1.946,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-09-22_centrakor"
+   ],
+   "note": "Magasin Centrakor, 17 000 étiquettes"
+  },
+  {
+   "id": "dallas",
+   "nom": "Dallas (Texas)",
+   "lat": 32.78,
+   "lon": -96.8,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2026-04-09_dallas-cec"
+   ],
+   "note": "Customer Experience Center"
   }
  ],
  "non_localises": [
