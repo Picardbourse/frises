@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 106,
-  "sources": 124
+  "evenements": 108,
+  "sources": 127
  },
  "evenements": [
   {
@@ -121,6 +121,31 @@
    ],
    "sources_libelle": [
     "CP 2CRSi du 19/10/2022"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2022-10-28_brevets",
+   "date": "2022-10-28",
+   "date_affichee": "2020 – oct. 2022",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Trois brevets français délivrés à 2CRSi, dont un sur l'immersion avec récupération de chaleur ; politique de brevets « limitée »",
+   "texte": "Brevets au nom de 2CRSI SA relevés au registre : FR3086809B1 (connexion électrique aux barres de puissance d'une baie, déposé le 27/09/2018, délivré le 30/10/2020), FR3109987B1 (circulation du liquide de refroidissement dans une baie, déposé le 05/05/2020, délivré le 09/09/2022) et FR3113996B1 (refroidissement par immersion avec récupération de la chaleur extraite, déposé le 07/09/2020, délivré le 28/10/2022). Aucune extension européenne ou américaine listée. La société décrit elle-même sa politique comme « limitée » dans son rapport semestriel au 31/12/2025 (p. 34) : « les coûts et les délais qu'une politique de protection par brevets impliquerait sont disproportionnés au regard de la protection obtenue dans une industrie où le rythme des innovations […] est plus rapide que celui des processus de protection » ; elle « procède plutôt à l'officialisation lors de salons ou de communiqués de presse » de ses innovations « afin d'en valider la paternité », et s'appuie sur des règles de confidentialité. Le même rapport (p. 32) mentionne « une demande de brevet sur une solution de récupération de la chaleur fatale générée par les serveurs ».",
+   "sources": [
+    "S135",
+    "S136",
+    "S137",
+    "S065"
+   ],
+   "sources_libelle": [
+    "Google Patents FR3086809B1",
+    "Google Patents FR3109987B1",
+    "Google Patents FR3113996B1",
+    "Rapport financier semestriel au 31/12/2025, p. 32 et 34"
    ],
    "engagements": [],
    "liens": []
@@ -247,6 +272,25 @@
      "note": "aucun CA NYGC au 30/06/2026 (CP 23/07) ; livraisons recalées « par phases » 2026/27–28 (réponse du 16/07)"
     }
    ],
+   "liens": []
+  },
+  {
+   "id": "2024-09-13_valeo-cite-brevet",
+   "date": "2024-09-13",
+   "date_affichee": "13 sept. 2024",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "doc",
+   "titre": "Deux demandes de brevet de Valeo Systèmes Thermiques citent le brevet d'immersion de 2CRSi",
+   "texte": "Les demandes FR3146571A1 et FR3146572A1 (dispositifs de refroidissement d'équipements électroniques), publiées le 13/09/2024, citent comme antériorité le brevet FR3113996B1 de 2CRSi, selon le registre « par l'examinateur ». Une troisième, FR3164869, est publiée le 19/06/2026. Une citation d'antériorité ne prouve ni licence ni utilisation de la technologie ; elle est antérieure de plus d'un an à l'annonce de la coentreprise Valeo – 2CRSi.",
+   "sources": [
+    "S137"
+   ],
+   "sources_libelle": [
+    "Google Patents FR3113996B1, documents citants"
+   ],
+   "engagements": [],
    "liens": []
   },
   {
@@ -4260,6 +4304,36 @@
    "url": "https://cib.bnpparibas/faster-efficient-servers-recycle-heat/",
    "archive": "integral",
    "note": "Signalé par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S135",
+   "date_source": "2020-10-30",
+   "type": "registre",
+   "reference": "Google Patents : brevet FR3086809B1, « Dispositif de connexion amélioré », 2CRSI SA (dépôt 27/09/2018, délivrance 30/10/2020)",
+   "url": "https://patents.google.com/patent/FR3086809B1/fr",
+   "archive": "integral",
+   "note": "Signalé par un lecteur (dossier du 14/10/2026).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S136",
+   "date_source": "2022-09-09",
+   "type": "registre",
+   "reference": "Google Patents : brevet FR3109987B1, dispositif de circulation de liquide de refroidissement pour baie de serveurs, 2CRSI SA (dépôt 05/05/2020, délivrance 09/09/2022)",
+   "url": "https://patents.google.com/patent/FR3109987B1/en",
+   "archive": "integral",
+   "note": "Signalé par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S137",
+   "date_source": "2022-10-28",
+   "type": "registre",
+   "reference": "Google Patents : brevet FR3113996B1, système de refroidissement par immersion et ciblé d'un serveur avec récupération de la chaleur extraite, 2CRSI SA (dépôt 07/09/2020, délivrance 28/10/2022)",
+   "url": "https://patents.google.com/patent/FR3113996B1/en",
+   "archive": "integral",
+   "note": "Signalé par un lecteur. Une citation d'antériorité par l'examinateur ne prouve ni licence ni utilisation de la technologie.",
    "texte_archive": "sources_textes.json"
   }
  ],
