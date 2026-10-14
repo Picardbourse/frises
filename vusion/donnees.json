@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 112,
-  "sources": 133
+  "evenements": 120,
+  "sources": 142
  },
  "evenements": [
   {
@@ -1791,6 +1791,26 @@
    "liens": []
   },
   {
+   "id": "2026-04-09_carrefour-espagne",
+   "date": "2026-04-09",
+   "date_affichee": "9 avr. 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Espagne : premier hypermarché Carrefour équipé d'EdgeSense (San Sebastián de los Reyes)",
+   "texte": "Selon un cofondateur de l'Association espagnole du retail, post repris par Vusion : l'hyper Carrefour de San Sebastián de los Reyes (Madrid) « se convierte en la primera tienda de España en implantar el sistema EdgeSense de Vusion » (rail connecté, étiquettes, caméras de détection des ruptures). Un magasin ; aucune annonce de déploiement en Espagne par Carrefour ou Vusion, à rapprocher de l'exclusivité européenne de 3 ans du contrat Carrefour.",
+   "sources": [
+    "S135"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn repris par Vusion, 09/04/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-04-09_dallas-cec",
    "date": "2026-04-09",
    "date_affichee": "9 avr. 2026",
@@ -1906,6 +1926,26 @@
    "liens": []
   },
   {
+   "id": "2026-04-27_kavanagh",
+   "date": "2026-04-27",
+   "date_affichee": "27 avr. 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Irlande : Kavanagh's, magasin « Vusion 360° Store »",
+   "texte": "Selon Vusion, Kavanagh Group « are redefining store operations as a Vusion 360° Store », avec des résultats annoncés : disponibilité en rayon « above 98% », « 60% reduction in waste », 120 heures par mois gagnées sur les changements de prix. Chiffres communiqués par Vusion, non vérifiés par ailleurs ; un magasin, ni volume ni montant.",
+   "sources": [
+    "S136"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 27/04/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-04-28_time100",
    "date": "2026-04-28",
    "date_affichee": "28 avr. 2026",
@@ -1987,6 +2027,25 @@
    "liens": []
   },
   {
+   "id": "2026-06-04_pharmacie-espagne",
+   "date": "2026-06-04",
+   "date_affichee": "4 juin 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Espagne : première pharmacie équipée d'étiquettes EdgeSense (intégrateur Infor Server)",
+   "texte": "Selon l'intégrateur Infor Server : « la primera instalación de etiquetas electrónicas EdgeSense de Vusion en una farmacia española ». Une pharmacie, non nommée ; pas de communication de Vusion.",
+   "sources": [
+    "S137"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'Infor Server, 04/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-06-11_carrefour-push-promo",
    "date": "2026-06-11",
    "date_affichee": "11 juin 2026",
@@ -2003,6 +2062,25 @@
    "sources_libelle": [
     "Journal de l'Économie, 11/06/2026",
     "Post LinkedIn de Vusion, 11/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-11_conversational-store",
+   "date": "2026-06-11",
+   "date_affichee": "11 juin 2026",
+   "sujets": [
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Vusion présente le « Conversational Store » à VivaTech",
+   "texte": "« Vusion will introduce the Conversational Store », qui « connects shoppers, associates and brands in real time », avec EdgeSense et le Bluetooth basse consommation, et démontre « Vusion Live for Fresh » pour les rayons frais ; échange prévu le 19/06 avec le directeur général de Morrisons. Le pilote « Push Promo » de Carrefour (même date) en est une application.",
+   "sources": [
+    "S138"
+   ],
+   "sources_libelle": [
+    "Site de Vusion, 11/06/2026"
    ],
    "engagements": [],
    "liens": []
@@ -2201,6 +2279,25 @@
    "liens": []
   },
   {
+   "id": "2026-07-16_arema-italie",
+   "date": "2026-07-16",
+   "date_affichee": "16 au 29 juil. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Italie : étiquettes Vusion dans trois magasins (Expert, Conad, Tuday Conad), selon l'intégrateur Arema",
+   "texte": "L'intégrateur Arema Retail annonce des « etichette elettroniche Vusion » au nouveau magasin Expert d'Altamura (16/07), chez Conad Gavorrano (23/07) et au Tuday Conad de Lucques (29/07). Trois magasins ; pas de communication de Vusion ni des enseignes sur un déploiement plus large.",
+   "sources": [
+    "S139"
+   ],
+   "sources_libelle": [
+    "Posts LinkedIn d'Arema Retail, 16, 23 et 29/07/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-07-16_conad-trescore",
    "date": "2026-07-16",
    "date_affichee": "16 juil. 2026",
@@ -2228,12 +2325,14 @@
    ],
    "statut": "doc",
    "titre": "Accord en vue d'acquérir In-Store Media (environ 120 M€ de CA)",
-   "texte": "ISM : environ 120 M€ de CA en 2025, plus de 90 enseignes, 9 pays. Prix non communiqué ; financement par dette ; finalisation soumise aux autorisations réglementaires.",
+   "texte": "ISM : environ 120 M€ de CA en 2025, plus de 90 enseignes, 9 pays. Prix non communiqué le 27/07 ; le CP du 21/09/2026 précise un multiple « compris entre 7x et 8x l'EBITDA de l'exercice en cours », sans publier cet EBITDA ; financement par dette ; finalisation soumise aux autorisations réglementaires.",
    "sources": [
-    "S061"
+    "S061",
+    "S065"
    ],
    "sources_libelle": [
-    "CP Vusion du 27/07/2026 : accord en vue d'acquérir In-Store Media"
+    "CP Vusion du 27/07/2026 : accord en vue d'acquérir In-Store Media",
+    "CP Vusion du 21/09/2026"
    ],
    "engagements": [],
    "liens": []
@@ -2282,6 +2381,26 @@
      "cible": "2026-07-30_ca-s1-2026"
     }
    ]
+  },
+  {
+   "id": "2026-08-03_condis",
+   "date": "2026-08-03",
+   "date_affichee": "3 août 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "decl",
+   "titre": "Espagne : Condis adopte EdgeSense et Captana, selon un analyste",
+   "texte": "Selon un analyste du commerce alimentaire : « La cadena catalana incorpora Vusion EdgeSense », avec la vision par ordinateur Captana et le pick-to-light. Ni nombre de magasins, ni calendrier ; pas de communication de Vusion ni de Condis retrouvée.",
+   "sources": [
+    "S140"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'un analyste, 03/08/2026"
+   ],
+   "engagements": [],
+   "liens": []
   },
   {
    "id": "2026-08-05_bloomberg",
@@ -2458,6 +2577,28 @@
    "liens": []
   },
   {
+   "id": "2026-09-15_walmart-ecrans",
+   "date": "2026-09-15",
+   "date_affichee": "15 sept. 2026",
+   "sujets": [
+    "usa",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Walmart teste des écrans digitaux en magasin : « over 200 » d'ici la fin de l'année ; fournisseur non nommé",
+   "texte": "Le président-directeur général de Walmart U.S., à la conférence Goldman Sachs : « we're also testing digital signs within our stores » ; « We'll be in over 200 by the end of the year. » Il ne nomme aucun fournisseur. Le 13/10, un compte X d'investisseur (« The Good Trade ») attribue ces écrans à Vusion en comparant des photos prises chez Walmart avec celles du centre de démonstration de Vusion à Dallas : rumeur non confirmée par Vusion ni par Walmart. Les autres éléments du message (« projet Kangaroo », écrans sur toutes les têtes de gondole, « 300 M€ de contrat VAS ») ne figurent pas dans la transcription.",
+   "sources": [
+    "S142",
+    "S143"
+   ],
+   "sources_libelle": [
+    "Transcription Walmart, 15/09/2026",
+    "Fil X, 13/10/2026 (rumeur)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-09-17_huawei",
    "date": "2026-09-17",
    "date_affichee": "17 sept. 2026",
@@ -2524,7 +2665,7 @@
    ],
    "statut": "doc",
    "titre": "Résultats S1 2026 : EBITDA ajusté 19,1 % ; plus d'1 Md€ de commandes attendu au S2",
-   "texte": "EBITDA ajusté 160 M€ (+48 %), résultat net ajusté 77 M€ (IFRS 132 M€) ; free cash-flow opérationnel de 127 M€ (+51 %) et trésorerie nette de 197 M€ à fin juin 2026. Le rapport semestriel précise que les acomptes reçus sont passés de 415 M€ à fin 2025 à 193 M€ à fin juin 2026, « soit une consommation de 222 M€ », à mesure des livraisons. Objectifs 2026 confirmés. Selon la presse, la direction attend plus d'un milliard d'euros de commandes au second semestre (conférence téléphonique). Titre +13,7 % le 22/09. En euros publiés, le CA 2026 « pourrait être négativement impacté par un effet frais de douane d’environ 100 M€ et un effet devises d’environ 50 M€ ». Nouveau mandat de rachat d'actions annoncé.",
+   "texte": "EBITDA ajusté 160 M€ (+48 %), résultat net ajusté 77 M€ (IFRS 132 M€) ; free cash-flow opérationnel de 127 M€ (+51 %) et trésorerie nette de 197 M€ à fin juin 2026. Le rapport semestriel précise que les acomptes reçus sont passés de 415 M€ à fin 2025 à 193 M€ à fin juin 2026, « soit une consommation de 222 M€ », à mesure des livraisons. Objectifs 2026 confirmés. Selon la presse, la direction attend plus d'un milliard d'euros de commandes au second semestre (conférence téléphonique). Titre +13,7 % le 22/09. En euros publiés, le CA 2026 « pourrait être négativement impacté par un effet frais de douane d’environ 100 M€ et un effet devises d’environ 50 M€ ». Nouveau mandat de rachat d'actions annoncé. Détail du communiqué : VAS de 125 M€ « dont 61 M€ de VAS récurrent » (+73 %) ; « l'ARR (Annualized Recurring Revenue) a atteint 133 M€ au 2ème trimestre, en hausse de +83% sur un an » ; EMEA 209 M€ (+6 %), « en ligne avec les attentes du Groupe », Amériques et Asie-Pacifique 630 M€ (+39 %) ; EBIT ajusté 96 M€ (11,4 %). Flux de trésorerie disponible de −221,6 M€ après variation du BFR (−266,2 M€) et « le paiement de 79 M€ d'impôt », dont toute la charge 2025 (53 M€) ; dividende 15,0 M€, rachats d'actions 15,5 M€. ISM : acquisition prévue « sur la base d'un multiple d'acquisition compris entre 7x et 8x l'EBITDA de l'exercice en cours », financée en dette ; si elle est finalisée d'ici la fin de l'année, « le chiffre d'affaires VAS 'proforma' annuel de Vusion s'établirait à environ 400 M€ ».",
    "sources": [
     "S065",
     "S066",
@@ -2543,6 +2684,14 @@
      "statut": "todo",
      "statue_par": null,
      "note": "Rapporté par BFM Bourse ; à vérifier dans le communiqué ou l'enregistrement."
+    },
+    {
+     "id": "2026-09-21_resultats-s1-2026#e2",
+     "texte": "Croissance du CA « de 15% à 20% dans la zone EMEA » en 2026",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
     }
    ],
    "liens": []
@@ -2583,6 +2732,25 @@
    "sources_libelle": [
     "CP Vusion du 29/09/2026 : JB Hi-Fi (Australie)",
     "Bourse Direct / Boursier, 29/09/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-09-30_droits-de-vote",
+   "date": "2026-09-30",
+   "date_affichee": "30 sept. 2026 (CP du 07/10)",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Capital au 30/09/2026 : 17 014 463 actions, dont 260 741 auto-détenues",
+   "texte": "17 014 463 actions et droits de vote théoriques, dont 260 741 actions auto-détenues (environ 1,5 % du capital), soit 16 753 722 droits de vote exerçables. Les statuts imposent une déclaration à chaque franchissement de 1 % du capital.",
+   "sources": [
+    "S141"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 07/10/2026"
    ],
    "engagements": [],
    "liens": []
@@ -2822,7 +2990,7 @@
   {
    "sujet": "autre",
    "question": "À quel prix et quand l'acquisition d'In-Store Media sera-t-elle finalisée ?",
-   "etat": "Le prix n'est pas publié ; l'opération doit être financée par dette et reste soumise aux autorisations réglementaires (CP du 27/07/2026). Le CP du 21/09/2026 indique un impact limité sur 2026.",
+   "etat": "Le prix n'est pas publié ; le CP du 21/09/2026 indique un multiple de 7 à 8 fois l'EBITDA de l'exercice en cours, qui n'est pas publié ; l'opération doit être financée par dette et reste soumise aux autorisations réglementaires (CP du 27/07/2026). Le CP du 21/09/2026 indique un impact limité sur 2026.",
    "attendu": "Le communiqué de réalisation de l'opération.",
    "sources": [
     "S061",
@@ -4168,6 +4336,96 @@
    "archive": "integral",
    "note": "Signalé sur le forum le 13/10/2026 (traduction française de la page allemande).",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S135",
+   "date_source": "2026-04-09",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'un cofondateur de l'Association espagnole du retail, 09/04/2026, repris par Vusion : premier magasin d'Espagne équipé d'EdgeSense (hyper Carrefour de San Sebastián de los Reyes)",
+   "url": "https://www.linkedin.com/posts/vusiongroup_mirad-el-hiper-carrefour-espa%C3%B1a-de-san-sebasti%C3%A1n-activity-7447911686331805696-11tN",
+   "archive": "integral",
+   "note": "Post d'origine : activité 7447886033205116928 ; reprise par Vusion : 7447911686331805696 (09/04/2026). Date tirée de l'identifiant du post. Texte transmis par un lecteur ; personnes nommées remplacées par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S136",
+   "date_source": "2026-04-27",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 27/04/2026 : Kavanagh's (Irlande), « Vusion 360° Store »",
+   "url": "https://www.linkedin.com/posts/vusiongroup_vusion-customersuccess-retailinnovation-activity-7454578608108556288-M-JU",
+   "archive": "integral",
+   "note": "Date tirée de l'identifiant du post. Texte transmis par un lecteur ; personnes nommées remplacées par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S137",
+   "date_source": "2026-06-04",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'un responsable d'Infor Server (intégrateur), 04/06/2026 : première pharmacie d'Espagne équipée d'étiquettes EdgeSense",
+   "url": "https://es.linkedin.com/posts/gabriel-landeira-7ab775b3_infortag-edgesense-vusion-activity-7468327264934457346-Fb-O",
+   "archive": "integral",
+   "note": "Date tirée de l'identifiant du post. Texte transmis par un lecteur ; personnes nommées remplacées par leur fonction. Liste de fonctionnalités résumée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S138",
+   "date_source": "2026-06-11",
+   "type": "web",
+   "reference": "Vusion (site, rubrique Insights), 11/06/2026 : présentation du « Conversational Store » à VivaTech 2026",
+   "url": "https://www.vusion.com/insights/vusion-vivatech-2026/",
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S139",
+   "date_source": "2026-07-16",
+   "type": "linkedin",
+   "reference": "Posts LinkedIn d'Arema Retail (intégrateur), 16, 23 et 29/07/2026 : étiquettes Vusion chez Expert Altamura, Conad Gavorrano et Tuday Conad (Lucques)",
+   "url": "https://it.linkedin.com/posts/aremaretail_il-progetto-expert-activity-7483437817222709248-Abcd",
+   "archive": "integral",
+   "note": "Trois posts ; dates tirées des identifiants. Extraits.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S140",
+   "date_source": "2026-08-03",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'un analyste du commerce alimentaire, 03/08/2026 : Condis (Catalogne) adopte EdgeSense et Captana",
+   "url": "https://es.linkedin.com/posts/david-ferro-862a98295_retailtech-vusion-condis-activity-7490032573495263233-aSro",
+   "archive": "integral",
+   "note": "Date tirée de l'identifiant du post. Texte transmis par un lecteur ; personnes nommées remplacées par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S141",
+   "date_source": "2026-10-07",
+   "type": "CP",
+   "reference": "CP VusionGroup du 07/10/2026 : nombre total de droits de vote et d'actions au 30/09/2026",
+   "url": "https://www.actusnews.com/fr/vusiongroup/cp/2026/10/07/information-relative-au-nombre-total-de-droits-de-vote-et-d_actions-composant-le-capital-social",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/vusion_ddv_30-september-2026_vf.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S142",
+   "date_source": "2026-09-15",
+   "type": "transcription",
+   "reference": "Walmart, Goldman Sachs Global Retailing Conference, 15/09/2026 : transcription corrigée de l'intervention du président-directeur général de Walmart U.S.",
+   "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/events/2026-goldman-sachs-global-retailing-conference/Walmart_Goldman_Sachs_Global_Retailing_2026_Corrected_Transcript.pdf",
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S143",
+   "date_source": "2026-10-13",
+   "type": "x",
+   "reference": "Fil X du compte « The Good Trade », 13/10/2026 : panneaux digitaux de Walmart attribués à Vusion (non confirmé)",
+   "url": "https://x.com/thegood_trade/status/2109918511321534625",
+   "archive": "integral",
+   "note": "Commentaire d'un compte d'investisseur, pas une source primaire. L'attribution à Vusion repose sur une comparaison de photos ; le « projet Kangaroo », les « têtes de gondoles » et les « 300 M€ de contrat VAS » ne figurent pas dans la transcription citée.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -4196,7 +4454,8 @@
     "2024-04-30_walmart-avenant",
     "2024-12-23_walmart-4600",
     "2024-08-07_ace-hardware",
-    "2026-10-01_walmart-cnbc"
+    "2026-10-01_walmart-cnbc",
+    "2026-09-15_walmart-ecrans"
    ],
    "note": "Déploiements nationaux : localisation au niveau du pays."
   },
@@ -4317,7 +4576,8 @@
    "precision": "pays",
    "type": "client",
    "evenements": [
-    "2025-06-24_eroski"
+    "2025-06-24_eroski",
+    "2026-06-04_pharmacie-espagne"
    ]
   },
   {
@@ -4586,6 +4846,78 @@
     "2026-02-24_lt-esway"
    ],
    "note": "Magasin L&T, étiquettes textiles ESway"
+  },
+  {
+   "id": "ss-reyes",
+   "nom": "San Sebastián de los Reyes (Madrid)",
+   "lat": 40.547,
+   "lon": -3.626,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-04-09_carrefour-espagne"
+   ],
+   "note": "Hypermarché Carrefour, EdgeSense"
+  },
+  {
+   "id": "irlande",
+   "nom": "Irlande",
+   "lat": 53.2,
+   "lon": -7.9,
+   "precision": "pays",
+   "type": "client",
+   "evenements": [
+    "2026-04-27_kavanagh"
+   ],
+   "note": "Kavanagh's"
+  },
+  {
+   "id": "altamura",
+   "nom": "Altamura (Pouilles)",
+   "lat": 40.827,
+   "lon": 16.553,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-07-16_arema-italie"
+   ],
+   "note": "Expert"
+  },
+  {
+   "id": "gavorrano",
+   "nom": "Gavorrano (Toscane)",
+   "lat": 42.925,
+   "lon": 10.907,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-07-16_arema-italie"
+   ],
+   "note": "Conad"
+  },
+  {
+   "id": "lucques",
+   "nom": "Lucques (Toscane)",
+   "lat": 43.843,
+   "lon": 10.505,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-07-16_arema-italie"
+   ],
+   "note": "Tuday Conad"
+  },
+  {
+   "id": "catalogne",
+   "nom": "Catalogne",
+   "lat": 41.6,
+   "lon": 1.9,
+   "precision": "region",
+   "type": "client",
+   "evenements": [
+    "2026-08-03_condis"
+   ],
+   "note": "Condis"
   }
  ],
  "non_localises": [
