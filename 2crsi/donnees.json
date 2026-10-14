@@ -61,11 +61,19 @@
     "label": "Autres contrats",
     "c": "--t-8"
    }
-  }
+  },
+  "lectures": [
+   {
+    "titre": "2CRSi : analyse du 14/10/2026 (membre du forum, analyse assistée par IA)",
+    "url": "https://rawcdn.githack.com/ventegarchy-beep/AL2SI-Analyse-14-10-2026/main/AL2SI-Analyse-14-10-2026.html",
+    "date": "2026-10-14",
+    "note": "excellente synthèse technique et fondamentale, avec scénarios ; recoupée avec la frise, et enrichie de recherches propres (déclarations AMF, listes d'analystes, échéances)"
+   }
+  ]
  },
  "nb": {
-  "evenements": 108,
-  "sources": 127
+  "evenements": 109,
+  "sources": 131
  },
  "evenements": [
   {
@@ -2267,16 +2275,22 @@
    ],
    "statut": "doc",
    "titre": "Portzamparc à l'achat, objectif 63,80 €, maintien en High Five",
-   "texte": "Note de l'analyste Maxence Dhoury : « un point d'entrée au-delà des secousses », contexte « durablement porteur ». Cours vers 26,3 €. Indice de datation : le 63,80 € s'affichait sur Zonebourse le 24/07 à 17:54 et des messages du 24/07 et du 28/07 le relient à l'après-CA du 23/07 ; le relèvement se situerait donc entre le 23/07 et le 24/07, mais aucune pièce ne le date. La liste High Five du 05/08 maintient 2CRSi. Le même jour, Figaro Patrimoine titre « Portzamparc vise +148 % pour l'action d'une techno strasbourgeoise » (extrait recopié) : la liste High Five affiche +24,3 % depuis sa première publication de 2026 (CAC Mid & Small −0,7 %) ; 2CRSi « figure dans la sélection depuis trois mois » ; objectif de 63,80 €, soit +147 % par rapport à un cours « qui tutoie les 26 € » ; résultats annuels rappelés pour le 29/10. La liste de septembre recopiée (S100) donne 2CRSi (+148 %), Nanobiotix (+63 %), Entech et Infotel (maintenues d'août), CBO Territoria. La mention « depuis trois mois » n'est pas recoupée : aucune pièce ne retrace les entrées et sorties de 2CRSi dans la liste au fil des mois.",
+   "texte": "Note de l'analyste Maxence Dhoury : « un point d'entrée au-delà des secousses », contexte « durablement porteur ». Cours vers 26,3 €. Indice de datation : le 63,80 € s'affichait sur Zonebourse le 24/07 à 17:54 et des messages du 24/07 et du 28/07 le relient à l'après-CA du 23/07 ; le relèvement se situerait donc entre le 23/07 et le 24/07, mais aucune pièce ne le date. La liste High Five du 05/08 maintient 2CRSi. Le même jour, Figaro Patrimoine titre « Portzamparc vise +148 % pour l'action d'une techno strasbourgeoise » (extrait recopié) : la liste High Five affiche +24,3 % depuis sa première publication de 2026 (CAC Mid & Small −0,7 %) ; 2CRSi « figure dans la sélection depuis trois mois » ; objectif de 63,80 €, soit +147 % par rapport à un cours « qui tutoie les 26 € » ; résultats annuels rappelés pour le 29/10. La liste de septembre recopiée (S100) donne 2CRSi (+148 %), Nanobiotix (+63 %), Entech et Infotel (maintenues d'août), CBO Territoria. Le « depuis trois mois » correspond aux listes de juillet, août et septembre : 2CRSi était entrée en mai (objectif alors de 60,10 €), sortie en juin, revenue en juillet (Le Conseil Patrimoine).",
    "sources": [
     "S068",
     "S099",
-    "S100"
+    "S100",
+    "S138",
+    "S139",
+    "S140"
    ],
    "sources_libelle": [
     "Option Finance / Zonebourse, 02/09/2026",
     "Figaro Patrimoine, 02/09/2026 (extrait recopié sur le forum)",
-    "Liste High Five de septembre 2026 (recopiée sur le forum)"
+    "Liste High Five de septembre 2026 (recopiée sur le forum)",
+    "Le Conseil Patrimoine, mai 2026",
+    "Le Conseil Patrimoine, juin 2026",
+    "Le Conseil Patrimoine, septembre 2026"
    ],
    "engagements": [],
    "liens": [
@@ -2693,6 +2707,36 @@
    ]
   },
   {
+   "id": "2026-10-07_high-five-sortie",
+   "date": "2026-10-07",
+   "date_affichee": "7 oct. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Portzamparc retire 2CRSi de sa liste High Five d'octobre (rotation complète)",
+   "texte": "Liste d'octobre : LDC, Manitou, Medincell, Quadient, SPIE ; « 2CRSi, CBo Territoria, Infotel, Nanobiotix et Rubis quittent toutes la sélection », « rotation de 100 % ». Aucun motif propre à 2CRSi, et aucun changement de recommandation ou d'objectif publié. Parcours de 2CRSi dans la liste en 2026 : entrée en mai (objectif 60,10 €), sortie en juin, retour en juillet, maintien en août et en septembre (63,80 €), sortie en octobre.",
+   "sources": [
+    "S141",
+    "S138",
+    "S139",
+    "S140"
+   ],
+   "sources_libelle": [
+    "Le Conseil Patrimoine, 07/10/2026",
+    "Le Conseil Patrimoine, 06/05/2026",
+    "Le Conseil Patrimoine, 03/06/2026",
+    "Le Conseil Patrimoine, 03/09/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-02_portzamparc-achat"
+    }
+   ]
+  },
+  {
    "id": "2026-10-09_sxb2-promesse",
    "date": "2026-10-09",
    "date_affichee": "9 oct. 2026 (CP du 12/10)",
@@ -2753,13 +2797,19 @@
     "nygc"
    ],
    "statut": "echeance",
-   "titre": "Résultats annuels certifiés et rapport définitif de l'expert",
-   "texte": "Comptes 2025/26 certifiés (EY) ; solde des points Grizzly, dont NYGC.",
+   "titre": "Résultats annuels 2025/26 ; rapport définitif de l'expert et solde des points Grizzly",
+   "texte": "Date du 29/10 donnée comme « prochain rendez-vous » par le CP du 23/07. Le rapport définitif de l'expert doit « en principe être remis en octobre 2026 » (CP du 03/08) ; la société rendra compte des autres points soulevés par Grizzly « au plus tard lors de la publication de ses résultats annuels » (CP du 15/09). Les comptes sont audités par le commissaire aux comptes, Ernst & Young selon le CP du 16/07 ; la mission de l'expert « ne constitue ni un audit […] ni une mission de certification ». Sur Euronext Growth, le rapport financier annuel est dû dans les quatre mois suivant la clôture, soit au plus tard le 31/10/2026.",
    "sources": [
-    "S013"
+    "S010",
+    "S011",
+    "S013",
+    "S048"
    ],
    "sources_libelle": [
-    "CP 2CRSi du 15/09/2026"
+    "CP 2CRSi du 23/07/2026",
+    "CP 2CRSi du 03/08/2026",
+    "CP 2CRSi du 15/09/2026",
+    "CP 2CRSi du 16/07/2026"
    ],
    "engagements": [],
    "liens": []
@@ -4334,6 +4384,46 @@
    "url": "https://patents.google.com/patent/FR3113996B1/en",
    "archive": "integral",
    "note": "Signalé par un lecteur. Une citation d'antériorité par l'examinateur ne prouve ni licence ni utilisation de la technologie.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S138",
+   "date_source": "2026-05-06",
+   "type": "presse",
+   "reference": "Le Conseil Patrimoine, 06/05/2026 : « High Five Portzamparc Mai 2026 : 2CRSi, Infotel, LDC, Precia Molen, Trigano »",
+   "url": "https://www.leconseilpatrimoine.fr/analyses/high-five-portzamparc/high-five-portzamparc-mai-2026/",
+   "archive": "integral",
+   "note": "Signalé par un lecteur (la sortie d'octobre) ; les autres mois ont été relevés dans la foulée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S139",
+   "date_source": "2026-06-03",
+   "type": "presse",
+   "reference": "Le Conseil Patrimoine, 03/06/2026 : « High Five Portzamparc Juin 2026 »",
+   "url": "https://www.leconseilpatrimoine.fr/analyses/high-five-portzamparc/high-five-portzamparc-juin-2026/",
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S140",
+   "date_source": "2026-09-03",
+   "type": "presse",
+   "reference": "Le Conseil Patrimoine, 03/09/2026 : « High Five Portzamparc Septembre 2026 »",
+   "url": "https://www.leconseilpatrimoine.fr/analyses/high-five-portzamparc/high-five-portzamparc-septembre-2026/",
+   "archive": "integral",
+   "note": "Confirme la liste d'août (2CRSi, ID Logistics, LISI, Rubis, Thermador) donnée par S084.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S141",
+   "date_source": "2026-10-07",
+   "type": "presse",
+   "reference": "Le Conseil Patrimoine, 07/10/2026 : « High Five Portzamparc octobre 2026 : les 5 valeurs à suivre »",
+   "url": "https://www.leconseilpatrimoine.fr/analyses/high-five-portzamparc/high-five-portzamparc-octobre-2026/",
+   "archive": "integral",
+   "note": "Signalé par un lecteur.",
    "texte_archive": "sources_textes.json"
   }
  ],
