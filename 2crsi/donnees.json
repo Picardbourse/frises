@@ -18,7 +18,7 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-13",
+ "genere_le": "2026-10-14",
  "arrete_au": "2026-10-12",
  "version_provisoire": true,
  "config": {
@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 100,
-  "sources": 106
+  "evenements": 106,
+  "sources": 124
  },
  "evenements": [
   {
@@ -83,6 +83,25 @@
    ],
    "sources_libelle": [
     "CP 2CRSi du 17/05/2021 (AccessNewswire ; AMF EQS FCEQS002176/77)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2021-05-31_bnp-paribas",
+   "date": "2021-05-31",
+   "date_affichee": "31 mai 2021",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "BNP Paribas CIB présente ses serveurs de calcul de risque fournis et hébergés par 2CRSi",
+   "texte": "Selon BNP Paribas CIB, la banque a remplacé une partie de ses serveurs de calcul de risque par une solution de 2CRSi : 40 000 cœurs de processeurs hébergés par 2CRSi en France, consommation électrique liée aux serveurs réduite de 64 %, chaleur récupérée pour chauffer le bâtiment du centre de données. Ni montant, ni durée du contrat.",
+   "sources": [
+    "S134"
+   ],
+   "sources_libelle": [
+    "BNP Paribas CIB, 31/05/2021"
    ],
    "engagements": [],
    "liens": []
@@ -424,6 +443,27 @@
    "liens": []
   },
   {
+   "id": "2025-09-15_bspce-plan-2020",
+   "date": "2025-09-15",
+   "date_affichee": "15 et 26 sept. 2025",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Exercice de BSPCE à 3,28 € par un administrateur et une personne liée au PDG",
+   "texte": "Déclarations de dirigeant : le 15/09, une personne liée au PDG exerce 1 125 BSPCE (plan du 18/09/2020) à 3,28 € ; le 26/09, l'administrateur Michel Wilmouth acquiert 9 000 actions à 3,28 € par levée d'options BSPCE.",
+   "sources": [
+    "S120",
+    "S121"
+   ],
+   "sources_libelle": [
+    "DD AMF 2025DD1058056",
+    "DD AMF 2025DD1060347"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2025-09-29_commande-290",
    "date": "2025-09-29",
    "date_affichee": "29 sept. 2025",
@@ -553,6 +593,27 @@
    "liens": []
   },
   {
+   "id": "2025-11-05_cessions-administrateur",
+   "date": "2025-11-05",
+   "date_affichee": "5 et 18 nov. 2025",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Un administrateur cède 9 000 actions vers 12,1 à 12,5 € (déclaré le 16/12)",
+   "texte": "L'administrateur Michel Wilmouth cède 4 500 actions à 12,137 € le 05/11 et 4 500 actions à 12,48 € le 18/11/2025, soit le nombre d'actions obtenues par BSPCE le 26/09. Le seuil annuel de 20 000 € était déjà franchi depuis l'exercice du 26/09 (environ 29 500 €, déclaré le 29/09) : chaque opération suivante devait être déclarée sous trois jours ouvrés. Les deux déclarations sont reçues le 16/12/2025, environ cinq semaines après la première vente.",
+   "sources": [
+    "S122",
+    "S123"
+   ],
+   "sources_libelle": [
+    "DD AMF 2025DD1074937",
+    "DD AMF 2025DD1074954"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2025-11-14_green-data-100",
    "date": "2025-11-14",
    "date_affichee": "14 nov. 2025",
@@ -651,6 +712,29 @@
      "cible": "2025-12-17_atlas-6md"
     }
    ]
+  },
+  {
+   "id": "2026-01-16_bspce-plan-2",
+   "date": "2026-01-16",
+   "date_affichee": "16 janv. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Exercice de 57 671 BSPCE à 3,28 € (plan n° 2, 2020-2025)",
+   "texte": "Trois déclarations du 16/01/2026, toutes à 3,28 € : l'administrateur Michel Wilmouth 35 490 actions (la déclaration indique une transaction au « 16 janvier 2025 », vraisemblablement une coquille pour 2026), une administratrice, Marie Schang selon la déclaration, 17 745 actions, et une personne liée au PDG 4 436 actions. La liste du conseil au 31/03/2026 nomme Estelle Schang : écart de prénom non expliqué.",
+   "sources": [
+    "S124",
+    "S125",
+    "S126"
+   ],
+   "sources_libelle": [
+    "DD AMF 2026DD1089430",
+    "DD AMF 2026DD1089433",
+    "DD AMF 2026DD1089447"
+   ],
+   "engagements": [],
+   "liens": []
   },
   {
    "id": "2026-01-29_s1-record",
@@ -778,6 +862,33 @@
    "liens": []
   },
   {
+   "id": "2026-02-24_dd-tardives-pdg",
+   "date": "2026-02-24",
+   "date_affichee": "24 févr. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Le PDG déclare avec environ 4,5 mois de retard une vente « suite à une erreur de manipulation » et des rachats",
+   "texte": "Quatre déclarations du PDG reçues par l'AMF le 24/02/2026 : achat de 6 000 actions à 3,155 € le 07/04/2025 ; le 02/10/2025, cession de 38 238 actions à 13,04 € (« vente suite à une erreur de manipulation sur la plateforme de trading ») et rachat le même jour de 22 238 actions à 13,02 € ; rachat de 10 000 actions à 10,00 € le 31/10/2025. Solde de l'opération d'octobre : 6 000 actions vendues, autant que l'achat d'avril. Seuil de déclaration en 2025 : 20 000 € d'opérations cumulées sur l'année civile (MAR art. 19 ; RG AMF). L'achat d'avril (environ 18 900 €) restait sous ce seuil ; il a été franchi par la vente du 02/10 (environ 499 000 €), ce qui ouvrait un délai de trois jours ouvrés, soit vers le 07/10/2025. Les déclarations arrivent environ 4,5 mois après cette date. Le même 24/02/2026, le PDG cède 500 actions à 25,45 € (déclaration reçue le 02/03), sous le seuil applicable.",
+   "sources": [
+    "S130",
+    "S127",
+    "S128",
+    "S129",
+    "S131"
+   ],
+   "sources_libelle": [
+    "DD AMF 2026DD1096700",
+    "DD AMF 2026DD1096671",
+    "DD AMF 2026DD1096674",
+    "DD AMF 2026DD1096676",
+    "DD AMF 2026DD1097852"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
    "id": "2026-03-26_s1-2025-26",
    "date": "2026-03-26",
    "date_affichee": "26 mars 2026",
@@ -861,6 +972,27 @@
    "sources_libelle": [
     "Reuters via Boursorama, 20/04/2026",
     "Registre AMF des positions courtes nettes, export du 09/10/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-04-22_pdg-aller-retour",
+   "date": "2026-04-22",
+   "date_affichee": "22 et 23 avr. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Le PDG vend puis rachète 44 actions (vers 43 €)",
+   "texte": "Cession de 44 actions à 43,20 € le 22/04 et achat de 44 actions à 42,40 € le 23/04/2026, déclarés le 27/04. Montants symboliques (moins de 2 000 €). Ces opérations, comme la cession du 24/02, restaient sous le seuil annuel de déclaration (environ 16 500 € cumulés, sous le seuil de 20 000 € comme sous celui de 50 000 € adopté par l'AMF fin 2025) : déclarations volontaires ou par précaution.",
+   "sources": [
+    "S132",
+    "S133"
+   ],
+   "sources_libelle": [
+    "DD AMF 2026DD1110344",
+    "DD AMF 2026DD1110345"
    ],
    "engagements": [],
    "liens": []
@@ -952,25 +1084,6 @@
    ],
    "sources_libelle": [
     "CP du 11/06/2026"
-   ],
-   "engagements": [],
-   "liens": []
-  },
-  {
-   "id": "2026-06-12_achats-pdg-juin",
-   "date": "2026-06-12",
-   "date_affichee": "juin 2026",
-   "sujets": [
-    "gouv"
-   ],
-   "statut": "doc",
-   "titre": "Achats d'actions du PDG entre 18,50 € et 26,20 €",
-   "texte": "Déclarations au registre. MAR art. 19 : fenêtre négative de 30 jours avant les résultats annuels, donc plus d'achat possible avant le 29/10.",
-   "sources": [
-    "S021"
-   ],
-   "sources_libelle": [
-    "Registre AMF des transactions de dirigeants"
    ],
    "engagements": [],
    "liens": []
@@ -1202,6 +1315,31 @@
    ],
    "sources_libelle": [
     "Interview « La Bourse et la Vie », 21/06/2026"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-06-22_achats-pdg",
+   "date": "2026-06-22",
+   "date_affichee": "22 et 23 juin 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Le PDG achète 4 450 actions entre 18,50 € et 26,20 € (22 et 23/06)",
+   "texte": "Trois déclarations de dirigeant (AMF), quelques jours après le rapport Grizzly du 18/06 : le 22/06, 1 950 actions à 18,50 € et 1 500 actions à 24,00 € ; le 23/06, 1 000 actions à 26,20 €. Soit 4 450 actions pour environ 98 300 €, sur Euronext Growth Paris. Rappel : MAR art. 19 interdit aux dirigeants d'intervenir dans les 30 jours précédant l'annonce des résultats annuels (29/10/2026).",
+   "sources": [
+    "S117",
+    "S118",
+    "S119",
+    "S021"
+   ],
+   "sources_libelle": [
+    "DD AMF 2026DD1122196 (22/06)",
+    "DD AMF 2026DD1122369 (23/06)",
+    "DD AMF 2026DD1122600 (24/06)",
+    "Registre AMF des transactions de dirigeants"
    ],
    "engagements": [],
    "liens": []
@@ -3942,6 +4080,186 @@
    "url": "https://lnkd.in/p/eymFY2VW",
    "archive": "integral",
    "note": "Document de communication, pas un communiqué réglementé. Le CP du 12/10/2026 (S113) parle d'« autres partenaires qui viennent compléter cet écosystème » et dit que le site « ambitionne de devenir, à terme » le plus grand d'Europe.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S117",
+   "date_source": "2026-06-22",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1122196 (publiée le 22/06/2026) : acquisition par le PDG le 22 juin 2026, 1 950 actions à 18,50 €",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1122196_12297832.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S118",
+   "date_source": "2026-06-23",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1122369 (publiée le 23/06/2026) : acquisition par le PDG le 22 juin 2026, 1 500 actions à 24,00 €",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1122369_12299723.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S119",
+   "date_source": "2026-06-24",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1122600 (publiée le 24/06/2026) : acquisition par le PDG le 23 juin 2026, 1 000 actions à 26,20 €",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1122600_12302464.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S120",
+   "date_source": "2025-09-16",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2025DD1058056 (reçue le 16 septembre 2025) : exercice de 1 125 actions à 3,28 € le 15 septembre 2025 (une personne liée au PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_25_1058056_11642446.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S121",
+   "date_source": "2025-09-29",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2025DD1060347 (reçue le 29 septembre 2025) : acquisition de 9 000 actions à 3,28 € le 26 septembre 2025 (Michel Wilmouth, Administrateur)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_25_1060347_11670653.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S122",
+   "date_source": "2025-12-16",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2025DD1074937 (reçue le 16 décembre 2025) : cession de 4 500 actions à 12,137 € le 5 novembre 2025 (Michel Wilmouth, Administrateur)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_25_1074937_11850422.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S123",
+   "date_source": "2025-12-16",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2025DD1074954 (reçue le 16 décembre 2025) : cession de 4 500 actions à 12,48 € le 18 novembre 2025 (Michel Wilmouth, Administrateur)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_25_1074954_11850677.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S124",
+   "date_source": "2026-01-16",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1089430 (reçue le 16 janvier 2026) : exercice de 4 436 actions à 3,28 € le 16 janvier 2026 (une personne liée au PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1089430_11917514.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S125",
+   "date_source": "2026-01-16",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1089433 (reçue le 16 janvier 2026) : exercice de 35 490 actions à 3,28 € le 16 janvier 2025 (Michel Wilmouth, Administrateur)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1089433_11917556.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S126",
+   "date_source": "2026-01-16",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1089447 (reçue le 16 janvier 2026) : exercice de 17 745 actions à 3,28 € le 16 janvier 2026 (Marie Schang, Administratrice)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1089447_11917763.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S127",
+   "date_source": "2026-02-24",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1096671 (reçue le 24 février 2026) : cession de 38 238 actions à 13,0418 € le 2 octobre 2025 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1096671_12005703.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S128",
+   "date_source": "2026-02-24",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1096674 (reçue le 24 février 2026) : acquisition de 22 238 actions à 13,0184 € le 2 octobre 2025 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1096674_12005727.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S129",
+   "date_source": "2026-02-24",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1096676 (reçue le 24 février 2026) : acquisition de 10 000 actions à 10,00 € le 31 octobre 2025 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1096676_12005745.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S130",
+   "date_source": "2026-02-24",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1096700 (reçue le 24 février 2026) : acquisition de 6 000 actions à 3,155 € le 7 avril 2025 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1096700_12006030.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S131",
+   "date_source": "2026-03-02",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1097852 (reçue le 2 mars 2026) : cession de 500 actions à 25,45 € le 24 février 2026 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1097852_12020596.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S132",
+   "date_source": "2026-04-27",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1110344 (reçue le 27 avril 2026) : cession de 44 actions à 43,20 € le 22 avril 2026 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1110344_12164253.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S133",
+   "date_source": "2026-04-27",
+   "type": "registre",
+   "reference": "Déclaration de dirigeant AMF 2026DD1110345 (reçue le 27 avril 2026) : acquisition de 44 actions à 42,40 € le 23 avril 2026 (Alain Wilmouth, PDG)",
+   "url": "https://bdif.amf-france.org/fr?societes=RS00006601_2CRSI",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/DD_26_1110345_12164266.pdf",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S134",
+   "date_source": "2021-05-31",
+   "type": "web",
+   "reference": "BNP Paribas CIB (site), 31/05/2021 : « Faster, more efficient servers that recycle heat »",
+   "url": "https://cib.bnpparibas/faster-efficient-servers-recycle-heat/",
+   "archive": "integral",
+   "note": "Signalé par un lecteur.",
    "texte_archive": "sources_textes.json"
   }
  ],
