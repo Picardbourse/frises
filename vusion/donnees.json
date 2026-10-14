@@ -61,11 +61,12 @@
     "label": "Autres",
     "c": "--t-8"
    }
-  }
+  },
+  "lectures": []
  },
  "nb": {
-  "evenements": 120,
-  "sources": 142
+  "evenements": 123,
+  "sources": 147
  },
  "evenements": [
   {
@@ -1512,6 +1513,41 @@
    "liens": []
   },
   {
+   "id": "2026-01-25_dm-100-magasins",
+   "date": "2026-01-25",
+   "date_affichee": "janv. 2026 (billet dmTECH non daté)",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "dm : 100 magasins visés fin février 2026, puis « décision stratégique » sur la suite des étiquettes",
+   "texte": "Billet de dmTECH, filiale informatique de dm : « Bis Ende Februar 2026 planen wir, ESL in 100 Märkten zu installieren. Danach treffen wir eine strategische Entscheidung zur weiteren Nutzung von ESL. » Le système testé est une « digitale Regalschiene » à étiquettes intégrées, en Bluetooth basse consommation ; dm se dit « weltweit der zweite Händler » à l'implanter. Le billet ne nomme aucun fournisseur ; un article de presse du 25/01/2026 cite Vusion et SoluM. Aucune décision publiée depuis ; le billet ne mentionne pas l'ensemble du réseau (environ 4 000 magasins).",
+   "sources": [
+    "S144",
+    "S145"
+   ],
+   "sources_libelle": [
+    "Billet dmTECH (texte intégral)",
+    "Print in the Channel, 25/01/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-01-25_dm-100-magasins#e1",
+     "texte": "dm : « strategische Entscheidung zur weiteren Nutzung von ESL » après le palier de 100 magasins fin février 2026 (engagement d'un tiers)",
+     "echeance": "2026-02-28",
+     "statut": "nd",
+     "statue_par": "",
+     "note": "Aucune communication de dm ni de Vusion retrouvée sur cette décision au 14/10/2026."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-10-31_dm"
+    }
+   ]
+  },
+  {
    "id": "2026-01-28_senukai",
    "date": "2026-01-28",
    "date_affichee": "28 janv. 2026",
@@ -2861,6 +2897,35 @@
    "liens": []
   },
   {
+   "id": "2026-10-08_rtih-finaliste",
+   "date": "2026-10-08",
+   "date_affichee": "8 oct. 2026",
+   "sujets": [
+    "contrats",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Vusion finaliste de deux RTIH Innovation Awards, avec The Fresh Market et Kavanagh's",
+   "texte": "Selon Vusion, « shortlisted for two 2026 RTIH Innovation Awards » : « Best Retailer and Technology Supplier Relationship » avec The Fresh Market, présenté en déploiement « Connected Store » (rayon, équipes, opérations) ; « Best Analytics Driven Retail Initiative » avec Kavanagh's, pour la gestion des dates de péremption avec le partenaire logiciel Smartway. Nomination, pas un prix : lauréats non encore annoncés. Pour The Fresh Market, c'est la première indication publique depuis décembre 2024 (166 magasins visés fin 2025) que le déploiement est en exploitation ; aucun chiffre.",
+   "sources": [
+    "S146"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn de Vusion, 08/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-12-23_walmart-4600"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-04-27_kavanagh"
+    }
+   ]
+  },
+  {
    "id": "2026-10-20_ca-t3-2026",
    "date": "2026-10-20",
    "date_affichee": "20 oct. 2026",
@@ -2869,12 +2934,33 @@
    ],
    "statut": "echeance",
    "titre": "Échéance : chiffre d'affaires du 3e trimestre 2026",
-   "texte": "Publication annoncée après Bourse (calendrier financier du CP du 30/07/2026).",
+   "texte": "Publication annoncée après Bourse (calendrier financier du CP du 30/07/2026) ; webcast et conférence téléphonique le 20/10 à 18:00, heure de Paris (invitation du 13/10/2026).",
    "sources": [
-    "S063"
+    "S063",
+    "S147"
    ],
    "sources_libelle": [
-    "CP Vusion du 30/07/2026 (calendrier)"
+    "CP Vusion du 30/07/2026 (calendrier)",
+    "CP Vusion du 13/10/2026 (invitation)"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-10-23_matinee-nanterre",
+   "date": "2026-10-23",
+   "date_affichee": "23 oct. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : matinée actionnaires au Centre d'Innovation de Nanterre",
+   "texte": "Invitation de Vusion à « une matinée d'immersion et d'échanges », le vendredi 23/10 de 9 h à 11 h au Centre d'Innovation de Nanterre : démonstration des solutions déployées chez « Walmart, Carrefour et Decathlon », échange sur « nos marchés, des perspectives et des orientations stratégiques », animé par le directeur des relations investisseurs et le directeur marketing et communication. Places limitées, inscription avant le 09/10. Trois jours après le chiffre d'affaires du T3.",
+   "sources": [
+    "S148"
+   ],
+   "sources_libelle": [
+    "Invitation Vusion (actionnaires)"
    ],
    "engagements": [],
    "liens": []
@@ -4425,6 +4511,56 @@
    "url": "https://x.com/thegood_trade/status/2109918511321534625",
    "archive": "integral",
    "note": "Commentaire d'un compte d'investisseur, pas une source primaire. L'attribution à Vusion repose sur une comparaison de photos ; le « projet Kangaroo », les « têtes de gondoles » et les « 300 M€ de contrat VAS » ne figurent pas dans la transcription citée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S144",
+   "date_source": "2026-01-25",
+   "type": "web",
+   "reference": "dmTECH (filiale informatique de dm), blog : « Warum wir elektronische Preisschilder testen » (page non datée, antérieure au 25/01/2026)",
+   "url": "https://www.dmtech.tech/de/dmtech/insights-stories/warum-wir-elektronische-preisschilder-testen/",
+   "archive": "integral",
+   "note": "Texte intégral déposé dans textes/S144.txt (transmis par un lecteur). La page ne nomme aucun fournisseur ; elle décrit une « digitale Regalschiene mit mehreren integrierten ESL », alimentée par Bluetooth basse consommation, et indique que dm est « weltweit der zweite Händler » à l'implanter. Date retenue : celle de l'article de presse qui la reprend (25/01/2026).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S145",
+   "date_source": "2026-01-25",
+   "type": "presse",
+   "reference": "Print in the Channel, 25/01/2026 : « dmTECH's pilot with ESL brings real-time pricing, IoT and AI to 75 trial stores »",
+   "url": "https://printinthechannel.co.uk/dmtechs-pilot-with-esl-brings-real-time-pricing-iot-and-ai-to-75-trial-stores/",
+   "archive": "integral",
+   "note": "Reprise du billet dmTECH (S144) ; la mention de SoluM n'est pas dans le billet.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S146",
+   "date_source": "2026-10-08",
+   "type": "linkedin",
+   "reference": "Post LinkedIn de Vusion, 08/10/2026 : finaliste de deux RTIH Innovation Awards 2026 (The Fresh Market, Kavanagh's)",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513954098602422272/",
+   "archive": "integral",
+   "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7513954098602422272). Texte transmis par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S147",
+   "date_source": "2026-10-13",
+   "type": "CP",
+   "reference": "CP VusionGroup du 13/10/2026 : invitation au webcast et à la conférence téléphonique du chiffre d'affaires du T3 2026, le 20/10 à 18:00 CET",
+   "url": "https://www.boursorama.com/bourse/actualites/vusion-q3-2026-sales-webcast-conference-call-invitation-adccb4bb6a2659590a6dc28f65c679aa",
+   "archive": "integral",
+   "note": "Signalé par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S148",
+   "date_source": "2026-10-09",
+   "type": "officiel",
+   "reference": "Vusion, invitation (courriel aux actionnaires) : matinée d'immersion et d'échanges au Centre d'Innovation de Nanterre, vendredi 23/10/2026 de 9 h à 11 h",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/IR_nanterre.pdf (transmis par un lecteur). Date de l'invitation non indiquée ; confirmation demandée « avant le 9 octobre 2026 ». Noms des intervenants remplacés par leur fonction.",
    "texte_archive": "sources_textes.json"
   }
  ],
