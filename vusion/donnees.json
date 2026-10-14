@@ -18,7 +18,7 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-13",
+ "genere_le": "2026-10-14",
  "arrete_au": "2026-10-13",
  "version_provisoire": true,
  "config": {
@@ -64,8 +64,8 @@
   }
  },
  "nb": {
-  "evenements": 111,
-  "sources": 132
+  "evenements": 112,
+  "sources": 133
  },
  "evenements": [
   {
@@ -1604,6 +1604,26 @@
      "note": ""
     }
    ],
+   "liens": []
+  },
+  {
+   "id": "2026-02-24_lt-esway",
+   "date": "2026-02-24",
+   "date_affichee": "24 févr. 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Allemagne : L&T déploie les étiquettes textiles ESway de Vusion (prix reta à l'EuroShop)",
+   "texte": "Lengermann & Trieschmann, « one of the largest fashion and sports retailers in Germany », a lancé avec la collection automne-hiver 2025 « the rollout of Vusion ESway smart hangtags » dans son magasin d'Osnabrück, couplées à la tarification par IA du partenaire GK AIR. Le projet a reçu un prix reta, catégorie « Smart Store », à l'EuroShop 2026. Ni nombre d'étiquettes, ni montant, ni extension à d'autres magasins annoncés.",
+   "sources": [
+    "S134"
+   ],
+   "sources_libelle": [
+    "Newsroom VusionGroup, 24/02/2026"
+   ],
+   "engagements": [],
    "liens": []
   },
   {
@@ -4138,6 +4158,16 @@
    "archive": "integral",
    "note": "Post du compte officiel de Vusion ; date tirée de l'identifiant (7508105831171760128). Texte transmis par un lecteur ; noms de personnes remplacés par leur fonction.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S134",
+   "date_source": "2026-02-24",
+   "type": "CP",
+   "reference": "VusionGroup (newsroom), 24/02/2026 : « German Fashion Retailer L&T Awarded for the Digitalization of its Store Thanks to Vusion and GK Software Smart Solutions »",
+   "url": "https://www.vusion.com/newsroom/german-fashion-retailer-lt-awarded-digitalization-store-thanks-to-vusion-and-gk-software",
+   "archive": "integral",
+   "note": "Signalé sur le forum le 13/10/2026 (traduction française de la page allemande).",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -4544,6 +4574,18 @@
     "2026-04-09_dallas-cec"
    ],
    "note": "Customer Experience Center"
+  },
+  {
+   "id": "osnabrueck",
+   "nom": "Osnabrück (Basse-Saxe)",
+   "lat": 52.279,
+   "lon": 8.047,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-02-24_lt-esway"
+   ],
+   "note": "Magasin L&T, étiquettes textiles ESway"
   }
  ],
  "non_localises": [
