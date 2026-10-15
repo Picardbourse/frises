@@ -18,8 +18,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-14",
- "arrete_au": "2026-10-13",
+ "genere_le": "2026-10-15",
+ "mis_a_jour": "2026-10-15T17:46",
+ "arrete_au": "2026-10-15",
  "version_provisoire": true,
  "config": {
   "code": "vusion",
@@ -4717,16 +4718,16 @@
    ]
   },
   {
-   "id": "madrid",
-   "nom": "Madrid : In-Store Media (acquisition en cours)",
-   "lat": 40.4168,
-   "lon": -3.7038,
+   "id": "barcelone",
+   "nom": "Barcelone : In-Store Media (acquisition en cours)",
+   "lat": 41.3874,
+   "lon": 2.1686,
    "precision": "ville",
    "type": "partenaire",
    "evenements": [
     "2026-07-27_ism"
    ],
-   "note": "Société espagnole ; position au niveau de la ville."
+   "note": "Siège d'ISM à Barcelone selon le communiqué du 27/07/2026 (version PR Newswire) ; position au niveau de la ville."
   },
   {
    "id": "belgique",
