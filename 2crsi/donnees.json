@@ -18,7 +18,7 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-14",
+ "genere_le": "2026-10-15",
  "arrete_au": "2026-10-12",
  "version_provisoire": true,
  "config": {
@@ -72,8 +72,8 @@
   ]
  },
  "nb": {
-  "evenements": 109,
-  "sources": 131
+  "evenements": 111,
+  "sources": 133
  },
  "evenements": [
   {
@@ -1003,6 +1003,26 @@
    ],
    "sources_libelle": [
     "Rapport financier semestriel au 31/12/2025, § 2.4"
+   ],
+   "engagements": [],
+   "liens": []
+  },
+  {
+   "id": "2026-03-31_contrat-liquidite-oddo",
+   "date": "2026-03-31",
+   "date_affichee": "31 mars 2026",
+   "sujets": [
+    "gouv",
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Contrat de liquidité transféré à Natixis Oddo BHF à compter du 01/04/2026",
+   "texte": "2CRSi met fin au contrat de liquidité « en cours depuis le 2 juin 2025 » et confie à NATIXIS ODDO BHF, « à compter du 1 avril 2026, et pour une durée d'un an renouvelable par tacite reconduction », un contrat de liquidité et de surveillance de marché, conforme à la décision AMF n° 2021-01 et à la charte AMAFI. Moyens affectés : 7 131 actions et 258 479,97 €. Le contrat initial avait été mis en place avec Gilbert Dupont. Oddo BHF est aussi l'un des deux bureaux d'analyse qui suivent la valeur (« neutre », 30 € au 13/10/2026).",
+   "sources": [
+    "S143"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 31/03/2026"
    ],
    "engagements": [],
    "liens": []
@@ -2788,6 +2808,33 @@
    ]
   },
   {
+   "id": "2026-10-13_oddo-neutre-30",
+   "date": "2026-10-13",
+   "date_affichee": "13 oct. 2026",
+   "sujets": [
+    "mkt",
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Oddo BHF reste à « neutre », objectif 30 € : c'est le second bureau du consensus",
+   "texte": "Après la promesse de vente de FR-SXB2, Oddo BHF juge que l'annonce « constitue une avancée tangible pour ÆTHER », mais que pour 2CRSi « la contribution reste encore difficile à calibrer à ce stade » (financement, autorisations, choix d'infrastructure, composants). Estimations inchangées, scénario « (volontairement) conservateur » ; « le broker confirme son opinion 'neutre', avec un objectif inchangé à 30 euros ». C'est l'objectif bas du consensus à deux bureaux (Portzamparc 63,80 €). Oddo BHF tient aussi, depuis le 01/04/2026, le contrat de liquidité de 2CRSi (CP du 31/03/2026). Objectif précédent connu : 25 € le 19/02/2026 ; date du relèvement à 30 € non établie.",
+   "sources": [
+    "S142",
+    "S143"
+   ],
+   "sources_libelle": [
+    "Boursier.com, 13/10/2026",
+    "CP 2CRSi du 31/03/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-03-31_contrat-liquidite-oddo"
+    }
+   ]
+  },
+  {
    "id": "2026-10-29_resultats-29-10",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -4424,6 +4471,26 @@
    "url": "https://www.leconseilpatrimoine.fr/analyses/high-five-portzamparc/high-five-portzamparc-octobre-2026/",
    "archive": "integral",
    "note": "Signalé par un lecteur.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S142",
+   "date_source": "2026-10-13",
+   "type": "presse",
+   "reference": "Boursier.com, 13/10/2026 14:09 : « 2CRSi : consolide » (avis d'Oddo BHF après la promesse de vente FR-SXB2)",
+   "url": "https://www.boursier.com/actions/actualites/news/2crsi-consolide-995806.html",
+   "archive": "integral",
+   "note": "Texte transmis par un lecteur (site inaccessible aux outils). Recoupe : note Oddo du 19/02/2026 relevant l'objectif à 25 € (relayée sur X) et intervention d'Oddo BHF datée du 22/06/2026 sur Ideal-Investisseur, sans objectif affiché ; la date du passage de 25 à 30 € n'est pas établie.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S143",
+   "date_source": "2026-03-31",
+   "type": "CP",
+   "reference": "CP 2CRSi du 31/03/2026 : « Transfert du contrat de liquidité avec NATIXIS ODDO BHF »",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/2CRSi-Transfert-du-contrat-de-liquidite-avec-NATIXIS-ODDO-BHF-1.pdf (transmis par un lecteur).",
    "texte_archive": "sources_textes.json"
   }
  ],
