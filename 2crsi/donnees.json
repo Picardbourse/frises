@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-16",
- "mis_a_jour": "2026-10-16T16:10",
+ "mis_a_jour": "2026-10-16T21:44",
  "arrete_au": "2026-10-16",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 111,
-  "sources": 134
+  "evenements": 112,
+  "sources": 135
  },
  "evenements": [
   {
@@ -4754,6 +4754,33 @@
    "majeur": true
   },
   {
+   "id": "2026-10-16_premier-badge-dumarey",
+   "date": "2026-10-16",
+   "date_affichee": "16 oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "FR-SXB2 : premier badge d'accès au site Dumarey, au nom de 2CRSi",
+   "texte": "Le PDG publie la photo du « 1er badge, qui sert de clé sur le site de Dumarey », « avec un jour de retard » (le CP du 12/10 annonçait l'occupation des zones disponibles « dès le 15 octobre » grâce au bail). Le badge, émis par Dumarey Powerglide Strasbourg, porte la mention « Entreprise extérieure » et le nom de 2CRSi (n° 001). Le CP du 12/10 présente Aether Infrastructures comme signataire de la promesse de vente ; il ne précise pas à quel titre 2CRSi occupera le site.",
+   "sources": [
+    "S145",
+    "S113"
+   ],
+   "sources_libelle": [
+    "Commentaire LinkedIn du PDG, 16/10/2026 (photo du badge)",
+    "CP du 12/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-10-29_resultats-29-10",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -5103,6 +5130,16 @@
    "question": "Interviews du dirigeant à archiver",
    "etat": "Les Echos (26/06/2026), RAISE 2026 (8–9/07), Journal des Entreprises (22/06/2026) : textes ou transcriptions non encore archivés.",
    "attendu": "Les articles et enregistrements d'origine."
+  },
+  {
+   "sujet": "aether",
+   "question": "À quel titre 2CRSi occupera-t-elle le site FR-SXB2 ?",
+   "etat": "Le CP du 12/10/2026 désigne Aether Infrastructures comme signataire de la promesse de vente et annonce un bail permettant d'occuper les zones disponibles dès le 15/10 ; il indique que le site « accueillera, avec 2CRSi » un outil industriel et que 2CRSi souhaite y relocaliser une partie de la production de sa gamme GODì. Le premier badge d'accès, émis par Dumarey, est au nom de 2CRSi comme « entreprise extérieure » (photo publiée par le PDG le 16/10). Aucune pièce ne précise si 2CRSi interviendra comme prestataire d'Aether Infrastructures, comme locataire ou sous-locataire, ni à quelles conditions.",
+   "attendu": "Une communication de 2CRSi sur ses conditions d'occupation du site, ou la mention d'un bail ou d'une convention avec Aether Infrastructures dans les comptes ou le rapport des commissaires aux comptes.",
+   "sources": [
+    "S113",
+    "S145"
+   ]
   }
  ],
  "sources": [
@@ -6428,6 +6465,16 @@
    "url": "https://www.pappers.fr/entreprise/aether-infrastructures-104395389",
    "archive": "integral",
    "note": "Extraits des articles utiles dans textes/S144.txt ; PDF archivés : textes/pdf/AETHER INFRASTRUCTURES - Actes du 24-04-2026.pdf (statuts, 30 p.) et « … certif.pdf » (état des souscriptions).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S145",
+   "date_source": "2026-10-16",
+   "type": "linkedin",
+   "reference": "Commentaire LinkedIn d'Alain Wilmouth du 16/10/2026 (photo du premier badge d'accès au site Dumarey) sous la publication de DCmag",
+   "url": "https://lnkd.in/p/emne2BRw",
+   "archive": "integral",
+   "note": "Lien court LinkedIn du commentaire. Article commenté : https://dcmag.fr/aether-installe-son-campus-ia-factory-a-strasbourg-sur-lancien-site-dumarey-powerglide/ (non consulté). Capture archivée : textes/pdf/S145_badge_2crsi_dumarey.png.",
    "texte_archive": "sources_textes.json"
   }
  ],
