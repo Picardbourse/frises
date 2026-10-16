@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-15",
- "mis_a_jour": "2026-10-15T18:12",
- "arrete_au": "2026-10-15",
+ "genere_le": "2026-10-16",
+ "mis_a_jour": "2026-10-16T16:10",
+ "arrete_au": "2026-10-16",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -76,7 +76,7 @@
  },
  "nb": {
   "evenements": 111,
-  "sources": 133
+  "sources": 134
  },
  "evenements": [
   {
@@ -1872,12 +1872,14 @@
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Infrastructures",
-   "texte": "SASU au capital de 1 M€, siège à Sarreguemines, zéro salarié, code APE holding. Actionnaire unique : la holding d'Alain Wilmouth. Immatriculée le 04/05/2026 ; aucune modification au registre à la dernière mise à jour (18/08).",
+   "texte": "SAS au capital de 1 M€ (1 000 000 actions d'1 €), siège à Sarreguemines, zéro salarié, code APE holding. Selon les statuts signés le 24/04, le capital a été souscrit et intégralement versé en numéraire par la holding d'Alain Wilmouth, associée unique, les fonds étant déposés au CIC Entreprise Strasbourg (certificat du dépositaire du 17/04/2026). Objet social de holding : prise et gestion de participations, services et financement au profit des sociétés contrôlées. Présidente : la holding d'Alain Wilmouth, sans limitation de durée. Exercice du 1er juillet au 30 juin ; le premier se clôt le 30/06/2027. Les statuts permettent des offres de titres réservées à des investisseurs qualifiés ; toute cession à un tiers est soumise à agrément. Seul acte accompli avant la signature : l'ouverture du compte bancaire. Immatriculée le 04/05/2026 ; aucune modification au registre à la dernière mise à jour (18/08).",
    "sources": [
-    "S020"
+    "S020",
+    "S144"
    ],
    "sources_libelle": [
-    "Pappers / RNE (SIREN 104 395 389), avec référence BODACC A n°20260092"
+    "Pappers / RNE (SIREN 104 395 389), avec référence BODACC A n°20260092",
+    "Statuts du 24/04/2026 et état des souscriptions"
    ],
    "engagements": [],
    "liens": [
@@ -4975,10 +4977,11 @@
   {
    "sujet": "aether",
    "question": "Comment ÆTHER Infrastructures est-elle financée ?",
-   "etat": "SASU au capital de 1 M€, actionnaire unique la holding du dirigeant (registre, mise à jour du 18/08/2026 ; « actuellement l'actionnaire unique » selon le CP du 05/08). Le CP du 18/02/2026 annonçait que « le portage financier, immobilier et énergétique sera assuré par une structure dédiée regroupant des partenaires spécialisés » et que 2CRSi « n'a pas vocation à assurer le portage capitalistique du projet ». Le CP du 12/10/2026 décrit trois pôles (Aether Utilities, Aether Facilities, Aether Compute) sans préciser s'il s'agit de sociétés ni qui les détient. Aucune pièce ne nomme les partenaires financiers ni l'origine des fonds ; le dirigeant a relativisé l'intérêt de l'aide européenne lors du webinaire du 19/06/2026.",
+   "etat": "Le capital de 1 M€ a été souscrit et versé en numéraire par la holding du dirigeant, associée unique (statuts et état des souscriptions du 24/04/2026 ; fonds déposés au CIC Entreprise Strasbourg, certificat du 17/04/2026) : les statuts ne mentionnent aucun apport de 2CRSi, et ne disent pas comment la holding a financé ce versement. « Actuellement l'actionnaire unique » selon le CP du 05/08. Le CP du 18/02/2026 annonçait que « le portage financier, immobilier et énergétique sera assuré par une structure dédiée regroupant des partenaires spécialisés » et que 2CRSi « n'a pas vocation à assurer le portage capitalistique du projet ». Le CP du 12/10/2026 décrit trois pôles (Aether Utilities, Aether Facilities, Aether Compute) sans préciser s'il s'agit de sociétés ni qui les détient. Aucune pièce ne nomme les partenaires financiers ni le financement des sites ; le dirigeant a relativisé l'intérêt de l'aide européenne lors du webinaire du 19/06/2026.",
    "attendu": "L'entrée de partenaires au capital (registre) ou une communication sur la structure de portage.",
    "sources": [
     "S020",
+    "S144",
     "S012",
     "S055",
     "S113",
@@ -6415,6 +6418,16 @@
    "url": "",
    "archive": "integral",
    "note": "PDF archivé : textes/pdf/2CRSi-Transfert-du-contrat-de-liquidite-avec-NATIXIS-ODDO-BHF-1.pdf (transmis par un lecteur).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S144",
+   "date_source": "2026-04-24",
+   "type": "registre",
+   "reference": "Statuts constitutifs d'AETHER Infrastructures du 24/04/2026 et état des souscriptions et des versements (actes déposés au greffe, consultés via Pappers)",
+   "url": "https://www.pappers.fr/entreprise/aether-infrastructures-104395389",
+   "archive": "integral",
+   "note": "Extraits des articles utiles dans textes/S144.txt ; PDF archivés : textes/pdf/AETHER INFRASTRUCTURES - Actes du 24-04-2026.pdf (statuts, 30 p.) et « … certif.pdf » (état des souscriptions).",
    "texte_archive": "sources_textes.json"
   }
  ],

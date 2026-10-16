@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-15",
- "mis_a_jour": "2026-10-15T18:12",
- "arrete_au": "2026-10-15",
+ "genere_le": "2026-10-16",
+ "mis_a_jour": "2026-10-16T16:11",
+ "arrete_au": "2026-10-16",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -5125,7 +5125,7 @@
    ],
    "statut": "doc",
    "titre": "Résultats S1 2026 : EBITDA ajusté 19,1 % ; plus d'1 Md€ de commandes attendu au S2",
-   "texte": "EBITDA ajusté 160 M€ (+48 %), résultat net ajusté 77 M€ (IFRS 132 M€) ; free cash-flow opérationnel de 127 M€ (+51 %) et trésorerie nette de 197 M€ à fin juin 2026. Le rapport semestriel précise que les acomptes reçus sont passés de 415 M€ à fin 2025 à 193 M€ à fin juin 2026, « soit une consommation de 222 M€ », à mesure des livraisons. Objectifs 2026 confirmés. Selon la presse, la direction attend plus d'un milliard d'euros de commandes au second semestre (conférence téléphonique). Titre +13,7 % le 22/09. En euros publiés, le CA 2026 « pourrait être négativement impacté par un effet frais de douane d’environ 100 M€ et un effet devises d’environ 50 M€ ». Nouveau mandat de rachat d'actions annoncé. Détail du communiqué : VAS de 125 M€ « dont 61 M€ de VAS récurrent » (+73 %) ; « l'ARR (Annualized Recurring Revenue) a atteint 133 M€ au 2ème trimestre, en hausse de +83% sur un an » ; EMEA 209 M€ (+6 %), « en ligne avec les attentes du Groupe », Amériques et Asie-Pacifique 630 M€ (+39 %) ; EBIT ajusté 96 M€ (11,4 %). Flux de trésorerie disponible de −221,6 M€ après variation du BFR (−266,2 M€) et « le paiement de 79 M€ d'impôt », dont toute la charge 2025 (53 M€) ; dividende 15,0 M€, rachats d'actions 15,5 M€. ISM : acquisition prévue « sur la base d'un multiple d'acquisition compris entre 7x et 8x l'EBITDA de l'exercice en cours », financée en dette ; si elle est finalisée d'ici la fin de l'année, « le chiffre d'affaires VAS 'proforma' annuel de Vusion s'établirait à environ 400 M€ ».",
+   "texte": "EBITDA ajusté 160 M€ (+48 %), résultat net ajusté 77 M€ (IFRS 132 M€) ; free cash-flow opérationnel de 127 M€ (+51 % ; 130 M€ dans la FAQ du 02/10, calculé sans déduire l'impact IFRS 16 de 2,8 M€) et trésorerie nette de 197 M€ à fin juin 2026. Le rapport semestriel précise que les acomptes reçus sont passés de 415 M€ à fin 2025 à 193 M€ à fin juin 2026, « soit une consommation de 222 M€ », à mesure des livraisons. Objectifs 2026 confirmés. Selon la presse, la direction attend plus d'un milliard d'euros de commandes au second semestre (conférence téléphonique). Titre +13,7 % le 22/09. En euros publiés, le CA 2026 « pourrait être négativement impacté par un effet frais de douane d’environ 100 M€ et un effet devises d’environ 50 M€ ». Nouveau mandat de rachat d'actions annoncé. Détail du communiqué : VAS de 125 M€ « dont 61 M€ de VAS récurrent » (+73 %) ; « l'ARR (Annualized Recurring Revenue) a atteint 133 M€ au 2ème trimestre, en hausse de +83% sur un an » ; EMEA 209 M€ (+6 %), « en ligne avec les attentes du Groupe », Amériques et Asie-Pacifique 630 M€ (+39 %) ; EBIT ajusté 96 M€ (11,4 %). Flux de trésorerie disponible de −221,6 M€ après variation du BFR (−266,2 M€) et « le paiement de 79 M€ d'impôt », dont toute la charge 2025 (53 M€) ; dividende 15,0 M€, rachats d'actions 15,5 M€. ISM : acquisition prévue « sur la base d'un multiple d'acquisition compris entre 7x et 8x l'EBITDA de l'exercice en cours », financée en dette ; si elle est finalisée d'ici la fin de l'année, « le chiffre d'affaires VAS 'proforma' annuel de Vusion s'établirait à environ 400 M€ ».",
    "sources": [
     "S065",
     "S066",
@@ -5385,12 +5385,16 @@
    ],
    "statut": "doc",
    "titre": "FAQ investisseurs : 90 M€ placés à plus de 3 mois dans la trésorerie nette ; pas d'augmentation de capital prévue",
-   "texte": "Document de 10 pages publié sur le site investisseurs ; il ne cite aucune note d'analyste. La trésorerie nette de 197 M€ au 30/06/2026 comprend « 90 M€ de trésorerie placée sur des échéances supérieures à trois mois ». Free cash-flow cumulé 2023-2025 de 167 M€ après déduction d'environ 400 M€ d'acomptes Walmart, « destinés à être intégralement repris en 2026 ». Sur le préfinancement des quatre lignes de production par Walmart (323 M$) : « l'intégralité de ce préfinancement est conservée par le Groupe et constitue une entrée de trésorerie définitive » ; la note comptable reproduite dans le même document précise que « le contrat prévoit que la somme reçue dans le cadre de ce préfinancement puisse être remboursée en partie en cas d’utilisation par Vusion de ces lignes pour d'autres clients », ce remboursement étant inscrit au passif pour son montant maximum attendu (non chiffré). Financement de la croissance par la dette, « sans avoir besoin de procéder à une augmentation de capital, au regard de son plan de développement actuel ». Au 30/06/2026, BOE détient 23,8 % du capital ; dirigeants et salariés environ 14 % ; le PDG détient environ 200 000 actions en direct. Une nouvelle fenêtre de liquidité de SESIM « devrait être mise en œuvre au cours des prochains mois ». Vusion indique n'avoir « jamais eu de discussions avec la Direction des Émetteurs ni la Direction des Affaires Comptables » de l'AMF sur la présentation des VAS, et confirme une croissance des VAS « d'environ 40 % » en 2026.",
+   "texte": "Document de 10 pages publié sur le site investisseurs ; il ne cite aucune note d'analyste. La trésorerie nette de 197 M€ au 30/06/2026 comprend « 90 M€ de trésorerie placée sur des échéances supérieures à trois mois ». Free cash-flow cumulé 2023-2025 de 167 M€ après déduction d'environ 400 M€ d'acomptes Walmart, « destinés à être intégralement repris en 2026 ». Sur le préfinancement des quatre lignes de production par Walmart (323 M$) : « l'intégralité de ce préfinancement est conservée par le Groupe et constitue une entrée de trésorerie définitive » ; la note comptable reproduite dans le même document précise que « le contrat prévoit que la somme reçue dans le cadre de ce préfinancement puisse être remboursée en partie en cas d’utilisation par Vusion de ces lignes pour d'autres clients », ce remboursement étant inscrit au passif pour son montant maximum attendu (non chiffré). Financement de la croissance par la dette, « sans avoir besoin de procéder à une augmentation de capital, au regard de son plan de développement actuel ». Au 30/06/2026, BOE détient 23,8 % du capital ; dirigeants et salariés environ 14 % ; le PDG détient environ 200 000 actions en direct. Une nouvelle fenêtre de liquidité de SESIM « devrait être mise en œuvre au cours des prochains mois ». Vusion indique n'avoir « jamais eu de discussions avec la Direction des Émetteurs ni la Direction des Affaires Comptables » de l'AMF sur la présentation des VAS, et confirme une croissance des VAS « d'environ 40 % » en 2026. Free cash-flow opérationnel, défini dans la FAQ comme l'EBITDA ajusté moins les investissements autofinancés : 218 M€ en 2025 (contre −16 M€ en 2020) et 130 M€ au S1 2026 (+51 %). Le CP du 21/09 et le document d'enregistrement universel 2025 déduisent en plus l'impact IFRS 16 (2,8 M€ au S1 2026, 5,4 M€ en 2025) et donnent 127,1 M€ et 212,4 M€. Retours aux actionnaires : 55 M€ « au cours des trois dernières années », soit 40 M€ de rachats d'actions et 15 M€ de dividendes « dont 5 M€ en 2025 et 10 M€ en 2026 », auxquels s'ajoutent 17 M€ d'actions rachetées depuis le début de 2026 ; les tableaux de flux publiés indiquent des dividendes versés de 4,8 M€ en 2024, 9,6 M€ en 2025 et 15,0 M€ au S1 2026.",
    "sources": [
-    "S106"
+    "S106",
+    "S065",
+    "S077"
    ],
    "sources_libelle": [
-    "FAQ Investisseurs Vusion du 02/10/2026"
+    "FAQ Investisseurs Vusion du 02/10/2026",
+    "CP du 21/09/2026 (tableau des flux)",
+    "Document d'enregistrement universel 2025 (tableau des flux)"
    ],
    "engagements": [
     {
