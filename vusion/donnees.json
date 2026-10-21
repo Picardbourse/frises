@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-20",
- "mis_a_jour": "2026-10-20T18:44",
- "arrete_au": "2026-10-20",
+ "genere_le": "2026-10-21",
+ "mis_a_jour": "2026-10-21T06:36",
+ "arrete_au": "2026-10-21",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -69,7 +69,7 @@
  },
  "nb": {
   "evenements": 123,
-  "sources": 147
+  "sources": 150
  },
  "evenements": [
   {
@@ -3505,7 +3505,7 @@
      "echeance": "2026-12-31",
      "statut": "todo",
      "statue_par": null,
-     "note": ""
+     "note": "le 20/10, finalisation « d'ici la fin de l'année » (CP), « in the coming weeks » (conférence)"
     }
    ],
    "liens": [],
@@ -5143,7 +5143,7 @@
      "echeance": "2026-12-31",
      "statut": "todo",
      "statue_par": null,
-     "note": "Rapporté par BFM Bourse ; à vérifier dans le communiqué ou l'enregistrement."
+     "note": "Rapporté par BFM Bourse ; à vérifier dans le communiqué ou l'enregistrement. ; CP du 20/10 : objectif « d'environ 1 Md€ pour le 2nd semestre », 462 M€ au T3"
     },
     {
      "id": "2026-09-21_resultats-s1-2026#e2",
@@ -5545,20 +5545,76 @@
    "sujets": [
     "res"
    ],
-   "statut": "echeance",
-   "titre": "Échéance : chiffre d'affaires du 3e trimestre 2026",
-   "texte": "Publication annoncée après Bourse (calendrier financier du CP du 30/07/2026) ; webcast et conférence téléphonique le 20/10 à 18:00, heure de Paris (invitation du 13/10/2026).",
+   "statut": "doc",
+   "titre": "T3 2026 : CA ajusté de 445 M€ (+25 %), commandes de 462 M€, Walmart Canada signé ; objectifs 2026 confirmés",
+   "texte": "CP du 20/10/2026 à 17h40, données non auditées. CA T3 de 432,6 M€ en IFRS (+24,4 %) et 445,0 M€ en données ajustées (+25,2 % ; 529 M€ et +49 % à taux de change et droits de douane constants selon la conférence). Sur 9 mois : 1 252,4 M€ IFRS (+30,2 %) et 1 284,3 M€ ajustés (+27,8 % ; +41 % à changes et droits constants). EMEA : 120,8 M€ au T3 (+20,1 %), 330,2 M€ sur 9 mois (+10,7 %) ; Amériques et Asie-Pacifique : 324,2 M€ ajustés au T3 (+27,3 %), 954,1 M€ sur 9 mois (+35,1 %), « principalement due aux États-Unis ». Prises de commandes du T3 : 462 M€ (+10 %), « meilleur 3ème trimestre historique », tirées par l'EMEA (Allemagne, France, Royaume-Uni, Autriche, Scandinavie, Turquie) ; 1 143 M€ sur 9 mois et près de 1,6 Md€ sur 12 mois glissants. Signature du déploiement de la plateforme de dernière génération chez Walmart Canada, « un nouveau grand projet pour 2027 », après le Mexique au S1. Signature récente d'« une nouvelle enseigne spécialisée (non-alimentaire) prestigieuse dans environ 200 magasins aux États-Unis et au Canada », non nommée. Walmart US : le CP prévoit la finalisation du volet EdgeSense « d'ici la fin de l'année », la conférence « in the coming weeks » ; « plusieurs projets concernant de nouvelles solutions sont en cours, dont certains en phase avancée », sans précision. VAS : 202 M€ sur 9 mois (+40 %), 77 M€ au T3 (+45 %) ; VAS récurrents 100 M€ (+77 %) ; ARR de 154 M€ (+82 %) ; base VusionCloud d'environ 612 millions d'ESL (314 millions un an plus tôt), 53 000 magasins sur 80 000 selon la présentation. ISM : finalisation attendue « dans les prochaines semaines » (« before the end of the year » en conférence), VAS proforma d'environ 400 M€. Droits de douane : selon la conférence, les droits payés en 2025 ont été remboursés par les douanes américaines au T3 2026 et Vusion a émis 68 M€ d'avoirs à ses clients pour la part qu'elle leur avait refacturée, comptabilisés au T3 en IFRS comme en ajusté. Objectifs 2026 réitérés : CA ajusté +15 % à +20 % à changes et droits constants (1,75 à 1,83 Md€), soit 1,60 à 1,68 Md€ en données publiées après un effet de change d'environ −50 M€ et un effet droits de douane d'environ −100 M€ ; VAS environ +40 % ; marge d'EBITDA ajusté en hausse de plus de 100 points de base ; EMEA +15 % à +20 %. En conférence : plus de 500 M€ de commandes attendus au T4 (« we are confident on this target ») ; les gains allemands contribueront au CA « next year » ; l'un d'eux, chez un distributeur allemand, est un contrat EdgeSense, « second largest large rollout of EdgeSense in Europe », à annoncer « soon » ; l'enseigne nord-américaine est aussi EdgeSense, nom non communiqué « because it is a choice of the retailer » ; Carrefour « visible in a number of hypermarkets » mais « it's the beginning » ; Morrisons « over a few hundred supermarkets », déploiement poursuivi au T4 et au S1 2027 ; Walmart Mexico : pilote dans une troisième enseigne, décision « faster than 2028 » ; le Royaume-Uni est le troisième marché européen. Capital Markets Day le 18/11/2026.",
    "sources": [
+    "S149",
+    "S150",
+    "S151",
     "S063",
     "S147"
    ],
    "sources_libelle": [
+    "CP Vusion du 20/10/2026 : CA T3 2026",
+    "Présentation du 20/10/2026",
+    "Transcription de la conférence du 20/10/2026",
     "CP Vusion du 30/07/2026 (calendrier)",
     "CP Vusion du 13/10/2026 (invitation)"
    ],
-   "engagements": [],
-   "liens": [],
-   "majeur": false
+   "engagements": [
+    {
+     "id": "2026-10-20_ca-t3-2026#e1",
+     "texte": "Prises de commandes « d'environ 1 Md€ » au S2 2026, soit plus de 500 M€ au T4 (462 M€ réalisés au T3)",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
+    },
+    {
+     "id": "2026-10-20_ca-t3-2026#e2",
+     "texte": "Finalisation de l'acquisition d'In-Store Media « dans les prochaines semaines »",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
+    },
+    {
+     "id": "2026-10-20_ca-t3-2026#e3",
+     "texte": "Déploiement chez Walmart Canada, « nouveau grand projet pour 2027 »",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": ""
+    },
+    {
+     "id": "2026-10-20_ca-t3-2026#e4",
+     "texte": "Annonce du distributeur allemand (contrat EdgeSense) « soon », selon la conférence",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": "",
+     "note": "échéance non précisée ; fixée par convention à fin 2026"
+    }
+   ],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-02-26_resultats-2025"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-09-21_resultats-s1-2026"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-27_ism"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-04-21_ca-t1-2026"
+    }
+   ],
+   "majeur": true
   },
   {
    "id": "2026-10-23_matinee-nanterre",
@@ -7177,6 +7233,36 @@
    "url": "",
    "archive": "integral",
    "note": "PDF archivé : textes/pdf/IR_nanterre.pdf (transmis par un lecteur). Date de l'invitation non indiquée ; confirmation demandée « avant le 9 octobre 2026 ». Noms des intervenants remplacés par leur fonction.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S149",
+   "date_source": "2026-10-20",
+   "type": "CP",
+   "reference": "CP Vusion du 20/10/2026 (17h40) : chiffre d'affaires du 3e trimestre 2026",
+   "url": "https://investor.vusion.com",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/ca-t3-2026_vfr.pdf (6 p.). URL de la page exacte à relever.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S150",
+   "date_source": "2026-10-20",
+   "type": "officiel",
+   "reference": "Présentation Vusion « Q3 & 9 Months 2026 Sales » du 20/10/2026 (15 diapositives)",
+   "url": "https://investor.vusion.com",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/Vusion_Q3_2026_Sales.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S151",
+   "date_source": "2026-10-20",
+   "type": "transcription",
+   "reference": "Transcription de la conférence téléphonique du 20/10/2026 (CA T3 2026), publiée par Investing.com",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vusion-posts-strong-q3-2026-growth-as-stock-slips-93CH-4960731",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   }
  ],
