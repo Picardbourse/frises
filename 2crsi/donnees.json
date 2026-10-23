@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-23",
- "mis_a_jour": "2026-10-23T07:46",
+ "mis_a_jour": "2026-10-23T10:33",
  "arrete_au": "2026-10-23",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 113,
-  "sources": 137
+  "evenements": 114,
+  "sources": 138
  },
  "evenements": [
   {
@@ -4842,6 +4842,31 @@
    "majeur": false
   },
   {
+   "id": "2026-10-17_nygc-linkedin-permis",
+   "date": "2026-10-17",
+   "date_affichee": "vers le 17 oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "NYGC sur LinkedIn : relevés du site terminés, dossier de permis « en préparation »",
+   "texte": "NYGC annonce avoir terminé les relevés du site (« site surveys »), avancé les plans de la centrale biomasse existante et préparer les pièces des prochaines étapes de l'instruction (« preparing materials for the next steps in the permitting process »). Objectif affiché : redonner vie à la centrale « while supporting the development of more sustainable data infrastructure ». La publication ne donne ni date de redémarrage, ni puissance, ni calendrier de dépôt des permis, et ne mentionne pas 2CRSi.",
+   "sources": [
+    "S148"
+   ],
+   "sources_libelle": [
+    "Page LinkedIn de NYGC, vers le 17/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-08_ledger-church"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-10-29_resultats-29-10",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -5030,11 +5055,12 @@
   {
    "sujet": "nygc",
    "question": "Les demandes de permis du data center de Buena Vista sont-elles déposées ?",
-   "etat": "Les éléments publics divergent : un post tiers (24/08) parle d'une demande d'autorisation déposée auprès de l'agence de la qualité de l'air ; la FAQ de NYGC du 26/08 et les services du comté indiquent que les permis du data center ne sont pas déposés. Le dirigeant de NYGC déclare au Ledger Dispatch (propos des 07/09 et 24/09, publiés les 08 et 19/10) : « We have not even filed for permits », sans préciser de quels permis il s'agit, et ne dit pas si un data center sera demandé.",
+   "etat": "Les éléments publics divergent : un post tiers (24/08) parle d'une demande d'autorisation déposée auprès de l'agence de la qualité de l'air ; la FAQ de NYGC du 26/08 et les services du comté indiquent que les permis du data center ne sont pas déposés. Le dirigeant de NYGC déclare au Ledger Dispatch (propos des 07/09 et 24/09, publiés les 08 et 19/10) : « We have not even filed for permits », sans préciser de quels permis il s'agit, et ne dit pas si un data center sera demandé. Vers le 17/10, NYGC indique sur LinkedIn « preparing materials for the next steps in the permitting process ».",
    "attendu": "Les pièces du comté d'Amador (Planning Department, Air District).",
    "sources": [
     "S146",
-    "S147"
+    "S147",
+    "S148"
    ]
   },
   {
@@ -6568,6 +6594,16 @@
    "url": "https://www.ledger.news/news/buena-vistas-green-vision-faces-tough-test-as-california-cracks-down-on-data-centers/article_1ebfbbd4-b448-4963-bde5-8a55c74ff07a.html",
    "archive": "extrait",
    "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S148",
+   "date_source": "2026-10-17",
+   "type": "linkedin",
+   "reference": "Publication LinkedIn de NewYork GreenCloud, vers le 17/10/2026 : « Progress continues at Project Buena Vista »",
+   "url": "https://lnkd.in/p/eEcBZ6gG",
+   "archive": "integral",
+   "note": "Date approximative : publication affichée « 6 j » le 23/10/2026. Texte transmis par un lecteur, conforme à la capture du forum.",
    "texte_archive": "sources_textes.json"
   }
  ],
