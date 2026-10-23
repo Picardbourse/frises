@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-16",
- "mis_a_jour": "2026-10-16T21:44",
- "arrete_au": "2026-10-16",
+ "genere_le": "2026-10-23",
+ "mis_a_jour": "2026-10-23T06:33",
+ "arrete_au": "2026-10-23",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 112,
-  "sources": 135
+  "evenements": 113,
+  "sources": 137
  },
  "evenements": [
   {
@@ -4652,6 +4652,45 @@
    "majeur": false
   },
   {
+   "id": "2026-10-08_ledger-church",
+   "date": "2026-10-08",
+   "date_affichee": "8 et 19 oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "decl",
+   "titre": "Presse locale : le dirigeant de NYGC dit n'avoir déposé aucun permis ; le data center de Buena Vista reste « undecided »",
+   "texte": "Deux articles du Ledger Dispatch (08/10 et 19/10/2026) rapportent des propos de Joseph Church recueillis les 07/09 et 24/09. Permis : « We have not even filed for permits » ; « until permits are filed, we don't know which plan we're going ahead with, if any ». Séquence : la centrale biomasse sera remise en marche « regardless », puis NYGC évaluera un data center selon « our internal look at the cost and the benefit » ; interrogé sur l'éventualité qu'il ne se fasse pas, il ne l'exclut pas : « right now we're on straight energy production ». Il ajoute : « If we had intended to ... build something like that, like a data center ... we would have filed for permits in the beginning. » Puissance : la centrale produira « a net amount of 16 megawatts » ; NYGC compte demander l'autorisation d'un data center de 16 MW, une extension à 41 MW exigeant « a new set of permits ». Le journal relève que la réponse de 2CRSi du 16/07 décrit une structure de 5 puis 15 MW. Calendrier : environ 90 jours d'essais et de réglages selon le dirigeant, aucune date de redémarrage ; il annonçait davantage de réponses sur le data center « by mid-October ». Propriété : la centrale a été vendue à NYGC par la famille du superviseur du district 5, qui devra se déporter ; le dirigeant parle aussi de « no change in direct ownership of the LLC that owns the plant and equipment », et un dépôt officiel du 09/09 donne à Buena Vista Biomass LLC une adresse à Plattsburgh (New York). Contexte : demande de moratoire par des habitants (séance du 22/09), deux interventions contre le projet à la séance du 06/10, sept lois californiennes sur les data centers signées fin septembre.",
+   "sources": [
+    "S146",
+    "S147"
+   ],
+   "sources_libelle": [
+    "Ledger Dispatch, 08/10/2026",
+    "Ledger Dispatch, 19/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-19_webinaire-buena-vista"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-24_nygc-precisions"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-08-26_nygc-faq"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-09-22_amador-22-09"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-10-09_sxb2-promesse",
    "date": "2026-10-09",
    "date_affichee": "9 oct. 2026 (CP du 12/10)",
@@ -4778,6 +4817,28 @@
      "cible": "2026-10-09_sxb2-promesse"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-16",
+      "cloture": 26.24,
+      "volume": 122127,
+      "variation_pct": -1.9,
+      "volume_vs_moy20": 0.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-19",
+      "cloture": 26.78,
+      "volume": 126585,
+      "variation_pct": 2.1,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -4947,8 +5008,12 @@
   {
    "sujet": "nygc",
    "question": "Où en est le calendrier du contrat NYGC ?",
-   "etat": "La livraison annoncée « au printemps 2026 », puis la « phase 1 fin de l'été 2026 », n'ont pas fait l'objet d'une communication actualisée de la société.",
-   "attendu": "Un point de situation daté de la société (attendu au plus tard avec les résultats du 29/10/2026)."
+   "etat": "La livraison annoncée « au printemps 2026 », puis la « phase 1 fin de l'été 2026 », n'ont pas fait l'objet d'une communication actualisée de 2CRSi. Le dirigeant de NYGC décrit en septembre une centrale en remise en état, environ 90 jours d'essais, et un data center non décidé et non autorisé (presse locale, 08 et 19/10/2026).",
+   "attendu": "Un point de situation daté de la société (attendu au plus tard avec les résultats du 29/10/2026).",
+   "sources": [
+    "S146",
+    "S147"
+   ]
   },
   {
    "sujet": "nygc",
@@ -4965,14 +5030,22 @@
   {
    "sujet": "nygc",
    "question": "Les demandes de permis du data center de Buena Vista sont-elles déposées ?",
-   "etat": "Les éléments publics divergent : un post tiers parle d'une demande déposée, la FAQ de NYGC du 26/08 (résumée sur le forum) et les déclarations rapportées des services du comté indiquent le contraire. La page « Project Buena Vista » du site de NYGC (capture du 11/10/2026) n'aborde pas ce point.",
-   "attendu": "Les pièces du comté d'Amador (Planning Department, Air District)."
+   "etat": "Les éléments publics divergent : un post tiers (24/08) parle d'une demande d'autorisation déposée auprès de l'agence de la qualité de l'air ; la FAQ de NYGC du 26/08 et les services du comté indiquent que les permis du data center ne sont pas déposés. Le dirigeant de NYGC déclare au Ledger Dispatch (propos des 07/09 et 24/09, publiés les 08 et 19/10) : « We have not even filed for permits », sans préciser de quels permis il s'agit, et ne dit pas si un data center sera demandé.",
+   "attendu": "Les pièces du comté d'Amador (Planning Department, Air District).",
+   "sources": [
+    "S146",
+    "S147"
+   ]
   },
   {
    "sujet": "nygc",
    "question": "Qui possède le site de Buena Vista ?",
-   "etat": "La centrale a été acquise par NYGC (communiqué du 14/01/2026) ; la propriété du terrain n'est pas documentée.",
-   "attendu": "Le registre foncier du comté d'Amador."
+   "etat": "La centrale a été acquise par NYGC (communiqué du 14/01/2026), vendue selon la presse locale par la famille du superviseur du district 5. Le dirigeant de NYGC évoque toutefois « no change in direct ownership of the LLC that owns the plant and equipment », et un dépôt officiel du 09/09 donne à Buena Vista Biomass LLC une adresse à Plattsburgh (New York). La propriété du terrain, détenu selon la presse par une famille voisine, n'est pas documentée.",
+   "attendu": "Le registre foncier du comté d'Amador.",
+   "sources": [
+    "S146",
+    "S147"
+   ]
   },
   {
    "sujet": "nygc",
@@ -6475,6 +6548,26 @@
    "url": "https://lnkd.in/p/emne2BRw",
    "archive": "integral",
    "note": "Lien court LinkedIn du commentaire. Article commenté : https://dcmag.fr/aether-installe-son-campus-ia-factory-a-strasbourg-sur-lancien-site-dumarey-powerglide/ (non consulté). Capture archivée : textes/pdf/S145_badge_2crsi_dumarey.png.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S146",
+   "date_source": "2026-10-08",
+   "type": "presse",
+   "reference": "Ledger Dispatch (Jackson, Californie), 08/10/2026, mis à jour le 21/10 : « A data center in the making or a power plant standing alone? »",
+   "url": "https://www.ledger.news/news/a-data-center-in-the-making-or-a-power-plant-standing-alone/article_e859a191-17e0-4103-b9bf-877b7b3f99a1.html",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S147",
+   "date_source": "2026-10-19",
+   "type": "presse",
+   "reference": "Ledger Dispatch (Jackson, Californie), 19/10/2026, mis à jour le 21/10 : « Buena Vista's green vision faces tough test as California cracks down on data centers »",
+   "url": "https://www.ledger.news/news/buena-vistas-green-vision-faces-tough-test-as-california-cracks-down-on-data-centers/article_1ebfbbd4-b448-4963-bde5-8a55c74ff07a.html",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -8298,7 +8391,9 @@
    "2026-10-12",
    "2026-10-13",
    "2026-10-14",
-   "2026-10-15"
+   "2026-10-15",
+   "2026-10-16",
+   "2026-10-19"
   ],
   "cloture": [
    5.37,
@@ -9783,7 +9878,9 @@
    29.18,
    28.3,
    27.74,
-   26.76
+   26.76,
+   26.24,
+   26.78
   ],
   "volume": [
    217653,
@@ -11268,7 +11365,9 @@
    784742,
    344256,
    155273,
-   204878
+   204878,
+   122127,
+   126585
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
