@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-21",
- "mis_a_jour": "2026-10-21T06:36",
- "arrete_au": "2026-10-21",
+ "genere_le": "2026-10-23",
+ "mis_a_jour": "2026-10-23T07:46",
+ "arrete_au": "2026-10-23",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -9254,7 +9254,9 @@
    "2026-10-12",
    "2026-10-13",
    "2026-10-14",
-   "2026-10-15"
+   "2026-10-15",
+   "2026-10-16",
+   "2026-10-19"
   ],
   "cloture": [
    35.8,
@@ -10739,7 +10741,9 @@
    123.6,
    123.6,
    123.1,
-   120.5
+   120.5,
+   123.5,
+   123.2
   ],
   "volume": [
    14641,
@@ -12224,7 +12228,9 @@
    15133,
    18873,
    22546,
-   42898
+   42898,
+   22806,
+   30516
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
