@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-23",
- "mis_a_jour": "2026-10-23T07:46",
+ "mis_a_jour": "2026-10-23T11:11",
  "arrete_au": "2026-10-23",
  "version_provisoire": false,
  "config": {
@@ -68,8 +68,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 123,
-  "sources": 150
+  "evenements": 124,
+  "sources": 151
  },
  "evenements": [
   {
@@ -5617,6 +5617,27 @@
    "majeur": true
   },
   {
+   "id": "2026-10-22_miniso-land",
+   "date": "2026-10-22",
+   "date_affichee": "vers le 22 oct. 2026",
+   "sujets": [
+    "contrats",
+    "usa"
+   ],
+   "statut": "decl",
+   "titre": "MINISO USA : technologie Bluetooth de Vusion dans le premier magasin MINISO LAND des États-Unis (Columbus, Ohio)",
+   "texte": "Un account manager Amérique du Nord de Vusion félicite MINISO USA pour l'ouverture de son premier magasin MINISO LAND aux États-Unis, à Columbus (Ohio), et se dit « proud to partner with MINISO USA on this exciting project, leveraging Vusion Bluetooth technology to enhance the guests journey ». La publication ne précise ni les produits déployés (étiquettes électroniques ou autres), ni l'étendue du partenariat au-delà de ce magasin ; aucun communiqué de Vusion.",
+   "sources": [
+    "S152"
+   ],
+   "sources_libelle": [
+    "Publication LinkedIn d'un salarié de Vusion, vers le 22/10/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
    "id": "2026-10-23_matinee-nanterre",
    "date": "2026-10-23",
    "date_affichee": "23 oct. 2026",
@@ -7264,6 +7285,16 @@
    "archive": "extrait",
    "note": "",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S152",
+   "date_source": "2026-10-22",
+   "type": "linkedin",
+   "reference": "Publication LinkedIn d'un account manager Amérique du Nord de Vusion, vers le 22/10/2026 : premier magasin MINISO LAND aux États-Unis (Columbus, Ohio)",
+   "url": "https://lnkd.in/p/eqrNfyUQ",
+   "archive": "integral",
+   "note": "Date approximative : publication affichée « 1 j » le 23/10/2026. Auteur décrit par sa fonction.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -7756,6 +7787,18 @@
     "2026-08-03_condis"
    ],
    "note": "Condis"
+  },
+  {
+   "id": "columbus-miniso",
+   "nom": "Columbus (Ohio) : magasin MINISO LAND",
+   "lat": 39.9612,
+   "lon": -82.9988,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-10-22_miniso-land"
+   ],
+   "note": "Adresse du magasin non publiée par la source ; localisation au niveau de la ville."
   }
  ],
  "non_localises": [
