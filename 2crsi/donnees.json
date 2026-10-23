@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-23",
- "mis_a_jour": "2026-10-23T10:33",
+ "mis_a_jour": "2026-10-23T16:29",
  "arrete_au": "2026-10-23",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 114,
-  "sources": 138
+  "evenements": 115,
+  "sources": 139
  },
  "evenements": [
   {
@@ -4867,6 +4867,26 @@
    "majeur": false
   },
   {
+   "id": "2026-10-23_clever-cloud",
+   "date": "2026-10-23",
+   "date_affichee": "23 oct. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Clever Cloud équipe deux nouvelles zones de disponibilité en région parisienne avec des serveurs 2CRSi",
+   "texte": "Clever Cloud annonce deux nouvelles zones de disponibilité mises en service en 2026, dans les data centers ETIX Paris #3 (Vélizy-Villacoublay) et Telehouse TH3 (Magny-les-Hameaux), soit cinq zones autour de Paris contre trois. Pour les équiper, l'entreprise dit avoir « décidé de privilégier des industriels européens », « notamment 2CRSI, constructeur français de serveurs basé à Strasbourg, et Nokia ». Son dirigeant : « nous faisons également le choix de travailler avec des industriels européens comme 2CRSI et Nokia ». Aucun montant, volume ni calendrier de livraison n'est indiqué ; 2CRSi n'a pas publié de communiqué. Clever Cloud figure parmi les partenaires « services cloud » de l'écosystème ÆTHER cités dans le CP du 12/10/2026.",
+   "sources": [
+    "S149"
+   ],
+   "sources_libelle": [
+    "Communiqué de Clever Cloud du 23/10/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
    "id": "2026-10-29_resultats-29-10",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -6605,6 +6625,16 @@
    "archive": "integral",
    "note": "Date approximative : publication affichée « 6 j » le 23/10/2026. Texte transmis par un lecteur, conforme à la capture du forum.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S149",
+   "date_source": "2026-10-23",
+   "type": "CP tiers",
+   "reference": "Clever Cloud, 23/10/2026 : « Clever Cloud passe à cinq zones de disponibilité à Paris pour renforcer la résilience de son infrastructure » (blog, rubriques Entreprise et Presse)",
+   "url": "https://www.clever-cloud.com/blog/",
+   "archive": "integral",
+   "note": "URL exacte de l'article à relever. PDF archivé : textes/pdf/clever_cloud_5_AZ_2026-10-23.pdf.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -6921,6 +6951,30 @@
     "2026-06-19_webinaire-usines"
    ],
    "note": "Client facturé au Canada, livraison dans un data center au Japon."
+  },
+  {
+   "id": "velizy-etix",
+   "nom": "Vélizy-Villacoublay : data center ETIX Paris #3 (Clever Cloud)",
+   "lat": 48.7826,
+   "lon": 2.2246,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-10-23_clever-cloud"
+   ],
+   "note": "Site d'hébergement de Clever Cloud ; localisation au niveau de la commune."
+  },
+  {
+   "id": "magny-telehouse",
+   "nom": "Magny-les-Hameaux : data center Telehouse TH3 (Clever Cloud)",
+   "lat": 48.7428,
+   "lon": 2.0611,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-10-23_clever-cloud"
+   ],
+   "note": "Site d'hébergement de Clever Cloud ; localisation au niveau de la commune."
   }
  ],
  "non_localises": [
