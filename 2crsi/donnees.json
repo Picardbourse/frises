@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-23",
- "mis_a_jour": "2026-10-23T16:29",
+ "mis_a_jour": "2026-10-23T17:01",
  "arrete_au": "2026-10-23",
  "version_provisoire": false,
  "config": {
@@ -6631,9 +6631,9 @@
    "date_source": "2026-10-23",
    "type": "CP tiers",
    "reference": "Clever Cloud, 23/10/2026 : « Clever Cloud passe à cinq zones de disponibilité à Paris pour renforcer la résilience de son infrastructure » (blog, rubriques Entreprise et Presse)",
-   "url": "https://www.clever-cloud.com/blog/",
+   "url": "https://www.clever.cloud/fr/blog/entreprise/2026/10/23/clever-cloud-5-zones-disponibilite-paris/",
    "archive": "integral",
-   "note": "URL exacte de l'article à relever. PDF archivé : textes/pdf/clever_cloud_5_AZ_2026-10-23.pdf.",
+   "note": "PDF archivé : textes/pdf/clever_cloud_5_AZ_2026-10-23.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
