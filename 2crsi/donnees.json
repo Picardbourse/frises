@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-23",
- "mis_a_jour": "2026-10-23T17:01",
- "arrete_au": "2026-10-23",
+ "genere_le": "2026-10-25",
+ "mis_a_jour": "2026-10-25T07:08",
+ "arrete_au": "2026-10-25",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -76,7 +76,7 @@
  },
  "nb": {
   "evenements": 115,
-  "sources": 139
+  "sources": 142
  },
  "evenements": [
   {
@@ -4875,15 +4875,35 @@
    ],
    "statut": "doc",
    "titre": "Clever Cloud équipe deux nouvelles zones de disponibilité en région parisienne avec des serveurs 2CRSi",
-   "texte": "Clever Cloud annonce deux nouvelles zones de disponibilité mises en service en 2026, dans les data centers ETIX Paris #3 (Vélizy-Villacoublay) et Telehouse TH3 (Magny-les-Hameaux), soit cinq zones autour de Paris contre trois. Pour les équiper, l'entreprise dit avoir « décidé de privilégier des industriels européens », « notamment 2CRSI, constructeur français de serveurs basé à Strasbourg, et Nokia ». Son dirigeant : « nous faisons également le choix de travailler avec des industriels européens comme 2CRSI et Nokia ». Aucun montant, volume ni calendrier de livraison n'est indiqué ; 2CRSi n'a pas publié de communiqué. Clever Cloud figure parmi les partenaires « services cloud » de l'écosystème ÆTHER cités dans le CP du 12/10/2026.",
+   "texte": "Clever Cloud annonce deux nouvelles zones de disponibilité mises en service en 2026, dans les data centers ETIX Paris #3 (Vélizy-Villacoublay) et Telehouse TH3 (Magny-les-Hameaux), soit cinq zones autour de Paris contre trois. Pour les équiper, l'entreprise dit avoir « décidé de privilégier des industriels européens », « notamment 2CRSI, constructeur français de serveurs basé à Strasbourg, et Nokia ». Son dirigeant : « nous faisons également le choix de travailler avec des industriels européens comme 2CRSI et Nokia ». Aucun montant, volume ni calendrier de livraison n'est indiqué ; 2CRSi n'a pas publié de communiqué. Clever Cloud figure parmi les partenaires « services cloud » de l'écosystème ÆTHER cités dans le CP du 12/10/2026. Par ailleurs, Clever Cloud est hébergé dans le data center de Green Data à Nanterre (bâtiment Capitole), filiale de 2CRSi, depuis au moins juin 2023 : Green Data figure parmi ses sous-traitants d'hébergement dans les listes de sous-traitants ultérieurs du 20/06/2023 et du 01/09/2026, et sa page « Infrastructure » cite « Greendata, Nanterre Le Capitole » parmi 15 sites, les autres étant exploités par Telehouse, Etix, nLighten, Scaleway, OVHcloud, Cloud Temple, IONOS et Oracle. Le communiqué du 23/10/2026 ne mentionne pas cette relation d'hébergement.",
    "sources": [
-    "S149"
+    "S149",
+    "S150",
+    "S151",
+    "S152"
    ],
    "sources_libelle": [
-    "Communiqué de Clever Cloud du 23/10/2026"
+    "Communiqué de Clever Cloud du 23/10/2026",
+    "Liste des sous-traitants ultérieurs de Clever Cloud, v1.6 du 01/09/2026",
+    "Liste des sous-traitants ultérieurs de Clever Cloud du 20/06/2023",
+    "Page Infrastructure de Clever Cloud"
    ],
    "engagements": [],
    "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-23",
+      "cloture": 26.62,
+      "volume": 117988,
+      "variation_pct": -2.4,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -6635,6 +6655,36 @@
    "archive": "integral",
    "note": "PDF archivé : textes/pdf/clever_cloud_5_AZ_2026-10-23.pdf.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S150",
+   "date_source": "2026-09-01",
+   "type": "Doc tiers",
+   "reference": "Clever Cloud, « Liste des sous-traitants ultérieurs », version 1.6 du 01/09/2026 (document RGPD)",
+   "url": "https://cdn.clever-cloud.com/uploads/2026/09/sous-traitants-ulterieurs-de-clever-cloud.pdf",
+   "archive": "integral",
+   "note": "Green Data listé comme sous-traitant d'hébergement (« hébergement sécurisé, infrastructure réseau », région « Paris Clever Cloud ») avec Telehouse, nLighten, Etix Everywhere, Scaleway, Cloud Temple, OVHcloud, IONOS, Oracle. Version précédente 1.5 du 05/11/2025 (même liste). PDF à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S151",
+   "date_source": "2023-06-20",
+   "type": "Doc tiers",
+   "reference": "Clever Cloud, « Liste des sous-traitants ultérieurs » du 20/06/2023",
+   "url": "https://cdn.clever-cloud.com/uploads/2023/06/20230620-liste-des-sous-traitants-ulterieurs-de-clever-cloud.pdf",
+   "archive": "integral",
+   "note": "Green Data déjà listé (hébergement, zone Paris) avec Equinix, Databank, Telehouse, EXA, Scaleway, Squark, BSO, OVHcloud, Oracle. PDF à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S152",
+   "date_source": "",
+   "type": "Site tiers",
+   "reference": "Clever Cloud, page « Infrastructure » (liste des 15 sites, dont « Greendata, Nanterre Le Capitole »)",
+   "url": "https://www.clever.cloud/fr/infrastructure/",
+   "archive": "integral",
+   "note": "Page non datée. Le bâtiment Capitole, 55 av. des Champs Pierreux, Nanterre, est l'adresse du siège de Green Data (registre) et de son data center (Data Center Map).",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -6702,13 +6752,14 @@
   },
   {
    "id": "nanterre",
-   "nom": "Nanterre : data center NA0",
+   "nom": "Nanterre : data center de Green Data (bâtiment Capitole)",
    "lat": 48.8924,
    "lon": 2.2069,
    "precision": "ville",
    "type": "site",
    "evenements": [
-    "2025-03-17_cloud-solutions"
+    "2025-03-17_cloud-solutions",
+    "2026-10-23_clever-cloud"
    ]
   },
   {
@@ -8483,7 +8534,11 @@
    "2026-10-14",
    "2026-10-15",
    "2026-10-16",
-   "2026-10-19"
+   "2026-10-19",
+   "2026-10-20",
+   "2026-10-21",
+   "2026-10-22",
+   "2026-10-23"
   ],
   "cloture": [
    5.37,
@@ -9970,7 +10025,11 @@
    27.74,
    26.76,
    26.24,
-   26.78
+   26.78,
+   26.8,
+   28.84,
+   27.28,
+   26.62
   ],
   "volume": [
    217653,
@@ -11457,7 +11516,11 @@
    155273,
    204878,
    122127,
-   126585
+   126585,
+   109106,
+   199513,
+   162575,
+   117988
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
