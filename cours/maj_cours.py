@@ -73,8 +73,7 @@ def maj(code, complet=False):
     print(f"{code} ({ticker}) : téléchargement depuis {depuis}…")
     neuves = telecharger(ticker, depuis)
     if not neuves:
-        print("  aucune donnée reçue (réseau, ticker ?) ; fichier inchangé")
-        return
+        sys.exit(f"  {code} : aucune donnée reçue (réseau, ticker ?) ; fichier inchangé")
     avant = len(lignes)
     lignes.update(neuves)
     tmp = chemin + ".tmp"
