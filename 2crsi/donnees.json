@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-25",
- "mis_a_jour": "2026-10-25T07:08",
+ "mis_a_jour": "2026-10-25T07:37",
  "arrete_au": "2026-10-25",
  "version_provisoire": false,
  "config": {
@@ -345,7 +345,7 @@
    ],
    "statut": "doc",
    "titre": "Accord avec une filiale de Larsen & Toubro pour l'edge en Inde",
-   "texte": "Déploiement de serveurs Atlantis 1SR et d'edge data centers VRuna sur deux sites indiens en phase initiale. Suite envisagée : une proposition commune pour 1 200 edge data centers destinés à un opérateur télécom indien. Aucun montant ; aucun communiqué de suivi trouvé.",
+   "texte": "Déploiement de serveurs Atlantis 1SR et d'edge data centers VRuna sur deux sites indiens en phase initiale. Suite envisagée : une proposition commune pour 1 200 edge data centers destinés à un opérateur télécom indien. Aucun montant. Au 25/10/2026, aucune suite publiée par 2CRSi ni par L&T (filiale non nommée dans le communiqué). La même cible, un data center edge pour les opérateurs télécoms indiens, est reprise avec Valeo dans le communiqué commun du 16/02/2026, qui ne cite pas L&T.",
    "sources": [
     "S014"
    ],
