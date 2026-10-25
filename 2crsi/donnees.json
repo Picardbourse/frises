@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-25",
- "mis_a_jour": "2026-10-25T08:49",
+ "mis_a_jour": "2026-10-25T13:04",
  "arrete_au": "2026-10-25",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 116,
-  "sources": 143
+  "evenements": 117,
+  "sources": 144
  },
  "evenements": [
   {
@@ -4953,6 +4953,36 @@
    "majeur": false
   },
   {
+   "id": "2026-10-25_chennai-ch4-site",
+   "date": "2026-10-25",
+   "date_affichee": "25 oct. 2026 (capture)",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "decl",
+   "titre": "Site de 2CRSi : un quatrième site de production « à venir » à Chennai (CH4), 10 000 serveurs par an",
+   "texte": "La page « Manufacturing facilities » du site de 2CRSi, non datée et capturée le 25/10/2026, présente un site « CH4, Chennai, Inde » comme « upcoming » : capacité prévue de 10 000 intégrations de serveurs par an, gestion du processus de certification BIS (Bureau of Indian Standards), bancs de test air et immersion aux formats 19\" et OCP. Les trois autres sites sont Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (10 000 unités edge/an) et Plattsburgh (10 000 intégrations/an). La page ne mentionne ni Valeo ni Pune, ni de date ; le communiqué du 16/02/2026 situe la production Valeo × 2CRSi « à Pune et Chennai », et le PDG évoquait le 19/06 « une 4e [usine] en cours de développement avec Valeo ».",
+   "sources": [
+    "S154"
+   ],
+   "sources_libelle": [
+    "Site de 2CRSi, page « Manufacturing facilities », capture du 25/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-19_webinaire-usines"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-02-16_valeo-new-delhi"
+    }
+   ],
+   "avenir": false,
+   "majeur": false
+  },
+  {
    "id": "2026-10-29_resultats-29-10",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -6741,6 +6771,16 @@
    "archive": "integral",
    "note": "Réunion du conseil des superviseurs du comté de Sierra ; rumeurs en ligne d'un data center IA au 100 Railroad Avenue, Loyalton (scierie et centrale de cogénération). Directeur de la planification : « We have never received an application », « There's no information » ; propriétaire et NYGC contactés sans réponse ; propriétaire du site (Sierra Valley Enterprises / Sierra Valley Cogen) dit tout ignorer du projet ; fiche datacentermap.com : data center IA de 10 MW alimenté par une centrale biomasse remise en service de 18 MW, étude de faisabilité « achevée », batteries 72 MWh ; une présentation de NYGC citant Loyalton n'est plus en ligne. Alerte initiale du Northern Sierra Air Quality Management District. Extrait à archiver.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S154",
+   "date_source": "",
+   "type": "Site société",
+   "reference": "Site de 2CRSi, page « Manufacturing facilities » (non datée), capturée le 25/10/2026 : site « CH4, Chennai, Inde » présenté comme « upcoming »",
+   "url": "https://2crsi.com/manufacturing-facilities",
+   "archive": "integral",
+   "note": "Sites listés : Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (jusqu'à 10 000 unités edge/an), Plattsburgh NY (jusqu'à 10 000 intégrations/an, depuis 2021), Chennai CH4 « upcoming » (10 000 intégrations/an prévues, gestion de la certification BIS, bancs de test air et immersion, formats 19\" et OCP). Valeo et Pune non mentionnés. Page signalée par un lecteur du forum via une réponse d'IA.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -7095,6 +7135,17 @@
     "2026-10-06_nygc-5-sites"
    ],
    "note": "Ancienne scierie et centrale de cogénération, 100 Railroad Avenue."
+  },
+  {
+   "id": "chennai",
+   "nom": "Chennai (Inde) : site de production CH4 « à venir »",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "precision": "ville",
+   "type": "site",
+   "evenements": [
+    "2026-10-25_chennai-ch4-site"
+   ]
   }
  ],
  "non_localises": [
