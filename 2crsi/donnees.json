@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-25",
- "mis_a_jour": "2026-10-25T13:04",
+ "mis_a_jour": "2026-10-25T18:22",
  "arrete_au": "2026-10-25",
  "version_provisoire": false,
  "config": {
@@ -5110,7 +5110,7 @@
    ],
    "statut": "echeance",
    "titre": "Sélection des gigafactories européennes",
-   "texte": "Une seule enveloppe nationale de 100 M€ annoncée pour la France.",
+   "texte": "L'État français s'est engagé à acheter 100 M€ de capacité de calcul au seul projet qui sera retenu sur le sol français (achat auprès d'un opérateur privé, à l'horizon 2027, distinct de tout financement de l'investissement). Deux consortiums français connus : ÆTHER et AION.",
    "sources": [
     "S025"
    ],
@@ -5118,7 +5118,12 @@
     "numerique.gouv.fr"
    ],
    "engagements": [],
-   "liens": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-30_eurohpc-appel"
+    }
+   ],
    "majeur": false
   },
   {
