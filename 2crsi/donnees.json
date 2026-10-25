@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-25",
- "mis_a_jour": "2026-10-25T08:05",
+ "mis_a_jour": "2026-10-25T08:29",
  "arrete_au": "2026-10-25",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 115,
-  "sources": 142
+  "evenements": 116,
+  "sources": 143
  },
  "evenements": [
   {
@@ -1907,6 +1907,48 @@
       "volume": 177466,
       "variation_pct": -0.6,
       "volume_vs_moy20": 0.4
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-05-19_loyalton-rumeur",
+   "date": "2026-05-19",
+   "date_affichee": "19 mai 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Loyalton (CA) : le comté de Sierra n'a reçu aucune demande pour le data center de NYGC",
+   "texte": "Lors de la réunion du conseil des superviseurs du comté de Sierra, des habitants s'inquiètent d'un projet de data center IA de NYGC à Loyalton (ancienne scierie et centrale de cogénération, 100 Railroad Avenue), connu par des publications en ligne. Le directeur de la planification : « We have never received an application », « There's no information » ; ses services ont contacté le propriétaire du site et NYGC, sans réponse ; le propriétaire dit tout ignorer d'un tel projet. La fiche datacentermap.com décrit un data center de 10 MW alimenté par une centrale biomasse remise en service de 18 MW, avec étude de faisabilité « achevée » ; une présentation de NYGC citant Loyalton n'est plus en ligne. Le comté précise qu'un tel projet exigerait un permis conditionnel, une évaluation CEQA et une audience publique.",
+   "sources": [
+    "S153"
+   ],
+   "sources_libelle": [
+    "The Mountain Messenger, 19/05/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-05-19",
+      "cloture": 38.16,
+      "volume": 170611,
+      "variation_pct": 2.0,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-05-20",
+      "cloture": 41.4,
+      "volume": 350201,
+      "variation_pct": 8.5,
+      "volume_vs_moy20": 1.5
      }
     ]
    },
@@ -4512,7 +4554,7 @@
    ],
    "statut": "doc",
    "titre": "Portefeuille NYGC : 5 sites, 3 MW opérationnels",
-   "texte": "Rouses Point (NY) : seul site en service, 3 MW, immersion Submer. Chateaugay (NY) : « en construction ». Buena Vista, Loyalton et Bakersfield (CA) : annonce, faisabilité ou sans données.",
+   "texte": "Rouses Point (NY) : seul site en service, 3 MW, immersion Submer. Chateaugay (NY) : « en construction ». Buena Vista, Loyalton (10 MW annoncés) et Bakersfield (CA) : annonce, faisabilité ou sans données. Pour Loyalton, le comté de Sierra indiquait en mai 2026 n'avoir reçu aucune demande.",
    "sources": [
     "S035"
    ],
@@ -4524,6 +4566,10 @@
     {
      "type": "precise",
      "cible": "2026-10-06_ncpr-chateaugay"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-05-19_loyalton-rumeur"
     }
    ],
    "seance": {
@@ -6685,6 +6731,16 @@
    "archive": "integral",
    "note": "Page non datée. Le bâtiment Capitole, 55 av. des Champs Pierreux, Nanterre, est l'adresse du siège de Green Data (registre) et de son data center (Data Center Map).",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S153",
+   "date_source": "2026-05-19",
+   "type": "presse",
+   "reference": "The Mountain Messenger (comté de Sierra, CA), 19/05/2026 : « Sierra County Board Hears Concerns Over Rumored AI Data Center »",
+   "url": "https://www.themountainmessenger.org/article/sierra-county-board-hears-concerns-over-rumored-ai-data-center",
+   "archive": "integral",
+   "note": "Réunion du conseil des superviseurs du comté de Sierra ; rumeurs en ligne d'un data center IA au 100 Railroad Avenue, Loyalton (scierie et centrale de cogénération). Directeur de la planification : « We have never received an application », « There's no information » ; propriétaire et NYGC contactés sans réponse ; propriétaire du site (Sierra Valley Enterprises / Sierra Valley Cogen) dit tout ignorer du projet ; fiche datacentermap.com : data center IA de 10 MW alimenté par une centrale biomasse remise en service de 18 MW, étude de faisabilité « achevée », batteries 72 MWh ; une présentation de NYGC citant Loyalton n'est plus en ligne. Alerte initiale du Northern Sierra Air Quality Management District. Extrait à archiver.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -7026,6 +7082,19 @@
     "2026-10-23_clever-cloud"
    ],
    "note": "Site d'hébergement de Clever Cloud ; localisation au niveau de la commune."
+  },
+  {
+   "id": "loyalton",
+   "nom": "Loyalton (comté de Sierra, CA) : site NYGC annoncé",
+   "lat": 39.6763,
+   "lon": -120.2411,
+   "precision": "ville",
+   "type": "client",
+   "evenements": [
+    "2026-05-19_loyalton-rumeur",
+    "2026-10-06_nygc-5-sites"
+   ],
+   "note": "Ancienne scierie et centrale de cogénération, 100 Railroad Avenue."
   }
  ],
  "non_localises": [
