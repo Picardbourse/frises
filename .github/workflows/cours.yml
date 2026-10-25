@@ -1,0 +1,27 @@
+name: Mise à jour des cours
+
+on:
+  schedule:
+    - cron: "15 18 * * 1-5"   # du lundi au vendredi, 18 h 15 UTC (19 h 15 / 20 h 15 Paris)
+  workflow_dispatch:          # lancement manuel possible depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  cours:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install yfinance
+      - run: python cours/maj_cours.py
+      - name: Commit si changement
+        run: |
+          git config user.name "Picardbourse"
+          git config user.email "341023148+Picardbourse@users.noreply.github.com"
+          git add cours/*.csv
+          git diff --cached --quiet && echo "aucun changement" || git commit -m "Cours : mise à jour automatique $(date -u +%Y-%m-%d)"
+          git push
