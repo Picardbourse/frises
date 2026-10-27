@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-27",
- "mis_a_jour": "2026-10-27T09:52",
+ "mis_a_jour": "2026-10-27T16:31",
  "arrete_au": "2026-10-27",
  "version_provisoire": false,
  "config": {
@@ -68,8 +68,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 124,
-  "sources": 151
+  "evenements": 125,
+  "sources": 152
  },
  "evenements": [
   {
@@ -5680,6 +5680,31 @@
    "majeur": false
   },
   {
+   "id": "2026-10-27_strongpoint-espagne",
+   "date": "2026-10-27",
+   "date_affichee": "27 oct. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Espagne : un distributeur régional (~100 magasins) commande EdgeSense, Captana et des étiquettes Vusion via StrongPoint",
+   "texte": "Communiqué réglementé de StrongPoint (Oslo Børs) : un grand distributeur alimentaire régional espagnol, non nommé, d'environ 100 magasins, déploie la plateforme de rayon connecté EdgeSense, les caméras Captana et des étiquettes électroniques de Vusion. Déploiement « récemment commencé », sur deux ans, pour près d'un million d'étiquettes. StrongPoint Espagne est maître d'œuvre (fourniture, installation, service, support). Montant non communiqué ; Vusion n'a pas publié de communiqué. Deuxième contrat annoncé avec StrongPoint après Coop Estonie (05/05/2026).",
+   "sources": [
+    "S153"
+   ],
+   "sources_libelle": [
+    "CP StrongPoint du 27/10/2026 (Oslo Børs)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-05-05_coop-estonie"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-11-18_capital-markets-day",
    "date": "2026-11-18",
    "date_affichee": "18 nov. 2026",
@@ -7317,6 +7342,16 @@
    "archive": "integral",
    "note": "Date approximative : publication affichée « 1 j » le 23/10/2026. Auteur décrit par sa fonction.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S153",
+   "date_source": "2026-10-27",
+   "type": "CP tiers",
+   "reference": "CP StrongPoint (Oslo Børs, information réglementée), 27/10/2026, 08:35 CET : « Leading Regional Grocery Retailer in Spain Orders Vusion Connected Store Solutions from StrongPoint »",
+   "url": "https://www.strongpoint.com/news/leading-regional-grocery-retailer-in-spain-orders-vusion-connected-store-solutions-from-strongpoint/",
+   "archive": "integral",
+   "note": "Repris par Inderes : https://www.inderes.fi/en/releases/stro-leading-regional-grocery-retailer-in-spain-orders-vusion-connected-store-solutions-from-strongpoint . Client non nommé ; ~100 magasins ; EdgeSense, Captana, ESL ; près d'un million d'ESL sur deux ans ; StrongPoint Espagne maître d'œuvre ; montant non communiqué. Citations du CEO de StrongPoint et du SEVP EMEA de Vusion.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -7461,14 +7496,15 @@
   },
   {
    "id": "espagne",
-   "nom": "Espagne : Eroski",
+   "nom": "Espagne : Eroski ; distributeur régional (StrongPoint)",
    "lat": 40.0,
    "lon": -3.7,
    "precision": "pays",
    "type": "client",
    "evenements": [
     "2025-06-24_eroski",
-    "2026-06-04_pharmacie-espagne"
+    "2026-06-04_pharmacie-espagne",
+    "2026-10-27_strongpoint-espagne"
    ]
   },
   {
