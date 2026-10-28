@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-28",
- "mis_a_jour": "2026-10-28T06:41",
+ "mis_a_jour": "2026-10-28T11:41",
  "arrete_au": "2026-10-28",
  "version_provisoire": false,
  "config": {
@@ -76,7 +76,7 @@
  },
  "nb": {
   "evenements": 118,
-  "sources": 147
+  "sources": 148
  },
  "evenements": [
   {
@@ -869,6 +869,29 @@
    "majeur": true
   },
   {
+   "id": "2025-08-13_chennai-ch4-site",
+   "date": "2025-08-13",
+   "date_affichee": "août 2025 (au plus tard le 13/08)",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "decl",
+   "titre": "Site de 2CRSi : un quatrième site de production « à venir » à Chennai (CH4), 10 000 serveurs par an",
+   "texte": "La page « Manufacturing facilities » du site de 2CRSi présente un site « CH4, Chennai, Inde » comme « upcoming » (« Fourth factory ») : capacité prévue de 10 000 intégrations de serveurs par an, gestion du processus de certification BIS (Bureau of Indian Standards), bancs de test air et immersion aux formats 19\" et OCP. Les trois autres sites sont Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (10 000 unités edge/an) et Plattsburgh (10 000 intégrations/an). La page n'est pas datée ; sa première capture par l'Internet Archive date du 13/08/2025, et le lien vers elle apparaît sur la page d'accueil archivée le 05/08/2025 (absent le 10/07/2025). Le passage sur Chennai est identique dans toutes les captures jusqu'au 13/07/2026 et la page est toujours en ligne le 25/10/2026. Il est donc antérieur au partenariat avec Valeo annoncé le 04/11/2025 ; la page ne mentionne ni Valeo ni Pune.",
+   "sources": [
+    "S158",
+    "S154"
+   ],
+   "sources_libelle": [
+    "Internet Archive, capture du 13/08/2025",
+    "Site de 2CRSi, page « Manufacturing facilities », capture du 25/10/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "avenir": false,
+   "majeur": false
+  },
+  {
    "id": "2025-09-15_bspce-plan-2020",
    "date": "2025-09-15",
    "date_affichee": "15 et 26 sept. 2025",
@@ -1455,6 +1478,10 @@
     {
      "type": "precise",
      "cible": "2023-09-12_lt-inde-2023"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-08-13_chennai-ch4-site"
     }
    ],
    "seance": {
@@ -2436,6 +2463,10 @@
     {
      "type": "precise",
      "cible": "2026-07-30_eurohpc-appel"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-08-13_chennai-ch4-site"
     }
    ],
    "seance": {
@@ -5002,39 +5033,17 @@
       "volume": 117988,
       "variation_pct": -2.4,
       "volume_vs_moy20": 0.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-26",
+      "cloture": 26.86,
+      "volume": 96490,
+      "variation_pct": 0.9,
+      "volume_vs_moy20": 0.4
      }
     ]
    },
-   "majeur": false
-  },
-  {
-   "id": "2026-10-25_chennai-ch4-site",
-   "date": "2026-10-25",
-   "date_affichee": "25 oct. 2026 (capture)",
-   "sujets": [
-    "valeo"
-   ],
-   "statut": "decl",
-   "titre": "Site de 2CRSi : un quatrième site de production « à venir » à Chennai (CH4), 10 000 serveurs par an",
-   "texte": "La page « Manufacturing facilities » du site de 2CRSi, non datée et capturée le 25/10/2026, présente un site « CH4, Chennai, Inde » comme « upcoming » : capacité prévue de 10 000 intégrations de serveurs par an, gestion du processus de certification BIS (Bureau of Indian Standards), bancs de test air et immersion aux formats 19\" et OCP. Les trois autres sites sont Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (10 000 unités edge/an) et Plattsburgh (10 000 intégrations/an). La page ne mentionne ni Valeo ni Pune, ni de date ; le communiqué du 16/02/2026 situe la production Valeo × 2CRSi « à Pune et Chennai », et le PDG évoquait le 19/06 « une 4e [usine] en cours de développement avec Valeo ».",
-   "sources": [
-    "S154"
-   ],
-   "sources_libelle": [
-    "Site de 2CRSi, page « Manufacturing facilities », capture du 25/10/2026"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-06-19_webinaire-usines"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-02-16_valeo-new-delhi"
-    }
-   ],
-   "avenir": false,
    "majeur": false
   },
   {
@@ -6872,6 +6881,15 @@
    "url": "https://www.pappers.fr/entreprise/aether-facilities-sxb2-131671745",
    "archive": "reference",
    "note": "Immatriculation au RCS de Sarreguemines le 19/10/2026 ; NAF 68.20B ; 0 salarié ; président AETHER INFRASTRUCTURES depuis le 19/10/2026 ; clôture au 30/06/2027. Bénéficiaires effectifs en accès restreint."
+  },
+  {
+   "id": "S158",
+   "date_source": "2025-08-13",
+   "type": "web archive",
+   "reference": "Internet Archive (Wayback Machine) : page « Manufacturing facilities » de 2crsi.com, première capture du 13/08/2025",
+   "url": "https://web.archive.org/web/20250813122055/https://2crsi.com/manufacturing-facilities",
+   "archive": "reference",
+   "note": "Captures de la page : 13/08/2025, 05/12/2025, 17/02/2026, 02/03/2026, 12/04/2026, 07/06/2026, 13/07/2026 ; le passage « Fourth factory — Upcoming: Chennai, India […] CH4 […] 10,000 server integrations per year » figure dans toutes. Lien vers la page présent sur la page d'accueil archivée le 05/08/2025, absent de celle du 10/07/2025."
   }
  ],
  "lieux": [
@@ -7236,7 +7254,7 @@
    "precision": "ville",
    "type": "site",
    "evenements": [
-    "2026-10-25_chennai-ch4-site"
+    "2025-08-13_chennai-ch4-site"
    ]
   }
  ],
@@ -8750,7 +8768,8 @@
    "2026-10-20",
    "2026-10-21",
    "2026-10-22",
-   "2026-10-23"
+   "2026-10-23",
+   "2026-10-26"
   ],
   "cloture": [
    5.37,
@@ -10241,7 +10260,8 @@
    26.8,
    28.84,
    27.28,
-   26.62
+   26.62,
+   26.86
   ],
   "volume": [
    217653,
@@ -11732,7 +11752,8 @@
    109106,
    199513,
    162575,
-   117988
+   117988,
+   96490
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
