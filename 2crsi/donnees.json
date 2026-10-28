@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-27",
- "mis_a_jour": "2026-10-27T09:52",
- "arrete_au": "2026-10-27",
+ "genere_le": "2026-10-28",
+ "mis_a_jour": "2026-10-28T06:41",
+ "arrete_au": "2026-10-28",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 117,
-  "sources": 144
+  "evenements": 118,
+  "sources": 147
  },
  "evenements": [
   {
@@ -4888,6 +4888,61 @@
    "majeur": false
   },
   {
+   "id": "2026-10-16_aether-facilities-sxb2",
+   "date": "2026-10-16",
+   "date_affichee": "16 oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Création d'AETHER Facilities SXB2, société immobilière dédiée au site FR-SXB2, filiale à 100 % d'AETHER Infrastructures",
+   "texte": "SASU au capital de 1 000 €, siège à Sarreguemines, immatriculée le 19/10/2026 (NAF 68.20B, location de terrains et d'autres biens immobiliers), sans salarié. Associée unique et présidente : AETHER Infrastructures, elle-même détenue et présidée par la holding d'Alain Wilmouth. Objet : acquisition, construction, exploitation « par bail, location ou autrement » et cession d'immeubles ; obtention d'« autorisations ou conventions d'occupation temporaire du domaine public, notamment portuaire » ; détention et location d'équipements industriels attachés aux immeubles ; emprunts et sûretés, y compris en garantie des obligations des sociétés du groupe. Les statuts permettent des offres réservées à des investisseurs qualifiés et rendent libres les transferts d'actions à un fiduciaire en garantie des obligations de l'associé ou de son groupe. Seul acte repris de la période de formation : l'ouverture d'un compte bancaire (la promesse de vente du 09/10 a été signée par AETHER Infrastructures selon le CP du 12/10). Premier exercice clos le 30/06/2027. La dernière page des statuts indique une signature « le 26 octobre 2026 », postérieure à la date de l'acte et à l'immatriculation.",
+   "sources": [
+    "S155",
+    "S156",
+    "S157"
+   ],
+   "sources_libelle": [
+    "Statuts d'AETHER Facilities SXB2 (16/10/2026)",
+    "État des souscriptions et des versements (16/10/2026)",
+    "Fiche Pappers (RCS/RNE au 28/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-04-24_aether-creation"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-16",
+      "cloture": 26.24,
+      "volume": 122127,
+      "variation_pct": -1.9,
+      "volume_vs_moy20": 0.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-19",
+      "cloture": 26.78,
+      "volume": 126585,
+      "variation_pct": 2.1,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-10-17_nygc-linkedin-permis",
    "date": "2026-10-17",
    "date_affichee": "vers le 17 oct. 2026",
@@ -5354,11 +5409,13 @@
   {
    "sujet": "aether",
    "question": "À quel titre 2CRSi occupera-t-elle le site FR-SXB2 ?",
-   "etat": "Le CP du 12/10/2026 désigne Aether Infrastructures comme signataire de la promesse de vente et annonce un bail permettant d'occuper les zones disponibles dès le 15/10 ; il indique que le site « accueillera, avec 2CRSi » un outil industriel et que 2CRSi souhaite y relocaliser une partie de la production de sa gamme GODì. Le premier badge d'accès, émis par Dumarey, est au nom de 2CRSi comme « entreprise extérieure » (photo publiée par le PDG le 16/10). Aucune pièce ne précise si 2CRSi interviendra comme prestataire d'Aether Infrastructures, comme locataire ou sous-locataire, ni à quelles conditions.",
+   "etat": "Le CP du 12/10/2026 désigne Aether Infrastructures comme signataire de la promesse de vente et annonce un bail permettant d'occuper les zones disponibles dès le 15/10 ; il indique que le site « accueillera, avec 2CRSi » un outil industriel et que 2CRSi souhaite y relocaliser une partie de la production de sa gamme GODì. Le premier badge d'accès, émis par Dumarey, est au nom de 2CRSi comme « entreprise extérieure » (photo publiée par le PDG le 16/10). Aucune pièce ne précise si 2CRSi interviendra comme prestataire d'Aether Infrastructures, comme locataire ou sous-locataire, ni à quelles conditions. Le 16/10/2026, AETHER Infrastructures a créé AETHER Facilities SXB2, société immobilière dont l'objet est d'acquérir et d'exploiter des immeubles « par bail, location ou autrement » : si le site lui est transféré, 2CRSi l'occuperait auprès d'une société détenue indirectement à 100 % par la holding de son PDG. Aucun bail ni convention n'est publié à ce jour.",
    "attendu": "Une communication de 2CRSi sur ses conditions d'occupation du site, ou la mention d'un bail ou d'une convention avec Aether Infrastructures dans les comptes ou le rapport des commissaires aux comptes.",
    "sources": [
     "S113",
-    "S145"
+    "S145",
+    "S155",
+    "S156"
    ]
   }
  ],
@@ -6786,6 +6843,35 @@
    "archive": "integral",
    "note": "Sites listés : Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (jusqu'à 10 000 unités edge/an), Plattsburgh NY (jusqu'à 10 000 intégrations/an, depuis 2021), Chennai CH4 « upcoming » (10 000 intégrations/an prévues, gestion de la certification BIS, bancs de test air et immersion, formats 19\" et OCP). Valeo et Pune non mentionnés. Page signalée par un lecteur du forum via une réponse d'IA.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S155",
+   "date_source": "2026-10-16",
+   "type": "registre",
+   "reference": "Statuts d'AETHER FACILITIES SXB2 (SASU, SIREN 131 671 745), acte du 16/10/2026 déposé au greffe de Sarreguemines",
+   "url": "",
+   "archive": "integral",
+   "note": "Copie INPI (données personnelles masquées). PDF : textes/pdf/AETHER FACILITIES SXB2 - Actes du 16-10-2026.pdf. La dernière page indique une signature électronique « le 26 octobre 2026 ».",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S156",
+   "date_source": "2026-10-16",
+   "type": "registre",
+   "reference": "AETHER FACILITIES SXB2 : état des souscriptions et des versements du 16/10/2026",
+   "url": "",
+   "archive": "integral",
+   "note": "Associé unique : AETHER INFRASTRUCTURES (1 000 actions, 1 000 € versés). PDF : textes/pdf/AETHER FACILITIES SXB2 - Actes du 16-10-2026 souscriptions.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S157",
+   "date_source": "2026-10-28",
+   "type": "registre",
+   "reference": "Fiche Pappers d'AETHER FACILITIES SXB2 (données RCS/RNE/INSEE au 28/10/2026)",
+   "url": "https://www.pappers.fr/entreprise/aether-facilities-sxb2-131671745",
+   "archive": "reference",
+   "note": "Immatriculation au RCS de Sarreguemines le 19/10/2026 ; NAF 68.20B ; 0 salarié ; président AETHER INFRASTRUCTURES depuis le 19/10/2026 ; clôture au 30/06/2027. Bénéficiaires effectifs en accès restreint."
   }
  ],
  "lieux": [
@@ -6811,7 +6897,8 @@
    "evenements": [
     "2026-08-15_rue89-dumarey",
     "2026-10-09_sxb2-promesse",
-    "2026-12-31_sxb2-echeance"
+    "2026-12-31_sxb2-echeance",
+    "2026-10-16_aether-facilities-sxb2"
    ],
    "note": "Position approximative du site industriel du Port du Rhin."
   },
