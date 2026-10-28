@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-28",
- "mis_a_jour": "2026-10-28T11:41",
+ "mis_a_jour": "2026-10-28T16:28",
  "arrete_au": "2026-10-28",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 118,
-  "sources": 148
+  "evenements": 119,
+  "sources": 151
  },
  "evenements": [
   {
@@ -4999,6 +4999,65 @@
    "majeur": false
   },
   {
+   "id": "2026-10-21_aether-compute-e",
+   "date": "2026-10-21",
+   "date_affichee": "21 oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Création d'AETHER Compute E, véhicule dédié à la candidature EuroHPC et à l'exploitation du calcul, filiale à 100 % d'AETHER Infrastructures",
+   "texte": "SASU au capital de 1 000 €, statuts signés le 21/10/2026, immatriculée le 27/10/2026 à Sarreguemines (même domiciliation), sans salarié. Associée unique et présidente : AETHER Infrastructures, elle-même détenue et présidée par la holding d'Alain Wilmouth. Selon son préambule, la société est « constituée pour servir de véhicule dédié » au projet de calcul d'AETHER Infrastructures, inscrit dans les programmes EuroHPC « en vue de la construction ou de l'exploitation d'une AI Factory ou d'une AI Gigafactory » ; elle pourra être « membre, coordinateur ou entité d'hébergement » d'un consortium, détenir et exploiter les infrastructures, le cas échéant « en copropriété avec l'entreprise commune EuroHPC », et vendre de la capacité de calcul (IaaS, PaaS, GPU as a Service, bare metal). Les statuts imposent un contrôle européen, gèlent toute modification du capital ou pacte d'associés entre la date limite de dépôt d'une offre EuroHPC et la signature du contrat-cadre sauf accord de l'autorité contractante, et instituent au plus tard au dépôt d'une offre un comité stratégique. Toute convention avec un associé ou une société contrôlée par un associé pour la fourniture de matériels, logiciels ou services destinés aux infrastructures de calcul doit être conclue « à des conditions de marché, après mise en concurrence lorsque celle-ci est possible », sur avis de ce comité et sans vote de l'associé intéressé ; même régime pour l'hébergement, la location du centre de données et la mise à disposition de personnel.",
+   "sources": [
+    "S159",
+    "S160",
+    "S161"
+   ],
+   "sources_libelle": [
+    "Statuts d'AETHER Compute E (21/10/2026)",
+    "État des souscriptions et attestation de blocage des fonds (21/10/2026)",
+    "Fiche Pappers (RCS/RNE au 28/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-30_eurohpc-appel"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-04-24_aether-creation"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-21",
+      "cloture": 28.84,
+      "volume": 199513,
+      "variation_pct": 7.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-22",
+      "cloture": 27.28,
+      "volume": 162575,
+      "variation_pct": -5.4,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-10-23_clever-cloud",
    "date": "2026-10-23",
    "date_affichee": "23 oct. 2026",
@@ -5425,6 +5484,18 @@
     "S145",
     "S155",
     "S156"
+   ]
+  },
+  {
+   "sujet": "aether",
+   "question": "Quelle part de la valeur d'ÆTHER reviendra à 2CRSi : fourniture des serveurs, vente du calcul, ou les deux ?",
+   "etat": "Le PDG a présenté la vente de puissance de calcul comme un relais de marge pour 2CRSi (« vendre les serveurs à une première marge et ensuite de vendre la puissance de calcul derrière », webinaire du 19/06/2026, vers 32:30), puis indiqué que, dans ÆTHER, « à terme, on ne sera que le fournisseur de serveurs » (interview du 21/06/2026, vers 19:57). Le CP du 12/10/2026 désigne 2CRSi comme « fournisseur pressenti des serveurs » de FR-SXB2. Les statuts d'AETHER Compute E, filiale à 100 % d'AETHER Infrastructures (holding du PDG), lui confient la détention et l'exploitation des infrastructures de calcul et la vente de capacité, et imposent que les achats de matériels auprès d'un associé ou d'une société qu'il contrôle soient conclus à des conditions de marché, après mise en concurrence lorsque possible. Aucun contrat entre 2CRSi et les sociétés ÆTHER n'est publié.",
+   "attendu": "Contrat de fourniture ou d'hébergement entre 2CRSi et une société ÆTHER, mention dans le rapport des commissaires aux comptes sur les conventions réglementées, ou communication de 2CRSi sur sa place dans ÆTHER.",
+   "sources": [
+    "S015",
+    "S016",
+    "S113",
+    "S159"
    ]
   }
  ],
@@ -6890,6 +6961,35 @@
    "url": "https://web.archive.org/web/20250813122055/https://2crsi.com/manufacturing-facilities",
    "archive": "reference",
    "note": "Captures de la page : 13/08/2025, 05/12/2025, 17/02/2026, 02/03/2026, 12/04/2026, 07/06/2026, 13/07/2026 ; le passage « Fourth factory — Upcoming: Chennai, India […] CH4 […] 10,000 server integrations per year » figure dans toutes. Lien vers la page présent sur la page d'accueil archivée le 05/08/2025, absent de celle du 10/07/2025."
+  },
+  {
+   "id": "S159",
+   "date_source": "2026-10-21",
+   "type": "registre",
+   "reference": "Statuts d'AETHER COMPUTE E (SASU, SIREN 131 943 417), signés le 21/10/2026, déposés au greffe de Sarreguemines (acte du 22/10/2026)",
+   "url": "",
+   "archive": "integral",
+   "note": "Copie INPI, 35 p. PDF : textes/pdf/AETHER COMPUTE E - Actes du 22-10-2026 statuts.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S160",
+   "date_source": "2026-10-21",
+   "type": "registre",
+   "reference": "AETHER COMPUTE E : état des souscriptions et attestation de blocage des fonds (CIC Est), 21/10/2026",
+   "url": "",
+   "archive": "integral",
+   "note": "Associé unique AETHER INFRASTRUCTURES (1 000 actions, 1 000 €). PDF : textes/pdf/AETHER COMPUTE E - Actes du 22-10-2026 souscriptions.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S161",
+   "date_source": "2026-10-28",
+   "type": "registre",
+   "reference": "Fiche Pappers d'AETHER COMPUTE E (RCS/RNE au 28/10/2026)",
+   "url": "https://www.pappers.fr/entreprise/aether-compute-e-131943417",
+   "archive": "reference",
+   "note": "Créée le 21/10/2026, immatriculée au RCS de Sarreguemines le 27/10/2026 ; NAF 68.20B ; 0 salarié ; clôture au 30/06/2027."
   }
  ],
  "lieux": [
