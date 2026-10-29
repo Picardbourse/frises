@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-29",
- "mis_a_jour": "2026-10-29T21:18",
+ "mis_a_jour": "2026-10-29T21:21",
  "arrete_au": "2026-10-29",
  "version_provisoire": false,
  "config": {
@@ -7231,8 +7231,9 @@
    "type": "CP",
    "reference": "CP 2CRSi du 29/10/2026 : « 2CRSi publie les conclusions de l'expert indépendant mandaté à la suite du rapport Grizzly Research et apporte des précisions sur plusieurs communications antérieures » (10 pages, annexe : statut des 34 allégations)",
    "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261029-FR.pdf",
-   "archive": "reference",
-   "note": "Diffusé par Seitosei.Actifin le soir du 29/10. PDF à déposer dans textes/pdf (téléchargement bloqué depuis le PC virtuel)."
+   "archive": "integral",
+   "note": "Diffusé par Seitosei.Actifin le soir du 29/10. PDF archivé : textes/pdf/2CRSI-CP-20261029-FR.pdf.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S163",
@@ -7241,7 +7242,7 @@
    "reference": "CP 2CRSi du 29/10/2026 : « Report de la publication des résultats annuels consolidés et du Rapport Financier Annuel 2025-2026 au 30 octobre 2026 »",
    "url": "https://static.actifin.co/documents/2026/2CRSI-CP-202610292-FR.pdf",
    "archive": "integral",
-   "note": "Diffusé par Seitosei.Actifin le soir du 29/10, après le CP sur les conclusions de l'expert.",
+   "note": "Diffusé par Seitosei.Actifin le soir du 29/10, après le CP sur les conclusions de l'expert. PDF archivé : textes/pdf/2CRSI-CP-202610292-FR.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
