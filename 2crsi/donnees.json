@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-29",
- "mis_a_jour": "2026-10-29T21:15",
+ "mis_a_jour": "2026-10-29T21:18",
  "arrete_au": "2026-10-29",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 125,
-  "sources": 152
+  "evenements": 127,
+  "sources": 153
  },
  "evenements": [
   {
@@ -5322,6 +5322,52 @@
    "majeur": true
   },
   {
+   "id": "2026-10-29_report-resultats",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Résultats annuels reportés au 30/10 après Bourse",
+   "texte": "Le soir du 29/10, jour prévu, la société reporte la publication des résultats annuels consolidés et du rapport financier annuel 2025/26, pour « la finalisation des procédures d'audit et des documents relatifs à l'arrêté des comptes avec l'intégration des conclusions de l'expert indépendant ». Publication attendue « dès le 30 octobre après Bourse ».",
+   "sources": [
+    "S163"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : report des résultats annuels au 30/10"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "reporte",
+     "cible": "2026-10-29_resultats-29-10"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-30_resultats-30-10",
+   "date": "2026-10-30",
+   "date_affichee": "30 oct. 2026",
+   "sujets": [
+    "res",
+    "griz"
+   ],
+   "statut": "echeance",
+   "titre": "Résultats annuels 2025/26 et rapport financier annuel (date reportée)",
+   "texte": "Nouvelle date annoncée par le CP du 29/10 : « dès le 30 octobre après Bourse ». Sur Euronext Growth, le rapport financier annuel est dû au plus tard le 31/10/2026.",
+   "sources": [
+    "S163"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : report des résultats annuels au 30/10"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
    "id": "2026-10-31_sxb1-echeance",
    "date": "2026-10-31",
    "date_affichee": "fin oct. 2026",
@@ -7187,6 +7233,16 @@
    "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261029-FR.pdf",
    "archive": "reference",
    "note": "Diffusé par Seitosei.Actifin le soir du 29/10. PDF à déposer dans textes/pdf (téléchargement bloqué depuis le PC virtuel)."
+  },
+  {
+   "id": "S163",
+   "date_source": "2026-10-29",
+   "type": "CP",
+   "reference": "CP 2CRSi du 29/10/2026 : « Report de la publication des résultats annuels consolidés et du Rapport Financier Annuel 2025-2026 au 30 octobre 2026 »",
+   "url": "https://static.actifin.co/documents/2026/2CRSI-CP-202610292-FR.pdf",
+   "archive": "integral",
+   "note": "Diffusé par Seitosei.Actifin le soir du 29/10, après le CP sur les conclusions de l'expert.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
