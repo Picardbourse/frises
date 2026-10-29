@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-28",
- "mis_a_jour": "2026-10-28T16:28",
- "arrete_au": "2026-10-28",
+ "genere_le": "2026-10-29",
+ "mis_a_jour": "2026-10-29T21:15",
+ "arrete_au": "2026-10-29",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 119,
-  "sources": 151
+  "evenements": 125,
+  "sources": 152
  },
  "evenements": [
   {
@@ -5134,6 +5134,194 @@
    "majeur": false
   },
   {
+   "id": "2026-10-29_expert-rapport",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "griz",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Rapport de l'expert indépendant : chiffre d'affaires « fabriqué » jugé non fondé, contrôle interne jugé insuffisant",
+   "texte": "Projet de rapport reçu le 26/10, présenté au comité d'audit le 26/10 en présence du commissaire aux comptes, examiné par le conseil le 29/10 ; expert non nommé (« un cabinet d'expertise financière de premier plan »). Périmètre : 22 des 34 allégations, période du 01/03/2023 au 30/06/2026, 11 clients, 78 % du CA consolidé des trois derniers exercices, 22 tiers en intelligence économique. L'expert juge non fondée l'allégation d'un chiffre d'affaires fabriqué au travers de parties liées non divulguées ; il confirme encaissements et concordance avec la facturation pour environ 425 M€ d'opérations, mais relève des « réserves majeures » (complétude documentaire, montages de financement, destination ou propriété finales des équipements) et ne peut pas conclure sur les opérations réglées directement par le client au fournisseur de 2CRSi. Contrôle interne : « insuffisances […] majeures » ; aucun élément montrant que 2CRSi aurait volontairement organisé des envois vers des pays interdits. Statuts en annexe : 9 allégations fondées, 5 partiellement fondées, 3 non fondées, 3 non conclusives, 12 hors périmètre. Le PDG : « certaines de nos communications passées étaient imprécises » ; la société dit rectifier ces communications et renforcer son contrôle interne. Les comptes annuels 2025/26 ne figurent pas dans ce communiqué.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-08-03_mission-expert"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-16_reponse-grizzly"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-610",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "nygc",
+    "griz"
+   ],
+   "statut": "doc",
+   "titre": "Contrat de 610 M$ : signé avec une autre société de Joseph Church, sans engagement de volume, projet quasi arrêté",
+   "texte": "Selon l'expert, le contrat-cadre n'a pas été signé avec NYGC mais avec une autre société de l'écosystème de Joseph Church ; aucun chiffre d'affaires enregistré depuis la signature (29/01/2024) ; « changements règlementaires » fin 2024 et désistement d'investisseurs fin 2025 ont conduit à « l'arrêt quasi-total du projet » ; risque de non-matérialisation « élevé », risque de dépendance « modéré », risque de contrepartie non évaluable. Précisions de la société, absentes du CP du 30/01/2024 : contrat-cadre à bons de commande « sans engagement de volume » ; 67 % de l'engagement (408,7 M$ sur cinq ans et demi) devait être financé par des partenaires de financement de 2CRSi, sa filiale de financement ou la société elle-même, selon des modalités « restant à convenir ». L'ambition d'1 Md€ de CA en 2026/27 n'intègre aucun CA de ce contrat.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-01-15_contrat-cadre-610"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-nygc-290",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Commande NYGC de 290 M$ : non activée, résiliable par chaque partie depuis le 30/09/2026",
+   "texte": "Contrat du 27/09/2025 entre 2CRSi Corporation et NYGC, distinct du contrat de 610 M$ (le CP du 29/09/2025 l'y rattachait) : 288 serveurs, 2 304 GPU NVIDIA B300, pour Buena Vista (Ione, Californie). Livraison 20 semaines après une activation confirmée par écrit par 2CRSi, paiement intégral avant livraison. Conditions d'activation : redémarrage commercial de la centrale, permis, data center avec au moins 5 MW fermes, financement de NYGC, conformité ; avant activation, 2CRSi n'est tenue ni de commander les composants ni de fabriquer. Prix révisable si activation après le 31/12/2025 ; chaque partie peut résilier faute d'activation au 30/09/2026 ; aucune ne l'a fait. L'expert ne trouve ni financement ferme ni activation, aucun revenu sur trois exercices, et juge le risque de retard ou de non-réalisation « important ». Selon NYGC (non examiné par l'expert) : fuites sur des canalisations, redémarrage complet de la centrale « d'ici la fin de l'année 2026 », projet à adapter aux nouvelles règles californiennes. La société ira sur place en novembre et dira si elle peut livrer NYGC ou commercialiser ces capacités en 2026/27.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [
+    {
+     "id": "2026-10-29_expert-nygc-290#e1",
+     "texte": "Visite du site en novembre ; information du marché sur la livraison à NYGC ou la commercialisation des capacités en 2026/27",
+     "echeance": "2026-11-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-church",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "nygc",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Relations avec Joseph Church : NYGC pourrait être en situation d'« influence notable »",
+   "texte": "Selon l'expert, Alain Wilmouth connaît Joseph Church depuis au moins 2021 ; collaboration récurrente entre 2CRSi et Joseph Church depuis décembre 2023 ; les équipes de 2CRSi ont contribué aux supports investisseurs, aux modèles financiers et au logo de NYGC, et ont créé et hébergé son site (prestation facturée). Parmi les 11 clients examinés et les sociétés liées à Joseph Church, seule NYGC pourrait être une partie liée : « en situation d'influence notable du fait des obligations simples souscrites par HAW, holding de M. Alain Wilmouth, le 30 avril 2026 et des projets envisagés entre 2CRSi et NYGC ». NYGC créée le lendemain de la signature du contrat de 610 M$ ; Joseph Church gravite dans au moins 8 sociétés, dont 4 domiciliées à l'adresse de sa clinique vétérinaire ; une version du site de Green Buffalo Data a été hébergée sous demo.2crsi (archives de mai 2024 à mars 2025).",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-19_webinaire-church"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-sites-us",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "nygc",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Sites américains : Rouses Point loué depuis 2020, Chateaugay loué sans data center exploité",
+   "texte": "Selon l'expert, Fremont, Chateaugay, Rouses Point et San José ne sont pas des actifs de 2CRSi. Précisions de la société : 2CRSi Corp n'a pas acquis Rouses Point, elle le loue depuis mars 2020 (site de production, bureaux et data center, qui génère la quasi-totalité du CA de 2CRSi Corp) ; espace loué à Chateaugay d'octobre 2023 à juin 2025 à une société de Joseph Church, projet de data center non concrétisé, « aucun centre de données n'y a finalement été exploité par 2CRSi » ; Fremont loué de septembre 2022 à février 2024. « 2CRSi Cloud Solutions » est une ligne d'activité, pas une entité.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2021-05-17_rouses-point"
+    },
+    {
+     "type": "infirme",
+     "cible": "2025-03-17_cloud-solutions"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-geo-allemand",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "res",
+    "griz"
+   ],
+   "statut": "doc",
+   "titre": "Les « 71 % en Asie » de 2024 reconnus erronés ; commande allemande réglée par un tiers payeur",
+   "texte": "La société reconnaît que les 71 % de CA en Asie annoncés le 25/07/2024 reposaient sur « une erreur de calcul » et des données de livraison non définitives : sur la base des factures, 33,5 % du CA 2023/24 a été livré en Asie. Par entité de facturation, l'Amérique du Nord pèse 50,9 % en 2023/24 et 86,4 % en 2024/25, en ligne avec les 50 % et 85 % publiés. Commande allemande (110 M€ prix liste, 194 serveurs) : contractualisée avec une société munichoise de petite taille, dont la capacité à porter la commande ne peut être appréciée ; intégralement réglée avant livraison par un tiers payeur substitué au client, encadré par une lettre de confirmation de paiement ; documentation comptable et financière « incomplète ». Commande canadienne : un tiers a payé au nom et pour le compte du co-contractant.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-09_commande-allemande"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-09-15_expert-conclusions"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-02-17_commande-140"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-16_reponse-grizzly"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-10-31_sxb1-echeance",
    "date": "2026-10-31",
    "date_affichee": "fin oct. 2026",
@@ -6990,6 +7178,15 @@
    "url": "https://www.pappers.fr/entreprise/aether-compute-e-131943417",
    "archive": "reference",
    "note": "Créée le 21/10/2026, immatriculée au RCS de Sarreguemines le 27/10/2026 ; NAF 68.20B ; 0 salarié ; clôture au 30/06/2027."
+  },
+  {
+   "id": "S162",
+   "date_source": "2026-10-29",
+   "type": "CP",
+   "reference": "CP 2CRSi du 29/10/2026 : « 2CRSi publie les conclusions de l'expert indépendant mandaté à la suite du rapport Grizzly Research et apporte des précisions sur plusieurs communications antérieures » (10 pages, annexe : statut des 34 allégations)",
+   "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261029-FR.pdf",
+   "archive": "reference",
+   "note": "Diffusé par Seitosei.Actifin le soir du 29/10. PDF à déposer dans textes/pdf (téléchargement bloqué depuis le PC virtuel)."
   }
  ],
  "lieux": [
