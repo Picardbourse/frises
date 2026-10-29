@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-29",
- "mis_a_jour": "2026-10-29T21:21",
+ "mis_a_jour": "2026-10-29T21:34",
  "arrete_au": "2026-10-29",
  "version_provisoire": false,
  "config": {
@@ -5293,12 +5293,14 @@
    ],
    "statut": "doc",
    "titre": "Les « 71 % en Asie » de 2024 reconnus erronés ; commande allemande réglée par un tiers payeur",
-   "texte": "La société reconnaît que les 71 % de CA en Asie annoncés le 25/07/2024 reposaient sur « une erreur de calcul » et des données de livraison non définitives : sur la base des factures, 33,5 % du CA 2023/24 a été livré en Asie. Par entité de facturation, l'Amérique du Nord pèse 50,9 % en 2023/24 et 86,4 % en 2024/25, en ligne avec les 50 % et 85 % publiés. Commande allemande (110 M€ prix liste, 194 serveurs) : contractualisée avec une société munichoise de petite taille, dont la capacité à porter la commande ne peut être appréciée ; intégralement réglée avant livraison par un tiers payeur substitué au client, encadré par une lettre de confirmation de paiement ; documentation comptable et financière « incomplète ». Commande canadienne : un tiers a payé au nom et pour le compte du co-contractant.",
+   "texte": "La société reconnaît que les 71 % de CA en Asie annoncés le 25/07/2024 reposaient sur « une erreur de calcul » et des données de livraison non définitives : sur la base des factures, 33,5 % du CA 2023/24 a été livré en Asie. Par entité de facturation, l'Amérique du Nord pèse 50,9 % en 2023/24 et 86,4 % en 2024/25, en ligne avec les 50 % et 85 % publiés. Commande allemande (110 M€ prix liste, 194 serveurs) : contractualisée avec une société munichoise de petite taille, dont la capacité à porter la commande ne peut être appréciée ; intégralement réglée avant livraison, hors frais de transport et d'assurance, par un tiers payeur substitué au client, encadré par une lettre de confirmation de paiement ; documentation comptable et financière « incomplète » ; allégation n° 29 jugée « fondée ». Le CP du 15/09/2026 ne mentionnait ni le tiers payeur, ni la taille du client, ni le caractère incomplet de la documentation. Commande canadienne : un tiers a payé au nom et pour le compte du co-contractant.",
    "sources": [
-    "S162"
+    "S162",
+    "S013"
    ],
    "sources_libelle": [
-    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant",
+    "CP 2CRSi du 15/09/2026 : premières conclusions de l'expert sur la commande allemande"
    ],
    "engagements": [],
    "liens": [
