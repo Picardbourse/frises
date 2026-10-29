@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-29",
- "mis_a_jour": "2026-10-29T20:15",
+ "mis_a_jour": "2026-10-29T20:23",
  "arrete_au": "2026-10-29",
  "version_provisoire": false,
  "config": {
@@ -7383,9 +7383,9 @@
    "date_source": "2026-10-29",
    "type": "CP",
    "reference": "CP Vusion du 29/10/2026, 18h00 : « Vusion finalise l'acquisition d'In-Store Media et ouvre un nouveau chapitre pour le retail media digital en magasin »",
-   "url": "",
+   "url": "https://www.actusnews.com/news/101081-ism_closing_pr_fr.pdf",
    "archive": "integral",
-   "note": "PDF transmis par un lecteur (textes/pdf/ism_closing_pr_fr.pdf) ; URL du site Vusion à relever.",
+   "note": "Diffusé par Actusnews ; PDF archivé : textes/pdf/ism_closing_pr_fr.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
