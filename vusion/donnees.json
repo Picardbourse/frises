@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-27",
- "mis_a_jour": "2026-10-27T16:31",
- "arrete_au": "2026-10-27",
+ "genere_le": "2026-10-29",
+ "mis_a_jour": "2026-10-29T20:15",
+ "arrete_au": "2026-10-29",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -68,8 +68,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 125,
-  "sources": 152
+  "evenements": 126,
+  "sources": 153
  },
  "evenements": [
   {
@@ -5705,6 +5705,31 @@
    "majeur": false
   },
   {
+   "id": "2026-10-29_ism-finalisation",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Acquisition d'In-Store Media finalisée, financée par un crédit-relais de 200 M€",
+   "texte": "Toutes les conditions suspensives, dont les autorisations réglementaires, sont levées. Financement : crédit-relais de 200 M€ d'engagements au total, échéance initiale de 12 mois, deux options de prolongation de six mois. Prix toujours non communiqué. ISM (Barcelone) : 90 enseignes, plus de 1 600 marques, 9 pays. ISM participera au Capital Markets Day du 18/11/2026.",
+   "sources": [
+    "S154"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 29/10/2026 : finalisation de l'acquisition d'In-Store Media"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-07-27_ism"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-11-18_capital-markets-day",
    "date": "2026-11-18",
    "date_affichee": "18 nov. 2026",
@@ -7351,6 +7376,16 @@
    "url": "https://www.strongpoint.com/news/leading-regional-grocery-retailer-in-spain-orders-vusion-connected-store-solutions-from-strongpoint/",
    "archive": "integral",
    "note": "Repris par Inderes : https://www.inderes.fi/en/releases/stro-leading-regional-grocery-retailer-in-spain-orders-vusion-connected-store-solutions-from-strongpoint . Client non nommé ; ~100 magasins ; EdgeSense, Captana, ESL ; près d'un million d'ESL sur deux ans ; StrongPoint Espagne maître d'œuvre ; montant non communiqué. Citations du CEO de StrongPoint et du SEVP EMEA de Vusion.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S154",
+   "date_source": "2026-10-29",
+   "type": "CP",
+   "reference": "CP Vusion du 29/10/2026, 18h00 : « Vusion finalise l'acquisition d'In-Store Media et ouvre un nouveau chapitre pour le retail media digital en magasin »",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF transmis par un lecteur (textes/pdf/ism_closing_pr_fr.pdf) ; URL du site Vusion à relever.",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -9361,7 +9396,8 @@
    "2026-10-20",
    "2026-10-21",
    "2026-10-22",
-   "2026-10-23"
+   "2026-10-23",
+   "2026-10-26"
   ],
   "cloture": [
    35.8,
@@ -10852,7 +10888,8 @@
    120.9,
    125.6,
    124.6,
-   124.5
+   124.5,
+   124.3
   ],
   "volume": [
    14641,
@@ -12343,7 +12380,8 @@
    44930,
    187817,
    76643,
-   39896
+   39896,
+   33516
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
