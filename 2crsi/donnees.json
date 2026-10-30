@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-30",
- "mis_a_jour": "2026-10-30T15:57",
+ "mis_a_jour": "2026-10-30T16:36",
  "arrete_au": "2026-10-30",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 128,
-  "sources": 159
+  "evenements": 129,
+  "sources": 161
  },
  "evenements": [
   {
@@ -2532,9 +2532,9 @@
    "majeur": false
   },
   {
-   "id": "2026-06-21_interview-economies",
-   "date": "2026-06-21",
-   "date_affichee": "21 juin 2026",
+   "id": "2026-06-20_interview-economies",
+   "date": "2026-06-20",
+   "date_affichee": "20 juin 2026",
    "sujets": [
     "gouv"
    ],
@@ -2545,7 +2545,7 @@
     "S016"
    ],
    "sources_libelle": [
-    "Interview « La Bourse et la Vie », 21/06/2026"
+    "Interview « La Bourse et la Vie », 20/06/2026"
    ],
    "engagements": [],
    "liens": [],
@@ -2590,6 +2590,43 @@
    "engagements": [],
    "liens": [],
    "majeur": false
+  },
+  {
+   "id": "2026-06-22_aw-linkedin-bmo",
+   "date": "2026-06-22",
+   "date_affichee": "22–23 juin 2026",
+   "sujets": [
+    "griz",
+    "res"
+   ],
+   "statut": "decl",
+   "titre": "Le PDG publie sur LinkedIn des pièces de BMO : 150,8 M$ reçus en 60 jours, payeurs masqués",
+   "texte": "Deux posts LinkedIn d'Alain Wilmouth, dates déduites de l'horodatage des pièces jointes. Vers le 22/06 : le relevé de compte BMO (« Balance Details », généré le 20/06/2026) montré pendant l'interview du samedi soir, noms des payeurs masqués. Vers le 23/06 : une lettre de BMO listant 33 virements reçus par 2CRSi SA du 21/04 au 22/06/2026, pour 150 825 152,80 USD, présentée comme des « PREUVES qui montrent sans discussion que 2CRSi ne fabrique pas de chiffres d'affaires » ; elle est datée par erreur « 06/22/2025 », erreur reconnue par le PDG et lettre corrigée publiée le lendemain. Les gros montants concordent entre relevé et lettre (par exemple 34 542 133,60 USD le 08/06). Les pièces indiquent le bénéficiaire, pas les payeurs. Le compte se termine par 2703 sur le relevé et par 2073 dans les lettres. Le post annonce aussi des attestations du CIC Est et de la Caisse d'Épargne Grand Est Europe, non publiées à ce jour.",
+   "sources": [
+    "S170",
+    "S171"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'A. Wilmouth et relevé BMO (vers le 22/06/2026)",
+    "Post LinkedIn d'A. Wilmouth et lettres BMO (vers le 23/06/2026)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-06-22_aw-linkedin-bmo#e1",
+     "texte": "Publication d'attestations similaires du CIC Est et de la Caisse d'Épargne Grand Est Europe",
+     "echeance": "2026-07-23",
+     "statut": "nd",
+     "statue_par": null,
+     "note": "aucune publication repérée au 30/10/2026"
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-20_interview-economies"
+    }
+   ],
+   "majeur": true
   },
   {
    "id": "2026-06-26_les-echos-aw",
@@ -5225,6 +5262,10 @@
     {
      "type": "precise",
      "cible": "2026-06-18_grizzly-rapport"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-06-22_aw-linkedin-bmo"
     }
    ],
    "majeur": true
@@ -5782,7 +5823,7 @@
   {
    "sujet": "aether",
    "question": "Quelle part de la valeur d'ÆTHER reviendra à 2CRSi : fourniture des serveurs, vente du calcul, ou les deux ?",
-   "etat": "Le PDG a présenté la vente de puissance de calcul comme un relais de marge pour 2CRSi (« vendre les serveurs à une première marge et ensuite de vendre la puissance de calcul derrière », webinaire du 19/06/2026, vers 32:30), puis indiqué que, dans ÆTHER, « à terme, on ne sera que le fournisseur de serveurs » (interview du 21/06/2026, vers 19:57). Le CP du 12/10/2026 désigne 2CRSi comme « fournisseur pressenti des serveurs » de FR-SXB2. Les statuts d'AETHER Compute E, filiale à 100 % d'AETHER Infrastructures (holding du PDG), lui confient la détention et l'exploitation des infrastructures de calcul et la vente de capacité, et imposent que les achats de matériels auprès d'un associé ou d'une société qu'il contrôle soient conclus à des conditions de marché, après mise en concurrence lorsque possible. Aucun contrat entre 2CRSi et les sociétés ÆTHER n'est publié.",
+   "etat": "Le PDG a présenté la vente de puissance de calcul comme un relais de marge pour 2CRSi (« vendre les serveurs à une première marge et ensuite de vendre la puissance de calcul derrière », webinaire du 19/06/2026, vers 32:30), puis indiqué que, dans ÆTHER, « à terme, on ne sera que le fournisseur de serveurs » (interview du 20/06/2026, vers 19:57). Le CP du 12/10/2026 désigne 2CRSi comme « fournisseur pressenti des serveurs » de FR-SXB2. Les statuts d'AETHER Compute E, filiale à 100 % d'AETHER Infrastructures (holding du PDG), lui confient la détention et l'exploitation des infrastructures de calcul et la vente de capacité, et imposent que les achats de matériels auprès d'un associé ou d'une société qu'il contrôle soient conclus à des conditions de marché, après mise en concurrence lorsque possible. Aucun contrat entre 2CRSi et les sociétés ÆTHER n'est publié.",
    "attendu": "Contrat de fourniture ou d'hébergement entre 2CRSi et une société ÆTHER, mention dans le rapport des commissaires aux comptes sur les conventions réglementées, ou communication de 2CRSi sur sa place dans ÆTHER.",
    "sources": [
     "S015",
@@ -5945,12 +5986,12 @@
   },
   {
    "id": "S016",
-   "date_source": "2026-06-21",
+   "date_source": "2026-06-20",
    "type": "interview",
-   "reference": "Interview d'Alain Wilmouth, « La Bourse et la Vie », 21/06/2026",
+   "reference": "Interview d'Alain Wilmouth, « La Bourse et la Vie », 20/06/2026 (samedi soir)",
    "url": "https://www.youtube.com/live/edAkVAbmmF8",
    "archive": "integral",
-   "note": "Vidéo. Horodatages à relever.",
+   "note": "Vidéo. Horodatages à relever. Date corrigée le 30/10/2026 : 20/06 et non 21/06 (le PDG y cite « le webinaire hier soir », du 19/06, et parle de l'interview « accordée samedi soir » dans son post LinkedIn).",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -7361,6 +7402,26 @@
    "url": "https://investors.2crsi.com/wp-content/uploads/2024/02/2CRSi-Presentation-Investisseurs-Fev-2024-v1.1-FR.pdf",
    "archive": "integral",
    "note": "PDF archivé (textes/pdf/2CRSi-Presentation-Investisseurs-Fev-2024-v1.1-FR.pdf), créé le 23/02/2024 ; texte intégral dans textes/S169.txt. Slide 15 vérifiée sur le PDF.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S170",
+   "date_source": "2026-06-22",
+   "type": "réseau social",
+   "reference": "Post LinkedIn d'Alain Wilmouth (vers le 22/06/2026) : « Comment prouver qu'une allégation est fausse lorsqu'elle porte précisément sur quelque chose qui n'existe pas ? », avec un relevé de compte BMO du 20/06/2026",
+   "url": "https://lnkd.in/p/efcvEU9y",
+   "archive": "integral",
+   "note": "Date déduite de l'horodatage du document joint (téléversé le 22/06/2026 à 10:19, heure de Paris) ; LinkedIn affichait « 4 mois » le 30/10. Pièce : « Balance Details » BMO, compte 2CRSI se terminant par 2703, généré le 20/06/2026 à 11:53 (heure de l'Est), 3 pages, payeurs masqués. PDF : textes/pdf/BMO releve 2026-06-20 (LinkedIn AW 1782116353244).pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S171",
+   "date_source": "2026-06-23",
+   "type": "réseau social",
+   "reference": "Post LinkedIn d'Alain Wilmouth « Chères actionnaires, chers actionnaires » (vers le 23/06/2026, modifié) : attestation BMO des virements reçus en 60 jours",
+   "url": "https://lnkd.in/p/ekmSS5QA",
+   "archive": "integral",
+   "note": "Date déduite de l'horodatage des documents joints : lettre BMO datée « 06/22/2025 » téléversée le 23/06/2026 à 07:30 (heure de Paris), lettre corrigée datée du 23/06/2026 téléversée le 24/06/2026 à 02:19. La lettre liste 33 virements reçus du 21/04 au 22/06/2026, total 150 825 152,80 USD, sur le compte « se terminant par 2073 » (le relevé du 20/06 indique 2703). Le post écrit « 23 juillet 2027 » pour la publication du CA annuel du 23/07/2026. PDF : textes/pdf/BMO lettre ….pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
