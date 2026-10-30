@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-30",
- "mis_a_jour": "2026-10-30T16:36",
+ "mis_a_jour": "2026-10-30T20:52",
  "arrete_au": "2026-10-30",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 129,
-  "sources": 161
+  "evenements": 132,
+  "sources": 162
  },
  "evenements": [
   {
@@ -1751,9 +1751,9 @@
      "id": "2026-03-26_s1-2025-26#e1",
      "texte": "Chiffre d'affaires 2025/26 « pouvant dépasser 400 M€ »",
      "echeance": "2026-07-23",
-     "statut": "ok",
-     "statue_par": "S010",
-     "note": "416,2 M€ publiés le 23/07"
+     "statut": "bad",
+     "statue_par": "S172",
+     "note": "416,2 M€ annoncés le 23/07, mais 386,5 M€ dans les comptes arrêtés le 30/10 après annulation de 32,5 M€ ; objectif de plus de 400 M€ non atteint"
     },
     {
      "id": "2026-03-26_s1-2025-26#e3",
@@ -1762,6 +1762,14 @@
      "statut": "todo",
      "statue_par": null,
      "note": "Ambition confirmée le 19/06 en questions-réponses du webinaire (résumé Zonebourse, S067) et le 23/07/2026 : « 2CRSi confirme son ambition d'atteindre un chiffre d'affaires d'un milliard d'euros sur l'exercice 2026/27 » (S010). Une ambition n'est pas un objectif chiffré ferme. Le CP du 12/10/2026 (S113) estime que les premières capacités de l'AI Factory de FR-SXB2 représentent « un potentiel de chiffre d'affaires supérieur à un milliard d'euros » sur 2026-2027, sous réserve des permis et des composants."
+    },
+    {
+     "id": "2026-03-26_s1-2025-26#e4",
+     "texte": "EBITDA 2025/26 « supérieur à 36 M€ »",
+     "echeance": "2026-10-30",
+     "statut": "bad",
+     "statue_par": "S172",
+     "note": "34,2 M€ dans les comptes arrêtés le 30/10, « 1,8 M€ en deçà de l'objectif »"
     }
    ],
    "liens": [
@@ -5443,29 +5451,167 @@
     "CP 2CRSi du 29/10/2026 : report des résultats annuels au 30/10"
    ],
    "engagements": [],
-   "liens": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_resultats-2025-26"
+    }
+   ],
    "majeur": true
   },
   {
-   "id": "2026-10-30_resultats-30-10",
    "date": "2026-10-30",
    "date_affichee": "30 oct. 2026",
+   "statut": "doc",
+   "sources": [
+    "S172"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
+   ],
+   "id": "2026-10-30_resultats-2025-26",
    "sujets": [
     "res",
     "griz"
    ],
-   "statut": "echeance",
-   "titre": "Résultats annuels 2025/26 et rapport financier annuel (date reportée)",
-   "texte": "Nouvelle date annoncée par le CP du 29/10 : « dès le 30 octobre après Bourse ». Sur Euronext Growth, le rapport financier annuel est dû au plus tard le 31/10/2026.",
+   "titre": "Résultats 2025/26 : CA ramené à 386,5 M€ (32,5 M€ annulés), EBITDA 34,2 M€, résultat net 17,0 M€",
+   "texte": "Comptes arrêtés par le conseil du 30/10/2026 (normes françaises). Chiffre d'affaires de 386,5 M€ (+75 %), contre 416,2 M€ publiés le 23/07 : « un avis juridique portant sur certaines opérations réalisées par sa filiale aux États-Unis » a conduit à annuler 32,5 M€ (37,9 M$) de chiffre d'affaires et 30,5 M€ de charges correspondantes, sans effet sur la trésorerie. L'objectif initial de 300 M€ est dépassé, celui de « plus de 400 M€ » (mars 2026) n'est pas atteint. EBITDA 34,2 M€ (×6,1), marge 8,8 %, « 1,8 M€ en deçà de l'objectif annoncé en mars 2026 » ; dotations de 15,5 M€ (dépréciation de stocks selon ancienneté, rotation et prix de marché, et de créances) ; résultat d'exploitation 18,7 M€ ; résultat net part du groupe 17,0 M€. 2CRSi SA réalise 96 % du CA (370,9 M€) ; 2CRSi Corporation 4,3 M€ contre 185 M€ un an plus tôt ; 89 % du CA facturé par les sociétés européennes, 82 % réalisé hors d'Europe ; premier client < 20 %. Services 27,7 M€ (8,3 M€), dont un contrat de 14,04 M€ HT avec la holding du PDG. Capitaux propres 46,5 M€ ; dettes financières 8,4 M€ (13,0) ; disponibilités 14,2 M€ au 30/06, trésorerie brute 22,4 M€ au 27/10 plus 6,0 M€ de lignes mobilisables ; flux d'exploitation 7,9 M€, BFR +14,4 M€ ; comptes arrêtés en continuité d'exploitation. Perspectives : priorité à l'amélioration des marges ; ambition d'1 Md€ de CA en 2026/27 confirmée, « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD » (rien n'est dit de la commande NYGC de 290 M$) ; tensions « très fortes » sur l'approvisionnement en DRAM et NAND. Rapport financier annuel annoncé pour le 31/10 ; AG mixte le 17/12/2026.",
+   "engagements": [
+    {
+     "id": "2026-10-30_resultats-2025-26#e1",
+     "texte": "Publication du rapport financier annuel, avec les rapports du commissaire aux comptes, le 31/10/2026",
+     "echeance": "2026-10-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "infirme",
+     "cible": "2026-07-23_ca-annuel-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-03-26_s1-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-29_report-resultats"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "date": "2026-10-30",
+   "date_affichee": "30 oct. 2026",
+   "statut": "doc",
    "sources": [
-    "S163"
+    "S172"
    ],
    "sources_libelle": [
-    "CP 2CRSi du 29/10/2026 : report des résultats annuels au 30/10"
+    "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
    ],
+   "id": "2026-10-30_impossibilite-certifier",
+   "sujets": [
+    "griz",
+    "gouv",
+    "res"
+   ],
+   "titre": "Le commissaire aux comptes prévoit une impossibilité de certifier les comptes 2025/26",
+   "texte": "Selon le CP, « le commissaire aux comptes a indiqué qu'il prévoit d'émettre une impossibilité de certifier les comptes annuels et consolidés de l'exercice clos le 30 juin 2026 », pour trois motifs : « des insuffisances du dispositif de contrôle interne concernant notamment des transactions de reventes de matériel informatique enregistrées en chiffre d'affaires, des achats desdits matériels enregistrés en charge ainsi que des flux d'encaissement et décaissement y afférents » ; « des éléments insuffisants permettant de justifier les valeurs enregistrées […] au titre de transactions avec des parties liées contribuant à hauteur de 15,3 M€ au chiffre d'affaires » ; « des incertitudes liées à des procédures en cours pour lesquelles la filiale américaine a été sollicitée par des autorités à plusieurs reprises au cours des deux derniers exercices afin de produire toutes les informations disponibles en sa possession ». Les autorités et les procédures ne sont pas précisées. Une impossibilité de certifier n'est pas un refus : l'auditeur dit ne pas avoir pu réunir les éléments nécessaires pour se prononcer. Les rapports du commissaire aux comptes sont annoncés dans le rapport financier annuel du 31/10.",
    "engagements": [],
-   "liens": [],
-   "majeur": false
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-rapport"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-geo-allemand"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "date": "2026-10-30",
+   "date_affichee": "30 oct. 2026",
+   "statut": "doc",
+   "sources": [
+    "S172"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
+   ],
+   "id": "2026-10-30_haw-contrat-14m",
+   "sujets": [
+    "gouv",
+    "res"
+   ],
+   "titre": "14,04 M€ de services facturés à la holding du PDG ; compte courant HAW de 14,2 M€ et créances sur HAW de 16,9 M€",
+   "texte": "Les revenus de services (27,7 M€) « intègrent un contrat de prestations de services et de cession exclusive des droits de propriété intellectuelle avec Holding Alain Wilmouth (HAW), société mère du Groupe et partie liée, pour un montant global de 14,04 M€ HT », qui « conclut un programme d'études et de conception engagé en juillet 2024, portant sur une infrastructure modulaire de calcul haute performance de 14,4 MW dédiée à l'intelligence artificielle (« AI Factory – AI Modular Data Center B300 ») ». Au 30/06/2026, « le compte courant créditeur envers HAW s'élève à 14,2 M€ et les créances détenues sur HAW à 16,9 M€ » ; les flux de financement intègrent une variation du compte courant d'associé de +11,6 M€. Le commissaire aux comptes cite parmi ses motifs d'impossibilité de certifier des transactions avec des parties liées contribuant pour 15,3 M€ au chiffre d'affaires. Le CP du 05/08/2026 indiquait 629 760 € HT facturés à AETHER Infrastructures sur l'exercice.",
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-05_aether-gouvernance"
+    },
+    {
+     "type": "precise",
+     "cible": "2024-12-31_alispalu-serveurs"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "date": "2026-10-30",
+   "date_affichee": "30 oct. 2026",
+   "statut": "doc",
+   "sources": [
+    "S172"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
+   ],
+   "id": "2026-10-30_aether-20mw-adimes",
+   "sujets": [
+    "aether"
+   ],
+   "titre": "ÆTHER : candidature EuroHPC préparée, AI Factory de 20 MW à FR-SXB2 visée au T3 2027, HAW « deviendra minoritaire »",
+   "texte": "Selon le CP, 2CRSi « a joué un rôle déterminant dans la constitution, la structuration et la préparation de la réponse du consortium ÆTHER Infrastructure » à l'appel EuroHPC du 30/07/2026 ; « la Phase 1 prévoit la mise en service d'une AI Factory de 20 MW dès le troisième trimestre 2027 » au Port du Rhin (FR-SXB2). « Au sein du consortium, 2CRSi est désignée, conjointement avec Adimes, comme l'entité responsable de l'intégration et des tests des serveurs et des modules d'AI Factory sur le campus. » « Aether Infrastructures est une partie liée de la Société : son actionnaire unique est à ce jour HAW, qui deviendra minoritaire à l'entrée prochaine de nouveaux actionnaires à son capital. » Le CP ne nomme pas ces actionnaires ni le lot visé. Le groupe anticipe « une augmentation significative de ses prises de commandes » grâce au projet.",
+   "engagements": [
+    {
+     "id": "2026-10-30_aether-20mw-adimes#e1",
+     "texte": "Mise en service d'une AI Factory de 20 MW à FR-SXB2 « dès le troisième trimestre 2027 »",
+     "echeance": "2027-09-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-10-30_aether-20mw-adimes#e2",
+     "texte": "HAW « deviendra minoritaire à l'entrée prochaine de nouveaux actionnaires » au capital d'AETHER Infrastructures",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "« prochaine » sans date ; échéance indicative"
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-21_aether-compute-e"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-05_aether-gouvernance"
+    }
+   ],
+   "majeur": true
   },
   {
    "id": "2026-10-31_sxb1-echeance",
@@ -7422,6 +7568,16 @@
    "url": "https://lnkd.in/p/ekmSS5QA",
    "archive": "integral",
    "note": "Date déduite de l'horodatage des documents joints : lettre BMO datée « 06/22/2025 » téléversée le 23/06/2026 à 07:30 (heure de Paris), lettre corrigée datée du 23/06/2026 téléversée le 24/06/2026 à 02:19. La lettre liste 33 virements reçus du 21/04 au 22/06/2026, total 150 825 152,80 USD, sur le compte « se terminant par 2073 » (le relevé du 20/06 indique 2703). Le post écrit « 23 juillet 2027 » pour la publication du CA annuel du 23/07/2026. PDF : textes/pdf/BMO lettre ….pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S172",
+   "date_source": "2026-10-30",
+   "type": "CP",
+   "reference": "CP 2CRSi du 30/10/2026 : « Résultats annuels 2025-2026 — Chiffre d'affaires de 386,5 M€ (+75 %) – EBITDA de 34,2 M€ – Résultat net part du Groupe de 17,0 M€ » (5 pages)",
+   "url": "",
+   "archive": "integral",
+   "note": "Publié après Bourse le 30/10 (PDF créé à 19:33). PDF archivé : textes/pdf/2CRSI-CP-20261030-FR.pdf ; texte intégral dans textes/S172.txt. URL Actifin/EQS à relever.",
    "texte_archive": "sources_textes.json"
   }
  ],
