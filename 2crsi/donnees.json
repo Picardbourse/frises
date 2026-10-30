@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-29",
- "mis_a_jour": "2026-10-29T21:34",
- "arrete_au": "2026-10-29",
+ "genere_le": "2026-10-30",
+ "mis_a_jour": "2026-10-30T10:03",
+ "arrete_au": "2026-10-30",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,7 +75,7 @@
   ]
  },
  "nb": {
-  "evenements": 127,
+  "evenements": 126,
   "sources": 153
  },
  "evenements": [
@@ -3312,9 +3312,9 @@
      "id": "2026-08-03_mission-expert#e2",
      "texte": "Rapport définitif de l'expert « devant en principe être remis en octobre 2026 »",
      "echeance": "2026-10-31",
-     "statut": "todo",
-     "statue_par": null,
-     "note": "attendu avec les résultats du 29/10"
+     "statut": "ok",
+     "statue_par": "S162",
+     "note": "projet de rapport final remis le 26/10/2026 et présenté au comité d'audit le même jour (CP du 29/10)"
     },
     {
      "id": "2026-08-03_mission-expert#e3",
@@ -4076,9 +4076,9 @@
      "id": "2026-09-15_expert-conclusions#e1",
      "texte": "Compte rendu des autres points soulevés par Grizzly « au plus tard lors de la publication des résultats annuels »",
      "echeance": "2026-10-29",
-     "statut": "todo",
-     "statue_par": null,
-     "note": "résultats annuels annoncés pour le 29/10/2026 ; le rapport final de la mission est attendu « en principe » en octobre (CP du 03/08)"
+     "statut": "ok",
+     "statue_par": "S162",
+     "note": "compte rendu publié le 29/10/2026 (CP sur les conclusions de l'expert), la veille des résultats reportés au 30/10"
     }
    ],
    "liens": [
@@ -5106,34 +5106,6 @@
    "majeur": false
   },
   {
-   "id": "2026-10-29_resultats-29-10",
-   "date": "2026-10-29",
-   "date_affichee": "29 oct. 2026",
-   "sujets": [
-    "res",
-    "griz",
-    "nygc"
-   ],
-   "statut": "echeance",
-   "titre": "Résultats annuels 2025/26 ; rapport définitif de l'expert et solde des points Grizzly",
-   "texte": "Date du 29/10 donnée comme « prochain rendez-vous » par le CP du 23/07. Le rapport définitif de l'expert doit « en principe être remis en octobre 2026 » (CP du 03/08) ; la société rendra compte des autres points soulevés par Grizzly « au plus tard lors de la publication de ses résultats annuels » (CP du 15/09). Les comptes sont audités par le commissaire aux comptes, Ernst & Young selon le CP du 16/07 ; la mission de l'expert « ne constitue ni un audit […] ni une mission de certification ». Sur Euronext Growth, le rapport financier annuel est dû dans les quatre mois suivant la clôture, soit au plus tard le 31/10/2026.",
-   "sources": [
-    "S010",
-    "S011",
-    "S013",
-    "S048"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi du 23/07/2026",
-    "CP 2CRSi du 03/08/2026",
-    "CP 2CRSi du 15/09/2026",
-    "CP 2CRSi du 16/07/2026"
-   ],
-   "engagements": [],
-   "liens": [],
-   "majeur": false
-  },
-  {
    "id": "2026-10-29_expert-rapport",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -5332,7 +5304,7 @@
    ],
    "statut": "doc",
    "titre": "Résultats annuels reportés au 30/10 après Bourse",
-   "texte": "Le soir du 29/10, jour prévu, la société reporte la publication des résultats annuels consolidés et du rapport financier annuel 2025/26, pour « la finalisation des procédures d'audit et des documents relatifs à l'arrêté des comptes avec l'intégration des conclusions de l'expert indépendant ». Publication attendue « dès le 30 octobre après Bourse ».",
+   "texte": "Le soir du 29/10, date annoncée depuis le CP du 23/07, la société reporte la publication des résultats annuels consolidés et du rapport financier annuel 2025/26, pour « la finalisation des procédures d'audit et des documents relatifs à l'arrêté des comptes avec l'intégration des conclusions de l'expert indépendant ». Publication attendue « dès le 30 octobre après Bourse ».",
    "sources": [
     "S163"
    ],
@@ -5340,12 +5312,7 @@
     "CP 2CRSi du 29/10/2026 : report des résultats annuels au 30/10"
    ],
    "engagements": [],
-   "liens": [
-    {
-     "type": "reporte",
-     "cible": "2026-10-29_resultats-29-10"
-    }
-   ],
+   "liens": [],
    "majeur": true
   },
   {
