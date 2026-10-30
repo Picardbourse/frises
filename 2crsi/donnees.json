@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-30",
- "mis_a_jour": "2026-10-30T10:03",
+ "mis_a_jour": "2026-10-30T14:25",
  "arrete_au": "2026-10-30",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 126,
-  "sources": 153
+  "evenements": 127,
+  "sources": 156
  },
  "evenements": [
   {
@@ -5106,6 +5106,58 @@
    "majeur": false
   },
   {
+   "id": "2026-10-26_aether-services",
+   "date": "2026-10-26",
+   "date_affichee": "26 oct. 2026",
+   "sujets": [
+    "aether",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Création d'AETHER Services, quatrième filiale à 100 % d'AETHER Infrastructures en dix jours",
+   "texte": "SASU au capital de 1 000 € (fonds déposés au CIC Est), statuts signés le 26/10/2026 et déposés le 28/10 au greffe de Sarreguemines, même domiciliation (7 place de la Gare). Associée unique et présidente : AETHER Infrastructures (capital de 1 000 000 €), elle-même présidée par la holding d'Alain Wilmouth. Objet : « l'administration d'entreprises, la commercialisation des produits et services ainsi que l'administration et la gestion des sociétés du groupe auquel elle appartient, dans les domaines du management, du commercial, de la finance, de la comptabilité, du juridique, des ressources humaines et de la qualité », l'activité de consultant et de formateur, et la prise de participations. Exercice clos au 30 juin, premier exercice au 30/06/2027. Statuts de type courant : contrairement à ceux d'AETHER Compute E, ni clause de contrôle européen, ni comité stratégique, ni règle de mise en concurrence pour les conventions avec l'associé. Elle s'ajoute à AETHER Facilities SXB2 (16/10) et AETHER Compute E (21/10) ; le CP du 12/10 annonçait trois pôles (Utilities, Facilities, Compute), pas de société de services. Aucun associé extérieur au groupe de la holding du PDG à ce stade.",
+   "sources": [
+    "S164",
+    "S165",
+    "S166"
+   ],
+   "sources_libelle": [
+    "Statuts d'AETHER Services (26/10/2026)",
+    "État des souscriptions et attestation de blocage du capital (26/10/2026)",
+    "Annuaire des entreprises (30/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-21_aether-compute-e"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-05_aether-gouvernance"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-26",
+      "cloture": 26.86,
+      "volume": 96490,
+      "variation_pct": 0.9,
+      "volume_vs_moy20": 0.4
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-10-29_expert-rapport",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -7213,6 +7265,35 @@
    "archive": "integral",
    "note": "Diffusé par Seitosei.Actifin le soir du 29/10, après le CP sur les conclusions de l'expert. PDF archivé : textes/pdf/2CRSI-CP-202610292-FR.pdf.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S164",
+   "date_source": "2026-10-26",
+   "type": "registre",
+   "reference": "Statuts d'AETHER SERVICES (SASU, SIREN 132 192 659), signés le 26/10/2026, déposés au greffe de Sarreguemines (acte du 28/10/2026)",
+   "url": "",
+   "archive": "integral",
+   "note": "Copie INPI, 30 p. PDF : textes/pdf/AETHER SERVICES - Actes du 28-10-2026 statuts.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S165",
+   "date_source": "2026-10-26",
+   "type": "registre",
+   "reference": "AETHER SERVICES : état des souscriptions et attestation de blocage du capital (CIC Est), 26/10/2026",
+   "url": "",
+   "archive": "integral",
+   "note": "Associé unique AETHER INFRASTRUCTURES (1 000 actions, 1 000 €). PDF : textes/pdf/AETHER SERVICES - Actes du 28-10-2026 souscriptions.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S166",
+   "date_source": "2026-10-30",
+   "type": "registre",
+   "reference": "Annuaire des entreprises : fiche d'AETHER SERVICES (SIREN 132 192 659), relevée le 30/10/2026",
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/132192659",
+   "archive": "reference",
+   "note": "Création au 26/10/2026, siège à Sarreguemines, dirigeant : AETHER INFRASTRUCTURES. Repérée par la veille du registre le 30/10/2026."
   }
  ],
  "lieux": [
