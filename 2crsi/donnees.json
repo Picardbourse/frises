@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-30",
- "mis_a_jour": "2026-10-30T14:25",
+ "mis_a_jour": "2026-10-30T15:50",
  "arrete_au": "2026-10-30",
  "version_provisoire": false,
  "config": {
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 127,
-  "sources": 156
+  "evenements": 128,
+  "sources": 158
  },
  "evenements": [
   {
@@ -5389,6 +5389,33 @@
    "majeur": false
   },
   {
+   "id": "2026-10-30_nvidia-statut",
+   "date": "2026-10-30",
+   "date_affichee": "30 oct. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Statut chez Nvidia relevé : « Elite » en calcul, « Preferred » en visualisation",
+   "texte": "Sur la place de marché de Nvidia, 2CRSi figure comme « Solution Provider », au niveau Elite pour le domaine Compute et Preferred pour Visualization (fiche relevée le 30/10/2026). Le site de 2CRSi date la certification « NVIDIA Elite Partner » de 2024, sans date précise. Relevé fait au lendemain du rapport de l'expert, qui pointe une « visibilité partielle sur la destination et l'utilisation finales des équipements » : point de référence pour suivre un éventuel changement de niveau.",
+   "sources": [
+    "S167",
+    "S168"
+   ],
+   "sources_libelle": [
+    "Place de marché NVIDIA, fiche 2CRSi (30/10/2026)",
+    "Site 2CRSi, page « 2CRSi Group » (30/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-rapport"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-10-31_sxb1-echeance",
    "date": "2026-10-31",
    "date_affichee": "fin oct. 2026",
@@ -7294,6 +7321,26 @@
    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/132192659",
    "archive": "reference",
    "note": "Création au 26/10/2026, siège à Sarreguemines, dirigeant : AETHER INFRASTRUCTURES. Repérée par la veille du registre le 30/10/2026."
+  },
+  {
+   "id": "S167",
+   "date_source": "2026-10-30",
+   "type": "site",
+   "reference": "Place de marché NVIDIA, fiche partenaire 2CRSi (relevée le 30/10/2026) : « Solution Provider », Compute : Elite, Visualization : Preferred",
+   "url": "https://marketplace.nvidia.com/en-eu/enterprise/partners/2crsi/",
+   "archive": "integral",
+   "note": "Page rendue par JavaScript, relevée dans le navigateur intégré.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S168",
+   "date_source": "2026-10-30",
+   "type": "site",
+   "reference": "Site 2CRSi, page « 2CRSi Group » (relevée le 30/10/2026), frise historique : « 2024 Certifié NVIDIA Elite Partner »",
+   "url": "https://2crsi.com/fr/2crsi-group",
+   "archive": "integral",
+   "note": "Date d'obtention donnée par la société elle-même, sans date précise ni pièce de Nvidia.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
