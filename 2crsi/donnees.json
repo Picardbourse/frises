@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-10-30",
- "mis_a_jour": "2026-10-30T15:53",
+ "mis_a_jour": "2026-10-30T15:57",
  "arrete_au": "2026-10-30",
  "version_provisoire": false,
  "config": {
@@ -458,7 +458,7 @@
    ],
    "statut": "doc",
    "titre": "Nvidia : 2CRSi passe au niveau Elite, le plus élevé de son programme de partenaires, pour le calcul",
-   "texte": "Selon la présentation investisseurs de février 2024 (slide 15), le niveau Elite, « le plus élevé de NVIDIA en ce qui concerne ses solutions », « a été activé le premier mois du T1 2024 de NVIDIA (10/02/2024) ». Le site de 2CRSi le date aussi de 2024 (« Certifié NVIDIA Elite Partner »). Fiche relevée le 30/10/2026 sur la place de marché de Nvidia : « Solution Provider », Elite pour le domaine Compute, Preferred pour Visualization. Le statut suppose le respect des règles applicables, dont celles d'exportation ; le rapport de l'expert du 29/10/2026 pointe une « visibilité partielle sur la destination et l'utilisation finales des équipements ».",
+   "texte": "Selon la présentation investisseurs de février 2024 (slide 15), le niveau Elite est « le niveau le plus élevé de NVIDIA en ce qui concerne ses solutions » ; il « est basé sur leurs ventes de GPU pour l'IA, la visualisation et le réseau par trimestre » et « a été activé le premier mois du T1 2024 de NVIDIA (10/02/2024) ». Avantages cités : meilleurs prix, meilleure allocation des composants, augmentation des remises arrière, accès anticipé à la technologie et à la R&D, certification des produits. La même slide trace une feuille de route du type de partenariat : Solution Provider (2010), Solutions Integration (2020), Global System Integrator (2024), OEM (2025). Fiche relevée le 30/10/2026 sur la place de marché de Nvidia : « Solution Provider », Elite pour le domaine Compute, Preferred pour Visualization. Le site de 2CRSi date aussi la certification de 2024.",
    "sources": [
     "S169",
     "S168",
@@ -7355,12 +7355,12 @@
   },
   {
    "id": "S169",
-   "date_source": "2024-02-29",
+   "date_source": "2024-02-23",
    "type": "présentation",
    "reference": "2CRSi, présentation investisseurs de février 2024 (v1.1, FR), slide 15 : partenariat NVIDIA, niveau Elite",
    "url": "https://investors.2crsi.com/wp-content/uploads/2024/02/2CRSi-Presentation-Investisseurs-Fev-2024-v1.1-FR.pdf",
    "archive": "integral",
-   "note": "Extrait relevé via un outil de lecture, à vérifier sur le PDF. Date de la source approximative (présentation de février 2024, publiée sous /2024/02/).",
+   "note": "PDF archivé (textes/pdf/2CRSi-Presentation-Investisseurs-Fev-2024-v1.1-FR.pdf), créé le 23/02/2024 ; texte intégral dans textes/S169.txt. Slide 15 vérifiée sur le PDF.",
    "texte_archive": "sources_textes.json"
   }
  ],
