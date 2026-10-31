@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-30",
- "mis_a_jour": "2026-10-30T20:52",
- "arrete_au": "2026-10-30",
+ "genere_le": "2026-10-31",
+ "mis_a_jour": "2026-10-31T22:38",
+ "arrete_au": "2026-10-31",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 132,
-  "sources": 162
+  "evenements": 141,
+  "sources": 164
  },
  "evenements": [
   {
@@ -488,6 +488,55 @@
    "majeur": false
   },
   {
+   "id": "2024-07-02_etudes-ai-factory",
+   "date": "2024-07-02",
+   "date_affichee": "2 juil. 2024",
+   "sujets": [
+    "gouv",
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Début du programme d'études « AI Factory » que 2CRSi vendra à la holding du PDG",
+   "texte": "Selon le rapport financier annuel 2025-26 (§2.4.1.4), « à compter du 2 juillet 2024, les équipes de Recherche et Développement de 2CRSi ont réalisé un travail d'études et de conception portant sur le développement d'infrastructures modulaires de calcul haute performance dédiées à l'intelligence artificielle ». Le projet prend en mars 2025 le nom « AI Factory – AI Modular Data Center, version B300 » ; plus de 21 collaborateurs en France, aux États-Unis et au Canada. Cas d'application : un centre de 14,4 MW en quatre modules de 3,6 MW, « le site envisagé pour accueillir un premier déploiement est situé à Ione (Californie), dans le cadre du projet Buena Vista porté par NYGC ». Aucun contrat n'est signé avant le 29/06/2026 et aucun conseil d'administration n'a autorisé ce travail pour la maison mère avant le 30/10/2026. Fait rendu public le 31/10/2026.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_haw-contrat-14m"
+    }
+   ],
+   "revele_le": "2026-10-31",
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2024-07-02",
+      "cloture": 3.66,
+      "volume": 77269,
+      "variation_pct": -1.6,
+      "volume_vs_moy20": 1.0
+     },
+     {
+      "role": "suivante",
+      "date": "2024-07-03",
+      "cloture": 3.94,
+      "volume": 110083,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 1.4
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2024-09-13_valeo-cite-brevet",
    "date": "2024-09-13",
    "date_affichee": "13 sept. 2024",
@@ -527,6 +576,27 @@
      }
     ]
    },
+   "majeur": false
+  },
+  {
+   "id": "2024-11-15_subpoena-bis",
+   "date": "2024-11-15",
+   "date_affichee": "nov. 2024",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi Corporation reçoit un subpoena administratif du BIS (département du Commerce américain)",
+   "texte": "Selon le rapport financier annuel 2025-26 (§2.8.1) : « en novembre 2024, […] 2CRSi Corporation a reçu du Bureau of Industry and Security (BIS), rattaché au département du Commerce américain, un subpoena administratif concernant un client tiers, que le Groupe avait lui-même signalé aux autorités américaines ». Documents remis ; aucune procédure engagée ni provision. Le BIS est l'autorité chargée du contrôle des exportations (Export Administration Regulations). Fait rendu public le 31/10/2026 ; aucune mention dans les communiqués, le rapport semestriel au 31/12/2025 ni les réponses à Grizzly disponibles dans le corpus.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "revele_le": "2026-10-31",
    "majeur": false
   },
   {
@@ -624,6 +694,27 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2025-04-15_subpoena-ndcal-1",
+   "date": "2025-04-15",
+   "date_affichee": "avr. 2025",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Premier grand jury subpoena du parquet fédéral du Northern District of California",
+   "texte": "Selon le rapport financier annuel 2025-26 (§2.8.1) : « L'enquête du district nord de Californie avait déjà donné lieu à un premier subpoena de grand jury, de même nature, reçu par 2CRSi Corporation en avril 2025, au cours de l'exercice clos le 30 juin 2025. » Enquête relative à l'application de l'Export Administration Regulations (contrôle des exportations) ; 2CRSi dit être sollicitée « en qualité de tiers détenteur d'informations ». Fait rendu public le 31/10/2026. [Non vérifié : le rapport financier annuel 2024-25, publié en octobre 2025, le mentionnait-il ?]",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "revele_le": "2026-10-31",
+   "majeur": false
   },
   {
    "id": "2025-06-26_vente-100-musd",
@@ -856,6 +947,29 @@
    "majeur": true
   },
   {
+   "id": "2025-08-13_chennai-ch4-site",
+   "date": "2025-08-13",
+   "date_affichee": "août 2025 (au plus tard le 13/08)",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "decl",
+   "titre": "Site de 2CRSi : un quatrième site de production « à venir » à Chennai (CH4), 10 000 serveurs par an",
+   "texte": "La page « Manufacturing facilities » du site de 2CRSi présente un site « CH4, Chennai, Inde » comme « upcoming » (« Fourth factory ») : capacité prévue de 10 000 intégrations de serveurs par an, gestion du processus de certification BIS (Bureau of Indian Standards), bancs de test air et immersion aux formats 19\" et OCP. Les trois autres sites sont Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (10 000 unités edge/an) et Plattsburgh (10 000 intégrations/an). La page n'est pas datée ; sa première capture par l'Internet Archive date du 13/08/2025, et le lien vers elle apparaît sur la page d'accueil archivée le 05/08/2025 (absent le 10/07/2025). Le passage sur Chennai est identique dans toutes les captures jusqu'au 13/07/2026 et la page est toujours en ligne le 25/10/2026. Il est donc antérieur au partenariat avec Valeo annoncé le 04/11/2025 ; la page ne mentionne ni Valeo ni Pune.",
+   "sources": [
+    "S158",
+    "S154"
+   ],
+   "sources_libelle": [
+    "Internet Archive, capture du 13/08/2025",
+    "Site de 2CRSi, page « Manufacturing facilities », capture du 25/10/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "avenir": false,
+   "majeur": false
+  },
+  {
    "id": "2025-08-13_malaisie-47",
    "date": "2025-08-13",
    "date_affichee": "13 août 2025",
@@ -905,29 +1019,6 @@
     ]
    },
    "majeur": true
-  },
-  {
-   "id": "2025-08-13_chennai-ch4-site",
-   "date": "2025-08-13",
-   "date_affichee": "août 2025 (au plus tard le 13/08)",
-   "sujets": [
-    "valeo"
-   ],
-   "statut": "decl",
-   "titre": "Site de 2CRSi : un quatrième site de production « à venir » à Chennai (CH4), 10 000 serveurs par an",
-   "texte": "La page « Manufacturing facilities » du site de 2CRSi présente un site « CH4, Chennai, Inde » comme « upcoming » (« Fourth factory ») : capacité prévue de 10 000 intégrations de serveurs par an, gestion du processus de certification BIS (Bureau of Indian Standards), bancs de test air et immersion aux formats 19\" et OCP. Les trois autres sites sont Strasbourg (jusqu'à 50 000 serveurs/an), Manchester (10 000 unités edge/an) et Plattsburgh (10 000 intégrations/an). La page n'est pas datée ; sa première capture par l'Internet Archive date du 13/08/2025, et le lien vers elle apparaît sur la page d'accueil archivée le 05/08/2025 (absent le 10/07/2025). Le passage sur Chennai est identique dans toutes les captures jusqu'au 13/07/2026 et la page est toujours en ligne le 25/10/2026. Il est donc antérieur au partenariat avec Valeo annoncé le 04/11/2025 ; la page ne mentionne ni Valeo ni Pune.",
-   "sources": [
-    "S158",
-    "S154"
-   ],
-   "sources_libelle": [
-    "Internet Archive, capture du 13/08/2025",
-    "Site de 2CRSi, page « Manufacturing facilities », capture du 25/10/2026"
-   ],
-   "engagements": [],
-   "liens": [],
-   "avenir": false,
-   "majeur": false
   },
   {
    "id": "2025-09-15_bspce-plan-2020",
@@ -1053,6 +1144,27 @@
      }
     ]
    },
+   "majeur": false
+  },
+  {
+   "id": "2025-10-15_subpoena-ndcal-2",
+   "date": "2025-10-15",
+   "date_affichee": "oct. 2025",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Second grand jury subpoena du Northern District of California",
+   "texte": "Selon le rapport financier annuel 2025-26 (§2.8.1, §3.2.6) : au cours de l'exercice 2025-26, 2CRSi Corporation « a reçu deux demandes de production de documents (grand jury subpoenas) émises par les parquets fédéraux du Northern District of California, en octobre 2025, et du Central District of California, en mai 2026, dans le cadre de deux enquêtes distinctes relatives à l'application de la réglementation américaine de contrôle des exportations (Export Administration Regulations). Ces demandes portaient sur des documents et correspondances en possession de 2CRSi concernant certains clients et fournisseurs tiers. » La société précise que « ni le DOJ ni le BIS ne sont obligés, ni en général disposés, à confirmer si le destinataire d'une assignation est un sujet de l'enquête ou simplement un témoin ». Aucune provision. Fait rendu public le 31/10/2026 ; non mentionné dans le rapport semestriel au 31/12/2025.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "revele_le": "2026-10-31",
    "majeur": false
   },
   {
@@ -1986,6 +2098,81 @@
    "majeur": false
   },
   {
+   "id": "2026-04-30_haw-obligations-nygc",
+   "date": "2026-04-30",
+   "date_affichee": "30 avr. 2026",
+   "sujets": [
+    "nygc",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "La holding du PDG souscrit des obligations émises par NYGC ; NYGC devient une partie liée",
+   "texte": "Selon le rapport financier annuel 2025-26 (§3.10.1) : « La société NYGC est considérée comme une partie liée à la Société depuis le 30 avril 2026, date à laquelle Holding Alain Wilmouth a souscrit des obligations simples ne donnant pas l'accès au capital. » L'expert indépendant relève que NYGC « pourrait être en situation d'influence notable du fait des obligations simples souscrites par la société Holding Alain Wilmouth […] et des projets envisagés entre la Société et NYGC », ainsi qu'« une proximité commerciale et opérationnelle forte entre la Société, NYGC et le Dr Joseph Church » (§2.4.2.1). Montant non indiqué. Au webinaire du 19/06/2026, le PDG déclarait « j'adorerais être actionnaire de NYGC ». Fait rendu public le 31/10/2026.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    }
+   ],
+   "revele_le": "2026-10-31",
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-04-30",
+      "cloture": 36.3,
+      "volume": 495335,
+      "variation_pct": 1.0,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-05-04",
+      "cloture": 37.18,
+      "volume": 290404,
+      "variation_pct": 2.4,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-05-15_subpoena-cdcal",
+   "date": "2026-05-15",
+   "date_affichee": "mai 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Grand jury subpoena du Central District of California (seconde enquête, distincte)",
+   "texte": "Selon le rapport financier annuel 2025-26 (§2.8.1, §3.2.6), demande de production de documents émise en mai 2026 par le parquet fédéral du Central District of California, « dans le cadre de deux enquêtes distinctes relatives à l'application de la réglementation américaine de contrôle des exportations ». C'est le quatrième acte d'autorités américaines reçu par la filiale depuis novembre 2024 ; cinq semaines plus tard, le rapport Grizzly (18/06) et la réponse de la société (16/07) n'en font pas état. Le commissaire aux comptes en fait l'un des trois fondements de son impossibilité de certifier. Fait rendu public le 31/10/2026.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_impossibilite-certifier"
+    }
+   ],
+   "revele_le": "2026-10-31",
+   "majeur": false
+  },
+  {
    "id": "2026-05-19_loyalton-rumeur",
    "date": "2026-05-19",
    "date_affichee": "19 mai 2026",
@@ -2678,6 +2865,59 @@
       "volume": 633440,
       "variation_pct": 12.5,
       "volume_vs_moy20": 1.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-06-29_conseil-conventions",
+   "date": "2026-06-29",
+   "date_affichee": "29 juin 2026",
+   "sujets": [
+    "gouv",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Signature du contrat HAW de 14,04 M€ (effet rétroactif au 02/07/2024) et autorisation de trois conventions réglementées",
+   "texte": "Selon le rapport financier annuel 2025-26 : le contrat de prestations d'études et de cession exclusive des droits de propriété intellectuelle entre 2CRSi SA et Holding Alain Wilmouth est signé le 29 juin 2026, « avec effet au 2 juillet 2024 », pour « un prix forfaitaire, ferme et définitif de 14 042 k€ HT (16 M$) », « déterminé selon une méthode de marché, sur la base d'un coût d'études représentant 8 % du coût de construction de référence du projet » (§2.4.1.4). Le même jour, le conseil d'administration autorise trois conventions réglementées à effet du 30/06/2026 : prestations de services (marketing, communication, ingénierie, R&D) en faveur d'AETHER Infrastructures ; convention-cadre de vente de composants informatiques « destinés à l'assemblage de serveurs » à Alispalu SAS, société détenue à 100 % par Alain Wilmouth ; prestations de services (finance, juridique, RH) de HAW à 2CRSi, dont « l'autorisation préalable […] pour sa période d'exécution antérieure (du 1er juin 2025 au 30 juin 2026) a été omise » (§2.6.8.2). Le contrat d'études lui-même n'est pas autorisé à cette date. Fait rendu public le 31/10/2026.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_haw-contrat-14m"
+    },
+    {
+     "type": "precise",
+     "cible": "2024-07-02_etudes-ai-factory"
+    }
+   ],
+   "revele_le": "2026-10-31",
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-29",
+      "cloture": 30.96,
+      "volume": 633440,
+      "variation_pct": 12.5,
+      "volume_vs_moy20": 1.2
+     },
+     {
+      "role": "suivante",
+      "date": "2026-06-30",
+      "cloture": 30.68,
+      "volume": 374311,
+      "variation_pct": -0.9,
+      "volume_vs_moy20": 0.7
      }
     ]
    },
@@ -4872,9 +5112,9 @@
      "id": "2026-10-09_sxb2-promesse#e1",
      "texte": "Occupation des zones disponibles du site FR-SXB2 « dès le 15 octobre » (bail)",
      "echeance": "2026-10-15",
-     "statut": "todo",
-     "statue_par": null,
-     "note": ""
+     "statut": "ok",
+     "statue_par": "S173",
+     "note": "« prise de bail active depuis le 15 octobre 2026 » (RFA §2.4.1.3)"
     },
     {
      "id": "2026-10-09_sxb2-promesse#e2",
@@ -4953,55 +5193,6 @@
    "majeur": true
   },
   {
-   "id": "2026-10-16_premier-badge-dumarey",
-   "date": "2026-10-16",
-   "date_affichee": "16 oct. 2026",
-   "sujets": [
-    "aether"
-   ],
-   "statut": "decl",
-   "titre": "FR-SXB2 : premier badge d'accès au site Dumarey, au nom de 2CRSi",
-   "texte": "Le PDG publie la photo du « 1er badge, qui sert de clé sur le site de Dumarey », « avec un jour de retard » (le CP du 12/10 annonçait l'occupation des zones disponibles « dès le 15 octobre » grâce au bail). Le badge, émis par Dumarey Powerglide Strasbourg, porte la mention « Entreprise extérieure » et le nom de 2CRSi (n° 001). Le CP du 12/10 présente Aether Infrastructures comme signataire de la promesse de vente ; il ne précise pas à quel titre 2CRSi occupera le site.",
-   "sources": [
-    "S145",
-    "S113"
-   ],
-   "sources_libelle": [
-    "Commentaire LinkedIn du PDG, 16/10/2026 (photo du badge)",
-    "CP du 12/10/2026"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-10-09_sxb2-promesse"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-10-16",
-      "cloture": 26.24,
-      "volume": 122127,
-      "variation_pct": -1.9,
-      "volume_vs_moy20": 0.5
-     },
-     {
-      "role": "suivante",
-      "date": "2026-10-19",
-      "cloture": 26.78,
-      "volume": 126585,
-      "variation_pct": 2.1,
-      "volume_vs_moy20": 0.5
-     }
-    ]
-   },
-   "majeur": false
-  },
-  {
    "id": "2026-10-16_aether-facilities-sxb2",
    "date": "2026-10-16",
    "date_affichee": "16 oct. 2026",
@@ -5030,6 +5221,55 @@
     {
      "type": "precise",
      "cible": "2026-04-24_aether-creation"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-16",
+      "cloture": 26.24,
+      "volume": 122127,
+      "variation_pct": -1.9,
+      "volume_vs_moy20": 0.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-19",
+      "cloture": 26.78,
+      "volume": 126585,
+      "variation_pct": 2.1,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-10-16_premier-badge-dumarey",
+   "date": "2026-10-16",
+   "date_affichee": "16 oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "FR-SXB2 : premier badge d'accès au site Dumarey, au nom de 2CRSi",
+   "texte": "Le PDG publie la photo du « 1er badge, qui sert de clé sur le site de Dumarey », « avec un jour de retard » (le CP du 12/10 annonçait l'occupation des zones disponibles « dès le 15 octobre » grâce au bail). Le badge, émis par Dumarey Powerglide Strasbourg, porte la mention « Entreprise extérieure » et le nom de 2CRSi (n° 001). Le CP du 12/10 présente Aether Infrastructures comme signataire de la promesse de vente ; il ne précise pas à quel titre 2CRSi occupera le site.",
+   "sources": [
+    "S145",
+    "S113"
+   ],
+   "sources_libelle": [
+    "Commentaire LinkedIn du PDG, 16/10/2026 (photo du badge)",
+    "CP du 12/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
     }
    ],
    "seance": {
@@ -5241,44 +5481,6 @@
    "majeur": false
   },
   {
-   "id": "2026-10-29_expert-rapport",
-   "date": "2026-10-29",
-   "date_affichee": "29 oct. 2026",
-   "sujets": [
-    "griz",
-    "res"
-   ],
-   "statut": "doc",
-   "titre": "Rapport de l'expert indépendant : chiffre d'affaires « fabriqué » jugé non fondé, contrôle interne jugé insuffisant",
-   "texte": "Projet de rapport reçu le 26/10, présenté au comité d'audit le 26/10 en présence du commissaire aux comptes, examiné par le conseil le 29/10 ; expert non nommé (« un cabinet d'expertise financière de premier plan »). Périmètre : 22 des 34 allégations, période du 01/03/2023 au 30/06/2026, 11 clients, 78 % du CA consolidé des trois derniers exercices, 22 tiers en intelligence économique. L'expert juge non fondée l'allégation d'un chiffre d'affaires fabriqué au travers de parties liées non divulguées ; il confirme encaissements et concordance avec la facturation pour environ 425 M€ d'opérations, mais relève des « réserves majeures » (complétude documentaire, montages de financement, destination ou propriété finales des équipements) et ne peut pas conclure sur les opérations réglées directement par le client au fournisseur de 2CRSi. Contrôle interne : « insuffisances […] majeures » ; aucun élément montrant que 2CRSi aurait volontairement organisé des envois vers des pays interdits. Statuts en annexe : 9 allégations fondées, 5 partiellement fondées, 3 non fondées, 3 non conclusives, 12 hors périmètre. Le PDG : « certaines de nos communications passées étaient imprécises » ; la société dit rectifier ces communications et renforcer son contrôle interne. Les comptes annuels 2025/26 ne figurent pas dans ce communiqué.",
-   "sources": [
-    "S162"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "confirme",
-     "cible": "2026-08-03_mission-expert"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-07-16_reponse-grizzly"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-06-18_grizzly-rapport"
-    },
-    {
-     "type": "confirme",
-     "cible": "2026-06-22_aw-linkedin-bmo"
-    }
-   ],
-   "majeur": true
-  },
-  {
    "id": "2026-10-29_expert-610",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -5305,40 +5507,6 @@
    "majeur": true
   },
   {
-   "id": "2026-10-29_expert-nygc-290",
-   "date": "2026-10-29",
-   "date_affichee": "29 oct. 2026",
-   "sujets": [
-    "nygc"
-   ],
-   "statut": "doc",
-   "titre": "Commande NYGC de 290 M$ : non activée, résiliable par chaque partie depuis le 30/09/2026",
-   "texte": "Contrat du 27/09/2025 entre 2CRSi Corporation et NYGC, distinct du contrat de 610 M$ (le CP du 29/09/2025 l'y rattachait) : 288 serveurs, 2 304 GPU NVIDIA B300, pour Buena Vista (Ione, Californie). Livraison 20 semaines après une activation confirmée par écrit par 2CRSi, paiement intégral avant livraison. Conditions d'activation : redémarrage commercial de la centrale, permis, data center avec au moins 5 MW fermes, financement de NYGC, conformité ; avant activation, 2CRSi n'est tenue ni de commander les composants ni de fabriquer. Prix révisable si activation après le 31/12/2025 ; chaque partie peut résilier faute d'activation au 30/09/2026 ; aucune ne l'a fait. L'expert ne trouve ni financement ferme ni activation, aucun revenu sur trois exercices, et juge le risque de retard ou de non-réalisation « important ». Selon NYGC (non examiné par l'expert) : fuites sur des canalisations, redémarrage complet de la centrale « d'ici la fin de l'année 2026 », projet à adapter aux nouvelles règles californiennes. La société ira sur place en novembre et dira si elle peut livrer NYGC ou commercialiser ces capacités en 2026/27.",
-   "sources": [
-    "S162"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
-   ],
-   "engagements": [
-    {
-     "id": "2026-10-29_expert-nygc-290#e1",
-     "texte": "Visite du site en novembre ; information du marché sur la livraison à NYGC ou la commercialisation des capacités en 2026/27",
-     "echeance": "2026-11-30",
-     "statut": "todo",
-     "statue_par": null,
-     "note": ""
-    }
-   ],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2025-09-29_commande-290"
-    }
-   ],
-   "majeur": true
-  },
-  {
    "id": "2026-10-29_expert-church",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -5360,36 +5528,6 @@
     {
      "type": "precise",
      "cible": "2026-06-19_webinaire-church"
-    }
-   ],
-   "majeur": true
-  },
-  {
-   "id": "2026-10-29_expert-sites-us",
-   "date": "2026-10-29",
-   "date_affichee": "29 oct. 2026",
-   "sujets": [
-    "nygc",
-    "autre"
-   ],
-   "statut": "doc",
-   "titre": "Sites américains : Rouses Point loué depuis 2020, Chateaugay loué sans data center exploité",
-   "texte": "Selon l'expert, Fremont, Chateaugay, Rouses Point et San José ne sont pas des actifs de 2CRSi. Précisions de la société : 2CRSi Corp n'a pas acquis Rouses Point, elle le loue depuis mars 2020 (site de production, bureaux et data center, qui génère la quasi-totalité du CA de 2CRSi Corp) ; espace loué à Chateaugay d'octobre 2023 à juin 2025 à une société de Joseph Church, projet de data center non concrétisé, « aucun centre de données n'y a finalement été exploité par 2CRSi » ; Fremont loué de septembre 2022 à février 2024. « 2CRSi Cloud Solutions » est une ligne d'activité, pas une entité.",
-   "sources": [
-    "S162"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2021-05-17_rouses-point"
-    },
-    {
-     "type": "infirme",
-     "cible": "2025-03-17_cloud-solutions"
     }
    ],
    "majeur": true
@@ -5435,6 +5573,108 @@
    "majeur": true
   },
   {
+   "id": "2026-10-29_expert-nygc-290",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Commande NYGC de 290 M$ : non activée, résiliable par chaque partie depuis le 30/09/2026",
+   "texte": "Contrat du 27/09/2025 entre 2CRSi Corporation et NYGC, distinct du contrat de 610 M$ (le CP du 29/09/2025 l'y rattachait) : 288 serveurs, 2 304 GPU NVIDIA B300, pour Buena Vista (Ione, Californie). Livraison 20 semaines après une activation confirmée par écrit par 2CRSi, paiement intégral avant livraison. Conditions d'activation : redémarrage commercial de la centrale, permis, data center avec au moins 5 MW fermes, financement de NYGC, conformité ; avant activation, 2CRSi n'est tenue ni de commander les composants ni de fabriquer. Prix révisable si activation après le 31/12/2025 ; chaque partie peut résilier faute d'activation au 30/09/2026 ; aucune ne l'a fait. L'expert ne trouve ni financement ferme ni activation, aucun revenu sur trois exercices, et juge le risque de retard ou de non-réalisation « important ». Selon NYGC (non examiné par l'expert) : fuites sur des canalisations, redémarrage complet de la centrale « d'ici la fin de l'année 2026 », projet à adapter aux nouvelles règles californiennes. La société ira sur place en novembre et dira si elle peut livrer NYGC ou commercialiser ces capacités en 2026/27.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [
+    {
+     "id": "2026-10-29_expert-nygc-290#e1",
+     "texte": "Visite du site en novembre ; information du marché sur la livraison à NYGC ou la commercialisation des capacités en 2026/27",
+     "echeance": "2026-11-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-rapport",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "griz",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Rapport de l'expert indépendant : chiffre d'affaires « fabriqué » jugé non fondé, contrôle interne jugé insuffisant",
+   "texte": "Projet de rapport reçu le 26/10, présenté au comité d'audit le 26/10 en présence du commissaire aux comptes, examiné par le conseil le 29/10 ; expert non nommé (« un cabinet d'expertise financière de premier plan »). Périmètre : 22 des 34 allégations, période du 01/03/2023 au 30/06/2026, 11 clients, 78 % du CA consolidé des trois derniers exercices, 22 tiers en intelligence économique. L'expert juge non fondée l'allégation d'un chiffre d'affaires fabriqué au travers de parties liées non divulguées ; il confirme encaissements et concordance avec la facturation pour environ 425 M€ d'opérations, mais relève des « réserves majeures » (complétude documentaire, montages de financement, destination ou propriété finales des équipements) et ne peut pas conclure sur les opérations réglées directement par le client au fournisseur de 2CRSi. Contrôle interne : « insuffisances […] majeures » ; aucun élément montrant que 2CRSi aurait volontairement organisé des envois vers des pays interdits. Statuts en annexe : 9 allégations fondées, 5 partiellement fondées, 3 non fondées, 3 non conclusives, 12 hors périmètre. Le PDG : « certaines de nos communications passées étaient imprécises » ; la société dit rectifier ces communications et renforcer son contrôle interne. Les comptes annuels 2025/26 ne figurent pas dans ce communiqué.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2026-08-03_mission-expert"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-16_reponse-grizzly"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-06-18_grizzly-rapport"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-06-22_aw-linkedin-bmo"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-10-29_expert-sites-us",
+   "date": "2026-10-29",
+   "date_affichee": "29 oct. 2026",
+   "sujets": [
+    "nygc",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Sites américains : Rouses Point loué depuis 2020, Chateaugay loué sans data center exploité",
+   "texte": "Selon l'expert, Fremont, Chateaugay, Rouses Point et San José ne sont pas des actifs de 2CRSi. Précisions de la société : 2CRSi Corp n'a pas acquis Rouses Point, elle le loue depuis mars 2020 (site de production, bureaux et data center, qui génère la quasi-totalité du CA de 2CRSi Corp) ; espace loué à Chateaugay d'octobre 2023 à juin 2025 à une société de Joseph Church, projet de data center non concrétisé, « aucun centre de données n'y a finalement été exploité par 2CRSi » ; Fremont loué de septembre 2022 à février 2024. « 2CRSi Cloud Solutions » est une ligne d'activité, pas une entité.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 29/10/2026 : conclusions de l'expert indépendant"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2021-05-17_rouses-point"
+    },
+    {
+     "type": "infirme",
+     "cible": "2025-03-17_cloud-solutions"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-10-29_report-resultats",
    "date": "2026-10-29",
    "date_affichee": "29 oct. 2026",
@@ -5464,40 +5704,79 @@
    "date_affichee": "30 oct. 2026",
    "statut": "doc",
    "sources": [
+    "S172",
+    "S173"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26",
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "id": "2026-10-30_aether-20mw-adimes",
+   "sujets": [
+    "aether"
+   ],
+   "titre": "ÆTHER : candidature EuroHPC préparée, AI Factory de 20 MW à FR-SXB2 visée au T3 2027, HAW « deviendra minoritaire »",
+   "texte": "Selon le CP, 2CRSi « a joué un rôle déterminant dans la constitution, la structuration et la préparation de la réponse du consortium ÆTHER Infrastructure » à l'appel EuroHPC du 30/07/2026 ; « la Phase 1 prévoit la mise en service d'une AI Factory de 20 MW dès le troisième trimestre 2027 » au Port du Rhin (FR-SXB2). « Au sein du consortium, 2CRSi est désignée, conjointement avec Adimes, comme l'entité responsable de l'intégration et des tests des serveurs et des modules d'AI Factory sur le campus. » « Aether Infrastructures est une partie liée de la Société : son actionnaire unique est à ce jour HAW, qui deviendra minoritaire à l'entrée prochaine de nouveaux actionnaires à son capital. » Le CP ne nomme pas ces actionnaires ni le lot visé. Le groupe anticipe « une augmentation significative de ses prises de commandes » grâce au projet. Adimes est une filiale à 100 % de 2CRSi SA (ex-Boston France), usine d'assemblage du groupe (rapport financier annuel 2025-26, §1.1.2 et §3.4.2).",
+   "engagements": [
+    {
+     "id": "2026-10-30_aether-20mw-adimes#e1",
+     "texte": "Mise en service d'une AI Factory de 20 MW à FR-SXB2 « dès le troisième trimestre 2027 »",
+     "echeance": "2027-09-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-10-30_aether-20mw-adimes#e2",
+     "texte": "HAW « deviendra minoritaire à l'entrée prochaine de nouveaux actionnaires » au capital d'AETHER Infrastructures",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "« prochaine » sans date ; échéance indicative"
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-21_aether-compute-e"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-05_aether-gouvernance"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "date": "2026-10-30",
+   "date_affichee": "30 oct. 2026",
+   "statut": "doc",
+   "sources": [
     "S172"
    ],
    "sources_libelle": [
     "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
    ],
-   "id": "2026-10-30_resultats-2025-26",
+   "id": "2026-10-30_haw-contrat-14m",
    "sujets": [
-    "res",
-    "griz"
+    "gouv",
+    "res"
    ],
-   "titre": "Résultats 2025/26 : CA ramené à 386,5 M€ (32,5 M€ annulés), EBITDA 34,2 M€, résultat net 17,0 M€",
-   "texte": "Comptes arrêtés par le conseil du 30/10/2026 (normes françaises). Chiffre d'affaires de 386,5 M€ (+75 %), contre 416,2 M€ publiés le 23/07 : « un avis juridique portant sur certaines opérations réalisées par sa filiale aux États-Unis » a conduit à annuler 32,5 M€ (37,9 M$) de chiffre d'affaires et 30,5 M€ de charges correspondantes, sans effet sur la trésorerie. L'objectif initial de 300 M€ est dépassé, celui de « plus de 400 M€ » (mars 2026) n'est pas atteint. EBITDA 34,2 M€ (×6,1), marge 8,8 %, « 1,8 M€ en deçà de l'objectif annoncé en mars 2026 » ; dotations de 15,5 M€ (dépréciation de stocks selon ancienneté, rotation et prix de marché, et de créances) ; résultat d'exploitation 18,7 M€ ; résultat net part du groupe 17,0 M€. 2CRSi SA réalise 96 % du CA (370,9 M€) ; 2CRSi Corporation 4,3 M€ contre 185 M€ un an plus tôt ; 89 % du CA facturé par les sociétés européennes, 82 % réalisé hors d'Europe ; premier client < 20 %. Services 27,7 M€ (8,3 M€), dont un contrat de 14,04 M€ HT avec la holding du PDG. Capitaux propres 46,5 M€ ; dettes financières 8,4 M€ (13,0) ; disponibilités 14,2 M€ au 30/06, trésorerie brute 22,4 M€ au 27/10 plus 6,0 M€ de lignes mobilisables ; flux d'exploitation 7,9 M€, BFR +14,4 M€ ; comptes arrêtés en continuité d'exploitation. Perspectives : priorité à l'amélioration des marges ; ambition d'1 Md€ de CA en 2026/27 confirmée, « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD » (rien n'est dit de la commande NYGC de 290 M$) ; tensions « très fortes » sur l'approvisionnement en DRAM et NAND. Rapport financier annuel annoncé pour le 31/10 ; AG mixte le 17/12/2026.",
-   "engagements": [
-    {
-     "id": "2026-10-30_resultats-2025-26#e1",
-     "texte": "Publication du rapport financier annuel, avec les rapports du commissaire aux comptes, le 31/10/2026",
-     "echeance": "2026-10-31",
-     "statut": "todo",
-     "statue_par": null,
-     "note": ""
-    }
-   ],
+   "titre": "14,04 M€ de services facturés à la holding du PDG ; compte courant HAW de 14,2 M€ et créances sur HAW de 16,9 M€",
+   "texte": "Les revenus de services (27,7 M€) « intègrent un contrat de prestations de services et de cession exclusive des droits de propriété intellectuelle avec Holding Alain Wilmouth (HAW), société mère du Groupe et partie liée, pour un montant global de 14,04 M€ HT », qui « conclut un programme d'études et de conception engagé en juillet 2024, portant sur une infrastructure modulaire de calcul haute performance de 14,4 MW dédiée à l'intelligence artificielle (« AI Factory – AI Modular Data Center B300 ») ». Au 30/06/2026, « le compte courant créditeur envers HAW s'élève à 14,2 M€ et les créances détenues sur HAW à 16,9 M€ » ; les flux de financement intègrent une variation du compte courant d'associé de +11,6 M€. Le commissaire aux comptes cite parmi ses motifs d'impossibilité de certifier des transactions avec des parties liées contribuant pour 15,3 M€ au chiffre d'affaires. Le CP du 05/08/2026 indiquait 629 760 € HT facturés à AETHER Infrastructures sur l'exercice.",
+   "engagements": [],
    "liens": [
     {
-     "type": "infirme",
-     "cible": "2026-07-23_ca-annuel-2025-26"
+     "type": "precise",
+     "cible": "2026-08-05_aether-gouvernance"
     },
     {
      "type": "precise",
-     "cible": "2026-03-26_s1-2025-26"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-10-29_report-resultats"
+     "cible": "2024-12-31_alispalu-serveurs"
     }
    ],
    "majeur": true
@@ -5543,72 +5822,135 @@
    "sources_libelle": [
     "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
    ],
-   "id": "2026-10-30_haw-contrat-14m",
+   "id": "2026-10-30_resultats-2025-26",
    "sujets": [
-    "gouv",
-    "res"
+    "res",
+    "griz"
    ],
-   "titre": "14,04 M€ de services facturés à la holding du PDG ; compte courant HAW de 14,2 M€ et créances sur HAW de 16,9 M€",
-   "texte": "Les revenus de services (27,7 M€) « intègrent un contrat de prestations de services et de cession exclusive des droits de propriété intellectuelle avec Holding Alain Wilmouth (HAW), société mère du Groupe et partie liée, pour un montant global de 14,04 M€ HT », qui « conclut un programme d'études et de conception engagé en juillet 2024, portant sur une infrastructure modulaire de calcul haute performance de 14,4 MW dédiée à l'intelligence artificielle (« AI Factory – AI Modular Data Center B300 ») ». Au 30/06/2026, « le compte courant créditeur envers HAW s'élève à 14,2 M€ et les créances détenues sur HAW à 16,9 M€ » ; les flux de financement intègrent une variation du compte courant d'associé de +11,6 M€. Le commissaire aux comptes cite parmi ses motifs d'impossibilité de certifier des transactions avec des parties liées contribuant pour 15,3 M€ au chiffre d'affaires. Le CP du 05/08/2026 indiquait 629 760 € HT facturés à AETHER Infrastructures sur l'exercice.",
-   "engagements": [],
+   "titre": "Résultats 2025/26 : CA ramené à 386,5 M€ (32,5 M€ annulés), EBITDA 34,2 M€, résultat net 17,0 M€",
+   "texte": "Comptes arrêtés par le conseil du 30/10/2026 (normes françaises). Chiffre d'affaires de 386,5 M€ (+75 %), contre 416,2 M€ publiés le 23/07 : « un avis juridique portant sur certaines opérations réalisées par sa filiale aux États-Unis » a conduit à annuler 32,5 M€ (37,9 M$) de chiffre d'affaires et 30,5 M€ de charges correspondantes, sans effet sur la trésorerie. L'objectif initial de 300 M€ est dépassé, celui de « plus de 400 M€ » (mars 2026) n'est pas atteint. EBITDA 34,2 M€ (×6,1), marge 8,8 %, « 1,8 M€ en deçà de l'objectif annoncé en mars 2026 » ; dotations de 15,5 M€ (dépréciation de stocks selon ancienneté, rotation et prix de marché, et de créances) ; résultat d'exploitation 18,7 M€ ; résultat net part du groupe 17,0 M€. 2CRSi SA réalise 96 % du CA (370,9 M€) ; 2CRSi Corporation 4,3 M€ contre 185 M€ un an plus tôt ; 89 % du CA facturé par les sociétés européennes, 82 % réalisé hors d'Europe ; premier client < 20 %. Services 27,7 M€ (8,3 M€), dont un contrat de 14,04 M€ HT avec la holding du PDG. Capitaux propres 46,5 M€ ; dettes financières 8,4 M€ (13,0) ; disponibilités 14,2 M€ au 30/06, trésorerie brute 22,4 M€ au 27/10 plus 6,0 M€ de lignes mobilisables ; flux d'exploitation 7,9 M€, BFR +14,4 M€ ; comptes arrêtés en continuité d'exploitation. Perspectives : priorité à l'amélioration des marges ; ambition d'1 Md€ de CA en 2026/27 confirmée, « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD » (rien n'est dit de la commande NYGC de 290 M$) ; tensions « très fortes » sur l'approvisionnement en DRAM et NAND. Rapport financier annuel annoncé pour le 31/10 ; AG mixte le 17/12/2026.",
+   "engagements": [
+    {
+     "id": "2026-10-30_resultats-2025-26#e1",
+     "texte": "Publication du rapport financier annuel, avec les rapports du commissaire aux comptes, le 31/10/2026",
+     "echeance": "2026-10-31",
+     "statut": "ok",
+     "statue_par": "S173",
+     "note": "publié le 31/10 avec les rapports d'EY"
+    }
+   ],
    "liens": [
     {
-     "type": "precise",
-     "cible": "2026-08-05_aether-gouvernance"
+     "type": "infirme",
+     "cible": "2026-07-23_ca-annuel-2025-26"
     },
     {
      "type": "precise",
-     "cible": "2024-12-31_alispalu-serveurs"
+     "cible": "2026-03-26_s1-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-29_report-resultats"
     }
    ],
    "majeur": true
   },
   {
-   "date": "2026-10-30",
-   "date_affichee": "30 oct. 2026",
+   "id": "2026-10-31_rapport-ey",
+   "date": "2026-10-31",
+   "date_affichee": "31 oct. 2026",
+   "sujets": [
+    "res",
+    "gouv"
+   ],
    "statut": "doc",
+   "titre": "Rapports d'EY : impossibilité de certifier les comptes consolidés et annuels, exercice clos « et exercice précédent »",
+   "texte": "Rapports du commissaire aux comptes Ernst & Young Audit (Strasbourg, signataire Alban de Claverie), datés du 31 octobre 2026, insérés dans le rapport financier annuel (comptes consolidés p. 119-122, comptes annuels de 2CRSi SA p. 148-151). Fondement, identique dans les deux rapports : « En raison des insuffisances du dispositif de contrôle interne concernant des transactions enregistrées par la société […] et de l'absence de réponses ou de réponses satisfaisantes aux demandes de confirmations que nous avons adressées aux clients de la société, nous n'avons pas obtenu d'éléments suffisants et appropriés permettant de justifier la nature, la substance, les montants et la conformité avec les lois et règlements de transactions significatives réalisées par la société au cours de l'exercice clos le 30 juin 2026 et de l'exercice précédent. » Ces transactions sont des « reventes de matériels informatiques enregistrées en chiffre d'affaires » et, pour certaines, des « commissions et de rémunérations commerciales » enregistrées en chiffre d'affaires. Parties liées (15,3 M€ de CA) : éléments insuffisants « ni la recouvrabilité des créances associées ». Enquêtes américaines : « aucun élément d'appréciation ne permet à ce jour de prévoir l'issue de ces procédures ». Conclusion : « les incidences éventuelles […] d'anomalies non détectées pourraient être significatives et ne peuvent être clairement circonscrites ». Les informations du rapport de gestion « appellent de notre part les mêmes constatations ». Par rapport au CP du 30/10 : le périmètre s'étend à l'exercice 2024/25 (certifié sans réserve l'an dernier), aux transactions de 2CRSi SA elle-même (96 % du CA), et mentionne l'absence de confirmations clients et les commissions, non évoquées par la société. Pas de réserve sur la continuité d'exploitation ; une observation sur la première application du règlement ANC 2022-06. Honoraires 2025-26 : 227 k€.",
    "sources": [
-    "S172"
+    "S174",
+    "S173"
    ],
    "sources_libelle": [
-    "CP 2CRSi du 30/10/2026 : résultats annuels 2025/26"
+    "Rapports du commissaire aux comptes, 31/10/2026 (captures)",
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
    ],
-   "id": "2026-10-30_aether-20mw-adimes",
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_impossibilite-certifier"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rfa-2025-26"
+    }
+   ],
+   "majeur": false
+  },
+  {
+   "id": "2026-10-31_rfa-2025-26",
+   "date": "2026-10-31",
+   "date_affichee": "31 oct. 2026",
    "sujets": [
-    "aether"
+    "res",
+    "gouv",
+    "nygc"
    ],
-   "titre": "ÆTHER : candidature EuroHPC préparée, AI Factory de 20 MW à FR-SXB2 visée au T3 2027, HAW « deviendra minoritaire »",
-   "texte": "Selon le CP, 2CRSi « a joué un rôle déterminant dans la constitution, la structuration et la préparation de la réponse du consortium ÆTHER Infrastructure » à l'appel EuroHPC du 30/07/2026 ; « la Phase 1 prévoit la mise en service d'une AI Factory de 20 MW dès le troisième trimestre 2027 » au Port du Rhin (FR-SXB2). « Au sein du consortium, 2CRSi est désignée, conjointement avec Adimes, comme l'entité responsable de l'intégration et des tests des serveurs et des modules d'AI Factory sur le campus. » « Aether Infrastructures est une partie liée de la Société : son actionnaire unique est à ce jour HAW, qui deviendra minoritaire à l'entrée prochaine de nouveaux actionnaires à son capital. » Le CP ne nomme pas ces actionnaires ni le lot visé. Le groupe anticipe « une augmentation significative de ses prises de commandes » grâce au projet.",
+   "statut": "doc",
+   "titre": "Rapport financier annuel : 180 M€ d'opérations 2024/25 « similaires » non réexaminées, contrat HAW autorisé a posteriori, Alispalu, enquêtes américaines",
+   "texte": "Rapport financier annuel 2025-26 (152 pages) publié le 31/10/2026. Principaux éléments absents du CP du 30/10 : (1) « Les conséquences de cette analyse [l'avis juridique ayant conduit à annuler 32,5 M€ de CA] n'ont pas été appréhendées sur des opérations similaires enregistrées dans les comptes au 30 juin 2025 portant sur un montant de chiffre d'affaires de 180 M€ » (§3.7.1), sur un CA 2024/25 de 220,7 M€ certifié sans réserve. (2) Contrat HAW : signé le 29/06/2026 avec effet au 02/07/2024, prix de 14 042 k€ HT fixé à 8 % du coût de construction d'un projet de 14,4 MW destiné au site de NYGC à Ione (Californie) ; « la créance de 16,9 M€ TTC n'était ni facturée ni encaissée au 30 juin 2026 » ; autorisation du conseil le 30/10/2026 seulement, le PDG ne prenant pas part au vote ; soumis à l'AG du 17/12/2026 au titre de l'article L. 225-42 (convention non autorisée) ; la continuité d'exploitation suppose que cette créance « sera compensée avec le compte courant de HAW » (§3.5.1) ; « une partie importante de l'Ebitda de l'année est réalisée avec HAW » (§2.3). (3) Parties liées : HAW 14 066 k€ de CA, Alispalu SAS (100 % Alain Wilmouth) 1 316 k€ (complément de prix sur 118 serveurs Walker Pass vendus en décembre 2024) et 585 k€ de charges, AETHER 630 k€, NYGC 60 k€ ; créances de 16,9 M€, 1,6 M€, 0,8 M€ et 0,1 M€ ; compte courant HAW 14,2 M€, rémunéré (240 k€ d'intérêts), exigible à moins d'un an (§3.10.1). (4) Enquêtes américaines : subpoena BIS (nov. 2024), grand jury subpoenas NDCal (avr. et oct. 2025) et CDCal (mai 2026), Export Administration Regulations, aucune provision (§2.8.1). (5) Adimes est une filiale à 100 % de 2CRSi SA (ex-Boston France), usine d'assemblage du groupe, future « 2CRSi OEM » (§1.1.2, §3.4.2). (6) Dépréciations : stocks dépréciés à 25 % de la valeur brute (7 % un an plus tôt), 4,2 M€ sur créances clients ; effectif moyen 103 (112). (7) Opérations du PDG : cession d'environ 60 000 titres le 02/10/2025 à 13 € (« suite à l'erreur sur la plateforme de trading ») et achat de 6 000 titres le 07/04/2025, déclarés à l'AMF le 24/02/2026 (§2.5.5.2). (8) Le document contient des mentions de rédaction non retirées (« [obligations restant à exécuter après le 30 octobre 2026 : à préciser] », p. 72 ; « Puis remplace la dernière phrase […] par : », p. 61) et renvoie à une note 3.9.4 inexistante. Les rapports du commissaire aux comptes y figurent en image (p. 119-122 et 148-151).",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
    "engagements": [
     {
-     "id": "2026-10-30_aether-20mw-adimes#e1",
-     "texte": "Mise en service d'une AI Factory de 20 MW à FR-SXB2 « dès le troisième trimestre 2027 »",
-     "echeance": "2027-09-30",
+     "id": "2026-10-31_rfa-2025-26#e1",
+     "texte": "AG mixte du 17/12/2026 : vote sur le contrat d'études HAW et la convention de services HAW non autorisés préalablement (art. L. 225-42), sur rapport spécial du commissaire aux comptes",
+     "echeance": "2026-12-17",
      "statut": "todo",
      "statue_par": null,
      "note": ""
     },
     {
-     "id": "2026-10-30_aether-20mw-adimes#e2",
-     "texte": "HAW « deviendra minoritaire à l'entrée prochaine de nouveaux actionnaires » au capital d'AETHER Infrastructures",
+     "id": "2026-10-31_rfa-2025-26#e2",
+     "texte": "Créance de 16,9 M€ TTC sur HAW « compensée avec le compte courant de HAW », solde réglé « avant la fin de l'exercice » (30/06/2027)",
+     "echeance": "2027-06-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-10-31_rfa-2025-26#e3",
+     "texte": "Redémarrage complet de la centrale biomasse de Buena Vista « prévu par NYGC d'ici la fin de l'année 2026 »",
      "echeance": "2026-12-31",
      "statut": "todo",
      "statue_par": null,
-     "note": "« prochaine » sans date ; échéance indicative"
+     "note": "échéance indiquée par NYGC, rapportée par 2CRSi"
+    },
+    {
+     "id": "2026-10-31_rfa-2025-26#e4",
+     "texte": "Actualisation de la cartographie des risques « programmée au cours du prochain exercice »",
+     "echeance": "2027-06-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
     }
    ],
    "liens": [
     {
      "type": "precise",
-     "cible": "2026-10-09_sxb2-promesse"
+     "cible": "2026-10-30_resultats-2025-26"
     },
     {
      "type": "precise",
-     "cible": "2026-10-21_aether-compute-e"
+     "cible": "2026-10-30_haw-contrat-14m"
     },
     {
      "type": "precise",
-     "cible": "2026-08-05_aether-gouvernance"
+     "cible": "2026-10-30_aether-20mw-adimes"
     }
    ],
    "majeur": true
@@ -7579,6 +7921,25 @@
    "archive": "integral",
    "note": "Publié après Bourse le 30/10 (PDF créé à 19:33). PDF archivé : textes/pdf/2CRSI-CP-20261030-FR.pdf ; texte intégral dans textes/S172.txt. URL Actifin/EQS à relever.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S173",
+   "date_source": "2026-10-31",
+   "type": "officiel",
+   "reference": "Rapport financier annuel 2025-2026 de 2CRSi (152 p.), publié le 31/10/2026",
+   "url": "https://investors.2crsi.com",
+   "archive": "integral",
+   "note": "Texte intégral extrait dans textes/S173.txt (fourni par Picard, RFA_2025-26_vDEF.pdf). URL exacte à relever. Rapports du CAC en image, non extraits : voir S174.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S174",
+   "date_source": "2026-10-31",
+   "type": "officiel",
+   "reference": "Rapports du commissaire aux comptes (Ernst & Young Audit, Alban de Claverie) sur les comptes consolidés et annuels 2025-26, datés du 31/10/2026, pages 119-122 et 148-151 du rapport financier annuel",
+   "url": "",
+   "archive": "reference",
+   "note": "Captures d'écran des six pages : textes/pdf/S174_EY_conso_p1-3.png et S174_EY_sociaux_p1-3.png. Texte retranscrit dans l'événement 2026-10-31_rapport-ey."
   }
  ],
  "lieux": [
