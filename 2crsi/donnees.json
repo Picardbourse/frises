@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-31",
- "mis_a_jour": "2026-10-31T22:38",
- "arrete_au": "2026-10-31",
+ "genere_le": "2026-11-01",
+ "mis_a_jour": "2026-11-01T21:28",
+ "arrete_au": "2026-11-01",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 141,
-  "sources": 164
+  "evenements": 142,
+  "sources": 165
  },
  "evenements": [
   {
@@ -5979,6 +5979,94 @@
    "majeur": false
   },
   {
+   "id": "2026-11-01_lettre-actionnaires",
+   "date": "2026-11-01",
+   "date_affichee": "1 nov. 2026",
+   "sujets": [
+    "res",
+    "gouv",
+    "griz"
+   ],
+   "statut": "decl",
+   "titre": "Lettre du PDG aux actionnaires : EY en fonctions depuis le 01/07/2025, « l'essentiel de la question » porte sur 2024/25, part « importante » des ventes US avec des sociétés sous enquête, expert indépendant sur le contrat HAW",
+   "texte": "Lettre de 11 pages signée Alain Wilmouth, datée du 1er novembre 2026 et publiée le dimanche soir sur investors.2crsi.com. Le PDG écrit : « Je vous dois des explications » ; « Nous avons conclu des opérations importantes sans exiger la documentation qui permet de les prouver de bout en bout. Certaines de nos communications étaient imprécises » ; « j'en assume pleinement la responsabilité ». Éléments factuels nouveaux ou précisés : (1) « Notre commissaire aux comptes, le cabinet Ernst & Young Audit, a pris ses fonctions chez 2CRSi le 1er juillet 2025 » ; les opérations similaires de 2024/25 « avaient été certifiées sans réserve par notre précédent commissaire aux comptes ». (2) Sur l'exercice 2024/25, « des opérations similaires n'avaient pas été remises en question, et c'est là que porte l'essentiel de la question » ; ces comptes « ne seront pas rouverts » mais servent de comparaison ; une correction éventuelle « porterait […] sur la présentation du chiffre d'affaires et des achats ». (3) Opérations « en triangle » : « dans certains cas, le client a payé directement notre fournisseur, ou un tiers a financé l'opération ». (4) Enquêtes américaines : « Les sociétés sur lesquelles portent ces enquêtes ont représenté une part importante des ventes de notre filiale américaine » ; 2CRSi sollicitée « comme détentrice de documents » ; aucune provision. (5) Contrat HAW : prix fixé à 8 % d'un coût de construction de référence d'environ 175 M€ pour 14,4 MW, soit 14,0 M€ HT (16,9 M€ TTC) ; les comparables présentés ont été « jugés insuffisants » par le CAC ; « un contrat, entre deux sociétés que je dirige toutes les deux » ; HAW « préside Æther Infrastructures […] et elle finance NYGC, qui porte le projet de Buena Vista ». (6) L'expert indépendant « a confirmé la réalité des encaissements de 425 millions d'euros d'opérations examinés tout en identifiant certaines transactions sur lesquelles il n'a pas pu conclure » ; trésorerie de 22,4 M€ au 27/10/2026. (7) Chronologie interne : avis juridique et retrait de 32,5 M€ de CA le 26/10 ; quatrième juriste (conformité) depuis le 01/10 ; recrutement d'un directeur administratif et financier groupe ; deux cabinets d'avocats américains (Californie, Washington). (8) Vocabulaire : « Notre ambition pour l'exercice 2026-2027 est intacte : nous confirmons l'objectif d'un milliard d'euros de chiffre d'affaires publié le 30 octobre, hors contrat-cadre de 610 millions de dollars » (p. 1) ; « cet objectif dépend d'hypothèses et d'aléas » (p. 9). La lettre affirme aussi : « À ce jour, aucune autorité n'a mis en cause la société ni l'un de ses collaborateurs. »",
+   "sources": [
+    "S175"
+   ],
+   "sources_libelle": [
+    "Lettre aux actionnaires du 01/11/2026"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-01_lettre-actionnaires#e1",
+     "texte": "Mardi 3 novembre 2026 à 17 h 45 : conférence avec les investisseurs professionnels et les analystes, enregistrement mis en ligne sur investors.2crsi.com",
+     "echeance": "2026-11-03",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-01_lettre-actionnaires#e2",
+     "texte": "Avant le 17/12/2026 : réunion ouverte à tous les actionnaires, en visioconférence",
+     "echeance": "2026-12-17",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-01_lettre-actionnaires#e3",
+     "texte": "Désignation d'un expert indépendant « qui n'a jamais travaillé ni pour 2CRSi ni pour HAW » pour évaluer la valeur de marché de l'étude HAW ; conclusions publiées avant l'AG du 17/12/2026 « quelles qu'elles soient » ; prix « ajusté à la valeur retenue par l'expert, à la hausse comme à la baisse »",
+     "echeance": "2026-12-17",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-01_lettre-actionnaires#e4",
+     "texte": "Avant le 17/12/2026 : entrée en vigueur de la procédure de documentation de bout en bout de chaque opération de négoce (commande, expédition, réception, destination finale)",
+     "echeance": "2026-12-17",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-01_lettre-actionnaires#e5",
+     "texte": "Créance HAW de 16,9 M€ TTC réglée « après le vote de l'assemblée générale, par compensation avec le compte courant », solde éventuel avant le 30/06/2027",
+     "echeance": "2027-06-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "reprend l'engagement 2026-10-31_rfa-2025-26#e2 en le conditionnant au vote de l'AG"
+    },
+    {
+     "id": "2026-11-01_lettre-actionnaires#e6",
+     "texte": "« Un point d'avancement à chaque publication de résultats »",
+     "echeance": "2027-02-28",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "première occasion : résultats du 1er semestre 2026-27"
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rapport-ey"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rfa-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-30_haw-contrat-14m"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-30_impossibilite-certifier"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-11-12_eurohpc-cloture",
    "date": "2026-11-12",
    "date_affichee": "12 nov. 2026",
@@ -7940,6 +8028,16 @@
    "url": "",
    "archive": "reference",
    "note": "Captures d'écran des six pages : textes/pdf/S174_EY_conso_p1-3.png et S174_EY_sociaux_p1-3.png. Texte retranscrit dans l'événement 2026-10-31_rapport-ey."
+  },
+  {
+   "id": "S175",
+   "date_source": "2026-11-01",
+   "type": "CP",
+   "reference": "Lettre d'Alain Wilmouth « Aux actionnaires de 2CRSi » du 1er novembre 2026 et note « Comprendre l'impossibilité de certifier nos comptes 2025-2026 » (11 pages), publiée comme communiqué « Lettre aux actionnaires et explication sur le rapport du CAC »",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/lettre-aux-actionnaires-et-explication-sur-le-rapport-du-cac-186",
+   "archive": "integral",
+   "note": "Publiée le dimanche 01/11 en soirée (PDF créé à 20:38, auteur « 2CRSi Legal »). PDF archivé : textes/pdf/2CRSi_lettre_actionnaires_2026-11-01.pdf ; texte intégral dans textes/S175.txt ; version web vérifiée identique le 01/11 à 21h.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
