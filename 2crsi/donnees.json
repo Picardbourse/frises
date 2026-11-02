@@ -20,16 +20,16 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-01",
- "mis_a_jour": "2026-11-01T21:28",
- "arrete_au": "2026-11-01",
+ "genere_le": "2026-11-02",
+ "mis_a_jour": "2026-11-02T15:05",
+ "arrete_au": "2026-11-02",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
   "nom": "2CRSi",
   "intro": "Chronologie des communiqués, registres, articles de presse et déclarations publiques du dirigeant, de 2021 aux échéances annoncées. Chaque ligne porte une date et une source ; chaque source est consultable. Les engagements datés sont suivis jusqu'à leur échéance.",
   "note_exercice": "Exercice fiscal du 1er juillet au 30 juin : « 2026/27 » se termine le 30 juin 2027.",
-  "avertissement": "Plusieurs échéances tombent dans les semaines qui viennent, dont les résultats annuels du 29/10/2026 : la frise sera mise à jour après chacune.",
+  "avertissement": "Résultats annuels publiés le 30/10/2026, rapport financier annuel le 31/10 (comptes 2025-26 que le commissaire aux comptes n'a pas pu certifier), lettre du PDG aux actionnaires le 01/11. Prochaines échéances : conférence investisseurs le 03/11 à 17 h 45, assemblée générale le 17/12/2026. La frise est mise à jour après chacune.",
   "contact": "picard_bourse@proton.me",
   "sujets": {
    "nygc": {
