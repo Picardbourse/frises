@@ -21,7 +21,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T09:35",
+ "mis_a_jour": "2026-11-03T10:15",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -63,6 +63,10 @@
    "autre": {
     "label": "Clients & partenariats",
     "c": "--t-8"
+   },
+   "pl": {
+    "label": "Parties liées (HAW, Alispalu, ÆTHER, NYGC)",
+    "c": "--t-9"
    }
   },
   "lectures": [
@@ -75,8 +79,8 @@
   ]
  },
  "nb": {
-  "evenements": 143,
-  "sources": 167
+  "evenements": 149,
+  "sources": 172
  },
  "evenements": [
   {
@@ -604,16 +608,23 @@
    "date": "2024-12-31",
    "date_affichee": "31 déc. 2024",
    "sujets": [
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Vente de 118 serveurs à ALISPALU, société détenue à 100 % par le PDG",
-   "texte": "Le conseil d'administration autorise la vente à ALISPALU SAS (partie liée, détenue à 100 % par Alain Wilmouth) de 118 serveurs Intel Walker Pass installés chez Green Data et utilisés dans un contrat client, pour 3 870 400 € HT (32 800 € par serveur), avec une période de transition jusqu'au départ du client. Au premier semestre 2025/26, un complément de prix de 1,3 M€ est facturé à ALISPALU pour la location transitoire de ces serveurs.",
+   "texte": "Le conseil d'administration autorise la vente à ALISPALU SAS (partie liée, détenue à 100 % par Alain Wilmouth) de 118 serveurs Intel Walker Pass installés chez Green Data et utilisés dans un contrat client, pour 3 870 400 € HT (32 800 € par serveur), avec une période de transition jusqu'au départ du client. Au premier semestre 2025/26, un complément de prix de 1,3 M€ est facturé à ALISPALU pour la location transitoire de ces serveurs. Le rapport financier annuel 2024-25 chiffre le chiffre d'affaires réalisé avec ALISPALU à 4 030 k€ sur l'exercice (110 k€ en 2023-24). Le rapport 2025-26 décrit le 1,3 M€ comme la « facturation de complément de prix comptabilisé au cours de l'exercice de 1.3 M€ sur la vente des Walker Pass réalisée en 2025 » ; créance de 1 570 k€ sur ALISPALU au 30/06/2026. ALISPALU (SASU au capital de 1 000 €, objet statutaire « la réalisation et l'exploitation de sites internet ») n'a déposé aucun compte annuel au greffe.",
    "sources": [
-    "S065"
+    "S065",
+    "S178",
+    "S173",
+    "S182"
    ],
    "sources_libelle": [
-    "Rapport financier semestriel au 31/12/2025, § 2.3"
+    "Rapport financier semestriel au 31/12/2025, § 2.3",
+    "Rapport financier annuel 2024-2025, §3.8.1",
+    "Rapport financier annuel 2025-2026, §4.3.4.9 (p. 143)",
+    "Fiche Pappers et statuts d'ALISPALU"
    ],
    "engagements": [],
    "liens": [],
@@ -696,6 +707,56 @@
    "majeur": true
   },
   {
+   "id": "2025-04-15_haw-objet-capital",
+   "date": "2025-04-15",
+   "date_affichee": "15 avr. 2025",
+   "sujets": [
+    "gouv",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "Holding Alain Wilmouth étend son objet aux prestations de services pour les sociétés qu'elle contrôle",
+   "texte": "Par consultation écrite, les associés de Holding Alain Wilmouth (HAW) adoptent un nouvel objet social qui inclut « toutes prestations de services en matière commerciale, administrative, financière, informatique, en matière de gestion […] au profit de toute société contrôlée directement ou indirectement » et le financement des sociétés contrôlées. Associés votants : Alain Wilmouth (22 909 actions), BNP Paribas Développement (2 090 actions) et ALISPALU (1 action), pour un capital de 25 000 €. HAW détient 51,43 % des droits de vote de 2CRSi au 30/06/2026 (rapport financier annuel 2025-26).",
+   "sources": [
+    "S179",
+    "S173"
+   ],
+   "sources_libelle": [
+    "PV de la consultation écrite des associés de HAW, 15/04/2025",
+    "Rapport financier annuel 2025-2026, §2.5.3.1.1"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-06-01_transfert-finance-haw"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-04-15",
+      "cloture": 3.71,
+      "volume": 33480,
+      "variation_pct": -1.6,
+      "volume_vs_moy20": 0.2
+     },
+     {
+      "role": "suivante",
+      "date": "2025-04-16",
+      "cloture": 3.66,
+      "volume": 36331,
+      "variation_pct": -1.3,
+      "volume_vs_moy20": 0.3
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2025-04-15_subpoena-ndcal-1",
    "date": "2025-04-15",
    "date_affichee": "avr. 2025",
@@ -714,6 +775,33 @@
    "engagements": [],
    "liens": [],
    "revele_le": "2026-10-31",
+   "majeur": false
+  },
+  {
+   "id": "2025-06-01_transfert-finance-haw",
+   "date": "2025-06-01",
+   "date_affichee": "juin 2025",
+   "sujets": [
+    "gouv",
+    "pl"
+   ],
+   "statut": "doc",
+   "revele_le": "2026-10-31",
+   "titre": "Finance, comptabilité et RH de 2CRSi transférées à la holding du PDG ; convention de services exécutée sans autorisation",
+   "texte": "Selon le rapport financier annuel 2025-26 : « En 2025, les services Finance, Comptabilité et Ressources Humaines ont été transférés de 2CRSi à Holding Alain Wilmouth » (p. 79). La convention de prestations de services (« finance, juridique et ressources humaines ») de HAW à 2CRSi s'exécute depuis le 1er juin 2025 ; « l'autorisation préalable du Conseil d'Administration pour sa période d'exécution antérieure (du 1er juin 2025 au 30 juin 2026) a été omise » et sera soumise à l'AG du 17/12/2026 (§2.6.8.2). Charges externes de 2CRSi envers HAW : 771,5 k€ sur 2025-26 (note 3.10.1). Fait rendu public le 31/10/2026.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026 (31/10/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-29_conseil-conventions"
+    }
+   ],
    "majeur": false
   },
   {
@@ -1330,6 +1418,32 @@
    "majeur": false
   },
   {
+   "id": "2025-11-06_rfa-2024-25",
+   "date": "2025-11-06",
+   "date_affichee": "nov. 2025",
+   "sujets": [
+    "res",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "Rapport financier annuel 2024-25 : 4 030 k€ de ventes à ALISPALU, compte courant HAW de 2,2 M€",
+   "texte": "Note « Parties liées » (§3.8.1) : chiffre d'affaires avec ALISPALU de 4 030 k€ sur 2024-25 (110 k€ en 2023-24), charges externes de 387,6 k€ (49,8 k€) et achats de 15,5 k€ (2,7 k€) ; chiffre d'affaires avec HAW de 22 k€ (60 k€). Au 30/06/2025 (§4.3.4.9) : créance de 43 k€ sur ALISPALU et une ligne « dettes fournisseurs » de « (1 492) » k€ ; compte courant créditeur de HAW de 2 249 k€ (14,2 M€ un an plus tard). Adimes y figure comme filiale à 100 % de 2CRSi SA ; ALISPALU « ne fait pas partie du périmètre consolidé ». Rapport daté de la version signée (PDF du 06/11/2025).",
+   "sources": [
+    "S178"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2024-2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-12-31_alispalu-serveurs"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2025-11-14_green-data-100",
    "date": "2025-11-14",
    "date_affichee": "14 nov. 2025",
@@ -1443,6 +1557,64 @@
       "volume": 367317,
       "variation_pct": 9.9,
       "volume_vs_moy20": 2.2
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2025-12-18_ag-2025",
+   "date": "2025-12-18",
+   "date_affichee": "18 déc. 2025",
+   "sujets": [
+    "gouv",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "AG 2025 : nomination d'EY comme commissaire aux comptes ; le conseil déclare « aucune convention » réglementée conclue en 2024-25",
+   "texte": "Le rapport du conseil sur les résolutions propose de ne pas renouveler la Fiduciaire de Révision et de nommer Ernst & Young Audit pour six ans, jusqu'à l'AG statuant sur l'exercice clos le 30/06/2031 (10e résolution) ; la lettre du PDG du 01/11/2026 indique qu'EY « a pris ses fonctions chez 2CRSi le 1er juillet 2025 ». Cinquième résolution : « aucune convention ni engagement réglementé n'a été conclu au cours de l'exercice clos le 30 juin 2025 ». Sur ce même exercice, le conseil avait autorisé la vente de 118 serveurs à ALISPALU (rapport semestriel, décembre 2024) et la convention de services HAW s'exécutait depuis le 01/06/2025 sans autorisation (rapport 2025-26). Autres résolutions : renouvellement de Lilla Merabet et de Marie-Estelle Schang (« administratrice et salariée de 2CRSi »), nomination de Nathalie Roos, rémunération globale des administrateurs de 150 000 €. Résultats des votes non archivés.",
+   "sources": [
+    "S181",
+    "S175"
+   ],
+   "sources_libelle": [
+    "Rapport du conseil sur les résolutions de l'AG du 18/12/2025",
+    "Lettre aux actionnaires du 01/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-06-01_transfert-finance-haw"
+    },
+    {
+     "type": "precise",
+     "cible": "2024-12-31_alispalu-serveurs"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rapport-ey"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-12-18",
+      "cloture": 12.64,
+      "volume": 367317,
+      "variation_pct": 9.9,
+      "volume_vs_moy20": 2.2
+     },
+     {
+      "role": "suivante",
+      "date": "2025-12-19",
+      "cloture": 12.26,
+      "volume": 288706,
+      "variation_pct": -3.0,
+      "volume_vs_moy20": 1.7
      }
     ]
    },
@@ -1926,7 +2098,7 @@
     "gouv"
    ],
    "statut": "doc",
-   "titre": "Composition du conseil d'administration : sept membres, trois indépendantes",
+   "titre": "Composition du conseil d'administration : sept membres, dont trois indépendants",
    "texte": "Alain Wilmouth (PDG), Michel Wilmouth, Estelle Schang, HAW représentée par Jean-Louis Wilmouth, et trois administrateurs indépendants : Lilla Merabet, Hervé Landau, Nathalie Roos. Mandats de trois ans. Actions détenues (RFS) : HAW 10 509 960, Alain Wilmouth 1 010 552, Michel Wilmouth 879 962, soit environ 55 % du capital (22 367 975 actions au 31/12/2025 ; 22 596 441 au 25/03/2026).",
    "sources": [
     "S065"
@@ -2053,7 +2225,8 @@
    "date_affichee": "24 avr. 2026",
    "sujets": [
     "aether",
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Infrastructures",
@@ -2103,7 +2276,8 @@
    "date_affichee": "30 avr. 2026",
    "sujets": [
     "nygc",
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "La holding du PDG souscrit des obligations émises par NYGC ; NYGC devient une partie liée",
@@ -2824,6 +2998,56 @@
    "majeur": true
   },
   {
+   "id": "2026-06-23_haw-capital",
+   "date": "2026-06-23",
+   "date_affichee": "23 juin 2026",
+   "sujets": [
+    "gouv",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "Capital de Holding Alain Wilmouth ramené à 22 910 €",
+   "texte": "Annonce BODACC « Modifications et mutations diverses » : capital de HAW de 22 910 € (25 000 € en avril 2025). L'écart, 2 090 €, correspond au nombre d'actions que détenait BNP Paribas Développement en avril 2025 (calcul ; l'annonce ne nomme pas d'associé sortant).",
+   "sources": [
+    "S180",
+    "S179"
+   ],
+   "sources_libelle": [
+    "BODACC B des 22-23/06/2026, annonce n° 3679",
+    "PV de consultation écrite de HAW, 15/04/2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-04-15_haw-objet-capital"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-23",
+      "cloture": 27.62,
+      "volume": 1458328,
+      "variation_pct": 25.5,
+      "volume_vs_moy20": 3.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-06-24",
+      "cloture": 26.6,
+      "volume": 994258,
+      "variation_pct": -3.7,
+      "volume_vs_moy20": 2.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-06-26_les-echos-aw",
    "date": "2026-06-26",
    "date_affichee": "26 juin 2026",
@@ -2876,7 +3100,8 @@
    "date_affichee": "29 juin 2026",
    "sujets": [
     "gouv",
-    "res"
+    "res",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Signature du contrat HAW de 14,04 M€ (effet rétroactif au 02/07/2024) et autorisation de trois conventions réglementées",
@@ -3092,17 +3317,17 @@
      "id": "2026-07-08_aether-12-membres#e2",
      "texte": "Démarrage de FR-SXB1 « courant 2027 »",
      "echeance": "2027-12-31",
-     "statut": "todo",
-     "statue_par": null,
-     "note": ""
+     "statut": "warn",
+     "statue_par": "S173",
+     "note": "La condition posée (acquisition définitive du site avant fin octobre 2026) n'est pas documentée au 03/11/2026."
     },
     {
      "id": "2026-07-08_aether-12-membres#e3",
      "texte": "Finalisation de l'acquisition de FR-SXB1 « avant la fin octobre 2026 », condition posée au démarrage du site « courant de l'année 2027 »",
      "echeance": "2026-10-31",
-     "statut": "todo",
-     "statue_par": null,
-     "note": ""
+     "statut": "nd",
+     "statue_par": "S173",
+     "note": "Aucune annonce d'acquisition au 03/11/2026 ; le rapport financier annuel du 31/10 ne mentionne plus FR-SXB1 (seul FR-SXB2 y est décrit)."
     }
    ],
    "liens": [
@@ -3256,9 +3481,9 @@
      "id": "2026-07-16_reponse-grizzly#e2",
      "texte": "NYGC dans le CA 2026/27",
      "echeance": "2027-06-30",
-     "statut": "todo",
-     "statue_par": null,
-     "note": "exercice clos le 30/06/2027"
+     "statut": "warn",
+     "statue_par": "S173",
+     "note": "Rapport financier annuel du 31/10/2026 (p. 25) : l'objectif d'un milliard « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD ni du contrat conclu avec NYGC » ; commande non activée et résiliable depuis le 30/09/2026 selon l'expert (29/10)."
     }
    ],
    "liens": [
@@ -3730,7 +3955,8 @@
    "date_affichee": "5 août 2026",
    "sujets": [
     "aether",
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Gouvernance d'AETHER Infrastructures et avancement des sites",
@@ -4311,6 +4537,54 @@
       "volume": 303383,
       "variation_pct": -2.1,
       "volume_vs_moy20": 1.8
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-09-08_demission-roos",
+   "date": "2026-09-08",
+   "date_affichee": "8 sept. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "revele_le": "2026-10-31",
+   "titre": "Démission de Nathalie Roos, administratrice indépendante, avec effet immédiat",
+   "texte": "Son mandat « a pris fin de manière anticipée le 8 septembre 2026, à la suite de la démission de ses fonctions d'administratrice indépendante, notifiée à la Société avec effet immédiat » ; le conseil en a pris acte le 12/10/2026. Le conseil compte désormais six membres, dont deux indépendants (Lilla Merabet, Hervé Landau). Nathalie Roos siégeait au comité d'audit et des risques depuis le 18/12/2025. Fait rendu public le 31/10/2026.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-2026, §2.6.3.1 et §2.6.4.1"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-03-31_conseil-administration"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-09-08",
+      "cloture": 28.54,
+      "volume": 175423,
+      "variation_pct": -1.9,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-09-09",
+      "cloture": 28.44,
+      "volume": 164249,
+      "variation_pct": -0.4,
+      "volume_vs_moy20": 1.1
      }
     ]
    },
@@ -5096,7 +5370,8 @@
    "date_affichee": "9 oct. 2026 (CP du 12/10)",
    "sujets": [
     "aether",
-    "res"
+    "res",
+    "pl"
    ],
    "statut": "doc",
    "titre": "FR-SXB2 : promesse de vente signée pour le site Dumarey Powerglide (Port du Rhin)",
@@ -5197,11 +5472,12 @@
    "date": "2026-10-16",
    "date_affichee": "16 oct. 2026",
    "sujets": [
-    "aether"
+    "aether",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Facilities SXB2, société immobilière dédiée au site FR-SXB2, filiale à 100 % d'AETHER Infrastructures",
-   "texte": "SASU au capital de 1 000 €, siège à Sarreguemines, immatriculée le 19/10/2026 (NAF 68.20B, location de terrains et d'autres biens immobiliers), sans salarié. Associée unique et présidente : AETHER Infrastructures, elle-même détenue et présidée par la holding d'Alain Wilmouth. Objet : acquisition, construction, exploitation « par bail, location ou autrement » et cession d'immeubles ; obtention d'« autorisations ou conventions d'occupation temporaire du domaine public, notamment portuaire » ; détention et location d'équipements industriels attachés aux immeubles ; emprunts et sûretés, y compris en garantie des obligations des sociétés du groupe. Les statuts permettent des offres réservées à des investisseurs qualifiés et rendent libres les transferts d'actions à un fiduciaire en garantie des obligations de l'associé ou de son groupe. Seul acte repris de la période de formation : l'ouverture d'un compte bancaire (la promesse de vente du 09/10 a été signée par AETHER Infrastructures selon le CP du 12/10). Premier exercice clos le 30/06/2027. La dernière page des statuts indique une signature « le 26 octobre 2026 », postérieure à la date de l'acte et à l'immatriculation.",
+   "texte": "SASU au capital de 1 000 €, siège à Sarreguemines, immatriculée le 19/10/2026 (NAF 68.20B, location de terrains et d'autres biens immobiliers), sans salarié. Associée unique et présidente : AETHER Infrastructures, elle-même détenue et présidée par la holding d'Alain Wilmouth. Objet : acquisition, construction, exploitation « par bail, location ou autrement » et cession d'immeubles ; obtention d'« autorisations ou conventions d'occupation temporaire du domaine public, notamment portuaire » ; détention et location d'équipements industriels attachés aux immeubles ; emprunts et sûretés, y compris en garantie des obligations des sociétés du groupe. Les statuts permettent des offres réservées à des investisseurs qualifiés et rendent libres les transferts d'actions à un fiduciaire en garantie des obligations de l'associé ou de son groupe. L'état des actes annexé aux statuts ne mentionne que l'ouverture d'un compte bancaire, mais l'article 32 donne mandat à la présidente, jusqu'à l'immatriculation, (i) d'« accepter la substitution de la Société dans le bénéfice de la promesse unilatérale de vente consentie par la société DUMAREY POWERGLIDE STRASBOURG au profit de la société AETHER INFRASTRUCTURES » (acte notarié du 09/10/2026, ensemble immobilier du 81 rue de la Rochelle à Strasbourg) et (ii) de « déposer, conjointement avec la société DUMAREY POWERGLIDE STRASBOURG, toute demande d'agrément et de conclusion de conventions d'occupation temporaire auprès du Port Autonome de Strasbourg » ; « l'immatriculation de la Société emportera reprise de plein droit » de ces engagements. Premier exercice clos le 30/06/2027. La dernière page des statuts indique une signature « le 26 octobre 2026 », postérieure à la date de l'acte et à l'immatriculation.",
    "sources": [
     "S155",
     "S156",
@@ -5326,7 +5602,8 @@
    "date": "2026-10-21",
    "date_affichee": "21 oct. 2026",
    "sujets": [
-    "aether"
+    "aether",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Compute E, véhicule dédié à la candidature EuroHPC et à l'exploitation du calcul, filiale à 100 % d'AETHER Infrastructures",
@@ -5434,7 +5711,8 @@
    "date_affichee": "26 oct. 2026",
    "sujets": [
     "aether",
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Services, quatrième filiale à 100 % d'AETHER Infrastructures en dix jours",
@@ -5512,7 +5790,8 @@
    "date_affichee": "29 oct. 2026",
    "sujets": [
     "nygc",
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Relations avec Joseph Church : NYGC pourrait être en situation d'« influence notable »",
@@ -5764,7 +6043,8 @@
    "id": "2026-10-30_haw-contrat-14m",
    "sujets": [
     "gouv",
-    "res"
+    "res",
+    "pl"
    ],
    "titre": "14,04 M€ de services facturés à la holding du PDG ; compte courant HAW de 14,2 M€ et créances sur HAW de 16,9 M€",
    "texte": "Les revenus de services (27,7 M€) « intègrent un contrat de prestations de services et de cession exclusive des droits de propriété intellectuelle avec Holding Alain Wilmouth (HAW), société mère du Groupe et partie liée, pour un montant global de 14,04 M€ HT », qui « conclut un programme d'études et de conception engagé en juillet 2024, portant sur une infrastructure modulaire de calcul haute performance de 14,4 MW dédiée à l'intelligence artificielle (« AI Factory – AI Modular Data Center B300 ») ». Au 30/06/2026, « le compte courant créditeur envers HAW s'élève à 14,2 M€ et les créances détenues sur HAW à 16,9 M€ » ; les flux de financement intègrent une variation du compte courant d'associé de +11,6 M€. Le commissaire aux comptes cite parmi ses motifs d'impossibilité de certifier des transactions avec des parties liées contribuant pour 15,3 M€ au chiffre d'affaires. Le CP du 05/08/2026 indiquait 629 760 € HT facturés à AETHER Infrastructures sur l'exercice.",
@@ -5795,7 +6075,8 @@
    "sujets": [
     "griz",
     "gouv",
-    "res"
+    "res",
+    "pl"
    ],
    "titre": "Le commissaire aux comptes prévoit une impossibilité de certifier les comptes 2025/26",
    "texte": "Selon le CP, « le commissaire aux comptes a indiqué qu'il prévoit d'émettre une impossibilité de certifier les comptes annuels et consolidés de l'exercice clos le 30 juin 2026 », pour trois motifs : « des insuffisances du dispositif de contrôle interne concernant notamment des transactions de reventes de matériel informatique enregistrées en chiffre d'affaires, des achats desdits matériels enregistrés en charge ainsi que des flux d'encaissement et décaissement y afférents » ; « des éléments insuffisants permettant de justifier les valeurs enregistrées […] au titre de transactions avec des parties liées contribuant à hauteur de 15,3 M€ au chiffre d'affaires » ; « des incertitudes liées à des procédures en cours pour lesquelles la filiale américaine a été sollicitée par des autorités à plusieurs reprises au cours des deux derniers exercices afin de produire toutes les informations disponibles en sa possession ». Les autorités et les procédures ne sont pas précisées. Une impossibilité de certifier n'est pas un refus : l'auditeur dit ne pas avoir pu réunir les éléments nécessaires pour se prononcer. Les rapports du commissaire aux comptes sont annoncés dans le rapport financier annuel du 31/10.",
@@ -5861,7 +6142,8 @@
    "date_affichee": "31 oct. 2026",
    "sujets": [
     "res",
-    "gouv"
+    "gouv",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Rapports d'EY : impossibilité de certifier les comptes consolidés et annuels, exercice clos « et exercice précédent »",
@@ -5894,11 +6176,12 @@
    "sujets": [
     "res",
     "gouv",
-    "nygc"
+    "nygc",
+    "pl"
    ],
    "statut": "doc",
    "titre": "Rapport financier annuel : 180 M€ d'opérations 2024/25 « similaires » non réexaminées, contrat HAW autorisé a posteriori, Alispalu, enquêtes américaines",
-   "texte": "Rapport financier annuel 2025-26 (152 pages) publié le 31/10/2026. Principaux éléments absents du CP du 30/10 : (1) « Les conséquences de cette analyse [l'avis juridique ayant conduit à annuler 32,5 M€ de CA] n'ont pas été appréhendées sur des opérations similaires enregistrées dans les comptes au 30 juin 2025 portant sur un montant de chiffre d'affaires de 180 M€ » (§3.7.1), sur un CA 2024/25 de 220,7 M€ certifié sans réserve. (2) Contrat HAW : signé le 29/06/2026 avec effet au 02/07/2024, prix de 14 042 k€ HT fixé à 8 % du coût de construction d'un projet de 14,4 MW destiné au site de NYGC à Ione (Californie) ; « la créance de 16,9 M€ TTC n'était ni facturée ni encaissée au 30 juin 2026 » ; autorisation du conseil le 30/10/2026 seulement, le PDG ne prenant pas part au vote ; soumis à l'AG du 17/12/2026 au titre de l'article L. 225-42 (convention non autorisée) ; la continuité d'exploitation suppose que cette créance « sera compensée avec le compte courant de HAW » (§3.5.1) ; « une partie importante de l'Ebitda de l'année est réalisée avec HAW » (§2.3). (3) Parties liées : HAW 14 066 k€ de CA, Alispalu SAS (100 % Alain Wilmouth) 1 316 k€ (complément de prix sur 118 serveurs Walker Pass vendus en décembre 2024) et 585 k€ de charges, AETHER 630 k€, NYGC 60 k€ ; créances de 16,9 M€, 1,6 M€, 0,8 M€ et 0,1 M€ ; compte courant HAW 14,2 M€, rémunéré (240 k€ d'intérêts), exigible à moins d'un an (§3.10.1). (4) Enquêtes américaines : subpoena BIS (nov. 2024), grand jury subpoenas NDCal (avr. et oct. 2025) et CDCal (mai 2026), Export Administration Regulations, aucune provision (§2.8.1). (5) Adimes est une filiale à 100 % de 2CRSi SA (ex-Boston France), usine d'assemblage du groupe, future « 2CRSi OEM » (§1.1.2, §3.4.2). (6) Dépréciations : stocks dépréciés à 25 % de la valeur brute (7 % un an plus tôt), 4,2 M€ sur créances clients ; effectif moyen 103 (112). (7) Opérations du PDG : cession d'environ 60 000 titres le 02/10/2025 à 13 € (« suite à l'erreur sur la plateforme de trading ») et achat de 6 000 titres le 07/04/2025, déclarés à l'AMF le 24/02/2026 (§2.5.5.2). (8) Le document contient des mentions de rédaction non retirées (« [obligations restant à exécuter après le 30 octobre 2026 : à préciser] », p. 72 ; « Puis remplace la dernière phrase […] par : », p. 61) et renvoie à une note 3.9.4 inexistante. Les rapports du commissaire aux comptes y figurent en image (p. 119-122 et 148-151).",
+   "texte": "Rapport financier annuel 2025-26 (152 pages) publié le 31/10/2026. Principaux éléments absents du CP du 30/10 : (1) « Les conséquences de cette analyse [l'avis juridique ayant conduit à annuler 32,5 M€ de CA] n'ont pas été appréhendées sur des opérations similaires enregistrées dans les comptes au 30 juin 2025 portant sur un montant de chiffre d'affaires de 180 M€ » (§3.7.1), sur un CA 2024/25 de 220,7 M€ certifié sans réserve. (2) Contrat HAW : signé le 29/06/2026 avec effet au 02/07/2024, prix de 14 042 k€ HT fixé à 8 % du coût de construction d'un projet de 14,4 MW destiné au site de NYGC à Ione (Californie) ; « la créance de 16,9 M€ TTC n'était ni facturée ni encaissée au 30 juin 2026 » ; autorisation du conseil le 30/10/2026 seulement, le PDG ne prenant pas part au vote ; soumis à l'AG du 17/12/2026 au titre de l'article L. 225-42 (convention non autorisée) ; la continuité d'exploitation suppose que cette créance « sera compensée avec le compte courant de HAW » (§3.5.1) ; « une partie importante de l'Ebitda de l'année est réalisée avec HAW » (§2.3). (3) Parties liées : HAW 14 066 k€ de CA, Alispalu SAS (100 % Alain Wilmouth) 1 316 k€ (complément de prix sur 118 serveurs Walker Pass vendus en décembre 2024) et 585 k€ de charges, AETHER 630 k€, NYGC 60 k€ ; créances de 16,9 M€, 1,6 M€, 0,8 M€ et 0,1 M€ ; compte courant HAW 14,2 M€, rémunéré (240 k€ d'intérêts), exigible à moins d'un an (§3.10.1). (4) Enquêtes américaines : subpoena BIS (nov. 2024), grand jury subpoenas NDCal (avr. et oct. 2025) et CDCal (mai 2026), Export Administration Regulations, aucune provision (§2.8.1). (5) Adimes est une filiale à 100 % de 2CRSi SA (ex-Boston France), usine d'assemblage du groupe, future « 2CRSi OEM » (§1.1.2, §3.4.2). (6) Dépréciations : stocks dépréciés à 25 % de la valeur brute (7 % un an plus tôt), 4,2 M€ sur créances clients ; effectif moyen 103 (112). (7) Opérations du PDG : cession d'environ 60 000 titres le 02/10/2025 à 13 € (« suite à l'erreur sur la plateforme de trading ») et achat de 6 000 titres le 07/04/2025, déclarés à l'AMF le 24/02/2026 (§2.5.5.2). (8) Le document contient des mentions de rédaction non retirées (« [obligations restant à exécuter après le 30 octobre 2026 : à préciser] », p. 72 ; « Puis remplace la dernière phrase […] par : », p. 61) et renvoie à une note 3.9.4 inexistante. Les rapports du commissaire aux comptes y figurent en image (p. 119-122 et 148-151). (9) « En 2025, les services Finance, Comptabilité et Ressources Humaines ont été transférés de 2CRSi à Holding Alain Wilmouth » (p. 79). (10) Services : 27,7 M€ de revenus, dont 14,0 M€ du contrat HAW ; hors ce contrat, « environ 13,7 M€ » contre 8,3 M€ (p. 22-23), chiffre qui inclut Green Data, consolidée depuis le 14/11/2025 (contribution de (1 813) k€ au résultat net, p. 93) et 0,63 M€ facturés à AETHER Infrastructures ; les principales facturations de l'activité Cloud Solutions « ont été réalisées avec des parties liées » (p. 23). (11) Avances et acomptes reçus des clients : 21 134 k€ contre 16 055 k€ (p. 109). (12) Gouvernance : conseil réuni 6 fois, taux de participation de 71,43 % (p. 61) ; comité d'audit et des risques composé de Lilla Merabet (présidente), Michel Wilmouth, Hervé Landau et Nathalie Roos (du 18/12/2025 au 08/09/2026) ; recommandations Middlenext R5 (formation), R13 (évaluation du conseil), R15 (diversité) et R17 (succession) non appliquées ou « en cours de réflexion ». L'objectif d'un milliard « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD ni du contrat conclu avec NYGC » (p. 25).",
    "sources": [
     "S173"
    ],
@@ -5985,7 +6268,8 @@
    "sujets": [
     "res",
     "gouv",
-    "griz"
+    "griz",
+    "pl"
    ],
    "statut": "decl",
    "titre": "Lettre du PDG aux actionnaires : EY en fonctions depuis le 01/07/2025, « l'essentiel de la question » porte sur 2024/25, part « importante » des ventes US avec des sociétés sous enquête, expert indépendant sur le contrat HAW",
@@ -6460,6 +6744,16 @@
     "S016",
     "S113",
     "S159"
+   ]
+  },
+  {
+   "sujet": "pl",
+   "question": "2CRSi conserve-t-elle un droit d'usage de la conception « AI Factory B300 » cédée à HAW ?",
+   "etat": "Le contrat porte sur des « prestations d'études et de conception et de cession exclusive des droits patrimoniaux de propriété intellectuelle sur les livrables » (rapport financier annuel 2025-26, §2.4.1.4) ; aucune licence en retour n'est mentionnée. La conception porte sur des modules de 3,6 MW, produit que 2CRSi prévoit aussi de fabriquer et d'intégrer.",
+   "attendu": "Termes du contrat, rapport spécial du commissaire aux comptes ou conclusions de l'expert, avant l'AG du 17/12/2026.",
+   "sources": [
+    "S173",
+    "S175"
    ]
   }
  ],
@@ -8059,7 +8353,7 @@
    "date_source": "2026-10-30",
    "type": "CP",
    "reference": "CP 2CRSi du 30/10/2026 : « Résultats annuels 2025-2026 — Chiffre d'affaires de 386,5 M€ (+75 %) – EBITDA de 34,2 M€ – Résultat net part du Groupe de 17,0 M€ » (5 pages)",
-   "url": "",
+   "url": "https://investors.2crsi.com/blog/communiques-de-presse-3/resultats-annuels-2025-2026-184",
    "archive": "integral",
    "note": "Publié après Bourse le 30/10 (PDF créé à 19:33). PDF archivé : textes/pdf/2CRSI-CP-20261030-FR.pdf ; texte intégral dans textes/S172.txt. URL Actifin/EQS à relever.",
    "texte_archive": "sources_textes.json"
@@ -8069,9 +8363,9 @@
    "date_source": "2026-10-31",
    "type": "officiel",
    "reference": "Rapport financier annuel 2025-2026 de 2CRSi (152 p.), publié le 31/10/2026",
-   "url": "https://investors.2crsi.com",
+   "url": "https://investors.2crsi.com/blog/rapports-financiers-4/rapport-financier-annuel-2025-2026-185",
    "archive": "integral",
-   "note": "Texte intégral extrait dans textes/S173.txt (fourni par Picard, RFA_2025-26_vDEF.pdf). URL exacte à relever. Rapports du CAC en image, non extraits : voir S174.",
+   "note": "Texte intégral extrait dans textes/S173.txt (fourni par Picard, RFA_2025-26_vDEF.pdf). Rapports du CAC en image, non extraits : voir S174.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -8111,6 +8405,55 @@
    "url": "https://www.edf.fr/sites/groupe/files/2026-02/CP_Mara_NJJ_EDF.pdf",
    "archive": "reference",
    "note": "Conseil d'Exaion : 3 membres désignés par MARA, 3 par EDF Pulse Ventures, 1 par NJJ, plus le directeur général. NJJ Capital prend 10 % de Mara France. Accord initial annoncé le 11/08/2025 (communiqué EDF)."
+  },
+  {
+   "id": "S178",
+   "date_source": "2025-11-06",
+   "type": "officiel",
+   "reference": "Rapport financier annuel 2024-2025 de 2CRSi (157 p., version signée)",
+   "url": "https://investors.2crsi.com/blog/rapports-financiers-4/rapport-financier-annuel-2024-2025-3",
+   "archive": "integral",
+   "note": "PDF fourni par Picard (créé le 06/11/2025) : textes/pdf/2CRSi-RFA-2024-25.pdf ; texte intégral dans textes/S178.txt. Parties liées : §3.8.1 (p. 120) ; opérations avec les entreprises liées : §4.3.4.9 (p. 146).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S179",
+   "date_source": "2025-04-15",
+   "type": "registre",
+   "reference": "Holding Alain Wilmouth (SAS, RCS Strasbourg 799 911 656) : procès-verbal de la consultation écrite des associés du 15/04/2025 (modification de l'objet social), copie INPI",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/HAW_PV_consultation_ecrite_2025-04-15.pdf. Capital alors de 25 000 €.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S180",
+   "date_source": "2026-06-23",
+   "type": "registre",
+   "reference": "BODACC B n° 117 des 22 et 23/06/2026, annonce n° 3679 : Holding Alain Wilmouth, modification du capital (22 910 €)",
+   "url": "https://www.bodacc.fr",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/BODACC_B_2026-06-23_n3679_HAW.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S181",
+   "date_source": "2025-11-04",
+   "type": "officiel",
+   "reference": "Rapport du conseil d'administration sur les résolutions soumises à l'assemblée générale mixte du 18/12/2025 (15 p.)",
+   "url": "https://investors.2crsi.com/blog/assemblees-generales-7",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/2CRSi_AG2025_rapport_CA_resolutions.pdf (créé le 12/11/2025). Résultats des votes non archivés.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S182",
+   "date_source": "2026-11-03",
+   "type": "registre",
+   "reference": "Fiche Pappers d'ALISPALU (SIREN 809 572 738), relevée le 03/11/2026, et statuts constitutifs déposés le 26/02/2015",
+   "url": "https://www.pappers.fr/entreprise/alispalu-809572738",
+   "archive": "reference",
+   "note": ""
   }
  ],
  "lieux": [
