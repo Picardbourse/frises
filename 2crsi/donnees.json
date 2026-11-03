@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T15:14",
+ "mis_a_jour": "2026-11-03T23:12",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 149,
-  "sources": 175
+  "evenements": 150,
+  "sources": 176
  },
  "evenements": [
   {
@@ -2286,12 +2286,14 @@
    ],
    "statut": "doc",
    "titre": "La holding du PDG souscrit des obligations émises par NYGC ; NYGC devient une partie liée",
-   "texte": "Selon le rapport financier annuel 2025-26 (§3.10.1) : « La société NYGC est considérée comme une partie liée à la Société depuis le 30 avril 2026, date à laquelle Holding Alain Wilmouth a souscrit des obligations simples ne donnant pas l'accès au capital. » L'expert indépendant relève que NYGC « pourrait être en situation d'influence notable du fait des obligations simples souscrites par la société Holding Alain Wilmouth […] et des projets envisagés entre la Société et NYGC », ainsi qu'« une proximité commerciale et opérationnelle forte entre la Société, NYGC et le Dr Joseph Church » (§2.4.2.1). Montant non indiqué. Au webinaire du 19/06/2026, le PDG déclarait « j'adorerais être actionnaire de NYGC ». Fait rendu public le 31/10/2026.",
+   "texte": "Selon le rapport financier annuel 2025-26 (§3.10.1) : « La société NYGC est considérée comme une partie liée à la Société depuis le 30 avril 2026, date à laquelle Holding Alain Wilmouth a souscrit des obligations simples ne donnant pas l'accès au capital. » L'expert indépendant relève que NYGC « pourrait être en situation d'influence notable du fait des obligations simples souscrites par la société Holding Alain Wilmouth […] et des projets envisagés entre la Société et NYGC », ainsi qu'« une proximité commerciale et opérationnelle forte entre la Société, NYGC et le Dr Joseph Church » (§2.4.2.1). Montant non indiqué. Au webinaire du 19/06/2026, le PDG déclarait « j'adorerais être actionnaire de NYGC ». Fait rendu public le 31/10/2026. Au webinaire du 03/11/2026, le PDG précise avoir acheté, via sa holding et avec de l'argent emprunté, des obligations de la société de Joseph Church qui gère la partie biomasse, et déclare : « c'est parce qu'il nous a passé commande que j'ai passé une obligation chez lui » puis « effectivement j'ai une influence notable sur [NYGC] » [23:58–24:30, 57:07–57:22].",
    "sources": [
-    "S173"
+    "S173",
+    "S186"
    ],
    "sources_libelle": [
-    "Rapport financier annuel 2025-2026 (31/10/2026)"
+    "Rapport financier annuel 2025-2026 (31/10/2026)",
+    "Webinaire investisseurs professionnels et analystes du 03/11/2026 (transcription automatique)"
    ],
    "engagements": [],
    "liens": [
@@ -3113,12 +3115,14 @@
    ],
    "statut": "doc",
    "titre": "Signature du contrat HAW de 14,04 M€ (effet rétroactif au 02/07/2024) et autorisation de trois conventions réglementées",
-   "texte": "Selon le rapport financier annuel 2025-26 : le contrat de prestations d'études et de cession exclusive des droits de propriété intellectuelle entre 2CRSi SA et Holding Alain Wilmouth est signé le 29 juin 2026, « avec effet au 2 juillet 2024 », pour « un prix forfaitaire, ferme et définitif de 14 042 k€ HT (16 M$) », « déterminé selon une méthode de marché, sur la base d'un coût d'études représentant 8 % du coût de construction de référence du projet » (§2.4.1.4). Le même jour, le conseil d'administration autorise trois conventions réglementées à effet du 30/06/2026 : prestations de services (marketing, communication, ingénierie, R&D) en faveur d'AETHER Infrastructures ; convention-cadre de vente de composants informatiques « destinés à l'assemblage de serveurs » à Alispalu SAS, société détenue à 100 % par Alain Wilmouth ; prestations de services (finance, juridique, RH) de HAW à 2CRSi, dont « l'autorisation préalable […] pour sa période d'exécution antérieure (du 1er juin 2025 au 30 juin 2026) a été omise » (§2.6.8.2). Le contrat d'études lui-même n'est pas autorisé à cette date. Fait rendu public le 31/10/2026.",
+   "texte": "Selon le rapport financier annuel 2025-26 : le contrat de prestations d'études et de cession exclusive des droits de propriété intellectuelle entre 2CRSi SA et Holding Alain Wilmouth est signé le 29 juin 2026, « avec effet au 2 juillet 2024 », pour « un prix forfaitaire, ferme et définitif de 14 042 k€ HT (16 M$) », « déterminé selon une méthode de marché, sur la base d'un coût d'études représentant 8 % du coût de construction de référence du projet » (§2.4.1.4). Le même jour, le conseil d'administration autorise trois conventions réglementées à effet du 30/06/2026 : prestations de services (marketing, communication, ingénierie, R&D) en faveur d'AETHER Infrastructures ; convention-cadre de vente de composants informatiques « destinés à l'assemblage de serveurs » à Alispalu SAS, société détenue à 100 % par Alain Wilmouth ; prestations de services (finance, juridique, RH) de HAW à 2CRSi, dont « l'autorisation préalable […] pour sa période d'exécution antérieure (du 1er juin 2025 au 30 juin 2026) a été omise » (§2.6.8.2). Le contrat d'études lui-même n'est pas autorisé à cette date. Fait rendu public le 31/10/2026. Au webinaire du 03/11/2026, le PDG explique : « Moi personnellement, je voulais le mettre au montant de la dette qu'avait 2CRSi [envers HAW] et en réalité ça permettait de compenser le compte courant […] transformer un compte courant qui était une dette en chiffre d'affaires. C'était parfait » ; le directeur financier l'aurait convaincu d'un prix de 14 M€ fondé sur des comparatifs ; « si on ne fixe un travail qu'en fonction de son prix de revient, évidemment 14 millions c'est trop élevé » ; la décision de céder l'étude à HAW aurait été prise avant le rapport Grizzly [24:39–27:33].",
    "sources": [
-    "S173"
+    "S173",
+    "S186"
    ],
    "sources_libelle": [
-    "Rapport financier annuel 2025-2026 (31/10/2026)"
+    "Rapport financier annuel 2025-2026 (31/10/2026)",
+    "Webinaire investisseurs professionnels et analystes du 03/11/2026 (transcription automatique)"
    ],
    "engagements": [],
    "liens": [
@@ -6293,8 +6297,8 @@
      "id": "2026-11-01_lettre-actionnaires#e1",
      "texte": "Mardi 3 novembre 2026 à 17 h 45 : conférence avec les investisseurs professionnels et les analystes, enregistrement mis en ligne sur investors.2crsi.com",
      "echeance": "2026-11-03",
-     "statut": "todo",
-     "statue_par": null,
+     "statut": "ok",
+     "statue_par": "S186",
      "note": ""
     },
     {
@@ -6367,16 +6371,18 @@
    ],
    "statut": "doc",
    "titre": "Commande ferme d'Exaion : 83 serveurs NVIDIA HGX B300, « plus de 60 M€ » au prix catalogue, livrés d'ici fin 2026",
-   "texte": "Exaion, partenaire de 2CRSi « depuis 2021 », commande 83 serveurs NVIDIA HGX B300, le stockage associé et des services de maintenance, pour « plus de 60 M€ » ; une note précise qu'il s'agit du « prix catalogue ». Calendrier : 17 serveurs livrés « dès cette semaine », 33 « d'ici fin novembre », 33 « avant la fin décembre ». Le PDG évoque « la confiance renouvelée de nos clients et de nos fournisseurs » et des infrastructures « conçues et assemblées en France ». Première annonce de commande depuis celle du 09/06/2026. Le communiqué présente Exaion comme issue du programme EDF Pulse, « en lien avec la raison d'être du Groupe EDF » ; il ne mentionne pas que Mara France (MARA Holdings) détient 64 % d'Exaion depuis le 20/02/2026, EDF restant actionnaire et client (communiqué EDF du 20/02/2026). Au webinaire du 19/06/2026, le PDG indiquait des remises clients de 20 à plus de 30 % sur le prix liste.",
+   "texte": "Exaion, partenaire de 2CRSi « depuis 2021 », commande 83 serveurs NVIDIA HGX B300, le stockage associé et des services de maintenance, pour « plus de 60 M€ » ; une note précise qu'il s'agit du « prix catalogue ». Calendrier : 17 serveurs livrés « dès cette semaine », 33 « d'ici fin novembre », 33 « avant la fin décembre ». Le PDG évoque « la confiance renouvelée de nos clients et de nos fournisseurs » et des infrastructures « conçues et assemblées en France ». Première annonce de commande depuis celle du 09/06/2026. Le communiqué présente Exaion comme issue du programme EDF Pulse, « en lien avec la raison d'être du Groupe EDF » ; il ne mentionne pas que Mara France (MARA Holdings) détient 64 % d'Exaion depuis le 20/02/2026, EDF restant actionnaire et client (communiqué EDF du 20/02/2026). Au webinaire du 19/06/2026, le PDG indiquait des remises clients de 20 à plus de 30 % sur le prix liste. Le soir même, le PDG présente ce montant comme « le vrai prix payé par le client, là on parle pas de prix liste, on parle pas de prix public » [33:49], alors que le communiqué renvoie en note à « Prix catalogue ».",
    "sources": [
     "S176",
     "S177",
-    "S015"
+    "S015",
+    "S186"
    ],
    "sources_libelle": [
     "CP 2CRSi du 03/11/2026",
     "Communiqué EDF / MARA / NJJ du 20/02/2026 (actionnariat d'Exaion)",
-    "Webinaire du PDG du 19/06/2026 (grille de remises)"
+    "Webinaire du PDG du 19/06/2026 (grille de remises)",
+    "Webinaire investisseurs professionnels et analystes du 03/11/2026 (transcription automatique)"
    ],
    "engagements": [
     {
@@ -6527,6 +6533,46 @@
    "engagements": [],
    "liens": [],
    "majeur": false
+  },
+  {
+   "id": "2026-11-03_webinaire-pros",
+   "date": "2026-11-03",
+   "date_affichee": "3 nov. 2026",
+   "sujets": [
+    "griz",
+    "res",
+    "gouv"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire investisseurs professionnels : chiffre d'affaires retiré, client américain « inculpé », nouvelle organisation",
+   "texte": "Conférence du PDG (17h45), enregistrement publié par la société. Chiffre d'affaires : 32,5 M€ retirés de la consolidation (« 30,5 millions d'euros qui concernent des opérations de juillet, d'août l'année dernière » de négoce, plus 2 M€ de marge), décision prise « lundi dernier » (26/10) [4:10–4:45]. Ces opérations concernent un client basé aux États-Unis qui « a fait l'objet d'une inculpation durant le mois d'octobre » devant un tribunal de Californie ; le PDG ajoute « vu que le client est arrêté, je sais pas si un jour on [les 2 M€] touchera » [5:01–9:21]. Le 17/05/2026, les autorités américaines avaient « demandé confidentiellement » à 2CRSi toute la documentation sur une liste de sociétés, personnes, numéros et adresses électroniques ; 2CRSi se dit « simple témoin », statut qu'un substitut du procureur fédéral lui aurait confirmé par écrit ; « trois affaires », « cinq sollicitations » aux États-Unis, dont trois du département du Commerce [5:28–7:16, 18:14–19:19]. Selon le PDG, le motif premier du commissaire aux comptes est de ne pas pouvoir mesurer l'impact financier de cette enquête ; il aurait été « d'accord » avec le prix du contrat HAW jusqu'au 22/10 [7:25–8:17, 27:40–28:12]. Une revue juridique par un cabinet d'avocats de Washington est en cours [19:19–19:37]. Organisation : une directrice arrivée en avril 2026 doit « partager la direction générale » (fonction « pas encore signée ») ; le directeur financier, externe et présent trois jours par semaine, part fin novembre, remplacé par un DAF à plein temps ; recherche d'un second commissaire aux comptes ; « des nouveaux entrants et des sortants dans le board et dans le comité d'audit », annoncés « dans quelques jours » [29:03–31:42, 38:26–39:06, 41:13–41:41, 1:05:28]. Objectif d'un milliard de chiffre d'affaires présenté comme « l'ambition du groupe » ; « 4 MW […] représente 250 à 300 millions de dollars de chiffre d'affaires » et ÆTHER disposerait de « 20 MW d'IT » installables « dans quelques semaines » sous réserve d'autorisations ; EBITDA associé « plus ou moins 90 millions » [31:53–33:30, 46:03–46:21]. Le PDG conclut : « il y a eu zéro fraude […] uniquement un vrai problème de communication » [1:05:14].",
+   "sources": [
+    "S186"
+   ],
+   "sources_libelle": [
+    "Webinaire investisseurs professionnels et analystes du 03/11/2026 (transcription automatique)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-03_webinaire-pros#e1",
+     "texte": "Annonce des entrées et sorties au conseil d'administration et au comité d'audit « dans quelques jours », avant l'AG du 17/12/2026",
+     "echeance": "2026-12-17",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_impossibilite-certifier"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-11-01_lettre-actionnaires"
+    }
+   ],
+   "majeur": true
   }
  ],
  "questions_ouvertes": [
@@ -6775,6 +6821,26 @@
     "S173",
     "S175"
    ]
+  },
+  {
+   "sujet": "autre",
+   "question": "Le montant de la commande Exaion est-il un prix catalogue ou le prix payé ?",
+   "etat": "Le CP du 03/11/2026 renvoie en note à « Prix catalogue » ; le PDG, le même jour, parle du « vrai prix payé par le client », « pas de prix liste ».",
+   "attendu": "Une précision écrite de la société.",
+   "sources": [
+    "S176",
+    "S186"
+   ]
+  },
+  {
+   "sujet": "aether",
+   "question": "AETHER Infrastructures est-elle « indépendante » de 2CRSi ?",
+   "etat": "Au webinaire du 03/11/2026, le PDG la présente comme « une société indépendante » dont les conditions « ne regardent que [ses] actionnaires » [45:27] ; le rapport annuel du 31/10/2026 la qualifie de partie liée, HAW, holding du PDG, étant son actionnaire unique.",
+   "attendu": "Une présentation cohérente dans la communication de la société.",
+   "sources": [
+    "S186",
+    "S173"
+   ]
   }
  ],
  "pipe": {
@@ -6785,7 +6851,7 @@
     "montant": "« potentiel de chiffre d'affaires supérieur à un milliard d'euros » sur 2026-27",
     "nature": "Potentiel. 2CRSi est « fournisseur pressenti » des serveurs ; le client, Aether Infrastructures, est une partie liée (HAW).",
     "conditions": "« Les commandes dépendent de l'issue de l'appel EuroHPC, du financement du projet, des autorisations et de la disponibilité des composants » ; vente du site soumise à l'agrément du Port autonome.",
-    "etat": "Promesse de vente du site signée le 09/10, bail actif depuis le 15/10 ; aucune commande annoncée. Mise en service de la phase 1 (20 MW) visée « dès le troisième trimestre 2027 », après la clôture de l'exercice.",
+    "etat": "Promesse de vente du site signée le 09/10, bail actif depuis le 15/10 ; aucune commande annoncée. Mise en service de la phase 1 (20 MW) visée « dès le troisième trimestre 2027 », après la clôture de l'exercice. Le 03/11/2026, le PDG évoque « 20 MW d'IT » installables « dans quelques semaines », une fois les autorisations obtenues (Port autonome, DREAL).",
     "prochaine": "Clôture de l'appel EuroHPC (novembre 2026), vente du site (31/12/2026), sélection des projets (début 2027)",
     "evenements": [
      "2026-10-09_sxb2-promesse",
@@ -6794,7 +6860,8 @@
     "sources": [
      "S113",
      "S172",
-     "S173"
+     "S173",
+     "S186"
     ]
    },
    {
@@ -6837,13 +6904,14 @@
     "montant": "non publié",
     "nature": "Partenariat industriel (conception et production en Inde).",
     "conditions": "Cycle de validation en cours.",
-    "etat": "Aucun volume ni montant publié.",
-    "prochaine": "Démarrage de la production attendu en novembre 2026",
+    "etat": "Aucun volume ni montant publié. Le 03/11/2026, le PDG évoque « quelques petits soucis sur le côté technique », notamment sur la partie submersible, et des clients qui « attendent un prototype ».",
+    "prochaine": "Résolution des problèmes techniques espérée d'ici décembre 2026 (production annoncée pour novembre 2026 dans les communications antérieures)",
     "evenements": [
      "2026-02-16_valeo-new-delhi"
     ],
     "sources": [
-     "S004"
+     "S004",
+     "S186"
     ]
    },
    {
@@ -8689,6 +8757,16 @@
    "url": "https://www.pappers.fr/entreprise/haw-holding-alain-wilmouth-799911656",
    "archive": "integral",
    "note": "PDF transmis par un lecteur : textes/pdf/HAW_PV_reduction_capital_2025-12-05.pdf. Nom du représentant de BNP masqué dans le texte archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S186",
+   "date_source": "2026-11-03",
+   "type": "transcription",
+   "reference": "Webinaire d'Alain Wilmouth à destination des investisseurs professionnels et des analystes, 03/11/2026, 17h45 (vidéo publiée par 2CRSi, 1 h 07 ; transcription automatique YouTube horodatée)",
+   "url": "https://www.youtube.com/watch?v=tcq-IPBW-ww",
+   "archive": "integral",
+   "note": "Texte : textes/S186.txt, transcription automatique copiée par Picard ; noms propres et chiffres à vérifier à l'écoute.",
    "texte_archive": "sources_textes.json"
   }
  ],
