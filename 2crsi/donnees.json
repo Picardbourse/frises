@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T11:33",
+ "mis_a_jour": "2026-11-03T13:15",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -6770,6 +6770,193 @@
    ]
   }
  ],
+ "pipe": {
+  "en_cours": [
+   {
+    "projet": "ÆTHER, site FR-SXB2 (Strasbourg), phase 1",
+    "annonce": "2026-10-12",
+    "montant": "« potentiel de chiffre d'affaires supérieur à un milliard d'euros » sur 2026-27",
+    "nature": "Potentiel. 2CRSi est « fournisseur pressenti » des serveurs ; le client, Aether Infrastructures, est une partie liée (HAW).",
+    "conditions": "« Les commandes dépendent de l'issue de l'appel EuroHPC, du financement du projet, des autorisations et de la disponibilité des composants » ; vente du site soumise à l'agrément du Port autonome.",
+    "etat": "Promesse de vente du site signée le 09/10, bail actif depuis le 15/10 ; aucune commande annoncée. Mise en service de la phase 1 (20 MW) visée « dès le troisième trimestre 2027 », après la clôture de l'exercice.",
+    "prochaine": "Clôture de l'appel EuroHPC (novembre 2026), vente du site (31/12/2026), sélection des projets (début 2027)",
+    "evenements": [
+     "2026-10-09_sxb2-promesse",
+     "2026-10-30_aether-20mw-adimes"
+    ],
+    "sources": [
+     "S113",
+     "S172",
+     "S173"
+    ]
+   },
+   {
+    "projet": "ÆTHER, site FR-SXB1",
+    "annonce": "2026-07-08",
+    "montant": "non chiffré",
+    "nature": "Projet de second site, démarrage « courant de l'année 2027 ».",
+    "conditions": "« Finalisation de l'acquisition définitive du site avant la fin octobre 2026 ».",
+    "etat": "Acquisition non annoncée à l'échéance ; le site n'apparaît plus dans le rapport financier annuel du 31/10.",
+    "prochaine": "Aucune annoncée",
+    "evenements": [
+     "2026-07-08_aether-12-membres"
+    ],
+    "sources": [
+     "S008",
+     "S173"
+    ]
+   },
+   {
+    "projet": "Commande NYGC (Buena Vista, Californie)",
+    "annonce": "2025-09-29",
+    "montant": "290 M$ « prix liste »",
+    "nature": "Commande ferme mais conditionnelle : 2CRSi ne fabrique qu'après une « activation » écrite.",
+    "conditions": "Redémarrage de la centrale, permis, data center d'au moins 5 MW fermes, financement de NYGC (expert, 29/10/2026).",
+    "etat": "Non activée, résiliable par chaque partie depuis le 30/09/2026 ; aucun chiffre d'affaires. Le rapport annuel l'exclut de l'objectif du milliard, le CP du 30/10 n'en parle pas.",
+    "prochaine": "Visite du site en novembre 2026, puis information du marché",
+    "evenements": [
+     "2025-09-29_commande-290",
+     "2026-10-29_expert-nygc-290"
+    ],
+    "sources": [
+     "S003",
+     "S162",
+     "S173"
+    ]
+   },
+   {
+    "projet": "Valeo × 2CRSi, data center edge en Inde",
+    "annonce": "2026-02-16",
+    "montant": "non publié",
+    "nature": "Partenariat industriel (conception et production en Inde).",
+    "conditions": "Cycle de validation en cours.",
+    "etat": "Aucun volume ni montant publié.",
+    "prochaine": "Démarrage de la production attendu en novembre 2026",
+    "evenements": [
+     "2026-02-16_valeo-new-delhi"
+    ],
+    "sources": [
+     "S004"
+    ]
+   },
+   {
+    "projet": "Quanthor (sécurité post-quantique)",
+    "annonce": "2026-08-04",
+    "montant": "non publié",
+    "nature": "Lettre d'intention, pas de contrat.",
+    "conditions": "Signature d'un contrat ; Quanthor prend un « engagement d'approvisionnement progressif ».",
+    "etat": "Aucun contrat annoncé.",
+    "prochaine": "Aucune annoncée",
+    "evenements": [
+     "2026-08-04_quanthor"
+    ],
+    "sources": [
+     "S064"
+    ]
+   },
+   {
+    "projet": "Commande Exaion",
+    "annonce": "2026-11-03",
+    "montant": "« plus de 60 M€ » au « prix catalogue »",
+    "nature": "Commande ferme (83 serveurs NVIDIA HGX B300, stockage, maintenance).",
+    "conditions": "Aucune annoncée.",
+    "etat": "En livraison : 17 serveurs annoncés pour la semaine du 03/11.",
+    "prochaine": "33 serveurs fin novembre, 33 fin décembre 2026",
+    "evenements": [
+     "2026-11-03_commande-exaion"
+    ],
+    "sources": [
+     "S176"
+    ]
+   }
+  ],
+  "historique": [
+   {
+    "projet": "Contrat de 610 M$ (États-Unis)",
+    "annonce": "2024-01-30",
+    "montant": "610 M$, dont 210 M$ « pour les 18 mois à venir »",
+    "devenir": "Aucun chiffre d'affaires facturé ; contrat-cadre « sans engagement de volume », projet en « arrêt quasi-total » (expert, 29/10/2026) ; exclu de l'objectif du milliard.",
+    "evenements": [
+     "2024-01-15_contrat-cadre-610",
+     "2026-10-29_expert-610"
+    ],
+    "sources": [
+     "S002",
+     "S162"
+    ]
+   },
+   {
+    "projet": "Serveurs IA dans l'État de New York",
+    "annonce": "2025-06-26",
+    "montant": "plus de 100 M$",
+    "devenir": "« Intégralement livrée et payée », chiffre d'affaires intégré au premier semestre 2025-26, selon la société (16/07/2026).",
+    "evenements": [
+     "2025-06-26_vente-100-musd"
+    ],
+    "sources": [
+     "S009"
+    ]
+   },
+   {
+    "projet": "Serveurs IA au Royaume-Uni",
+    "annonce": "2025-07-08",
+    "montant": "54 M$",
+    "devenir": "Non documenté.",
+    "evenements": [
+     "2025-07-08_commande-54-musd"
+    ],
+    "sources": [
+     "S058"
+    ]
+   },
+   {
+    "projet": "Malaisie",
+    "annonce": "2025-08-13",
+    "montant": "47 M€ « prix liste »",
+    "devenir": "Non documenté (livraison intégrale annoncée « d'ici fin 2025 »).",
+    "evenements": [
+     "2025-08-13_malaisie-47"
+    ],
+    "sources": [
+     "S059"
+    ]
+   },
+   {
+    "projet": "Client canadien, cloud IA au Japon",
+    "annonce": "2026-02-17",
+    "montant": "140 M€ « prix liste »",
+    "devenir": "Commandes « au Canada » déclarées « intégralement livrées et payées » par la société le 19/06/2026.",
+    "evenements": [
+     "2026-02-17_commande-140"
+    ],
+    "sources": [
+     "S048"
+    ]
+   },
+   {
+    "projet": "Commande allemande",
+    "annonce": "2026-06-09",
+    "montant": "110 M€ « prix catalogue »",
+    "devenir": "Payée avant livraison, livrée et comptabilisée selon l'expert (15/09/2026) ; paiement par un tiers payeur et documentation « incomplète » (29/10/2026).",
+    "evenements": [
+     "2026-06-09_commande-allemande",
+     "2026-10-29_expert-geo-allemand"
+    ],
+    "sources": [
+     "S013",
+     "S162"
+    ]
+   },
+   {
+    "projet": "Autres annonces",
+    "annonce": "",
+    "montant": "",
+    "devenir": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022) et ODYSSAI (2023) : aucun bilan public connu.",
+    "evenements": [],
+    "sources": []
+   }
+  ]
+ },
  "sources": [
   {
    "id": "S001",
