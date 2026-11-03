@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-10-29",
- "mis_a_jour": "2026-10-29T20:23",
- "arrete_au": "2026-10-29",
+ "genere_le": "2026-11-03",
+ "mis_a_jour": "2026-11-03T04:28",
+ "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -68,8 +68,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 126,
-  "sources": 153
+  "evenements": 127,
+  "sources": 154
  },
  "evenements": [
   {
@@ -5730,6 +5730,31 @@
    "majeur": true
   },
   {
+   "id": "2026-11-02_citi-initiation",
+   "date": "2026-11-02",
+   "date_affichee": "2 nov. 2026",
+   "sujets": [
+    "vad"
+   ],
+   "statut": "doc",
+   "titre": "Citi initie le suivi à « achat », objectif 250 €",
+   "texte": "Selon BFM Bourse, Citi initie Vusion à l'achat avec un objectif de 250 € (clôture de référence : 134,10 € le 30/10). Estimations du courtier, non de la société : pénétration mondiale des étiquettes électroniques d'environ 20 % portée à 40 % en cinq ans, marché d'environ 3,8 Md€ en 2030, part de marché de Vusion maintenue vers 40 %, prises de commandes 2027 et 2028 supérieures de 8 % et 18 % au consensus, marge d'EBITDA en hausse de 5 points entre 2025 et 2028 (logiciel, retail media, services). Valorisation citée : environ 4,7 fois l'EBITDA à 12 mois. Risques cités : absence de relais après le déploiement Walmart US, pertes de parts de marché, cybersécurité. Le Capital Markets Day du 18/11 est présenté comme le catalyseur.",
+   "sources": [
+    "S155"
+   ],
+   "sources_libelle": [
+    "BFM Bourse / Tradingsat, 02/11/2026 : initiation de Citi"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-18_capital-markets-day"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-11-18_capital-markets-day",
    "date": "2026-11-18",
    "date_affichee": "18 nov. 2026",
@@ -7387,6 +7412,15 @@
    "archive": "integral",
    "note": "Diffusé par Actusnews ; PDF archivé : textes/pdf/ism_closing_pr_fr.pdf.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S155",
+   "date_source": "2026-11-02",
+   "type": "presse",
+   "reference": "BFM Bourse / Tradingsat (Sabrina Sadgui), 02/11/2026 15:14 : Citi initie Vusion à « achat », objectif 250 €, et décrit sa thèse sur l'après-Walmart",
+   "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-logiciels-publicite-en-magasin-comment-citi-voit-vusion-negocier-l-apres-walmart-et-gagner-86-en-bourse-1172953.html",
+   "archive": "reference",
+   "note": ""
   }
  ],
  "lieux": [
