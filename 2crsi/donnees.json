@@ -20,9 +20,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-02",
- "mis_a_jour": "2026-11-02T15:05",
- "arrete_au": "2026-11-02",
+ "genere_le": "2026-11-03",
+ "mis_a_jour": "2026-11-03T09:35",
+ "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -75,8 +75,8 @@
   ]
  },
  "nb": {
-  "evenements": 142,
-  "sources": 165
+  "evenements": 143,
+  "sources": 167
  },
  "evenements": [
   {
@@ -6067,6 +6067,60 @@
    "majeur": true
   },
   {
+   "id": "2026-11-03_commande-exaion",
+   "date": "2026-11-03",
+   "date_affichee": "3 nov. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Commande ferme d'Exaion : 83 serveurs NVIDIA HGX B300, « plus de 60 M€ » au prix catalogue, livrés d'ici fin 2026",
+   "texte": "Exaion, partenaire de 2CRSi « depuis 2021 », commande 83 serveurs NVIDIA HGX B300, le stockage associé et des services de maintenance, pour « plus de 60 M€ » ; une note précise qu'il s'agit du « prix catalogue ». Calendrier : 17 serveurs livrés « dès cette semaine », 33 « d'ici fin novembre », 33 « avant la fin décembre ». Le PDG évoque « la confiance renouvelée de nos clients et de nos fournisseurs » et des infrastructures « conçues et assemblées en France ». Première annonce de commande depuis celle du 09/06/2026. Le communiqué présente Exaion comme issue du programme EDF Pulse, « en lien avec la raison d'être du Groupe EDF » ; il ne mentionne pas que Mara France (MARA Holdings) détient 64 % d'Exaion depuis le 20/02/2026, EDF restant actionnaire et client (communiqué EDF du 20/02/2026). Au webinaire du 19/06/2026, le PDG indiquait des remises clients de 20 à plus de 30 % sur le prix liste.",
+   "sources": [
+    "S176",
+    "S177",
+    "S015"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 03/11/2026",
+    "Communiqué EDF / MARA / NJJ du 20/02/2026 (actionnariat d'Exaion)",
+    "Webinaire du PDG du 19/06/2026 (grille de remises)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-03_commande-exaion#e1",
+     "texte": "17 serveurs HGX B300 livrés à Exaion « dès cette semaine »",
+     "echeance": "2026-11-08",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-03_commande-exaion#e2",
+     "texte": "33 serveurs supplémentaires livrés « d'ici fin novembre »",
+     "echeance": "2026-11-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-03_commande-exaion#e3",
+     "texte": "Les 33 derniers serveurs livrés « avant la fin décembre » (83 au total d'ici fin 2026)",
+     "echeance": "2026-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2027-06-30_cloture-2026-27"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-11-12_eurohpc-cloture",
    "date": "2026-11-12",
    "date_affichee": "12 nov. 2026",
@@ -8038,6 +8092,25 @@
    "archive": "integral",
    "note": "Publiée le dimanche 01/11 en soirée (PDF créé à 20:38, auteur « 2CRSi Legal »). PDF archivé : textes/pdf/2CRSi_lettre_actionnaires_2026-11-01.pdf ; texte intégral dans textes/S175.txt ; version web vérifiée identique le 01/11 à 21h.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S176",
+   "date_source": "2026-11-03",
+   "type": "CP",
+   "reference": "CP 2CRSi du 03/11/2026 : « Plus de 60 M€ de commande ferme : 2CRSi livrera 83 serveurs IA NVIDIA HGX B300 à Exaion d'ici à fin 2026 » (2 pages)",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF fourni par Picard (créé le 02/11 à 23:42 UTC), archivé : textes/pdf/2CRSi-CP-20261103-FR.pdf ; texte intégral dans textes/S176.txt. Non encore en ligne sur investors.2crsi.com le 03/11 à 9h35 : URL à relever.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S177",
+   "date_source": "2026-02-20",
+   "type": "CP",
+   "reference": "Communiqué EDF / MARA / NJJ du 20/02/2026 : finalisation de la prise de participation de 64 % de Mara France dans Exaion",
+   "url": "https://www.edf.fr/sites/groupe/files/2026-02/CP_Mara_NJJ_EDF.pdf",
+   "archive": "reference",
+   "note": "Conseil d'Exaion : 3 membres désignés par MARA, 3 par EDF Pulse Ventures, 1 par NJJ, plus le directeur général. NJJ Capital prend 10 % de Mara France. Accord initial annoncé le 11/08/2025 (communiqué EDF)."
   }
  ],
  "lieux": [
