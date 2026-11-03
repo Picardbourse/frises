@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T13:24",
+ "mis_a_jour": "2026-11-03T13:47",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 149,
-  "sources": 173
+  "sources": 174
  },
  "evenements": [
   {
@@ -1573,14 +1573,18 @@
    ],
    "statut": "doc",
    "titre": "AG 2025 : nomination d'EY comme commissaire aux comptes ; le conseil déclare « aucune convention » réglementée conclue en 2024-25",
-   "texte": "Le rapport du conseil sur les résolutions propose de ne pas renouveler la Fiduciaire de Révision et de nommer Ernst & Young Audit pour six ans, jusqu'à l'AG statuant sur l'exercice clos le 30/06/2031 (10e résolution) ; la lettre du PDG du 01/11/2026 indique qu'EY « a pris ses fonctions chez 2CRSi le 1er juillet 2025 ». Cinquième résolution : « aucune convention ni engagement réglementé n'a été conclu au cours de l'exercice clos le 30 juin 2025 ». Sur ce même exercice, le conseil avait autorisé la vente de 118 serveurs à ALISPALU (rapport semestriel, décembre 2024) et la convention de services HAW s'exécutait depuis le 01/06/2025 sans autorisation (rapport 2025-26). Autres résolutions : renouvellement de Lilla Merabet et de Marie-Estelle Schang (« administratrice et salariée de 2CRSi »), nomination de Nathalie Roos, rémunération globale des administrateurs de 150 000 €. Résultats des votes non archivés.",
+   "texte": "Le rapport du conseil sur les résolutions propose de ne pas renouveler la Fiduciaire de Révision et de nommer Ernst & Young Audit pour six ans, jusqu'à l'AG statuant sur l'exercice clos le 30/06/2031 (10e résolution) ; la lettre du PDG du 01/11/2026 indique qu'EY « a pris ses fonctions chez 2CRSi le 1er juillet 2025 ». Cinquième résolution : « aucune convention ni engagement réglementé n'a été conclu au cours de l'exercice clos le 30 juin 2025 ». Sur ce même exercice, le conseil avait autorisé la vente de 118 serveurs à ALISPALU (rapport semestriel, décembre 2024) et la convention de services HAW s'exécutait depuis le 01/06/2025 sans autorisation (rapport 2025-26). Autres résolutions : renouvellement de Lilla Merabet et de Marie-Estelle Schang (« administratrice et salariée de 2CRSi »), nomination de Nathalie Roos, rémunération globale des administrateurs de 150 000 €. Selon sa fiche de candidature, Lilla Merabet (administratrice indépendante depuis le 31/08/2022, présidente du comité d'audit et des risques selon le rapport 2025-26) « ne détient pas d'actions 2CRSi » ; mandats déclarés hors du groupe : DIAGNOSIC, OPTA CARE, École 42 Mulhouse, Oxymore Résolution ; mandats expirés au cours des cinq dernières années : « néant ». Ces listes recensent des mandats, non des participations. Résultats des votes non archivés.",
    "sources": [
     "S181",
-    "S175"
+    "S175",
+    "S184",
+    "S173"
    ],
    "sources_libelle": [
     "Rapport du conseil sur les résolutions de l'AG du 18/12/2025",
-    "Lettre aux actionnaires du 01/11/2026"
+    "Lettre aux actionnaires du 01/11/2026",
+    "Fiche de candidature de Lilla Merabet, AG du 18/12/2025",
+    "Rapport financier annuel 2025-2026, §2.6.3 et §2.6.4.1"
    ],
    "engagements": [],
    "liens": [
@@ -8666,6 +8670,16 @@
    "url": "https://www.pappers.fr/entreprise/haw-holding-alain-wilmouth-799911656",
    "archive": "reference",
    "note": "Actes : PV AG 05/12/2025 (principe de réduction de capital) ; décision de modification du capital et statuts 09/01/2026 ; PV mise à jour des statuts 21/10/2026. « Aucun compte n'est disponible pour cette entreprise. » CAC : EY Audit et SFR depuis 28/02/2020."
+  },
+  {
+   "id": "S184",
+   "date_source": "2025-12-03",
+   "type": "officiel",
+   "reference": "Renseignements relatifs à la candidature de Madame Lilla Merabet aux fonctions d'administrateur, AG mixte du 18/12/2025 (2 p.)",
+   "url": "https://investors.2crsi.com/blog/assemblees-generales-7",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/2CRSi_AG2025_fiche_candidat_Merabet.pdf. Publiée J-15 avant l'AG selon la fiche. Âge indiqué : 51 ans.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
