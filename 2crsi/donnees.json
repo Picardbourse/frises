@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T13:15",
+ "mis_a_jour": "2026-11-03T13:24",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 149,
-  "sources": 172
+  "sources": 173
  },
  "evenements": [
   {
@@ -2999,21 +2999,23 @@
    "majeur": true
   },
   {
-   "id": "2026-06-23_haw-capital",
-   "date": "2026-06-23",
-   "date_affichee": "23 juin 2026",
+   "id": "2026-01-09_haw-capital",
+   "date": "2026-01-09",
+   "date_affichee": "9 janv. 2026",
    "sujets": [
     "gouv",
     "pl"
    ],
    "statut": "doc",
-   "titre": "Capital de Holding Alain Wilmouth ramené à 22 910 €",
-   "texte": "Annonce BODACC « Modifications et mutations diverses » : capital de HAW de 22 910 € (25 000 € en avril 2025). L'écart, 2 090 €, correspond au nombre d'actions que détenait BNP Paribas Développement en avril 2025 (calcul ; l'annonce ne nomme pas d'associé sortant).",
+   "titre": "Réduction du capital de Holding Alain Wilmouth à 22 910 €, publiée en juin 2026",
+   "texte": "Réduction du capital de HAW, holding du PDG : assemblée générale du 05/12/2025 actant le principe d'une réduction de capital, puis décision de modification du capital et statuts mis à jour datés du 09/01/2026 (actes déposés au registre). La réduction n'est rendue publique que par l'annonce BODACC des 22-23/06/2026 « Modifications et mutations diverses » : capital de 22 910 € (25 000 € en avril 2025). L'écart, 2 090 €, correspond au nombre d'actions que détenait BNP Paribas Développement en avril 2025 (calcul ; ni les actes listés ni l'annonce ne nomment d'associé sortant). Comme ALISPALU, HAW n'a aucun compte annuel consultable au registre, bien qu'elle ait deux commissaires aux comptes (Ernst & Young Audit et Société Fiduciaire de Révision, depuis 2020).",
    "sources": [
+    "S183",
     "S180",
     "S179"
    ],
    "sources_libelle": [
+    "Fiche Pappers de HAW (liste des actes et des comptes), relevée le 03/11/2026",
     "BODACC B des 22-23/06/2026, annonce n° 3679",
     "PV de consultation écrite de HAW, 15/04/2025"
    ],
@@ -3024,25 +3026,26 @@
      "cible": "2025-04-15_haw-objet-capital"
     }
    ],
+   "revele_le": "2026-06-23",
    "seance": {
     "jour_de_bourse": true,
     "heure": null,
     "seances": [
      {
       "role": "jour",
-      "date": "2026-06-23",
-      "cloture": 27.62,
-      "volume": 1458328,
-      "variation_pct": 25.5,
-      "volume_vs_moy20": 3.7
+      "date": "2026-01-09",
+      "cloture": 10.82,
+      "volume": 150829,
+      "variation_pct": 2.3,
+      "volume_vs_moy20": 0.9
      },
      {
       "role": "suivante",
-      "date": "2026-06-24",
-      "cloture": 26.6,
-      "volume": 994258,
-      "variation_pct": -3.7,
-      "volume_vs_moy20": 2.2
+      "date": "2026-01-12",
+      "cloture": 10.9,
+      "volume": 112443,
+      "variation_pct": 0.7,
+      "volume_vs_moy20": 0.7
      }
     ]
    },
@@ -8654,6 +8657,15 @@
    "url": "https://www.pappers.fr/entreprise/alispalu-809572738",
    "archive": "reference",
    "note": ""
+  },
+  {
+   "id": "S183",
+   "date_source": "2026-11-03",
+   "type": "registre",
+   "reference": "Fiche Pappers de HAW Holding Alain Wilmouth (SIREN 799 911 656), relevée le 03/11/2026 : actes déposés et comptes annuels",
+   "url": "https://www.pappers.fr/entreprise/haw-holding-alain-wilmouth-799911656",
+   "archive": "reference",
+   "note": "Actes : PV AG 05/12/2025 (principe de réduction de capital) ; décision de modification du capital et statuts 09/01/2026 ; PV mise à jour des statuts 21/10/2026. « Aucun compte n'est disponible pour cette entreprise. » CAC : EY Audit et SFR depuis 28/02/2020."
   }
  ],
  "lieux": [
