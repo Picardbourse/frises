@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T13:47",
+ "mis_a_jour": "2026-11-03T15:14",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 149,
-  "sources": 174
+  "sources": 175
  },
  "evenements": [
   {
@@ -3011,17 +3011,17 @@
     "pl"
    ],
    "statut": "doc",
-   "titre": "Réduction du capital de Holding Alain Wilmouth à 22 910 €, publiée en juin 2026",
-   "texte": "Réduction du capital de HAW, holding du PDG : assemblée générale du 05/12/2025 actant le principe d'une réduction de capital, puis décision de modification du capital et statuts mis à jour datés du 09/01/2026 (actes déposés au registre). La réduction n'est rendue publique que par l'annonce BODACC des 22-23/06/2026 « Modifications et mutations diverses » : capital de 22 910 € (25 000 € en avril 2025). L'écart, 2 090 €, correspond au nombre d'actions que détenait BNP Paribas Développement en avril 2025 (calcul ; ni les actes listés ni l'annonce ne nomment d'associé sortant). Comme ALISPALU, HAW n'a aucun compte annuel consultable au registre, bien qu'elle ait deux commissaires aux comptes (Ernst & Young Audit et Société Fiduciaire de Révision, depuis 2020).",
+   "titre": "HAW, holding du PDG, rachète et annule les actions de BNP Paribas Développement pour 6,78 M€",
+   "texte": "Décisions unanimes des deux associés de HAW (Alain Wilmouth, 22 910 actions ; BNP Paribas Développement, 2 090 actions) du 05/12/2025 : réduction du capital de 25 000 € à 22 910 € « par voie de rachat de 2.090 actions à la société BNP PARIBAS DEVELOPPEMENT », au prix de 3 244 € par action, « soit un prix de 6.779.960 euros » ; l'excédent sur la valeur nominale (6 777 870 €) est imputé sur le report à nouveau débiteur. Décision de modification du capital et statuts mis à jour datés du 09/01/2026 ; l'opération n'est rendue publique que par l'annonce BODACC des 22-23/06/2026. Comme ALISPALU, HAW n'a aucun compte annuel consultable au registre, bien qu'elle ait deux commissaires aux comptes (Ernst & Young Audit et Société Fiduciaire de Révision, depuis 2020).",
    "sources": [
+    "S185",
     "S183",
-    "S180",
-    "S179"
+    "S180"
    ],
    "sources_libelle": [
+    "PV des décisions unanimes des associés de HAW du 05/12/2025 (acte déposé au greffe)",
     "Fiche Pappers de HAW (liste des actes et des comptes), relevée le 03/11/2026",
-    "BODACC B des 22-23/06/2026, annonce n° 3679",
-    "PV de consultation écrite de HAW, 15/04/2025"
+    "BODACC B des 22-23/06/2026, annonce n° 3679"
    ],
    "engagements": [],
    "liens": [
@@ -8679,6 +8679,16 @@
    "url": "https://investors.2crsi.com/blog/assemblees-generales-7",
    "archive": "integral",
    "note": "PDF fourni par Picard : textes/pdf/2CRSi_AG2025_fiche_candidat_Merabet.pdf. Publiée J-15 avant l'AG selon la fiche. Âge indiqué : 51 ans.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S185",
+   "date_source": "2025-12-05",
+   "type": "registre",
+   "reference": "Holding Alain Wilmouth : procès-verbal des décisions unanimes des associés du 05/12/2025 (réduction de capital par rachat des actions de BNP Paribas Développement), acte déposé au greffe (4 p.)",
+   "url": "https://www.pappers.fr/entreprise/haw-holding-alain-wilmouth-799911656",
+   "archive": "integral",
+   "note": "PDF transmis par un lecteur : textes/pdf/HAW_PV_reduction_capital_2025-12-05.pdf. Nom du représentant de BNP masqué dans le texte archivé.",
    "texte_archive": "sources_textes.json"
   }
  ],
