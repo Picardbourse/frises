@@ -8,11 +8,12 @@
   },
   "statut_engagement": {
    "ok": "tenu",
-   "warn": "recalé (échéance ou montant revu)",
-   "bad": "échu sans communication",
-   "nd": "passé, non documenté à ce jour",
-   "todo": "à venir"
+   "warn": "recalé ou compromis : échéance ou montant revu, ou condition non remplie (peut concerner une échéance future)",
+   "bad": "non tenu : échu sans réalisation, objectif manqué ou échu sans communication",
+   "nd": "échu, issue non documentée à ce jour",
+   "todo": "à venir, pas encore échu"
   },
+  "engagements": "chaque engagement est rangé dans l'événement qui l'annonce (champ engagements) ; certains émanent de tiers (client, partenaire, autorité), ce que précise le texte de l'événement ; statue_par = source qui a fixé le statut",
   "liens": "relations entre événements : reporte, confirme, infirme, précise",
   "sources_forum": "une source de type forum ne vaut que pour le document qu'elle cite ou reproduit",
   "seance": "pour un événement daté au jour près : séance(s) de bourse correspondantes (role jour = séance de la date, suivante = séance qui suit) ; variation_pct = clôture rapportée à la clôture précédente ; volume_vs_moy20 = volume rapporté à la moyenne des 20 séances précédentes ; aucune causalité n'est affirmée",
@@ -21,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T04:28",
+ "mis_a_jour": "2026-11-03T10:56",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {

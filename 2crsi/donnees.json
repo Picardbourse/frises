@@ -8,11 +8,12 @@
   },
   "statut_engagement": {
    "ok": "tenu",
-   "warn": "recalé (échéance ou montant revu)",
-   "bad": "échu sans communication",
-   "nd": "passé, non documenté à ce jour",
-   "todo": "à venir"
+   "warn": "recalé ou compromis : échéance ou montant revu, ou condition non remplie (peut concerner une échéance future)",
+   "bad": "non tenu : échu sans réalisation, objectif manqué ou échu sans communication",
+   "nd": "échu, issue non documentée à ce jour",
+   "todo": "à venir, pas encore échu"
   },
+  "engagements": "chaque engagement est rangé dans l'événement qui l'annonce (champ engagements) ; certains émanent de tiers (client, partenaire, autorité), ce que précise le texte de l'événement ; statue_par = source qui a fixé le statut",
   "liens": "relations entre événements : reporte, confirme, infirme, précise",
   "sources_forum": "une source de type forum ne vaut que pour le document qu'elle cite ou reproduit",
   "seance": "pour un événement daté au jour près : séance(s) de bourse correspondantes (role jour = séance de la date, suivante = séance qui suit) ; variation_pct = clôture rapportée à la clôture précédente ; volume_vs_moy20 = volume rapporté à la moyenne des 20 séances précédentes ; aucune causalité n'est affirmée",
@@ -21,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T10:15",
+ "mis_a_jour": "2026-11-03T10:56",
  "arrete_au": "2026-11-03",
  "version_provisoire": false,
  "config": {
@@ -1318,9 +1319,9 @@
      "id": "2025-10-30_resultats-2024-25#e1",
      "texte": "Objectif d'EBITDA de 36 M€ pour l'exercice 2025/26",
      "echeance": "2026-10-29",
-     "statut": "todo",
-     "statue_par": null,
-     "note": "Objectif réaffirmé le 26/03/2026 sous la forme « un EBITDA supérieur à 36 M€, en fonction du rythme de déploiement des projets » (S006) ; vérifiable avec les comptes certifiés du 29/10."
+     "statut": "bad",
+     "statue_par": "S172",
+     "note": "EBITDA 2025/26 de 34,2 M€ dans les comptes arrêtés le 30/10/2026 (non certifiés), « 1,8 M€ en deçà de l'objectif » (S172). Objectif réaffirmé le 26/03/2026 sous la forme « un EBITDA supérieur à 36 M€ » (S006)."
     }
    ],
    "liens": [
@@ -5715,7 +5716,7 @@
     "pl"
    ],
    "statut": "doc",
-   "titre": "Création d'AETHER Services, quatrième filiale à 100 % d'AETHER Infrastructures en dix jours",
+   "titre": "Création d'AETHER Services, troisième filiale à 100 % d'AETHER Infrastructures en dix jours",
    "texte": "SASU au capital de 1 000 € (fonds déposés au CIC Est), statuts signés le 26/10/2026 et déposés le 28/10 au greffe de Sarreguemines, même domiciliation (7 place de la Gare). Associée unique et présidente : AETHER Infrastructures (capital de 1 000 000 €), elle-même présidée par la holding d'Alain Wilmouth. Objet : « l'administration d'entreprises, la commercialisation des produits et services ainsi que l'administration et la gestion des sociétés du groupe auquel elle appartient, dans les domaines du management, du commercial, de la finance, de la comptabilité, du juridique, des ressources humaines et de la qualité », l'activité de consultant et de formateur, et la prise de participations. Exercice clos au 30 juin, premier exercice au 30/06/2027. Statuts de type courant : contrairement à ceux d'AETHER Compute E, ni clause de contrôle européen, ni comité stratégique, ni règle de mise en concurrence pour les conventions avec l'associé. Elle s'ajoute à AETHER Facilities SXB2 (16/10) et AETHER Compute E (21/10) ; le CP du 12/10 annonçait trois pôles (Utilities, Facilities, Compute), pas de société de services. Aucun associé extérieur au groupe de la holding du PDG à ce stade.",
    "sources": [
     "S164",
@@ -6536,13 +6537,15 @@
    "sujet": "nygc",
    "question": "610 M$ ou 610 M€, et quel lien avec la commande de 290 M$ ?",
    "etat": "Le CP du 23/07/2026 écrit « 610 M€ », les autres pièces « 610 M$ ». Le CP du 29/09/2025 rattache la commande de 290 M$ au contrat global de 610 M$, que la réponse du 16/07/2026 présente séparément.",
-   "attendu": "Une clarification écrite de la société."
+   "attendu": "Une clarification écrite de la société.",
+   "sources": []
   },
   {
    "sujet": "nygc",
    "question": "Quelle est la puissance du site de Buena Vista ?",
    "etat": "Environ 40 MW d'ici fin 2027 (CP du 29/09/2025), 5 puis environ 15 MW (réponse du 16/07/2026), 16 MW (page Facebook de NYGC, séance du comté d'Amador du 22/09/2026). Le site de NYGC (capture du 11/10/2026) indique 16 MW.",
-   "attendu": "Un chiffre de référence de NYGC ou de la société, ou une pièce du comté."
+   "attendu": "Un chiffre de référence de NYGC ou de la société, ou une pièce du comté.",
+   "sources": []
   },
   {
    "sujet": "nygc",
@@ -6569,13 +6572,15 @@
    "sujet": "nygc",
    "question": "Qu'est-ce que Green Buffalo Data ?",
    "etat": "Société liée au dirigeant de NYGC, citée par le PDG de 2CRSi au webinaire du 19/06/2026 (33:56) ; identité non établie.",
-   "attendu": "Un registre de sociétés ou une communication de NYGC."
+   "attendu": "Un registre de sociétés ou une communication de NYGC.",
+   "sources": []
   },
   {
    "sujet": "nygc",
    "question": "Le campus 2CRSi de Rouses Point (2021) a-t-il un lien avec le data center NYGC de la même commune ?",
    "etat": "Aucune pièce ne relie les deux.",
-   "attendu": "Une communication de la société ou de NYGC."
+   "attendu": "Une communication de la société ou de NYGC.",
+   "sources": []
   },
   {
    "sujet": "aether",
@@ -6590,7 +6595,8 @@
    "sujet": "aether",
    "question": "Le raccordement électrique de FR-SXB1 est-il proposé ?",
    "etat": "Des propositions de RTE étaient attendues « avant fin juillet 2026 » ; aucune communication depuis.",
-   "attendu": "Une communication de la société ou de RTE."
+   "attendu": "Une communication de la société ou de RTE.",
+   "sources": []
   },
   {
    "sujet": "aether",
@@ -6633,67 +6639,71 @@
    "sujet": "valeo",
    "question": "Quel est le statut réglementaire du fluide diphasique utilisé ?",
    "etat": "Le statut PFAS / REACH du fluide Opteon 2P50, sa production en volume et une éventuelle certification NVIDIA ne sont pas documentés dans la frise.",
-   "attendu": "Les pièces de l'ECHA, de Chemours et de NVIDIA."
+   "attendu": "Les pièces de l'ECHA, de Chemours et de NVIDIA.",
+   "sources": []
   },
   {
    "sujet": "res",
    "question": "Quelle est la politique d'annonce des contrats ?",
    "etat": "Une règle « contrats annoncés une fois livrés et payés » est attribuée au dirigeant sur le forum, sans pièce publique retrouvée (elle ne figure pas dans le webinaire du 19/06/2026).",
-   "attendu": "La source d'origine (interview, réponse écrite) ou une communication de la société."
+   "attendu": "La source d'origine (interview, réponse écrite) ou une communication de la société.",
+   "sources": []
   },
   {
    "sujet": "res",
    "question": "Propos attribués au dirigeant sans source publique",
    "etat": "Plusieurs propos circulent sans pièce : révision à la hausse des 290 M$, fourchette d'EBITDA, livraisons « à partir de septembre 2026 », réajustement du contrat malaisien. Ils ne sont pas repris comme faits.",
-   "attendu": "L'enregistrement ou le texte d'origine."
+   "attendu": "L'enregistrement ou le texte d'origine.",
+   "sources": []
   },
   {
    "sujet": "res",
    "question": "Historique des comptes et des guidances",
    "etat": "Les rapports annuels 2021/22 à 2024/25 et l'historique des guidances de chiffre d'affaires ne sont pas encore archivés dans la frise.",
-   "attendu": "Les documents de référence et CP d'origine."
+   "attendu": "Les documents de référence et CP d'origine.",
+   "sources": []
   },
   {
    "sujet": "res",
    "question": "Calendrier de communication financière 2026/27",
    "etat": "Heure de publication du 29/10/2026 et dates des publications suivantes non confirmées par un calendrier officiel.",
-   "attendu": "Le calendrier financier de la société."
+   "attendu": "Le calendrier financier de la société.",
+   "sources": []
   },
   {
    "sujet": "griz",
    "question": "Qui est l'expert indépendant ?",
    "etat": "Le CP du 15/09/2026 ne nomme pas le cabinet. Les noms avancés publiquement ne reposent sur aucune pièce.",
-   "attendu": "Une communication de la société (rapport attendu avant fin octobre)."
+   "attendu": "Une communication de la société (rapport attendu avant fin octobre).",
+   "sources": []
   },
   {
    "sujet": "griz",
    "question": "Quel lien entre Grizzly Capital Management LP et Grizzly Research ?",
    "etat": "Le registre AMF des positions courtes nomme Grizzly Capital Management LP ; le rapport de Grizzly Research ne nomme pas de fonds.",
-   "attendu": "Une pièce officielle reliant les deux entités."
+   "attendu": "Une pièce officielle reliant les deux entités.",
+   "sources": []
   },
   {
    "sujet": "griz",
    "question": "D'où vient l'engagement de répondre à tous les points « d'ici fin octobre » ?",
    "etat": "La formule circule ; la source exacte (CP du 05/08/2026 ou autre) reste à rattacher.",
-   "attendu": "Le texte du communiqué concerné."
-  },
-  {
-   "sujet": "gouv",
-   "question": "Qui sont les commissaires aux comptes ?",
-   "etat": "Leur identité n'est pas encore rattachée à une pièce dans la frise.",
-   "attendu": "Le document de référence ou le rapport financier annuel."
+   "attendu": "Le texte du communiqué concerné.",
+   "sources": []
   },
   {
    "sujet": "mkt",
    "question": "Historique de cours officiel",
    "etat": "Plusieurs cours cités (plus haut du 02/06/2026, suspension du 18 au 22/06, réservations de cotation) n'ont pas encore de source officielle archivée.",
-   "attendu": "Les avis et historiques Euronext."
+   "attendu": "Les avis et historiques Euronext.",
+   "sources": []
   },
   {
    "sujet": "mkt",
    "question": "Position Voleon au registre AMF",
    "etat": "Une position datée du 02/06/2026 n'apparaît dans les publications qu'à partir du 18/08/2026.",
-   "attendu": "Une explication de l'AMF ou du déclarant."
+   "attendu": "Une explication de l'AMF ou du déclarant.",
+   "sources": []
   },
   {
    "sujet": "mkt",
@@ -6708,19 +6718,22 @@
    "sujet": "autre",
    "question": "Projets annoncés sans bilan public",
    "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu.",
-   "attendu": "Une communication de la société, de ses partenaires ou de Bpifrance."
+   "attendu": "Une communication de la société, de ses partenaires ou de Bpifrance.",
+   "sources": []
   },
   {
    "sujet": "autre",
    "question": "Distinctions et niveau de partenariat NVIDIA",
    "etat": "Les distinctions citées (« Rising Star », « Star Performer ») et le niveau de partenariat ne sont pas documentés.",
-   "attendu": "Les pièces de NVIDIA ou de la société."
+   "attendu": "Les pièces de NVIDIA ou de la société.",
+   "sources": []
   },
   {
    "sujet": "autre",
    "question": "Interviews du dirigeant à archiver",
    "etat": "Les Echos (26/06/2026), RAISE 2026 (8–9/07), Journal des Entreprises (22/06/2026) : textes ou transcriptions non encore archivés.",
-   "attendu": "Les articles et enregistrements d'origine."
+   "attendu": "Les articles et enregistrements d'origine.",
+   "sources": []
   },
   {
    "sujet": "aether",
