@@ -22,13 +22,13 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-04",
- "mis_a_jour": "2026-11-04T12:18",
+ "mis_a_jour": "2026-11-04T21:44",
  "arrete_au": "2026-11-04",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
   "nom": "VusionGroup",
-  "intro": "Chronologie des communiqués, registres, articles de presse et déclarations publiques des dirigeants, de 2021 aux échéances annoncées. Chaque ligne porte une date et une source ; chaque source est consultable. Les engagements datés sont suivis jusqu'à leur échéance.",
+  "intro": "Chronologie des communiqués, registres, articles de presse et déclarations publiques des dirigeants, de 2021 aux échéances annoncées. Chaque ligne porte une date et une source ; chaque source est consultable. Les engagements datés sont suivis jusqu'à leur échéance. Les sources « CP » sont les communiqués diffusés par le canal réglementé (Actusnews, déposés à l'AMF) ; « CP newsroom », les annonces publiées seulement sur le site ou les fils commerciaux de la société ; « CP tiers », les communiqués d'un client ou d'un partenaire.",
   "note_exercice": "Exercice fiscal sur l'année civile.",
   "avertissement": "Plusieurs échéances tombent dans les semaines qui viennent, dont le chiffre d'affaires du 3e trimestre (20/10/2026) et le Capital Markets Day du 18/11/2026 : la frise sera mise à jour après chacune.",
   "contact": "picard_bourse@proton.me",
@@ -1794,7 +1794,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2024-08-09_sesim",
@@ -2328,7 +2328,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2025-06-24_eroski",
@@ -2370,7 +2370,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2025-06-30_walmart-exerce",
@@ -2718,7 +2718,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2025-11-26_obi",
@@ -2760,7 +2760,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-01-07_vusion",
@@ -2905,7 +2905,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-02-04_extra-shop",
@@ -2947,7 +2947,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-02-12_s3892",
@@ -3092,7 +3092,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-02-26_resultats-2025",
@@ -3301,7 +3301,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-03-25_darty-tous-magasins",
@@ -3730,7 +3730,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-05-05_coop-estonie",
@@ -3772,7 +3772,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2026-06-01_exane",
@@ -5789,12 +5789,18 @@
    ],
    "statut": "doc",
    "titre": "Royaume-Uni : Marks & Spencer va déployer EdgeSense dans plusieurs nouveaux magasins",
-   "texte": "Vusion annonce que Marks & Spencer va déployer sa plateforme de magasin connecté EdgeSense (rails intelligents compatibles Bluetooth) « dans plusieurs nouveaux magasins M&S, avec la possibilité d'une extension à d'autres points de vente par la suite ». Premiers usages : gestion de l'information produit, localisation des articles par étiquettes clignotantes, réassort et exécution en rayon. Le communiqué ne donne ni nombre de magasins, ni montant, ni calendrier.",
+   "texte": "Vusion annonce que Marks & Spencer va déployer sa plateforme de magasin connecté EdgeSense (rails intelligents compatibles Bluetooth) « dans plusieurs nouveaux magasins M&S, avec la possibilité d'une extension à d'autres points de vente par la suite ». Premiers usages : gestion de l'information produit, localisation des articles par étiquettes clignotantes, réassort et exécution en rayon. Le communiqué ne donne ni nombre de magasins, ni montant, ni calendrier. Annonce diffusée par le canal réglementé (Actusnews), alors que des déploiements chiffrés de taille comparable ont été annoncés sur la seule newsroom de la société (Senukai, 94 magasins, 28/01/2026 ; Extra Shop, 40 magasins, 04/02/2026 ; INTERSPAR, 27 hypermarchés, 18/03/2026).",
    "sources": [
-    "S156"
+    "S156",
+    "S090",
+    "S091",
+    "S082"
    ],
    "sources_libelle": [
-    "CP Vusion du 04/11/2026"
+    "CP Vusion du 04/11/2026",
+    "Vusion (newsroom), 28/01/2026 : Senukai",
+    "Vusion (newsroom), 04/02/2026 : Extra Shop",
+    "Vusion (newsroom), 18/03/2026 : INTERSPAR"
    ],
    "engagements": [],
    "liens": [],
@@ -6708,7 +6714,7 @@
   {
    "id": "S082",
    "date_source": "2026-03-18",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "Vusion (newsroom), 18/03/2026 : « Vusion Partners with INTERSPAR to Bring its Customers' Experience to the Next Level »",
    "url": "https://www.vusion.com/newsroom/vusion-partners-interspar-bring-its-customers-experience-to-the-next-level/",
    "archive": "integral",
@@ -6718,7 +6724,7 @@
   {
    "id": "S083",
    "date_source": "2026-05-05",
-   "type": "CP",
+   "type": "CP tiers",
    "reference": "StrongPoint, 05/05/2026 : « StrongPoint and Vusion chosen by Estonian grocery retailer Coop for the digitalization of their stores »",
    "url": "https://www.strongpoint.com/news/strongpoint-and-vusion-chosen-by-estonian-grocery-retailer-coop-for-the-digitalization-of-their-stores/",
    "archive": "integral",
@@ -6788,7 +6794,7 @@
   {
    "id": "S090",
    "date_source": "2026-01-28",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "Vusion (newsroom), 28/01/2026 : « Senukai, Baltics' Largest DIY Chain, Partners with Vusion to Accelerate Store Digitalization »",
    "url": "https://www.vusion.com/newsroom/senukai-partners-with-vusion-accelerate-store-digitalization",
    "archive": "integral",
@@ -6798,7 +6804,7 @@
   {
    "id": "S091",
    "date_source": "2026-02-04",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "Vusion (newsroom), 04/02/2026 : « Belgian Retailer Extra Shop Adopts Vusion's Innovative Solutions to Digitalize its Stores »",
    "url": "https://www.vusion.com/newsroom/belgian-retailer-extra-shop-adopts-vusions-innovative-solutions-digitalize-stores/",
    "archive": "integral",
@@ -6808,7 +6814,7 @@
   {
    "id": "S092",
    "date_source": "2025-10-31",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (newsroom), 31/10/2025 : partenariat stratégique avec dm-drogerie markt (EdgeSense)",
    "url": "https://www.vusion.com/newsroom/vusiongroup-announces-strategic-partnership-dm-accelerate-store-digitalization-edgesense",
    "archive": "integral",
@@ -6818,7 +6824,7 @@
   {
    "id": "S093",
    "date_source": "2025-11-26",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (newsroom), 26/11/2025 : « German DIY retailer OBI Enhances Retail Operational Efficiency and Customer Experience with VusionGroup Technologies »",
    "url": "https://www.vusion.com/newsroom/german-diy-retailer-obi-enhances-retail-operational-efficiency-customer-experience-vusiongroup-technologies",
    "archive": "integral",
@@ -6848,7 +6854,7 @@
   {
    "id": "S097",
    "date_source": "2024-08-07",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (Business Wire), 07/08/2024 : « Ace Hardware Selects VusionGroup's Innovative Solutions to Enhance Retail Experience »",
    "url": "https://www.businesswire.com/news/home/20240807051295/en",
    "archive": "integral",
@@ -7028,7 +7034,7 @@
   {
    "id": "S114",
    "date_source": "2025-06-24",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (newsroom), 24/06/2025 : partenariat avec Eroski pour la transformation numérique de la distribution alimentaire espagnole",
    "url": "https://www.vusion.com/newsroom/vusiongroup-eroski-partner-drive-digital-transformation-spanish-grocery-retail/",
    "archive": "integral",
@@ -7138,7 +7144,7 @@
   {
    "id": "S125",
    "date_source": "2025-06-12",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (newsroom), 12/06/2025 : Carrefour et VusionGroup testent le magasin connecté de nouvelle génération avec EdgeSense (VivaTech 2025)",
    "url": "https://www.vusion.com/newsroom/carrefour-vusiongroup-test-new-generation-connected-stores-edgesense/",
    "archive": "integral",
@@ -7158,7 +7164,7 @@
   {
    "id": "S127",
    "date_source": "2026-04-28",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (newsroom) : « Vusion Named to TIME100 Most Influential Companies of 2026 and Top 10 Leaders in Retail »",
    "url": "https://www.vusion.com/newsroom/vusion-named-to-times-top-10-most-influential-retail-companies-of-2026/",
    "archive": "integral",
@@ -7228,7 +7234,7 @@
   {
    "id": "S134",
    "date_source": "2026-02-24",
-   "type": "CP",
+   "type": "CP newsroom",
    "reference": "VusionGroup (newsroom), 24/02/2026 : « German Fashion Retailer L&T Awarded for the Digitalization of its Store Thanks to Vusion and GK Software Smart Solutions »",
    "url": "https://www.vusion.com/newsroom/german-fashion-retailer-lt-awarded-digitalization-store-thanks-to-vusion-and-gk-software",
    "archive": "integral",

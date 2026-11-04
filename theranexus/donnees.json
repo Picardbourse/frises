@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-04",
- "mis_a_jour": "2026-11-04T17:43",
+ "mis_a_jour": "2026-11-04T21:44",
  "arrete_au": "2026-11-04",
  "version_provisoire": false,
  "config": {
@@ -278,7 +278,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2017-10-25_ipo-prix-15-50"
     }
    ],
@@ -422,7 +422,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2018-04-19_autorisation-hongrie-thn102"
     }
    ],
@@ -523,7 +523,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2018-04-19_autorisation-hongrie-thn102"
     }
    ],
@@ -923,7 +923,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2019-02-27_thn102-narcolepsie-resultats"
     }
    ],
@@ -1049,7 +1049,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2019-07-10_lancement-placement-reserve"
     }
    ],
@@ -1195,7 +1195,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2019-06-27_term-sheet-bbdf"
     }
    ],
@@ -1284,7 +1284,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2019-09-24_dernier-patient-parkinson"
     }
    ],
@@ -1309,7 +1309,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2020-03-31_thn102-parkinson-resultats"
     }
    ],
@@ -1382,7 +1382,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2019-12-12_licence-bbdf-101"
     }
    ],
@@ -1493,7 +1493,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2020-06-24_fda-demande-securite-trehalose"
     }
    ],
@@ -1631,7 +1631,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2020-08-11_odd-rpdd-fda-bbdf101"
     }
    ],
@@ -1740,7 +1740,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2020-07-09_tresorerie-juin-2020-ligne-iris"
     }
    ],
@@ -1975,7 +1975,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2020-08-11_odd-rpdd-fda-bbdf101"
     }
    ],
@@ -2103,7 +2103,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2021-01-18_tresorerie-fin-2020-ligne-iris"
     }
    ],
@@ -2154,7 +2154,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2021-09-09_ind-bbdf-101"
     }
    ],
@@ -2182,7 +2182,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2022-02-03_recrutement-phase-1-2-batten"
     }
    ],
@@ -2227,7 +2227,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2022-04-25_recentrage-maladies-rares"
     }
    ],
@@ -2288,7 +2288,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2020-03-31_thn102-parkinson-resultats"
     }
    ],
@@ -2354,7 +2354,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2022-01-13_tresorerie-fin-2021-ligne-iris"
     }
    ],
@@ -2383,7 +2383,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2022-02-03_recrutement-phase-1-2-batten"
     }
    ],
@@ -2487,7 +2487,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2022-09-08_fin-recrutement-phase-1-2"
     }
    ],
@@ -2826,7 +2826,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2023-07-12_levee-3-1m-1-28"
     }
    ],
@@ -3173,7 +3173,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2024-04-18_donnees-finales-18-mois"
     }
    ],
@@ -3338,7 +3338,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2024-07-11_tresorerie-juin-2024-cout-phase-3"
     }
    ],
@@ -3485,7 +3485,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2024-12-17_licence-exeltis-tx01"
     }
    ],
@@ -3521,7 +3521,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2024-10-17_synerlab-mig-os"
     }
    ],
@@ -3803,7 +3803,7 @@
    ],
    "liens": [
     {
-     "type": "contredit",
+     "type": "infirme",
      "cible": "2023-05-09_accord-fda-design-phase-3"
     }
    ],
@@ -3847,7 +3847,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2024-12-17_licence-exeltis-tx01"
     }
    ],
@@ -3897,7 +3897,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2025-09-29_theranexus-devient-thx-pharma"
     }
    ],
@@ -3923,7 +3923,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2025-10-23_lancement-augmentation-capital-dps"
     }
    ],
@@ -3994,7 +3994,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2025-10-14_exeltis-renonce-remboursement"
     }
    ],
@@ -4150,7 +4150,7 @@
    ],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2025-10-14_exeltis-renonce-remboursement"
     }
    ],
@@ -4315,11 +4315,11 @@
    ],
    "liens": [
     {
-     "type": "contredit",
+     "type": "infirme",
      "cible": "2023-05-09_accord-fda-design-phase-3"
     },
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2026-02-10_accord-biocodex-173m"
     }
    ],
@@ -4434,7 +4434,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2026-09-01_depot-phase-3-batten-1-02"
     }
    ],
@@ -4480,7 +4480,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2026-06-09_pip-ema-tx01"
     }
    ],
@@ -4531,7 +4531,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2026-09-01_depot-phase-3-batten-1-02"
     }
    ],
@@ -4582,7 +4582,7 @@
    "engagements": [],
    "liens": [
     {
-     "type": "suit",
+     "type": "precise",
      "cible": "2026-02-10_accord-biocodex-173m"
     }
    ],
