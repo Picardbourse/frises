@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T13:15",
- "arrete_au": "2026-11-03",
+ "genere_le": "2026-11-04",
+ "mis_a_jour": "2026-11-04T12:15",
+ "arrete_au": "2026-11-04",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -69,8 +69,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 127,
-  "sources": 154
+  "evenements": 128,
+  "sources": 155
  },
  "evenements": [
   {
@@ -5779,6 +5779,26 @@
     }
    ],
    "majeur": false
+  },
+  {
+   "id": "2026-11-04_marks-spencer",
+   "date": "2026-11-04",
+   "date_affichee": "4 nov. 2026",
+   "sujets": [
+    "contrats"
+   ],
+   "statut": "doc",
+   "titre": "Royaume-Uni : Marks & Spencer va déployer EdgeSense dans plusieurs nouveaux magasins",
+   "texte": "Vusion annonce que Marks & Spencer va déployer sa plateforme de magasin connecté EdgeSense (rails intelligents compatibles Bluetooth) « dans plusieurs nouveaux magasins M&S, avec la possibilité d'une extension à d'autres points de vente par la suite ». Premiers usages : gestion de l'information produit, localisation des articles par étiquettes clignotantes, réassort et exécution en rayon. Le communiqué ne donne ni nombre de magasins, ni montant, ni calendrier.",
+   "sources": [
+    "S156"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 04/11/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": true
   }
  ],
  "questions_ouvertes": [
@@ -7423,6 +7443,16 @@
    "url": "https://www.tradingsat.com/vusion-ex-ses-imagotag-FR0010282822/actualites/vusion-ex-ses-imagotag-logiciels-publicite-en-magasin-comment-citi-voit-vusion-negocier-l-apres-walmart-et-gagner-86-en-bourse-1172953.html",
    "archive": "reference",
    "note": ""
+  },
+  {
+   "id": "S156",
+   "date_source": "2026-11-04",
+   "type": "CP",
+   "reference": "CP Vusion du 04/11/2026, 8h00 : « Marks & Spencer va déployer la plateforme Vusion dans ses nouveaux magasins »",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/Vusion_CP_2026-11-04_Marks_Spencer.pdf (1 p.).",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
