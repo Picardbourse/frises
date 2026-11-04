@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-04",
- "mis_a_jour": "2026-11-04T21:44",
+ "mis_a_jour": "2026-11-04T21:45",
  "arrete_au": "2026-11-04",
  "version_provisoire": false,
  "config": {
@@ -5703,6 +5703,28 @@
      "cible": "2026-05-05_coop-estonie"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-27",
+      "cloture": 129.9,
+      "volume": 38468,
+      "variation_pct": 4.5,
+      "volume_vs_moy20": 1.0
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-28",
+      "cloture": 127.8,
+      "volume": 27333,
+      "variation_pct": -1.6,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -5728,6 +5750,28 @@
      "cible": "2026-07-27_ism"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 134.2,
+      "volume": 43724,
+      "variation_pct": 5.0,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 134.8,
+      "volume": 45833,
+      "variation_pct": 0.4,
+      "volume_vs_moy20": 1.1
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5753,6 +5797,28 @@
      "cible": "2026-11-18_capital-markets-day"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-02",
+      "cloture": 136.9,
+      "volume": 80402,
+      "variation_pct": 1.6,
+      "volume_vs_moy20": 1.9
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-03",
+      "cloture": 140.2,
+      "volume": 46914,
+      "variation_pct": 2.4,
+      "volume_vs_moy20": 1.1
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -5804,6 +5870,20 @@
    ],
    "engagements": [],
    "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-04",
+      "cloture": 144.4,
+      "volume": 65314,
+      "variation_pct": 3.0,
+      "volume_vs_moy20": 1.4
+     }
+    ]
+   },
    "majeur": true
   }
  ],
@@ -9469,7 +9549,14 @@
    "2026-10-21",
    "2026-10-22",
    "2026-10-23",
-   "2026-10-26"
+   "2026-10-26",
+   "2026-10-27",
+   "2026-10-28",
+   "2026-10-29",
+   "2026-10-30",
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04"
   ],
   "cloture": [
    35.8,
@@ -10961,7 +11048,14 @@
    125.6,
    124.6,
    124.5,
-   124.3
+   124.3,
+   129.9,
+   127.8,
+   134.2,
+   134.8,
+   136.9,
+   140.2,
+   144.4
   ],
   "volume": [
    14641,
@@ -12453,7 +12547,14 @@
    187817,
    76643,
    39896,
-   33516
+   33516,
+   38468,
+   27333,
+   43724,
+   45833,
+   80402,
+   46914,
+   65314
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"

@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-03",
- "mis_a_jour": "2026-11-03T23:12",
- "arrete_au": "2026-11-03",
+ "genere_le": "2026-11-04",
+ "mis_a_jour": "2026-11-04T21:45",
+ "arrete_au": "2026-11-04",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -5765,6 +5765,14 @@
       "volume": 96490,
       "variation_pct": 0.9,
       "volume_vs_moy20": 0.4
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-27",
+      "cloture": 28.16,
+      "volume": 136269,
+      "variation_pct": 4.8,
+      "volume_vs_moy20": 0.6
      }
     ]
    },
@@ -5794,6 +5802,28 @@
      "cible": "2024-01-15_contrat-cadre-610"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5821,6 +5851,28 @@
      "cible": "2026-06-19_webinaire-church"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5861,6 +5913,28 @@
      "cible": "2026-07-16_reponse-grizzly"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5895,6 +5969,28 @@
      "cible": "2025-09-29_commande-290"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5933,6 +6029,28 @@
      "cible": "2026-06-22_aw-linkedin-bmo"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5963,6 +6081,28 @@
      "cible": "2025-03-17_cloud-solutions"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -5988,6 +6128,28 @@
      "cible": "2026-10-30_resultats-2025-26"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-29",
+      "cloture": 26.8,
+      "volume": 179630,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6040,6 +6202,28 @@
      "cible": "2026-08-05_aether-gouvernance"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6071,6 +6255,28 @@
      "cible": "2024-12-31_alispalu-serveurs"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6103,6 +6309,28 @@
      "cible": "2026-10-29_expert-geo-allemand"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6146,6 +6374,28 @@
      "cible": "2026-10-29_report-resultats"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-30",
+      "cloture": 21.92,
+      "volume": 1205999,
+      "variation_pct": -18.2,
+      "volume_vs_moy20": 5.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6179,6 +6429,20 @@
      "cible": "2026-10-31_rfa-2025-26"
     }
    ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -6248,6 +6512,20 @@
      "cible": "2026-10-30_aether-20mw-adimes"
     }
    ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6360,6 +6638,20 @@
      "cible": "2026-10-30_impossibilite-certifier"
     }
    ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6416,6 +6708,28 @@
      "cible": "2027-06-30_cloture-2026-27"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-04",
+      "cloture": 17.87,
+      "volume": 1469219,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 3.9
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -6572,6 +6886,28 @@
      "cible": "2026-11-01_lettre-actionnaires"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-04",
+      "cloture": 17.87,
+      "volume": 1469219,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 3.9
+     }
+    ]
+   },
    "majeur": true
   }
  ],
@@ -10647,7 +10983,14 @@
    "2026-10-21",
    "2026-10-22",
    "2026-10-23",
-   "2026-10-26"
+   "2026-10-26",
+   "2026-10-27",
+   "2026-10-28",
+   "2026-10-29",
+   "2026-10-30",
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04"
   ],
   "cloture": [
    5.37,
@@ -12139,7 +12482,14 @@
    28.84,
    27.28,
    26.62,
-   26.86
+   26.86,
+   28.16,
+   27.52,
+   26.8,
+   21.92,
+   13.57,
+   16.59,
+   17.87
   ],
   "volume": [
    217653,
@@ -13631,7 +13981,14 @@
    199513,
    162575,
    117988,
-   96490
+   96490,
+   136269,
+   128577,
+   179630,
+   1205999,
+   976109,
+   1662805,
+   1469219
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
