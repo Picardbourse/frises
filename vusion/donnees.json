@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-04",
- "mis_a_jour": "2026-11-04T12:15",
+ "mis_a_jour": "2026-11-04T12:18",
  "arrete_au": "2026-11-04",
  "version_provisoire": false,
  "config": {
@@ -7449,7 +7449,7 @@
    "date_source": "2026-11-04",
    "type": "CP",
    "reference": "CP Vusion du 04/11/2026, 8h00 : « Marks & Spencer va déployer la plateforme Vusion dans ses nouveaux magasins »",
-   "url": "",
+   "url": "https://www.actusnews.com/news/101217-vusion_ms_pr_fr.pdf",
    "archive": "integral",
    "note": "PDF fourni par Picard : textes/pdf/Vusion_CP_2026-11-04_Marks_Spencer.pdf (1 p.).",
    "texte_archive": "sources_textes.json"
