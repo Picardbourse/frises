@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-04",
- "mis_a_jour": "2026-11-04T21:45",
- "arrete_au": "2026-11-04",
+ "genere_le": "2026-11-05",
+ "mis_a_jour": "2026-11-05T07:19",
+ "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 150,
-  "sources": 176
+  "evenements": 151,
+  "sources": 177
  },
  "evenements": [
   {
@@ -6909,6 +6909,53 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2026-11-03_citadel-057",
+   "date": "2026-11-03",
+   "date_affichee": "3 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Citadel Securities (Europe) : position courte nette de 0,57 %, de nouveau au-dessus du seuil de publication",
+   "texte": "Déclaration publiée par l'AMF le 04/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,57 % du capital de 2CRSi à la date du 03/11/2026. Sa précédente position publiée était de 0,37 % au 05/08/2026, sous le seuil de publication de 0,5 %. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
+   "sources": [
+    "S187"
+   ],
+   "sources_libelle": [
+    "Déclaration AMF DPC1148455 du 04/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-05_citadel-058"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-04",
+      "cloture": 17.87,
+      "volume": 1469219,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 3.9
+     }
+    ]
+   },
+   "majeur": false
   }
  ],
  "questions_ouvertes": [
@@ -9103,6 +9150,16 @@
    "url": "https://www.youtube.com/watch?v=tcq-IPBW-ww",
    "archive": "integral",
    "note": "Texte : textes/S186.txt, transcription automatique copiée par Picard ; noms propres et chiffres à vérifier à l'écoute.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S187",
+   "date_source": "2026-11-04",
+   "type": "registre",
+   "reference": "AMF, déclaration de position courte nette DPC1148455 (réf. 2026E1148455) : Citadel Securities (Europe) Limited, 2CRSi, 0,57 % au 03/11/2026, publiée le 04/11/2026",
+   "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/ventes-decouvert",
+   "archive": "integral",
+   "note": "PDF de la déclaration fourni par Picard : textes/pdf/AMF_DPC1148455_Citadel_2026-11-04.pdf. Déclaration établie sous la responsabilité du déclarant, non contrôlée par l'AMF.",
    "texte_archive": "sources_textes.json"
   }
  ],
