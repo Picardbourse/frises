@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T07:59",
+ "mis_a_jour": "2026-11-05T08:10",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -9220,9 +9220,9 @@
    "date_source": "2021-09-01",
    "type": "officiel",
    "reference": "Middlenext, « Code de gouvernement d'entreprise », Cahier n°14, nouvelle édition de septembre 2021 (code de référence déclaré par 2CRSi)",
-   "url": "https://www.highco.com/wp-content/uploads/2022/01/MiddleNext-Code-de-gouvernance-2021.pdf",
+   "url": "https://www.middlenext.com/IMG/pdf/c17_-_cahier_14_middlenext_code_de_gouvernance_2021.pdf",
    "archive": "reference",
-   "note": "Copie du code hébergée par une société cotée qui l'applique (HighCo), faute de version téléchargeable sur le site de Middlenext ; texte protégé, seuls de courts extraits sont cités.",
+   "note": "Version publiée sur le site de Middlenext (lien transmis par Picard le 05/11/2026). Texte protégé : seuls de courts extraits sont cités ; pages d'après la copie consultée.",
    "texte_archive": "sources_textes.json"
   },
   {
