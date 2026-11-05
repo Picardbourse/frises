@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T08:58",
+ "mis_a_jour": "2026-11-05T09:01",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -9232,7 +9232,7 @@
    "reference": "AMF, « Guide de l'information permanente et de la gestion de l'information privilégiée » (DOC-2016-08, créé le 26/10/2016, modifié le 29/04/2021), et recommandations connexes (DOC-2012-05 sur les assemblées générales et les conventions réglementées ; DOC-2014-15 sur internet et les médias sociaux ; vade-mecum pour les valeurs moyennes)",
    "url": "https://www.amf-france.org/sites/institutionnel/files/private/2024-12/2016-08-decembre-2024.pdf",
    "archive": "reference",
-   "note": "Texte affiché : fiche de lecture rédigée pour la frise (reformulation ; obligations distinguées des positions et recommandations de l'AMF). Pages 28 à 53 du guide non lues sur pièce : sections signalées dans la fiche. Le guide s'applique expressément à Euronext Growth ; DOC-2012-05 vise surtout le marché réglementé.",
+   "note": "Texte affiché : fiche de lecture rédigée pour la frise (reformulation ; obligations distinguées des positions et recommandations de l'AMF). Guide lu en entier : pages 1-27 sur la version de décembre 2024, pages 26-53 sur la version d'origine du 26/10/2016. Le guide s'applique expressément à Euronext Growth ; il signale ne pas intégrer le Listing Act. DOC-2012-05 vise surtout le marché réglementé.",
    "texte_archive": "sources_textes.json"
   },
   {
