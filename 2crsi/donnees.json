@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T08:53",
+ "mis_a_jour": "2026-11-05T08:58",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -235,6 +235,49 @@
    "engagements": [],
    "liens": [],
    "majeur": false
+  },
+  {
+   "id": "2022-11-25_transfert-euronext-growth",
+   "date": "2022-11-25",
+   "date_affichee": "25 nov. 2022",
+   "sujets": [
+    "gouv",
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Transfert de la cotation sur Euronext Growth Paris (mnémonique AL2SI) et radiation du marché réglementé",
+   "texte": "Le comité des admissions d'Euronext a approuvé le transfert le 21/11/2022 ; il prend effet le 25/11/2022, l'ISIN FR0013341781 étant inchangé. Motifs donnés : un marché « plus adapté à la taille » de la société, l'allègement des obligations administratives et la réduction des coûts. La société indique qu'elle continuera de publier une information « exacte, précise et sincère » et de rendre publiques les informations privilégiées (règlement MAR). Le communiqué ne dit rien du code de gouvernance appliqué après le transfert ; les rapports annuels suivants se réfèrent au code Middlenext.",
+   "sources": [
+    "S190"
+   ],
+   "sources_libelle": [
+    "CP du 25/11/2022"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2022-11-25",
+      "cloture": 2.505,
+      "volume": 3409,
+      "variation_pct": -2.3,
+      "volume_vs_moy20": 0.5
+     },
+     {
+      "role": "suivante",
+      "date": "2022-11-28",
+      "cloture": 2.54,
+      "volume": 19755,
+      "variation_pct": 1.4,
+      "volume_vs_moy20": 3.0
+     }
+    ]
+   },
+   "majeur": true
   },
   {
    "id": "2023-02-28_normes-francaises",
@@ -1626,6 +1669,59 @@
    "majeur": true
   },
   {
+   "id": "2026-01-09_haw-capital",
+   "date": "2026-01-09",
+   "date_affichee": "9 janv. 2026",
+   "sujets": [
+    "gouv",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "HAW, holding du PDG, rachète et annule les actions de BNP Paribas Développement pour 6,78 M€",
+   "texte": "Décisions unanimes des deux associés de HAW (Alain Wilmouth, 22 910 actions ; BNP Paribas Développement, 2 090 actions) du 05/12/2025 : réduction du capital de 25 000 € à 22 910 € « par voie de rachat de 2.090 actions à la société BNP PARIBAS DEVELOPPEMENT », au prix de 3 244 € par action, « soit un prix de 6.779.960 euros » ; l'excédent sur la valeur nominale (6 777 870 €) est imputé sur le report à nouveau débiteur. Décision de modification du capital et statuts mis à jour datés du 09/01/2026 ; l'opération n'est rendue publique que par l'annonce BODACC des 22-23/06/2026. Comme ALISPALU, HAW n'a aucun compte annuel consultable au registre, bien qu'elle ait deux commissaires aux comptes (Ernst & Young Audit et Société Fiduciaire de Révision, depuis 2020).",
+   "sources": [
+    "S185",
+    "S183",
+    "S180"
+   ],
+   "sources_libelle": [
+    "PV des décisions unanimes des associés de HAW du 05/12/2025 (acte déposé au greffe)",
+    "Fiche Pappers de HAW (liste des actes et des comptes), relevée le 03/11/2026",
+    "BODACC B des 22-23/06/2026, annonce n° 3679"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-04-15_haw-objet-capital"
+    }
+   ],
+   "revele_le": "2026-06-23",
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-01-09",
+      "cloture": 10.82,
+      "volume": 150829,
+      "variation_pct": 2.3,
+      "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2026-01-12",
+      "cloture": 10.9,
+      "volume": 112443,
+      "variation_pct": 0.7,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-01-14_buena-vista-achat",
    "date": "2026-01-14",
    "date_affichee": "14 janv. 2026",
@@ -3003,59 +3099,6 @@
     }
    ],
    "majeur": true
-  },
-  {
-   "id": "2026-01-09_haw-capital",
-   "date": "2026-01-09",
-   "date_affichee": "9 janv. 2026",
-   "sujets": [
-    "gouv",
-    "pl"
-   ],
-   "statut": "doc",
-   "titre": "HAW, holding du PDG, rachète et annule les actions de BNP Paribas Développement pour 6,78 M€",
-   "texte": "Décisions unanimes des deux associés de HAW (Alain Wilmouth, 22 910 actions ; BNP Paribas Développement, 2 090 actions) du 05/12/2025 : réduction du capital de 25 000 € à 22 910 € « par voie de rachat de 2.090 actions à la société BNP PARIBAS DEVELOPPEMENT », au prix de 3 244 € par action, « soit un prix de 6.779.960 euros » ; l'excédent sur la valeur nominale (6 777 870 €) est imputé sur le report à nouveau débiteur. Décision de modification du capital et statuts mis à jour datés du 09/01/2026 ; l'opération n'est rendue publique que par l'annonce BODACC des 22-23/06/2026. Comme ALISPALU, HAW n'a aucun compte annuel consultable au registre, bien qu'elle ait deux commissaires aux comptes (Ernst & Young Audit et Société Fiduciaire de Révision, depuis 2020).",
-   "sources": [
-    "S185",
-    "S183",
-    "S180"
-   ],
-   "sources_libelle": [
-    "PV des décisions unanimes des associés de HAW du 05/12/2025 (acte déposé au greffe)",
-    "Fiche Pappers de HAW (liste des actes et des comptes), relevée le 03/11/2026",
-    "BODACC B des 22-23/06/2026, annonce n° 3679"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2025-04-15_haw-objet-capital"
-    }
-   ],
-   "revele_le": "2026-06-23",
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-01-09",
-      "cloture": 10.82,
-      "volume": 150829,
-      "variation_pct": 2.3,
-      "volume_vs_moy20": 0.9
-     },
-     {
-      "role": "suivante",
-      "date": "2026-01-12",
-      "cloture": 10.9,
-      "volume": 112443,
-      "variation_pct": 0.7,
-      "volume_vs_moy20": 0.7
-     }
-    ]
-   },
-   "majeur": false
   },
   {
    "id": "2026-06-26_les-echos-aw",
@@ -6733,6 +6776,115 @@
    "majeur": true
   },
   {
+   "id": "2026-11-03_webinaire-pros",
+   "date": "2026-11-03",
+   "date_affichee": "3 nov. 2026",
+   "sujets": [
+    "griz",
+    "res",
+    "gouv"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire investisseurs professionnels : chiffre d'affaires retiré, client américain « inculpé », nouvelle organisation",
+   "texte": "Conférence du PDG (17h45), enregistrement publié par la société. Chiffre d'affaires : 32,5 M€ retirés de la consolidation (« 30,5 millions d'euros qui concernent des opérations de juillet, d'août l'année dernière » de négoce, plus 2 M€ de marge), décision prise « lundi dernier » (26/10) [4:10–4:45]. Ces opérations concernent un client basé aux États-Unis qui « a fait l'objet d'une inculpation durant le mois d'octobre » devant un tribunal de Californie ; le PDG ajoute « vu que le client est arrêté, je sais pas si un jour on [les 2 M€] touchera » [5:01–9:21]. Le 17/05/2026, les autorités américaines avaient « demandé confidentiellement » à 2CRSi toute la documentation sur une liste de sociétés, personnes, numéros et adresses électroniques ; 2CRSi se dit « simple témoin », statut qu'un substitut du procureur fédéral lui aurait confirmé par écrit ; « trois affaires », « cinq sollicitations » aux États-Unis, dont trois du département du Commerce [5:28–7:16, 18:14–19:19]. Selon le PDG, le motif premier du commissaire aux comptes est de ne pas pouvoir mesurer l'impact financier de cette enquête ; il aurait été « d'accord » avec le prix du contrat HAW jusqu'au 22/10 [7:25–8:17, 27:40–28:12]. Une revue juridique par un cabinet d'avocats de Washington est en cours [19:19–19:37]. Organisation : une directrice arrivée en avril 2026 doit « partager la direction générale » (fonction « pas encore signée ») ; le directeur financier, externe et présent trois jours par semaine, part fin novembre, remplacé par un DAF à plein temps ; recherche d'un second commissaire aux comptes ; « des nouveaux entrants et des sortants dans le board et dans le comité d'audit », annoncés « dans quelques jours » [29:03–31:42, 38:26–39:06, 41:13–41:41, 1:05:28]. Objectif d'un milliard de chiffre d'affaires présenté comme « l'ambition du groupe » ; « 4 MW […] représente 250 à 300 millions de dollars de chiffre d'affaires » et ÆTHER disposerait de « 20 MW d'IT » installables « dans quelques semaines » sous réserve d'autorisations ; EBITDA associé « plus ou moins 90 millions » [31:53–33:30, 46:03–46:21]. Le PDG conclut : « il y a eu zéro fraude […] uniquement un vrai problème de communication » [1:05:14].",
+   "sources": [
+    "S186"
+   ],
+   "sources_libelle": [
+    "Webinaire investisseurs professionnels et analystes du 03/11/2026 (transcription automatique)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-03_webinaire-pros#e1",
+     "texte": "Annonce des entrées et sorties au conseil d'administration et au comité d'audit « dans quelques jours », avant l'AG du 17/12/2026",
+     "echeance": "2026-12-17",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_impossibilite-certifier"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-11-01_lettre-actionnaires"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-04",
+      "cloture": 17.87,
+      "volume": 1469219,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 3.9
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2026-11-03_citadel-057",
+   "date": "2026-11-03",
+   "date_affichee": "3 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Citadel Securities (Europe) : position courte nette de 0,57 %, de nouveau au-dessus du seuil de publication",
+   "texte": "Déclaration publiée par l'AMF le 04/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,57 % du capital de 2CRSi à la date du 03/11/2026. Sa précédente position publiée était de 0,37 % au 05/08/2026, sous le seuil de publication de 0,5 %. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
+   "sources": [
+    "S187"
+   ],
+   "sources_libelle": [
+    "Déclaration AMF DPC1148455 du 04/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-05_citadel-058"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-04",
+      "cloture": 17.87,
+      "volume": 1469219,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 3.9
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-11-12_eurohpc-cloture",
    "date": "2026-11-12",
    "date_affichee": "12 nov. 2026",
@@ -6847,158 +6999,6 @@
    "engagements": [],
    "liens": [],
    "majeur": false
-  },
-  {
-   "id": "2026-11-03_webinaire-pros",
-   "date": "2026-11-03",
-   "date_affichee": "3 nov. 2026",
-   "sujets": [
-    "griz",
-    "res",
-    "gouv"
-   ],
-   "statut": "decl",
-   "titre": "Webinaire investisseurs professionnels : chiffre d'affaires retiré, client américain « inculpé », nouvelle organisation",
-   "texte": "Conférence du PDG (17h45), enregistrement publié par la société. Chiffre d'affaires : 32,5 M€ retirés de la consolidation (« 30,5 millions d'euros qui concernent des opérations de juillet, d'août l'année dernière » de négoce, plus 2 M€ de marge), décision prise « lundi dernier » (26/10) [4:10–4:45]. Ces opérations concernent un client basé aux États-Unis qui « a fait l'objet d'une inculpation durant le mois d'octobre » devant un tribunal de Californie ; le PDG ajoute « vu que le client est arrêté, je sais pas si un jour on [les 2 M€] touchera » [5:01–9:21]. Le 17/05/2026, les autorités américaines avaient « demandé confidentiellement » à 2CRSi toute la documentation sur une liste de sociétés, personnes, numéros et adresses électroniques ; 2CRSi se dit « simple témoin », statut qu'un substitut du procureur fédéral lui aurait confirmé par écrit ; « trois affaires », « cinq sollicitations » aux États-Unis, dont trois du département du Commerce [5:28–7:16, 18:14–19:19]. Selon le PDG, le motif premier du commissaire aux comptes est de ne pas pouvoir mesurer l'impact financier de cette enquête ; il aurait été « d'accord » avec le prix du contrat HAW jusqu'au 22/10 [7:25–8:17, 27:40–28:12]. Une revue juridique par un cabinet d'avocats de Washington est en cours [19:19–19:37]. Organisation : une directrice arrivée en avril 2026 doit « partager la direction générale » (fonction « pas encore signée ») ; le directeur financier, externe et présent trois jours par semaine, part fin novembre, remplacé par un DAF à plein temps ; recherche d'un second commissaire aux comptes ; « des nouveaux entrants et des sortants dans le board et dans le comité d'audit », annoncés « dans quelques jours » [29:03–31:42, 38:26–39:06, 41:13–41:41, 1:05:28]. Objectif d'un milliard de chiffre d'affaires présenté comme « l'ambition du groupe » ; « 4 MW […] représente 250 à 300 millions de dollars de chiffre d'affaires » et ÆTHER disposerait de « 20 MW d'IT » installables « dans quelques semaines » sous réserve d'autorisations ; EBITDA associé « plus ou moins 90 millions » [31:53–33:30, 46:03–46:21]. Le PDG conclut : « il y a eu zéro fraude […] uniquement un vrai problème de communication » [1:05:14].",
-   "sources": [
-    "S186"
-   ],
-   "sources_libelle": [
-    "Webinaire investisseurs professionnels et analystes du 03/11/2026 (transcription automatique)"
-   ],
-   "engagements": [
-    {
-     "id": "2026-11-03_webinaire-pros#e1",
-     "texte": "Annonce des entrées et sorties au conseil d'administration et au comité d'audit « dans quelques jours », avant l'AG du 17/12/2026",
-     "echeance": "2026-12-17",
-     "statut": "todo",
-     "statue_par": null,
-     "note": ""
-    }
-   ],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-10-30_impossibilite-certifier"
-    },
-    {
-     "type": "confirme",
-     "cible": "2026-11-01_lettre-actionnaires"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-11-03",
-      "cloture": 16.59,
-      "volume": 1662805,
-      "variation_pct": 22.3,
-      "volume_vs_moy20": 5.5
-     },
-     {
-      "role": "suivante",
-      "date": "2026-11-04",
-      "cloture": 17.87,
-      "volume": 1469219,
-      "variation_pct": 7.7,
-      "volume_vs_moy20": 3.9
-     }
-    ]
-   },
-   "majeur": true
-  },
-  {
-   "id": "2026-11-03_citadel-057",
-   "date": "2026-11-03",
-   "date_affichee": "3 nov. 2026",
-   "sujets": [
-    "mkt"
-   ],
-   "statut": "doc",
-   "titre": "Citadel Securities (Europe) : position courte nette de 0,57 %, de nouveau au-dessus du seuil de publication",
-   "texte": "Déclaration publiée par l'AMF le 04/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,57 % du capital de 2CRSi à la date du 03/11/2026. Sa précédente position publiée était de 0,37 % au 05/08/2026, sous le seuil de publication de 0,5 %. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
-   "sources": [
-    "S187"
-   ],
-   "sources_libelle": [
-    "Déclaration AMF DPC1148455 du 04/11/2026"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-08-05_citadel-058"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-11-03",
-      "cloture": 16.59,
-      "volume": 1662805,
-      "variation_pct": 22.3,
-      "volume_vs_moy20": 5.5
-     },
-     {
-      "role": "suivante",
-      "date": "2026-11-04",
-      "cloture": 17.87,
-      "volume": 1469219,
-      "variation_pct": 7.7,
-      "volume_vs_moy20": 3.9
-     }
-    ]
-   },
-   "majeur": false
-  },
-  {
-   "id": "2022-11-25_transfert-euronext-growth",
-   "date": "2022-11-25",
-   "date_affichee": "25 nov. 2022",
-   "sujets": [
-    "gouv",
-    "mkt"
-   ],
-   "statut": "doc",
-   "titre": "Transfert de la cotation sur Euronext Growth Paris (mnémonique AL2SI) et radiation du marché réglementé",
-   "texte": "Le comité des admissions d'Euronext a approuvé le transfert le 21/11/2022 ; il prend effet le 25/11/2022, l'ISIN FR0013341781 étant inchangé. Motifs donnés : un marché « plus adapté à la taille » de la société, l'allègement des obligations administratives et la réduction des coûts. La société indique qu'elle continuera de publier une information « exacte, précise et sincère » et de rendre publiques les informations privilégiées (règlement MAR). Le communiqué ne dit rien du code de gouvernance appliqué après le transfert ; les rapports annuels suivants se réfèrent au code Middlenext.",
-   "sources": [
-    "S190"
-   ],
-   "sources_libelle": [
-    "CP du 25/11/2022"
-   ],
-   "engagements": [],
-   "liens": [],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2022-11-25",
-      "cloture": 2.505,
-      "volume": 3409,
-      "variation_pct": -2.3,
-      "volume_vs_moy20": 0.5
-     },
-     {
-      "role": "suivante",
-      "date": "2022-11-28",
-      "cloture": 2.54,
-      "volume": 19755,
-      "variation_pct": 1.4,
-      "volume_vs_moy20": 3.0
-     }
-    ]
-   },
-   "majeur": true
   }
  ],
  "questions_ouvertes": [

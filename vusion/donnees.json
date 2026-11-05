@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T07:59",
+ "mis_a_jour": "2026-11-05T08:58",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -5822,31 +5822,6 @@
    "majeur": false
   },
   {
-   "id": "2026-11-18_capital-markets-day",
-   "date": "2026-11-18",
-   "date_affichee": "18 nov. 2026",
-   "sujets": [
-    "res"
-   ],
-   "statut": "echeance",
-   "titre": "Échéance : Capital Markets Day et nouveau plan stratégique",
-   "texte": "Présentation d'un nouveau plan stratégique à Paris, annoncée dans le CP du 30/07/2026 ; le plan Vusion '27 visait 2,2 Md€ de CA en 2027 selon la presse.",
-   "sources": [
-    "S063"
-   ],
-   "sources_libelle": [
-    "CP Vusion du 30/07/2026"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2022-11-09_vusion27"
-    }
-   ],
-   "majeur": false
-  },
-  {
    "id": "2026-11-04_marks-spencer",
    "date": "2026-11-04",
    "date_affichee": "4 nov. 2026",
@@ -5885,6 +5860,31 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2026-11-18_capital-markets-day",
+   "date": "2026-11-18",
+   "date_affichee": "18 nov. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : Capital Markets Day et nouveau plan stratégique",
+   "texte": "Présentation d'un nouveau plan stratégique à Paris, annoncée dans le CP du 30/07/2026 ; le plan Vusion '27 visait 2,2 Md€ de CA en 2027 selon la presse.",
+   "sources": [
+    "S063"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 30/07/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2022-11-09_vusion27"
+    }
+   ],
+   "majeur": false
   }
  ],
  "questions_ouvertes": [
