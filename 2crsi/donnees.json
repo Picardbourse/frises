@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T14:47",
+ "mis_a_jour": "2026-11-05T14:51",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -1616,7 +1616,7 @@
    ],
    "statut": "doc",
    "titre": "AG 2025 : nomination d'EY comme commissaire aux comptes ; le conseil déclare « aucune convention » réglementée conclue en 2024-25",
-   "texte": "Le rapport du conseil sur les résolutions propose de ne pas renouveler la Fiduciaire de Révision et de nommer Ernst & Young Audit pour six ans, jusqu'à l'AG statuant sur l'exercice clos le 30/06/2031 (10e résolution) ; la lettre du PDG du 01/11/2026 indique qu'EY « a pris ses fonctions chez 2CRSi le 1er juillet 2025 ». Cinquième résolution : « aucune convention ni engagement réglementé n'a été conclu au cours de l'exercice clos le 30 juin 2025 ». Sur ce même exercice, le conseil avait autorisé la vente de 118 serveurs à ALISPALU (rapport semestriel, décembre 2024) et la convention de services HAW s'exécutait depuis le 01/06/2025 sans autorisation (rapport 2025-26). Autres résolutions : renouvellement de Lilla Merabet et de Marie-Estelle Schang (« administratrice et salariée de 2CRSi »), nomination de Nathalie Roos, rémunération globale des administrateurs de 150 000 €. Selon sa fiche de candidature, Lilla Merabet (administratrice indépendante depuis le 31/08/2022, présidente du comité d'audit et des risques selon le rapport 2025-26) « ne détient pas d'actions 2CRSi » ; mandats déclarés hors du groupe : DIAGNOSIC, OPTA CARE, École 42 Mulhouse, Oxymore Résolution ; mandats expirés au cours des cinq dernières années : « néant ». Ces listes recensent des mandats, non des participations. Résultats des votes non archivés.",
+   "texte": "Le rapport du conseil sur les résolutions propose de ne pas renouveler la Fiduciaire de Révision et de nommer Ernst & Young Audit pour six ans, jusqu'à l'AG statuant sur l'exercice clos le 30/06/2031 (10e résolution) ; la lettre du PDG du 01/11/2026 indique qu'EY « a pris ses fonctions chez 2CRSi le 1er juillet 2025 ». Cinquième résolution : « aucune convention ni engagement réglementé n'a été conclu au cours de l'exercice clos le 30 juin 2025 ». Sur ce même exercice, le conseil avait autorisé la vente de 118 serveurs à ALISPALU (rapport semestriel, décembre 2024) et la convention de services HAW s'exécutait depuis le 01/06/2025 sans autorisation (rapport 2025-26). Autres résolutions : renouvellement de Lilla Merabet et de Marie-Estelle Schang (« administratrice et salariée de 2CRSi »), nomination de Nathalie Roos, rémunération globale des administrateurs de 150 000 €. Le même rapport du conseil indique qu'« au regard des recommandations prévues par le Code Middlenext, Mesdames Monique Jung et Lilla Merabet ne remplissent plus les critères permettant leur qualification d'administratrices indépendantes » (p. 2) ; il propose de ne pas renouveler Monique Jung, de renouveler Lilla Merabet et de nommer Nathalie Roos « afin […] de garantir la présence d'au moins deux administrateurs indépendants ». Le critère concerné n'est pas précisé. Selon sa fiche de candidature, Lilla Merabet (administratrice indépendante depuis le 31/08/2022, présidente du comité d'audit et des risques selon le rapport 2025-26) « ne détient pas d'actions 2CRSi » ; mandats déclarés hors du groupe : DIAGNOSIC, OPTA CARE, École 42 Mulhouse, Oxymore Résolution ; mandats expirés au cours des cinq dernières années : « néant ». Ces listes recensent des mandats, non des participations. Résultats des votes non archivés.",
    "sources": [
     "S181",
     "S175",
@@ -7329,6 +7329,18 @@
    "sources": [
     "S173",
     "S188"
+   ]
+  },
+  {
+   "sujet": "gouv",
+   "question": "La présidente du comité d'audit et des risques est-elle administratrice indépendante ?",
+   "etat": "Le rapport du conseil sur les résolutions de l'AG du 18/12/2025 indique qu'au regard du code Middlenext, Monique Jung et Lilla Merabet « ne remplissent plus les critères permettant leur qualification d'administratrices indépendantes », sans préciser lequel (p. 2), et propose de renouveler son mandat. Le rapport financier annuel 2025-26 la compte parmi les « membres indépendants au cours de l'exercice clos le 30 juin 2026 » (p. 57) et la désigne comme « administratrice indépendante et Présidente du Comité d'Audit et des Risques » (p. 64). Depuis la démission de Nathalie Roos le 08/09/2026, le conseil compte deux administrateurs qualifiés d'indépendants. La recommandation R7 du code Middlenext prévoit que les comités sont en principe présidés par un membre indépendant (fiche S188).",
+   "attendu": "Une explication du conseil : critère qui n'était plus rempli en novembre 2025, et motif de la qualification d'indépendante dans le rapport 2025-26 ; composition du comité d'audit annoncée le 03/11/2026 « dans quelques jours ».",
+   "sources": [
+    "S181",
+    "S173",
+    "S188",
+    "S186"
    ]
   }
  ],
