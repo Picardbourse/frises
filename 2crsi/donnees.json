@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T09:06",
+ "mis_a_jour": "2026-11-05T14:47",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 152,
-  "sources": 180
+  "evenements": 153,
+  "sources": 181
  },
  "evenements": [
   {
@@ -6698,6 +6698,59 @@
    "majeur": true
   },
   {
+   "id": "2026-11-02_aether-compute-d",
+   "date": "2026-11-02",
+   "date_affichee": "2 nov. 2026",
+   "sujets": [
+    "aether",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "Création d'AETHER Compute D, présidée par AETHER Infrastructures",
+   "texte": "SAS créée le 02/11/2026, siège à Sarreguemines, activité principale déclarée 63.11Z (traitement de données, hébergement et activités connexes). Présidente : AETHER Infrastructures, dont la holding d'Alain Wilmouth (HAW) est l'actionnaire unique selon le CP du 30/10/2026. Elle s'ajoute à AETHER Compute E (créée le 21/10/2026, activité déclarée 68.20B, location de biens immobiliers) et à AETHER Services (26/10/2026). Les statuts n'ont pas été consultés : la répartition du capital et l'objet exact ne sont pas connus à cette date. Fait relevé au registre le 05/11/2026.",
+   "sources": [
+    "S191",
+    "S172",
+    "S161"
+   ],
+   "sources_libelle": [
+    "Annuaire des entreprises (relevé du 05/11/2026)",
+    "CP du 30/10/2026 (actionnariat d'AETHER Infrastructures)",
+    "Fiche Pappers d'AETHER Compute E"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-21_aether-compute-e"
+    }
+   ],
+   "revele_le": "2026-11-05",
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
    "id": "2026-11-03_commande-exaion",
    "date": "2026-11-03",
    "date_affichee": "3 nov. 2026",
@@ -9243,6 +9296,16 @@
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2022/11/FCEQS004016_20221125.pdf",
    "archive": "reference",
    "note": "PDF déposé à l'AMF (archive DILA)."
+  },
+  {
+   "id": "S191",
+   "date_source": "2026-11-02",
+   "type": "registre",
+   "reference": "Fiche d'AETHER COMPUTE D (SIREN 132 435 173) sur l'Annuaire des entreprises (données INSEE/RNE), relevée le 05/11/2026",
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/132435173",
+   "archive": "integral",
+   "note": "Statuts non consultés : la répartition du capital n'est pas connue à cette date.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
