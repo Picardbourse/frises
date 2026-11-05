@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T08:10",
+ "mis_a_jour": "2026-11-05T08:53",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -9222,17 +9222,18 @@
    "reference": "Middlenext, « Code de gouvernement d'entreprise », Cahier n°14, nouvelle édition de septembre 2021 (code de référence déclaré par 2CRSi)",
    "url": "https://www.middlenext.com/IMG/pdf/c17_-_cahier_14_middlenext_code_de_gouvernance_2021.pdf",
    "archive": "reference",
-   "note": "Version publiée sur le site de Middlenext (lien transmis par Picard le 05/11/2026). Texte protégé : seuls de courts extraits sont cités ; pages d'après la copie consultée.",
+   "note": "Texte affiché : fiche de lecture rédigée pour la frise (reformulation recommandation par recommandation, courtes citations avec page), lue sur une copie du cahier publiée par une société adhérente ; ce n'est pas le texte du code, qui appartient à Middlenext (lien officiel ci-contre).",
    "texte_archive": "sources_textes.json"
   },
   {
    "id": "S189",
-   "date_source": "2026-11-05",
+   "date_source": "2021-04-29",
    "type": "officiel",
-   "reference": "AMF, « Guide de l'information permanente et de la gestion de l'information privilégiée » (DOC-2016-08), applicable aux émetteurs d'Euronext Paris et d'Euronext Growth",
-   "url": "https://www.amf-france.org/sites/institutionnel/files/pdf/62872/fr/Guide_de_l%27information_permanente_et_de_la_gestion_de_l%27information_privilegiee.pdf",
+   "reference": "AMF, « Guide de l'information permanente et de la gestion de l'information privilégiée » (DOC-2016-08, créé le 26/10/2016, modifié le 29/04/2021), et recommandations connexes (DOC-2012-05 sur les assemblées générales et les conventions réglementées ; DOC-2014-15 sur internet et les médias sociaux ; vade-mecum pour les valeurs moyennes)",
+   "url": "https://www.amf-france.org/sites/institutionnel/files/private/2024-12/2016-08-decembre-2024.pdf",
    "archive": "reference",
-   "note": "Référentiel (document AMF DOC-2016-08, version en ligne consultée le 05/11/2026)."
+   "note": "Texte affiché : fiche de lecture rédigée pour la frise (reformulation ; obligations distinguées des positions et recommandations de l'AMF). Pages 28 à 53 du guide non lues sur pièce : sections signalées dans la fiche. Le guide s'applique expressément à Euronext Growth ; DOC-2012-05 vise surtout le marché réglementé.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S190",
