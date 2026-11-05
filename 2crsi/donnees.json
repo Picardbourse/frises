@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T14:54",
+ "mis_a_jour": "2026-11-05T14:58",
  "arrete_au": "2026-11-05",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 153,
-  "sources": 182
+  "sources": 183
  },
  "evenements": [
   {
@@ -6706,19 +6706,21 @@
     "pl"
    ],
    "statut": "doc",
-   "titre": "Création d'AETHER Compute D, présidée par AETHER Infrastructures : objet déclaré, la fourniture de capacités de calcul et l'hébergement de projets EuroHPC",
-   "texte": "SASU (société unipersonnelle) créée le 02/11/2026, inscrite au RNE le 04/11, siège à Sarreguemines (7 place de la Gare), sans salarié, code d'activité 63.11Z (traitement de données, hébergement). Présidente : AETHER Infrastructures, dont la holding d'Alain Wilmouth (HAW) est l'actionnaire unique selon le CP du 30/10/2026. Activité déclarée au registre : « l'acquisition, la détention, la location et l'exploitation d'infrastructures de calcul haute performance et d'intelligence artificielle, notamment serveurs, accélérateurs graphiques (GPU) », « la fourniture de capacités de calcul, d'infrastructures et de plateformes en nuage (IaaS, PaaS, GPU as a Service, bare metal) », la participation aux programmes EuroHPC et à tout consortium « en qualité de membre, de coordinateur ou d'entité d'hébergement » d'une AI Factory ou AI Gigafactory. Elle s'ajoute à AETHER Compute E (21/10/2026, code d'activité 68.20B, location de biens immobiliers, dont le préambule des statuts vise aussi EuroHPC) et à AETHER Services (26/10/2026). Statuts et liste des souscripteurs déposés le 03/11/2026, non consultés à cette date : l'associé unique n'est pas identifié.",
+   "titre": "Création d'AETHER Compute D, filiale à 100 % d'AETHER Infrastructures, « véhicule dédié » au projet EuroHPC et à la fourniture de capacités de calcul",
+   "texte": "SAS au capital de 1 000 €, statuts signés le 02/11/2026, inscrite au RNE le 04/11, siège à Sarreguemines (7 place de la Gare), sans salarié, code d'activité 63.11Z (traitement de données, hébergement). Associée unique (1 000 actions) et présidente « sans limitation de durée » : AETHER Infrastructures, représentée par HAW, elle-même représentée par Alain Wilmouth ; HAW est l'actionnaire unique d'AETHER Infrastructures selon le CP du 30/10/2026. Le préambule, l'objet et l'article 12 reprennent ceux des statuts d'AETHER Compute E, signés douze jours plus tôt : la société est « constituée pour servir de véhicule dédié » au projet EuroHPC d'AETHER Infrastructures, et pourra être « membre, coordinateur ou entité d'hébergement » d'un consortium et « mettre des capacités de calcul à la disposition des utilisateurs ». L'objet vise notamment « la fourniture de capacités de calcul, d'infrastructures et de plateformes en nuage (IaaS, PaaS, GPU as a Service, bare metal) », l'acquisition et l'exploitation de serveurs GPU, et la commercialisation de « services d'intelligence artificielle, notamment de couches L2 et L3 ». L'article 12 encadre le contrôle européen exigé par EuroHPC et prévoit l'accord préalable d'AETHER Infrastructures pour toute perte de contrôle tant que la société « accueille du personnel mis à sa disposition par une société contrôlée par AETHER INFRASTRUCTURES ». Les deux sociétés diffèrent par le code d'activité déclaré à l'INSEE (63.11Z pour Compute D, 68.20B, location de biens immobiliers, pour Compute E). Les statuts n'expliquent pas pourquoi deux véhicules au même objet ont été constitués. Les statuts ne mentionnent pas 2CRSi.",
    "sources": [
+    "S193",
     "S192",
     "S191",
     "S172",
-    "S161"
+    "S159"
    ],
    "sources_libelle": [
+    "Statuts d'AETHER Compute D (02/11/2026)",
     "Fiche Pappers (RNE au 05/11/2026)",
     "Annuaire des entreprises (relevé du 05/11/2026)",
     "CP du 30/10/2026 (actionnariat d'AETHER Infrastructures)",
-    "Fiche Pappers d'AETHER Compute E"
+    "Statuts d'AETHER Compute E"
    ],
    "engagements": [],
    "liens": [
@@ -9329,6 +9331,16 @@
    "url": "https://www.pappers.fr/entreprise/aether-compute-d-132435173",
    "archive": "integral",
    "note": "Statuts et certificat du dépositaire non encore consultés.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S193",
+   "date_source": "2026-11-02",
+   "type": "registre",
+   "reference": "Statuts constitutifs d'AETHER COMPUTE D (SAS, SIREN 132 435 173), signés le 02/11/2026, déposés au greffe le 03/11/2026 (copie INPI, 35 p.)",
+   "url": "https://www.pappers.fr/entreprise/aether-compute-d-132435173",
+   "archive": "integral",
+   "note": "Téléchargés sur Pappers le 05/11/2026 avec l'accord de l'utilisateur ; archive partielle (extraits) dans textes/S193.txt. Le certificat du dépositaire (liste des souscripteurs) n'a pas pu être téléchargé (erreur 403).",
    "texte_archive": "sources_textes.json"
   }
  ],
