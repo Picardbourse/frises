@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T08:58",
- "arrete_au": "2026-11-05",
+ "genere_le": "2026-11-06",
+ "mis_a_jour": "2026-11-06T20:36",
+ "arrete_au": "2026-11-06",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -69,8 +69,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 128,
-  "sources": 155
+  "evenements": 129,
+  "sources": 156
  },
  "evenements": [
   {
@@ -5775,6 +5775,31 @@
    "majeur": true
   },
   {
+   "id": "2026-10-31_droits-de-vote",
+   "date": "2026-10-31",
+   "date_affichee": "31 oct. 2026 (CP du 06/11)",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Capital au 31/10/2026 : 17 014 463 actions, dont 251 210 auto-détenues",
+   "texte": "17 014 463 actions et droits de vote théoriques (inchangé depuis le 30/09), dont 251 210 actions auto-détenues (environ 1,5 % du capital), soit 16 763 253 droits de vote exerçables. L'auto-détention baisse de 9 531 actions sur le mois (260 741 au 30/09) ; le communiqué n'en donne pas la raison.",
+   "sources": [
+    "S157"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 06/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-30_droits-de-vote"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-11-02_citi-initiation",
    "date": "2026-11-02",
    "date_affichee": "2 nov. 2026",
@@ -5856,6 +5881,14 @@
       "volume": 65314,
       "variation_pct": 3.0,
       "volume_vs_moy20": 1.4
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-05",
+      "cloture": 136.7,
+      "volume": 86081,
+      "variation_pct": -5.3,
+      "volume_vs_moy20": 1.8
      }
     ]
    },
@@ -7538,6 +7571,16 @@
    "url": "https://www.actusnews.com/news/101217-vusion_ms_pr_fr.pdf",
    "archive": "integral",
    "note": "PDF fourni par Picard : textes/pdf/Vusion_CP_2026-11-04_Marks_Spencer.pdf (1 p.).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S157",
+   "date_source": "2026-11-06",
+   "type": "CP",
+   "reference": "CP VusionGroup du 06/11/2026 (18h00) : nombre total de droits de vote et d'actions au 31/10/2026",
+   "url": "https://www.actusnews.com/news/101296-31-octobre-2026_vf.pdf",
+   "archive": "integral",
+   "note": "PDF archivé : textes/pdf/vusion_ddv_31-octobre-2026_vf.pdf",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -9556,7 +9599,9 @@
    "2026-10-30",
    "2026-11-02",
    "2026-11-03",
-   "2026-11-04"
+   "2026-11-04",
+   "2026-11-05",
+   "2026-11-06"
   ],
   "cloture": [
    35.8,
@@ -11055,7 +11100,9 @@
    134.8,
    136.9,
    140.2,
-   144.4
+   144.4,
+   136.7,
+   138.0
   ],
   "volume": [
    14641,
@@ -12554,7 +12601,9 @@
    45833,
    80402,
    46914,
-   65314
+   65314,
+   86081,
+   50717
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
