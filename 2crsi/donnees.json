@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T14:58",
- "arrete_au": "2026-11-05",
+ "genere_le": "2026-11-06",
+ "mis_a_jour": "2026-11-06T07:19",
+ "arrete_au": "2026-11-06",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 153,
-  "sources": 183
+  "sources": 184
  },
  "evenements": [
   {
@@ -6707,9 +6707,10 @@
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Compute D, filiale à 100 % d'AETHER Infrastructures, « véhicule dédié » au projet EuroHPC et à la fourniture de capacités de calcul",
-   "texte": "SAS au capital de 1 000 €, statuts signés le 02/11/2026, inscrite au RNE le 04/11, siège à Sarreguemines (7 place de la Gare), sans salarié, code d'activité 63.11Z (traitement de données, hébergement). Associée unique (1 000 actions) et présidente « sans limitation de durée » : AETHER Infrastructures, représentée par HAW, elle-même représentée par Alain Wilmouth ; HAW est l'actionnaire unique d'AETHER Infrastructures selon le CP du 30/10/2026. Le préambule, l'objet et l'article 12 reprennent ceux des statuts d'AETHER Compute E, signés douze jours plus tôt : la société est « constituée pour servir de véhicule dédié » au projet EuroHPC d'AETHER Infrastructures, et pourra être « membre, coordinateur ou entité d'hébergement » d'un consortium et « mettre des capacités de calcul à la disposition des utilisateurs ». L'objet vise notamment « la fourniture de capacités de calcul, d'infrastructures et de plateformes en nuage (IaaS, PaaS, GPU as a Service, bare metal) », l'acquisition et l'exploitation de serveurs GPU, et la commercialisation de « services d'intelligence artificielle, notamment de couches L2 et L3 ». L'article 12 encadre le contrôle européen exigé par EuroHPC et prévoit l'accord préalable d'AETHER Infrastructures pour toute perte de contrôle tant que la société « accueille du personnel mis à sa disposition par une société contrôlée par AETHER INFRASTRUCTURES ». Les deux sociétés diffèrent par le code d'activité déclaré à l'INSEE (63.11Z pour Compute D, 68.20B, location de biens immobiliers, pour Compute E). Les statuts n'expliquent pas pourquoi deux véhicules au même objet ont été constitués. Les statuts ne mentionnent pas 2CRSi.",
+   "texte": "SAS au capital de 1 000 €, statuts signés le 02/11/2026, inscrite au RNE le 04/11, siège à Sarreguemines (7 place de la Gare), sans salarié, code d'activité 63.11Z (traitement de données, hébergement). Associée unique (1 000 actions de 1 €, intégralement versées selon l'attestation du CIC Est et l'état des souscriptions du 02/11/2026) et présidente « sans limitation de durée » : AETHER Infrastructures, représentée par HAW, elle-même représentée par Alain Wilmouth ; HAW est l'actionnaire unique d'AETHER Infrastructures selon le CP du 30/10/2026. Le préambule, l'objet et l'article 12 reprennent ceux des statuts d'AETHER Compute E, signés douze jours plus tôt : la société est « constituée pour servir de véhicule dédié » au projet EuroHPC d'AETHER Infrastructures, et pourra être « membre, coordinateur ou entité d'hébergement » d'un consortium et « mettre des capacités de calcul à la disposition des utilisateurs ». L'objet vise notamment « la fourniture de capacités de calcul, d'infrastructures et de plateformes en nuage (IaaS, PaaS, GPU as a Service, bare metal) », l'acquisition et l'exploitation de serveurs GPU, et la commercialisation de « services d'intelligence artificielle, notamment de couches L2 et L3 ». L'article 12 encadre le contrôle européen exigé par EuroHPC et prévoit l'accord préalable d'AETHER Infrastructures pour toute perte de contrôle tant que la société « accueille du personnel mis à sa disposition par une société contrôlée par AETHER INFRASTRUCTURES ». Les deux sociétés diffèrent par le code d'activité déclaré à l'INSEE (63.11Z pour Compute D, 68.20B, location de biens immobiliers, pour Compute E). Les statuts n'expliquent pas pourquoi deux véhicules au même objet ont été constitués. Les statuts ne mentionnent pas 2CRSi.",
    "sources": [
     "S193",
+    "S194",
     "S192",
     "S191",
     "S172",
@@ -6717,6 +6718,7 @@
    ],
    "sources_libelle": [
     "Statuts d'AETHER Compute D (02/11/2026)",
+    "Attestation de blocage du capital et état des souscriptions (02/11/2026)",
     "Fiche Pappers (RNE au 05/11/2026)",
     "Annuaire des entreprises (relevé du 05/11/2026)",
     "CP du 30/10/2026 (actionnariat d'AETHER Infrastructures)",
@@ -6824,7 +6826,7 @@
       "role": "suivante",
       "date": "2026-11-04",
       "cloture": 17.87,
-      "volume": 1469219,
+      "volume": 1470831,
       "variation_pct": 7.7,
       "volume_vs_moy20": 3.9
      }
@@ -6886,7 +6888,7 @@
       "role": "suivante",
       "date": "2026-11-04",
       "cloture": 17.87,
-      "volume": 1469219,
+      "volume": 1470831,
       "variation_pct": 7.7,
       "volume_vs_moy20": 3.9
      }
@@ -6933,7 +6935,7 @@
       "role": "suivante",
       "date": "2026-11-04",
       "cloture": 17.87,
-      "volume": 1469219,
+      "volume": 1470831,
       "variation_pct": 7.7,
       "volume_vs_moy20": 3.9
      }
@@ -9340,7 +9342,17 @@
    "reference": "Statuts constitutifs d'AETHER COMPUTE D (SAS, SIREN 132 435 173), signés le 02/11/2026, déposés au greffe le 03/11/2026 (copie INPI, 35 p.)",
    "url": "https://www.pappers.fr/entreprise/aether-compute-d-132435173",
    "archive": "integral",
-   "note": "Téléchargés sur Pappers le 05/11/2026 avec l'accord de l'utilisateur ; archive partielle (extraits) dans textes/S193.txt. Le certificat du dépositaire (liste des souscripteurs) n'a pas pu être téléchargé (erreur 403).",
+   "note": "Téléchargés sur Pappers le 05/11/2026 avec l'accord de l'utilisateur ; archive partielle (extraits) dans textes/S193.txt. Certificat du dépositaire et état des souscriptions : voir S194.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S194",
+   "date_source": "2026-11-02",
+   "type": "registre",
+   "reference": "AETHER COMPUTE D : attestation de blocage du capital (CIC Est, 02/11/2026) et état des souscriptions et des versements, déposés au greffe le 03/11/2026 (copie INPI, 3 p.)",
+   "url": "https://www.pappers.fr/entreprise/aether-compute-d-132435173",
+   "archive": "integral",
+   "note": "PDF fourni par l'utilisateur le 06/11/2026 : textes/pdf/AETHER COMPUTE D - Actes du 03-11-2026.pdf (scanné) ; transcription dans textes/S194.txt.",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -11228,7 +11240,8 @@
    "2026-10-30",
    "2026-11-02",
    "2026-11-03",
-   "2026-11-04"
+   "2026-11-04",
+   "2026-11-05"
   ],
   "cloture": [
    5.37,
@@ -12727,7 +12740,8 @@
    21.92,
    13.57,
    16.59,
-   17.87
+   17.87,
+   16.22
   ],
   "volume": [
    217653,
@@ -14226,7 +14240,8 @@
    1205999,
    976109,
    1662805,
-   1469219
+   1470831,
+   789032
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
