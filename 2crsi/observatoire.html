@@ -40,7 +40,9 @@
 <div id="regimes" style="height:340px"></div>
 <div id="majdist" style="height:400px"></div>
 <footer>
-<p><strong>Lecture.</strong> lag &lt; 0 : le verbe <em>suit</em> le cours ·
+<p><strong>Lecture.</strong> Axe en jours calendaires : les barres du week-end sont
+affichées, le cours est relié d'un vendredi au lundi. Pour la corrélation, le verbe des jours
+non cotés est rattaché au jour coté suivant. lag &lt; 0 : le verbe <em>suit</em> le cours ·
 lag &gt; 0 : il le précède · corrélation n'est pas causalité — c'est
 précisément le sujet. Aucune corrélation significative n'a été trouvée
 pour aucun contributeur.</p>
@@ -66,10 +68,23 @@ if (enClair.length && anonymes.length) {
   sel.add(sep);
 }
 anonymes.forEach(s => sel.add(new Option(s.n, s.n)));
-const dates = DATA.cours.map(x => x.d), close = DATA.cours.map(x => x.c);
+// Axe en jours calendaires : du premier cours au dernier jour connu (cours ou message)
+const coursParJour = Object.fromEntries(DATA.cours.map(x => [x.d, x.c]));
+const dernierJour = [DATA.cours[DATA.cours.length-1].d, DATA.genere_le, ...Object.keys(DATA.tout)].sort().pop();
+const dates = [];
+for (let t = new Date(DATA.cours[0].d + 'T00:00:00Z'); ; t.setUTCDate(t.getUTCDate()+1)) {
+  const d = t.toISOString().slice(0,10); dates.push(d); if (d >= dernierJour) break;
+}
+const close = dates.map(d => coursParJour[d] ?? null);
+const estCote = dates.map(d => coursParJour[d] !== undefined);
 function mesure(){ return +document.getElementById('mesure').value; }
 function serieAuteur(a){ const src = a===TOUT ? DATA.tout : DATA.auteurs[a];
  return dates.map(d => (src[d]||[0,0,0])[mesure()]); }
+// Pour la corrélation : jours cotés seulement, le verbe des jours non cotés est rattaché au jour coté suivant
+function versJoursCotes(verbe){ const out=[]; let cumul=0;
+ for (let i=0;i<dates.length;i++){ cumul+=verbe[i]; if (estCote[i]) { out.push(cumul); cumul=0; } }
+ return out; }
+const closeCote = close.filter(c => c !== null);
 function rank(v){const s=[...v].map((x,i)=>[x,i]).sort((p,q)=>p[0]-q[0]);
  const r=Array(v.length);let i=0;while(i<s.length){let j=i;
  while(j+1<s.length&&s[j+1][0]===s[i][0])j++;
@@ -79,7 +94,7 @@ function spearman(x,y){const pairs=x.map((v,i)=>[v,y[i]]).filter(p=>p.every(Numb
  const n=rx.length,mx=(n+1)/2;let num=0,dx=0,dy=0;
  for(let i=0;i<n;i++){num+=(rx[i]-mx)*(ry[i]-mx);dx+=(rx[i]-mx)**2;dy+=(ry[i]-mx)**2}
  return num/Math.sqrt(dx*dy)}
-function rendements(){return close.map((c,i)=>i?c/close[i-1]-1:NaN)}
+function rendements(){return closeCote.map((c,i)=>i?c/closeCote[i-1]-1:NaN)}
 function shifted(arr,lag){return arr.map((_,i)=>arr[i-lag]!==undefined?arr[i-lag]:NaN)}
 function draw(){
  const a=sel.value, lag=+document.getElementById('lag').value;
@@ -88,14 +103,14 @@ function draw(){
   : (DATA.stats.find(s=>s.n===a)?.x || '');
  document.getElementById('lagval').textContent=lag;
  const verbe=serieAuteur(a);
- const rho=spearman(rendements(), shifted(verbe,lag));
+ const rho=spearman(rendements(), shifted(versJoursCotes(verbe),lag));
  document.getElementById('rho').textContent=Number.isFinite(rho)?rho.toFixed(3):'n/a';
  const shapes=Object.keys(DATA.evenements).map(d=>({type:'line',x0:d,x1:d,
   yref:'paper',y0:0,y1:1,line:{dash:'dot',width:1,color:'#999'}}));
  const annotations=Object.entries(DATA.evenements).map(([d,t])=>({x:d,yref:'paper',
   y:1,text:t,showarrow:false,textangle:-90,font:{size:9,color:'#999'},xanchor:'left'}));
  Plotly.newPlot('chart',[
-  {x:dates,y:close,name:'Cours (€)',type:'scatter',mode:'lines',yaxis:'y1'},
+  {x:dates,y:close,name:'Cours (€)',type:'scatter',mode:'lines',connectgaps:true,yaxis:'y1'},
   {x:dates,y:verbe,name:mesure()?'Caractères/jour':'Messages/jour',type:'bar',opacity:.4,yaxis:'y2'}],
   {yaxis:{title:'Cours (€)'},yaxis2:{title:mesure()?'Caractères/jour':'Messages/jour',overlaying:'y',side:'right'},
    shapes,annotations,margin:{t:30},legend:{orientation:'h'}},{responsive:true});
