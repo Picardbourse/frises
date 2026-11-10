@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T07:28",
+ "mis_a_jour": "2026-11-10T07:40",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -80,10 +80,34 @@
   ]
  },
  "nb": {
-  "evenements": 156,
-  "sources": 192
+  "evenements": 160,
+  "sources": 195
  },
  "evenements": [
+  {
+   "id": "2020-07-24_haw-cac",
+   "date": "2020-07-24",
+   "date_affichee": "24 juil. 2020",
+   "revele_le": "2026-11-09",
+   "sujets": [
+    "gouv",
+    "pl"
+   ],
+   "statut": "doc",
+   "titre": "HAW, holding du PDG : Ernst & Young Audit et la Fiduciaire de Révision commissaires aux comptes ; aucun compte annuel disponible au registre",
+   "texte": "Selon le registre (acte modificatif « changement de commissaire aux comptes » du 24/07/2020, annonce BODACC du 06/08/2020), HAW Holding Alain Wilmouth a pour commissaires aux comptes titulaires Ernst & Young Audit et la Société Fiduciaire de Révision, les deux cabinets qui certifiaient alors les comptes de 2CRSi. La fiche Pappers indique « Aucun compte n'est disponible pour cette entreprise » ; societe.com la mentionne « en défaut de publication de ses comptes » (relevés des 03 et 09/11/2026).",
+   "sources": [
+    "S204",
+    "S183"
+   ],
+   "sources_libelle": [
+    "Fiche societe.com de HAW, relevée le 09/11/2026",
+    "Fiche Pappers de HAW, relevée le 03/11/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
   {
    "id": "2021-05-17_rouses-point",
    "date": "2021-05-17",
@@ -627,6 +651,51 @@
       "volume": 25089,
       "variation_pct": -3.7,
       "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2024-11-07_cac-fiduciaire-2324",
+   "date": "2024-11-07",
+   "date_affichee": "7 nov. 2024",
+   "sujets": [
+    "gouv",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Comptes 2023-24 (16 mois) certifiés par la seule Fiduciaire de Révision ; honoraires d'audit du groupe : 123 k€ contre 309 k€",
+   "texte": "Le rapport financier annuel 2023-24 (exercice de 16 mois clos le 30/06/2024) contient un « Rapport du commissaire aux comptes sur les comptes consolidés », signé « Fait à Didenheim, le 07 novembre 2024 » par la seule Société Fiduciaire de Révision (pp. 136-140). Ernst & Young Audit, commissaire aux comptes de 2CRSi depuis l'assemblée générale du 25/09/2017 et cosignataire des rapports antérieurs avec la Fiduciaire, n'y figure pas. Le même rapport indique (§ 9.5, p. 128) que les honoraires au titre des missions de commissariat aux comptes du groupe « s'élèvent à 123 K€ au titre de l'exercice clos au 30/06/2024, contre 309 K€ au 28/02/2023 ».",
+   "sources": [
+    "S203",
+    "S205"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2023-24, pp. 128 et 136-140",
+    "Rapport des commissaires aux comptes au 29/02/2020"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2024-11-07",
+      "cloture": 4.16,
+      "volume": 80770,
+      "variation_pct": -1.4,
+      "volume_vs_moy20": 1.0
+     },
+     {
+      "role": "suivante",
+      "date": "2024-11-08",
+      "cloture": 4.245,
+      "volume": 52746,
+      "variation_pct": 2.0,
+      "volume_vs_moy20": 0.7
      }
     ]
    },
@@ -1402,6 +1471,60 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2025-10-30_cac-fiduciaire-2425",
+   "date": "2025-10-30",
+   "date_affichee": "30 oct. 2025",
+   "sujets": [
+    "gouv",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Comptes 2024-25 certifiés par la seule Fiduciaire de Révision ; honoraires d'audit du groupe : 160 k€",
+   "texte": "Le rapport financier annuel 2024-25 contient un « Rapport du commissaire aux comptes sur les comptes consolidés », signé « Fait à Didenheim, le 30 octobre 2025 » par la seule Société Fiduciaire de Révision (pp. 122-125). Honoraires au titre des missions de commissariat aux comptes du groupe : « 160 k€ au titre de l'exercice clos au 30 juin 2025, contre 123 k€ au 30 juin 2024 ». Le rapport 2025-26 donne 165 K€ pour l'exercice 2024-25 et 227 K€ pour 2025-26. À l'AG du 18/12/2025, le mandat de la Fiduciaire n'est pas renouvelé et Ernst & Young Audit est nommé.",
+   "sources": [
+    "S178",
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2024-25, pp. 122-125 et § 3.7",
+    "Rapport financier annuel 2025-26, honoraires des commissaires aux comptes"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-11-07_cac-fiduciaire-2324"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-12-18_ag-2025"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-10-30",
+      "cloture": 13.3,
+      "volume": 383775,
+      "variation_pct": -6.7,
+      "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2025-10-31",
+      "cloture": 10.14,
+      "volume": 2338461,
+      "variation_pct": -23.8,
+      "volume_vs_moy20": 6.2
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2025-11-04_valeo-partenariat",
@@ -2983,6 +3106,66 @@
     {
      "type": "precise",
      "cible": "2025-08-13_chennai-ch4-site"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-19",
+      "cloture": 25.4,
+      "volume": 0,
+      "variation_pct": 0.0,
+      "volume_vs_moy20": 0.0
+     },
+     {
+      "role": "suivante",
+      "date": "2026-06-22",
+      "cloture": 22.0,
+      "volume": 2254165,
+      "variation_pct": -13.4,
+      "volume_vs_moy20": 7.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-06-19_webinaire-commissaires",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "gouv",
+    "griz"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire du PDG : « EY a fait une seule année de pause. Point. »",
+   "texte": "Interrogé sur les commissaires aux comptes, le PDG répond : « Il y a toujours eu un Big Four sur HAW, et précédemment sur 2CRSi. Il n'y a pas de débat là-dessus. » À la question « lors d'une AG, il restait le petit cabinet seulement », il répond : « Non, c'est pas vrai. EY était l'auditeur de HAW, et la sous-consolidation qu'on faisait était faite par SFR [Société Fiduciaire de Révision] pour une raison technique : c'est qu'au bout des six ans, EY devait faire une pause d'une année. EY a fait une seule année de pause. Point. » Il ajoute que « tous les comptes sont audités d'abord au niveau de HAW, c'est-à-dire HAW qui paye l'audit, et 2CRSi paye sa quote-part de l'audit seulement ». Les rapports annuels 2023-24 (16 mois) et 2024-25 sont certifiés par la seule Fiduciaire de Révision ; EY est nommé à l'AG du 18/12/2025.",
+   "sources": [
+    "S015",
+    "S203",
+    "S178"
+   ],
+   "sources_libelle": [
+    "Webinaire du 19/06/2026 (transcription automatique relue à l'écoute, 22:35–23:41)",
+    "Rapport financier annuel 2023-24, pp. 136-140",
+    "Rapport financier annuel 2024-25, pp. 122-125"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-11-07_cac-fiduciaire-2324"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-10-30_cac-fiduciaire-2425"
+    },
+    {
+     "type": "precise",
+     "cible": "2020-07-24_haw-cac"
     }
    ],
    "seance": {
@@ -9579,6 +9762,36 @@
    "url": "https://investors.2crsi.com/blog/rapports-financiers-4",
    "archive": "integral",
    "note": "PDF fourni par Picard : textes/pdf/2CRSi-RFA-2022-23.pdf ; texte extrait dans textes/S202.txt. Date de publication à préciser.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S203",
+   "date_source": "2024-11-07",
+   "type": "officiel",
+   "reference": "Rapport financier annuel 2CRSi 2023-24 (exercice de 16 mois clos le 30/06/2024, 174 p.)",
+   "url": "https://investors.2crsi.com/blog/rapports-financiers-4",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/2CRSi-RFA-2023-24.pdf ; texte extrait dans textes/S203.txt (pages du rapport du CAC en image, lues à l'écran).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S204",
+   "date_source": "2026-11-09",
+   "type": "registre",
+   "reference": "Fiche societe.com de HAW Holding Alain Wilmouth (SIREN 799 911 656), relevée le 09/11/2026 : commissaires aux comptes, publication des comptes",
+   "url": "https://www.societe.com/societe/holding-alain-wilmouth-799911656.html",
+   "archive": "integral",
+   "note": "Agrégateur de données du registre ; relevé dans textes/S204.txt.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S205",
+   "date_source": "2020-09-01",
+   "type": "officiel",
+   "reference": "Rapport des commissaires aux comptes sur les comptes consolidés de 2CRSi au 29/02/2020",
+   "url": "https://investors.2crsi.com/wp-content/uploads/2020/09/2CRSI-Rapport-des-commissaires-aux-comptes-sur-les-comptes-consolides-29-fevrier-2020.pdf",
+   "archive": "integral",
+   "note": "Relevé des signataires et durées de mandat dans textes/S205.txt ; date de publication approximative (mise en ligne en septembre 2020).",
    "texte_archive": "sources_textes.json"
   }
  ],
