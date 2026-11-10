@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T09:13",
+ "mis_a_jour": "2026-11-10T18:04",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 160,
-  "sources": 196
+  "evenements": 161,
+  "sources": 197
  },
  "evenements": [
   {
@@ -7275,6 +7275,31 @@
    "majeur": false
   },
   {
+   "id": "2026-11-10_uet-immersion",
+   "date": "2026-11-10",
+   "date_affichee": "10 novembre 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Partenariat technique avec UET : 2CRSi valide le VectorEdge Large et garantit ses serveurs en immersion monophasique",
+   "texte": "Communiqué daté de Marco Island (Floride). Universal Edge Technologies (UET), conceptrice des systèmes VectorEdge, et 2CRSi annoncent « un partenariat technique » : 2CRSi « a évalué et validé le système VectorEdge Large d'UET et garantit jusqu'à trois ans ses serveurs fonctionnant dans ce système de refroidissement par immersion monophasique » ; la validation du VectorEdge Carbon doit commencer « très prochainement ». VectorEdge Carbon : quatre GPU NVIDIA H200 (ou RTX PRO 6000), environ 3,5 kW, transportable par deux personnes. VectorEdge Large : 24 GPU H200 NVL ou plus, 35 à 50 kW. UET travaille avec la filiale américaine de 2CRSi pour les clients américains, « y compris les agences gouvernementales » (configurations conformes au TAA), et avec 2CRSi en France pour « les clients des pays alliés ». Présentation du VectorEdge Carbon sur le stand de 2CRSi au salon Supercomputing 2026 (Chicago, 17-19/11). Le communiqué ne donne ni montant, ni volume, ni durée d'engagement, et ne mentionne pas ÆTHER.",
+   "sources": [
+    "S207"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi / UET du 10/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2022-10-28_brevets"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-11-12_eurohpc-cloture",
    "date": "2026-11-12",
    "date_affichee": "12 nov. 2026",
@@ -9804,6 +9829,16 @@
    "url": "https://www.rue89strasbourg.com/expertise-independante-soupcons-tromperie-societe-2crsi-401739",
    "archive": "integral",
    "note": "Article payant, texte intégral non archivé ; seule la citation de Nathalie Roos est reprise (textes/S206.txt).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S207",
+   "date_source": "2026-11-10",
+   "type": "CP",
+   "reference": "CP 2CRSi / UET du 10/11/2026 : « UET et 2CRSi s'associent pour apporter à l'Edge une puissance de calcul IA validée, sous garantie et refroidie par immersion » (3 pages)",
+   "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261110-FR.pdf",
+   "archive": "integral",
+   "note": "Texte intégral dans textes/S207.txt ; PDF dans textes/pdf/2CRSI-CP-20261110-FR.pdf. Diffusé par Seitosei.Actifin ; canal Actusnews non vérifié.",
    "texte_archive": "sources_textes.json"
   }
  ],
