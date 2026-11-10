@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-09",
- "mis_a_jour": "2026-11-09T17:14",
- "arrete_au": "2026-11-09",
+ "genere_le": "2026-11-10",
+ "mis_a_jour": "2026-11-10T07:18",
+ "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -219,18 +219,22 @@
    ],
    "statut": "doc",
    "titre": "Trois brevets français délivrés à 2CRSi, dont un sur l'immersion avec récupération de chaleur ; politique de brevets « limitée »",
-   "texte": "Brevets au nom de 2CRSI SA relevés au registre : FR3086809B1 (connexion électrique aux barres de puissance d'une baie, déposé le 27/09/2018, délivré le 30/10/2020), FR3109987B1 (circulation du liquide de refroidissement dans une baie, déposé le 05/05/2020, délivré le 09/09/2022) et FR3113996B1 (refroidissement par immersion avec récupération de la chaleur extraite, déposé le 07/09/2020, délivré le 28/10/2022). Aucune extension européenne ou américaine listée. La société décrit elle-même sa politique comme « limitée » dans son rapport semestriel au 31/12/2025 (p. 34) : « les coûts et les délais qu'une politique de protection par brevets impliquerait sont disproportionnés au regard de la protection obtenue dans une industrie où le rythme des innovations […] est plus rapide que celui des processus de protection » ; elle « procède plutôt à l'officialisation lors de salons ou de communiqués de presse » de ses innovations « afin d'en valider la paternité », et s'appuie sur des règles de confidentialité. Le même rapport (p. 32) mentionne « une demande de brevet sur une solution de récupération de la chaleur fatale générée par les serveurs ».",
+   "texte": "Brevets au nom de 2CRSI SA relevés au registre : FR3086809B1 (connexion électrique aux barres de puissance d'une baie, déposé le 27/09/2018, délivré le 30/10/2020), FR3109987B1 (circulation du liquide de refroidissement dans une baie, déposé le 05/05/2020, délivré le 09/09/2022) et FR3113996B1 (refroidissement par immersion avec récupération de la chaleur extraite, déposé le 07/09/2020, délivré le 28/10/2022). Aucune extension européenne ou américaine listée. La société décrit elle-même sa politique comme « limitée » dans son rapport semestriel au 31/12/2025 (p. 34) : « les coûts et les délais qu'une politique de protection par brevets impliquerait sont disproportionnés au regard de la protection obtenue dans une industrie où le rythme des innovations […] est plus rapide que celui des processus de protection » ; elle « procède plutôt à l'officialisation lors de salons ou de communiqués de presse » de ses innovations « afin d'en valider la paternité », et s'appuie sur des règles de confidentialité. Le même rapport (p. 32) mentionne « une demande de brevet sur une solution de récupération de la chaleur fatale générée par les serveurs » ; la même phrase figure dans les rapports financiers annuels 2024-25 (p. 33) et 2025-26 (section « Politique RSE »). Cette demande n'est identifiée ni par un numéro ni par une date dans ces documents, et aucune demande au nom de 2CRSI postérieure à 2020 n'a été relevée à ce jour [lacune].",
    "sources": [
     "S135",
     "S136",
     "S137",
-    "S065"
+    "S065",
+    "S178",
+    "S173"
    ],
    "sources_libelle": [
     "Google Patents FR3086809B1",
     "Google Patents FR3109987B1",
     "Google Patents FR3113996B1",
-    "Rapport financier semestriel au 31/12/2025, p. 32 et 34"
+    "Rapport financier semestriel au 31/12/2025, p. 32 et 34",
+    "Rapport financier annuel 2024-25, p. 33",
+    "Rapport financier annuel 2025-26"
    ],
    "engagements": [],
    "liens": [],
