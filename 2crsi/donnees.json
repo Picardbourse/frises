@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T18:56",
+ "mis_a_jour": "2026-11-10T19:43",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 162,
-  "sources": 198
+  "evenements": 165,
+  "sources": 201
  },
  "evenements": [
   {
@@ -4076,6 +4076,57 @@
    "majeur": false
   },
   {
+   "id": "2026-07-30_eurohpc-cahier-des-charges",
+   "date": "2026-07-30",
+   "date_affichee": "30 juil. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Cahier des charges de l'appel « AI Gigafactories » : la France dans le lot 1 (25 000 puis 75 000 accélérateurs, 100 M€ de l'UE en phase 1)",
+   "texte": "Documents de l'appel d'offres EUROHPC/2026/OP/0008 (cahier des charges lu dans sa version 2 du 23/10/2026, qui ne corrige que des points de forme listés par l'autorité). Deux lots : lot 1 « Medium-Scale », 4 contrats-cadres ; lot 2 « Large-Scale », 3 contrats-cadres. La France ne figure que dans le lot 1 (annexe 2) : contributions de phase 1 « FR: 100M€ » et « IE: 10M€ », autorité contractante nationale : la DINUM ; le lot 2 concerne le Portugal, l'Espagne, l'Allemagne, l'Italie et la Grèce. Sauf mention contraire, le budget d'un État ne finance qu'une seule proposition retenue sur son territoire. Lot 1 : au moins 25 000 accélérateurs « H100-equivalent » en phase 1 et 75 000 en phase 2 (critères d'éligibilité) ; contribution de l'UE de 100 M€ par projet en phase 1, au moins égalée par les États, puis jusqu'à 400 M€ en phase 2, « subject to the availability of next MFF funds » ; dans chaque phase, cette contribution est plafonnée à 17 % du CAPEX informatique, le reste (bâtiments, utilités, exploitation) étant à la charge du consortium. Puissance : repère indicatif de 15 à 30 MW en phase 1 pour le lot 1 ; en phase 2, « minimum IT load of 120 MW for Lot 1 », sauf valeur inférieure justifiée par le candidat. Calendrier d'exécution : mise en service au plus tard 18 mois après la signature du contrat-cadre, puis 5 ans de service. Critères de sélection, appréciés sur l'ensemble des entités du candidat : chiffre d'affaires annuel moyen des trois derniers exercices supérieur à 200 M€ (comptes de résultat et bilans à fournir) ; construction, puis exploitation, d'au moins un centre de données ou une infrastructure d'IA de 5 MW de charge informatique dans les trois dernières années ; au moins 5 M€ de revenus de services d'infrastructure d'IA auprès d'une clientèle multi-utilisateurs. L'offre doit apporter une preuve préliminaire de « legal control over the land » (titre, bail de longue durée, négociation exclusive ou option signée). Après attribution, tout changement substantiel de la structure juridique, financière ou de l'actionnariat du projet est soumis à l'accord d'un « Public Governance Body ». Selon les réponses publiées par l'autorité, un véhicule dédié (SPV) doit être constitué et immatriculé avant la date limite de dépôt. Date limite initiale : 12/11/2026 à 16 h. Ces documents ne nomment aucun candidat.",
+   "sources": [
+    "S209",
+    "S210",
+    "S211"
+   ],
+   "sources_libelle": [
+    "EuroHPC JU, cahier des charges (version 2 du 23/10/2026)",
+    "EuroHPC JU, annexe 2 : États participants (30/07/2026)",
+    "Portail Funding & Tenders, questions-réponses publiques"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-30_eurohpc-appel"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-07-30",
+      "cloture": 26.58,
+      "volume": 378195,
+      "variation_pct": 11.4,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-07-31",
+      "cloture": 25.76,
+      "volume": 431833,
+      "variation_pct": -3.1,
+      "volume_vs_moy20": 0.9
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-08-03_mission-expert",
    "date": "2026-08-03",
    "date_affichee": "3 août 2026",
@@ -5904,6 +5955,65 @@
    "majeur": false
   },
   {
+   "id": "2026-10-22_eurohpc-report-lot1",
+   "date": "2026-10-22",
+   "date_affichee": "22 oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Appel « AI Gigafactories » : le dépôt des offres du lot 1, dont relève la France, est reporté au 4 février 2027",
+   "texte": "La date limite de dépôt, fixée d'abord au 12/11/2026 à 16 h (cahier des charges), a été portée au 03/12/2026 à 17 h (réponses de l'autorité publiées à partir du 05/10/2026), puis, pour le seul lot 1, au 04/02/2027 à 17 h. Une question publiée sur le portail date ce second report du 22/10/2026 ; une réponse du 23/10 donne les deux dates. L'autorité l'explique dans sa réponse du 29/10 : le délai du lot 1 est prolongé car « a few Member States were still in the process of completing their respective national financial procedures » ; le lot 2 reste au 03/12/2026, tous ses États ayant remis leurs engagements fermes. La page EuroHPC de l'appel, mise à jour le 05/11/2026, ajoute que les offres déjà présentes dans le système, brouillons compris, « will not be considered » et doivent être recréées par de nouveaux liens. La France relève du lot 1 (annexe 2 de l'appel). Ni le CP 2CRSi du 30/10/2026 ni la publication d'Aether Infrastructures du 10/11/2026 n'indiquent le lot visé ou ces dates. Date de sélection des lauréats : non publiée dans ces documents [lacune].",
+   "sources": [
+    "S211",
+    "S024",
+    "S210",
+    "S172",
+    "S208"
+   ],
+   "sources_libelle": [
+    "Portail Funding & Tenders, questions-réponses publiques (05/10, 23/10 et 29/10/2026)",
+    "Page EuroHPC de l'appel, mise à jour du 05/11/2026",
+    "EuroHPC JU, annexe 2 : États participants",
+    "CP 2CRSi du 30/10/2026",
+    "Publication LinkedIn d'Aether Infrastructures, 10/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "reporte",
+     "cible": "2027-02-01_eurohpc-selection"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-30_eurohpc-cahier-des-charges"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-22",
+      "cloture": 27.28,
+      "volume": 162575,
+      "variation_pct": -5.4,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-23",
+      "cloture": 26.62,
+      "volume": 117988,
+      "variation_pct": -2.4,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
    "id": "2026-10-23_clever-cloud",
    "date": "2026-10-23",
    "date_affichee": "23 oct. 2026",
@@ -7269,6 +7379,14 @@
       "volume": 435588,
       "variation_pct": -2.1,
       "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-09",
+      "cloture": 17.19,
+      "volume": 308528,
+      "variation_pct": 8.2,
+      "volume_vs_moy20": 0.7
      }
     ]
    },
@@ -7297,6 +7415,20 @@
      "cible": "2022-10-28_brevets"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-10",
+      "cloture": 17.1,
+      "volume": 318479,
+      "variation_pct": -0.5,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -7308,20 +7440,22 @@
    ],
    "statut": "decl",
    "titre": "ÆTHER : première publication de la page LinkedIn d'Aether Infrastructures, objectif de 95 MW d'ici 2030 à FR-SXB2",
-   "texte": "La page LinkedIn « Aether Infrastructures » publie son premier message (en anglais) : candidature à l'appel EuroHPC du 30/07 pour faire de FR-SXB2 « one of Europe's premier sovereign AI computing hubs ». Éléments avancés : 90 hectares « south of Strasbourg », promesse de vente du 09/10 et bail actif depuis le 15/10 (« secured land and real estate ») ; 110 000 m² de bâtiments existants ; « 25 MW available today, scaling to a target of 95 MW by 2030 » ; « a first modular AI Factory deployed, with initial compute clusters entering operations in Q3 2027 » ; 190 km de Francfort. Le consortium est décrit par catégories (ingénierie et construction, énergie bas carbone et refroidissement, « high-performance servers and chips », cloud souverain), sans qu'aucun membre soit nommé ; 2CRSi n'est pas citée. Une série hebdomadaire « One Week, One Partner » est annoncée. Le site FR-SXB1 n'est pas mentionné. Pour comparaison, objectifs de puissance publiés antérieurement : 40 MW initiaux et jusqu'à 300 MW à long terme (CP du 18/02/2026) ; 42 MW initiaux et plus de 400 MW (CP du 08/07/2026) ; AI Factory de 20 MW en phase 1 au T3 2027 (CP du 30/10/2026). Le CP du 12/10 situe le site au Port du Rhin et soumet la vente à l'agrément du Port Autonome de Strasbourg.",
+   "texte": "La page LinkedIn « Aether Infrastructures » publie son premier message (en anglais) : candidature à l'appel EuroHPC du 30/07 pour faire de FR-SXB2 « one of Europe's premier sovereign AI computing hubs ». Éléments avancés : 90 hectares « south of Strasbourg », promesse de vente du 09/10 et bail actif depuis le 15/10 (« secured land and real estate ») ; 110 000 m² de bâtiments existants ; « 25 MW available today, scaling to a target of 95 MW by 2030 » ; « a first modular AI Factory deployed, with initial compute clusters entering operations in Q3 2027 » ; 190 km de Francfort. Le consortium est décrit par catégories (ingénierie et construction, énergie bas carbone et refroidissement, « high-performance servers and chips », cloud souverain), sans qu'aucun membre soit nommé ; 2CRSi n'est pas citée. Une série hebdomadaire « One Week, One Partner » est annoncée. Le site FR-SXB1 n'est pas mentionné. Pour comparaison, objectifs de puissance publiés antérieurement : 40 MW initiaux et jusqu'à 300 MW à long terme (CP du 18/02/2026) ; 42 MW initiaux et plus de 400 MW (CP du 08/07/2026) ; AI Factory de 20 MW en phase 1 au T3 2027 (CP du 30/10/2026). Le CP du 12/10 situe le site au Port du Rhin et soumet la vente à l'agrément du Port Autonome de Strasbourg. Le cahier des charges de l'appel demande pour le lot 1, dont relève la France, au moins 25 000 accélérateurs en phase 1 et, en phase 2, 75 000 accélérateurs et « minimum IT load of 120 MW », sauf valeur inférieure justifiée ; la publication ne précise ni le lot visé ni le nombre d'accélérateurs.",
    "sources": [
     "S208",
     "S055",
     "S008",
     "S172",
-    "S113"
+    "S113",
+    "S209"
    ],
    "sources_libelle": [
     "Publication LinkedIn d'Aether Infrastructures, 10/11/2026",
     "CP 2CRSi du 18/02/2026",
     "CP 2CRSi du 08/07/2026",
     "CP 2CRSi du 30/10/2026",
-    "CP 2CRSi du 12/10/2026"
+    "CP 2CRSi du 12/10/2026",
+    "EuroHPC JU, cahier des charges (version 2 du 23/10/2026)"
    ],
    "engagements": [],
    "liens": [
@@ -7336,8 +7470,26 @@
     {
      "type": "precise",
      "cible": "2026-10-09_sxb2-promesse"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-30_eurohpc-cahier-des-charges"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-10",
+      "cloture": 17.1,
+      "volume": 318479,
+      "variation_pct": -0.5,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -7409,20 +7561,51 @@
    "majeur": false
   },
   {
+   "id": "2027-02-04_eurohpc-depot-lot1",
+   "date": "2027-02-04",
+   "date_affichee": "4 févr. 2027",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : date limite de dépôt des offres du lot 1 de l'appel « AI Gigafactories »",
+   "texte": "Le 04/02/2027 à 17 h (heure de Luxembourg) pour le lot 1, dont relève la France ; le lot 2 est clos le 03/12/2026. Un véhicule dédié doit exister à cette date. À vérifier ensuite : liste des candidats annoncée à l'ouverture des offres.",
+   "sources": [
+    "S024",
+    "S211"
+   ],
+   "sources_libelle": [
+    "Page EuroHPC de l'appel, mise à jour du 05/11/2026",
+    "Portail Funding & Tenders, questions-réponses publiques"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-22_eurohpc-report-lot1"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2027-02-01_eurohpc-selection",
-   "date": "2027-02-01",
-   "date_affichee": "début 2027",
+   "date": "2027-03-31",
+   "date_affichee": "2027 (date non publiée)",
    "sujets": [
     "aether"
    ],
    "statut": "echeance",
    "titre": "Sélection des gigafactories européennes",
-   "texte": "L'État français s'est engagé à acheter 100 M€ de capacité de calcul au seul projet qui sera retenu sur le sol français (achat auprès d'un opérateur privé, à l'horizon 2027, distinct de tout financement de l'investissement). Deux consortiums français connus : ÆTHER et AION.",
+   "texte": "L'État français s'est engagé à acheter 100 M€ de capacité de calcul au seul projet qui sera retenu sur le sol français (achat auprès d'un opérateur privé, à l'horizon 2027, distinct de tout financement de l'investissement). Deux consortiums français connus : ÆTHER et AION. L'AFP évoquait le 30/07/2026 des lauréats début 2027 ; le dépôt des offres du lot 1, dont relève la France, ayant été reporté au 04/02/2027, la sélection ne peut intervenir qu'après cette date. Aucune date de sélection n'est publiée : la position de cette échéance dans la frise est indicative.",
    "sources": [
-    "S025"
+    "S025",
+    "S081",
+    "S024"
    ],
    "sources_libelle": [
-    "numerique.gouv.fr"
+    "numerique.gouv.fr",
+    "AFP, 30/07/2026",
+    "Page EuroHPC de l'appel, mise à jour du 05/11/2026"
    ],
    "engagements": [],
    "liens": [
@@ -8170,8 +8353,9 @@
    "type": "officiel",
    "reference": "EuroHPC JU : appel « AI Gigafactories »",
    "url": "https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en",
-   "archive": "reference",
-   "note": "Clôture 12/11 ou 03/12/2026 selon les sources."
+   "archive": "integral",
+   "note": "Dates limites : 12/11/2026 (initiale), puis 03/12/2026, puis 04/02/2027 pour le lot 1 ; page mise à jour le 05/11/2026 (relevé du 10/11/2026 dans textes/S024.txt).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S025",
@@ -9890,6 +10074,36 @@
    "url": "https://lnkd.in/p/eNHPHfUt",
    "archive": "integral",
    "note": "Texte original (anglais) dans textes/S208.txt ; heure de publication déduite de l'affichage « 7 h » ; publication modifiée après mise en ligne.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S209",
+   "date_source": "2026-10-23",
+   "type": "officiel",
+   "reference": "EuroHPC JU, appel d'offres EUROHPC/2026/OP/0008 « AI Gigafactories » : Tender Specifications, version 2 du 23/10/2026 (135 pages ; appel publié le 30/07/2026)",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/bc712395-692d-41ab-aa25-8e254ae86eb2-CN",
+   "archive": "integral",
+   "note": "Texte intégral dans textes/S209.txt, avec la liste des corrections v1 → v2 ; PDF dans textes/pdf/. Documents téléchargés par Picard sur le portail Funding & Tenders le 10/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S210",
+   "date_source": "2026-07-30",
+   "type": "officiel",
+   "reference": "EuroHPC JU, appel d'offres EUROHPC/2026/OP/0008 : annexe 2, liste des États participants et de leurs contributions (30/07/2026, 8 pages)",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/bc712395-692d-41ab-aa25-8e254ae86eb2-CN",
+   "archive": "integral",
+   "note": "Texte intégral dans textes/S210.txt ; PDF dans textes/pdf/CfT AIGF - Annex 2_V1.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S211",
+   "date_source": "2026-11-04",
+   "type": "officiel",
+   "reference": "Funding & Tenders Portal : questions et réponses publiques de l'appel EUROHPC/2026/OP/0008 (391 réponses publiées du 30/07 au 04/11/2026 ; export du 10/11/2026)",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/bc712395-692d-41ab-aa25-8e254ae86eb2-CN",
+   "archive": "integral",
+   "note": "Extraits dans textes/S211.txt (dates limites, charge informatique, SPV, critères de sélection) ; export complet dans textes/pdf/FT Portal-Public-QA.xlsx.",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -11779,7 +11993,9 @@
    "2026-11-03",
    "2026-11-04",
    "2026-11-05",
-   "2026-11-06"
+   "2026-11-06",
+   "2026-11-09",
+   "2026-11-10"
   ],
   "cloture": [
    5.37,
@@ -13280,7 +13496,9 @@
    16.59,
    17.87,
    16.22,
-   15.88
+   15.88,
+   17.19,
+   17.1
   ],
   "volume": [
    217653,
@@ -14781,7 +14999,9 @@
    1662805,
    1470831,
    789032,
-   435588
+   435588,
+   308528,
+   318479
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
