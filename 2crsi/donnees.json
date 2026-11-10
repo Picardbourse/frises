@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T19:43",
+ "mis_a_jour": "2026-11-10T20:11",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -80,7 +80,7 @@
   ]
  },
  "nb": {
-  "evenements": 165,
+  "evenements": 164,
   "sources": 201
  },
  "evenements": [
@@ -7493,30 +7493,6 @@
    "majeur": false
   },
   {
-   "id": "2026-11-12_eurohpc-cloture",
-   "date": "2026-11-12",
-   "date_affichee": "12 nov. 2026",
-   "sujets": [
-    "aether"
-   ],
-   "statut": "echeance",
-   "titre": "Clôture de l'appel « AI Gigafactories »",
-   "texte": "Clôture le 12/11/2026 selon Le Monde (31/07) ; l'AFP dit « en novembre ». Les dates du 03/12 et du 20/11 avancées ailleurs ne sont pas retenues ; à confirmer sur la page officielle de la Commission.",
-   "sources": [
-    "S024",
-    "S082",
-    "S081"
-   ],
-   "sources_libelle": [
-    "EuroHPC JU",
-    "Le Monde, 31/07/2026",
-    "AFP, 30/07/2026"
-   ],
-   "engagements": [],
-   "liens": [],
-   "majeur": false
-  },
-  {
    "id": "2026-11-15_valeo-sop",
    "date": "2026-11-15",
    "date_affichee": "nov. 2026",
@@ -7939,7 +7915,7 @@
     "nature": "Potentiel. 2CRSi est « fournisseur pressenti » des serveurs ; le client, Aether Infrastructures, est une partie liée (HAW).",
     "conditions": "« Les commandes dépendent de l'issue de l'appel EuroHPC, du financement du projet, des autorisations et de la disponibilité des composants » ; vente du site soumise à l'agrément du Port autonome.",
     "etat": "Promesse de vente du site signée le 09/10, bail actif depuis le 15/10 ; aucune commande annoncée. Mise en service de la phase 1 (20 MW) visée « dès le troisième trimestre 2027 », après la clôture de l'exercice. Le 03/11/2026, le PDG évoque « 20 MW d'IT » installables « dans quelques semaines », une fois les autorisations obtenues (Port autonome, DREAL).",
-    "prochaine": "Clôture de l'appel EuroHPC (novembre 2026), vente du site (31/12/2026), sélection des projets (début 2027)",
+    "prochaine": "Vente du site (31/12/2026) ; dépôt des offres du lot 1 EuroHPC, dont relève la France (04/02/2027) ; sélection des projets (date non publiée)",
     "evenements": [
      "2026-10-09_sxb2-promesse",
      "2026-10-30_aether-20mw-adimes"
