@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T07:40",
+ "mis_a_jour": "2026-11-10T09:13",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 160,
-  "sources": 195
+  "sources": 196
  },
  "evenements": [
   {
@@ -4796,12 +4796,14 @@
    "statut": "doc",
    "revele_le": "2026-10-31",
    "titre": "Démission de Nathalie Roos, administratrice indépendante, avec effet immédiat",
-   "texte": "Son mandat « a pris fin de manière anticipée le 8 septembre 2026, à la suite de la démission de ses fonctions d'administratrice indépendante, notifiée à la Société avec effet immédiat » ; le conseil en a pris acte le 12/10/2026. Le conseil compte désormais six membres, dont deux indépendants (Lilla Merabet, Hervé Landau). Nathalie Roos siégeait au comité d'audit et des risques depuis le 18/12/2025. Fait rendu public le 31/10/2026.",
+   "texte": "Son mandat « a pris fin de manière anticipée le 8 septembre 2026, à la suite de la démission de ses fonctions d'administratrice indépendante, notifiée à la Société avec effet immédiat » ; le conseil en a pris acte le 12/10/2026. Le conseil compte désormais six membres, dont deux indépendants (Lilla Merabet, Hervé Landau). Nathalie Roos siégeait au comité d'audit et des risques depuis le 18/12/2025. Fait rendu public le 31/10/2026. Interrogée par Rue89 Strasbourg, elle déclare : « Les conditions n'étaient pas réunies pour me permettre d'exercer mon mandat », sans souhaiter s'exprimer davantage (article du 09/11/2026).",
    "sources": [
-    "S173"
+    "S173",
+    "S206"
    ],
    "sources_libelle": [
-    "Rapport financier annuel 2025-2026, §2.6.3.1 et §2.6.4.1"
+    "Rapport financier annuel 2025-2026, §2.6.3.1 et §2.6.4.1",
+    "Rue89 Strasbourg, 09/11/2026"
    ],
    "engagements": [],
    "liens": [
@@ -9792,6 +9794,16 @@
    "url": "https://investors.2crsi.com/wp-content/uploads/2020/09/2CRSI-Rapport-des-commissaires-aux-comptes-sur-les-comptes-consolides-29-fevrier-2020.pdf",
    "archive": "integral",
    "note": "Relevé des signataires et durées de mandat dans textes/S205.txt ; date de publication approximative (mise en ligne en septembre 2020).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S206",
+   "date_source": "2026-11-09",
+   "type": "presse",
+   "reference": "Rue89 Strasbourg (Guillaume Krempp), 09/11/2026 : « Une expertise indépendante accroît les soupçons de tromperie de la société 2CRSI » (édition abonnés)",
+   "url": "https://www.rue89strasbourg.com/expertise-independante-soupcons-tromperie-societe-2crsi-401739",
+   "archive": "integral",
+   "note": "Article payant, texte intégral non archivé ; seule la citation de Nathalie Roos est reprise (textes/S206.txt).",
    "texte_archive": "sources_textes.json"
   }
  ],
