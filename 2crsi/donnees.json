@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T18:04",
+ "mis_a_jour": "2026-11-10T18:56",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 161,
-  "sources": 197
+  "evenements": 162,
+  "sources": 198
  },
  "evenements": [
   {
@@ -7300,6 +7300,47 @@
    "majeur": true
   },
   {
+   "id": "2026-11-10_aether-linkedin-95mw",
+   "date": "2026-11-10",
+   "date_affichee": "10 nov. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "ÆTHER : première publication de la page LinkedIn d'Aether Infrastructures, objectif de 95 MW d'ici 2030 à FR-SXB2",
+   "texte": "La page LinkedIn « Aether Infrastructures » publie son premier message (en anglais) : candidature à l'appel EuroHPC du 30/07 pour faire de FR-SXB2 « one of Europe's premier sovereign AI computing hubs ». Éléments avancés : 90 hectares « south of Strasbourg », promesse de vente du 09/10 et bail actif depuis le 15/10 (« secured land and real estate ») ; 110 000 m² de bâtiments existants ; « 25 MW available today, scaling to a target of 95 MW by 2030 » ; « a first modular AI Factory deployed, with initial compute clusters entering operations in Q3 2027 » ; 190 km de Francfort. Le consortium est décrit par catégories (ingénierie et construction, énergie bas carbone et refroidissement, « high-performance servers and chips », cloud souverain), sans qu'aucun membre soit nommé ; 2CRSi n'est pas citée. Une série hebdomadaire « One Week, One Partner » est annoncée. Le site FR-SXB1 n'est pas mentionné. Pour comparaison, objectifs de puissance publiés antérieurement : 40 MW initiaux et jusqu'à 300 MW à long terme (CP du 18/02/2026) ; 42 MW initiaux et plus de 400 MW (CP du 08/07/2026) ; AI Factory de 20 MW en phase 1 au T3 2027 (CP du 30/10/2026). Le CP du 12/10 situe le site au Port du Rhin et soumet la vente à l'agrément du Port Autonome de Strasbourg.",
+   "sources": [
+    "S208",
+    "S055",
+    "S008",
+    "S172",
+    "S113"
+   ],
+   "sources_libelle": [
+    "Publication LinkedIn d'Aether Infrastructures, 10/11/2026",
+    "CP 2CRSi du 18/02/2026",
+    "CP 2CRSi du 08/07/2026",
+    "CP 2CRSi du 30/10/2026",
+    "CP 2CRSi du 12/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-30_aether-20mw-adimes"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-11-12_eurohpc-cloture",
    "date": "2026-11-12",
    "date_affichee": "12 nov. 2026",
@@ -9839,6 +9880,16 @@
    "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261110-FR.pdf",
    "archive": "integral",
    "note": "Texte intégral dans textes/S207.txt ; PDF dans textes/pdf/2CRSI-CP-20261110-FR.pdf. Diffusé par Seitosei.Actifin ; canal Actusnews non vérifié.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S208",
+   "date_source": "2026-11-10",
+   "type": "linkedin",
+   "reference": "Publication LinkedIn de la page Aether Infrastructures, 10/11/2026 : « Europe is accelerating on AI. ÆTHER Infrastructures is entering the arena. » (première publication de la page)",
+   "url": "https://lnkd.in/p/eNHPHfUt",
+   "archive": "integral",
+   "note": "Texte original (anglais) dans textes/S208.txt ; heure de publication déduite de l'affichage « 7 h » ; publication modifiée après mise en ligne.",
    "texte_archive": "sources_textes.json"
   }
  ],
