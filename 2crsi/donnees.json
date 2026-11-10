@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-10",
- "mis_a_jour": "2026-11-10T20:11",
+ "mis_a_jour": "2026-11-10T20:13",
  "arrete_au": "2026-11-10",
  "version_provisoire": false,
  "config": {
@@ -80,7 +80,7 @@
   ]
  },
  "nb": {
-  "evenements": 164,
+  "evenements": 165,
   "sources": 201
  },
  "evenements": [
@@ -7511,6 +7511,35 @@
    "engagements": [],
    "liens": [],
    "avenir": false,
+   "majeur": false
+  },
+  {
+   "id": "2026-12-03_eurohpc-depot-lot2",
+   "date": "2026-12-03",
+   "date_affichee": "3 déc. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : date limite de dépôt des offres du lot 2 de l'appel « AI Gigafactories »",
+   "texte": "Le 03/12/2026 à 17 h (heure de Luxembourg) pour le lot 2 (« Large-Scale »). La France n'y apporte pas de contribution ; les États hôtes du lot 2 sont le Portugal, l'Espagne, l'Allemagne, l'Italie et la Grèce, et le lot admet des projets multi-pays. La société n'a pas indiqué le lot visé par ÆTHER ; le CP du 18/02/2026 mentionnait des sites « étudiés » en Allemagne et au Luxembourg, sans suite publiée. À vérifier ensuite : liste des candidats du lot 2 annoncée à l'ouverture des offres.",
+   "sources": [
+    "S024",
+    "S210",
+    "S055"
+   ],
+   "sources_libelle": [
+    "Page EuroHPC de l'appel, mise à jour du 05/11/2026",
+    "EuroHPC JU, annexe 2 : États participants",
+    "CP 2CRSi du 18/02/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-22_eurohpc-report-lot1"
+    }
+   ],
    "majeur": false
   },
   {
