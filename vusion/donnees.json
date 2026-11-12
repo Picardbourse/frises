@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-12",
- "mis_a_jour": "2026-11-12T08:40",
+ "mis_a_jour": "2026-11-12T08:45",
  "arrete_au": "2026-11-12",
  "version_provisoire": false,
  "config": {
@@ -5903,12 +5903,12 @@
    ],
    "statut": "doc",
    "titre": "Vusion 51e du classement TIME « World's Best Companies – Sustainable Growth 2027 »",
-   "texte": "Classement de 500 entreprises établi par Statista avec TIME (troisième édition), note sur 100 : croissance du chiffre d'affaires 2023-2025 comparée à la médiane du secteur, stabilité financière (scores de Piotroski et d'Altman), seules les sociétés publiant des données environnementales étant éligibles. Vusion y figure au 51e rang. Le communiqué indique aussi, selon la société, « a 30% revenue CAGR over the last 10 years » (année de départ et base IFRS ou ajustée non précisées), une baisse de 20 % des émissions des scopes 1 et 2 en 2025 par rapport à 2022 et une baisse de 35 % de l'intensité carbone du scope 3, exprimée en « tons of CO2 emissions/m€ variable cost margin » (ratio d'intensité, non un volume absolu d'émissions) ; programme « Second Life » : 15,3 millions d'appareils prolongés en 2025. Distinction médiatique, sans incidence chiffrée.",
+   "texte": "Classement de 500 entreprises établi par Statista avec TIME (troisième édition), note sur 100 : croissance du chiffre d'affaires 2023-2025 comparée à la médiane du secteur, solidité financière (scores de Piotroski et d'Altman), seules les sociétés publiant leurs données environnementales étant éligibles. Vusion y figure à la 51e place. Le communiqué indique aussi, selon la société, « un taux de croissance annuel composé de son chiffre d'affaires de 30 % sur les dix dernières années » (année de départ et base IFRS ou ajustée non précisées), une baisse de 20 % des émissions des scopes 1 et 2 en 2025 par rapport à 2022 et une baisse de 35 % du « ratio d'intensité carbone pour le scope 3, exprimé en tonnes de CO₂ émises par millions d'euros de marge sur coûts variables » (ratio d'intensité, non un volume absolu d'émissions) ; programme Second Life : 15,3 millions d'objets connectés prolongés en 2025. Distinction médiatique, sans incidence chiffrée.",
    "sources": [
     "S158"
    ],
    "sources_libelle": [
-    "Communiqué VusionGroup du 12/11/2026 (newsroom)"
+    "CP VusionGroup du 12/11/2026, 8h00"
    ],
    "engagements": [],
    "liens": [
@@ -5917,7 +5917,7 @@
      "cible": "2026-04-28_time100"
     }
    ],
-   "majeur": false
+   "majeur": true
   },
   {
    "id": "2026-11-18_capital-markets-day",
@@ -7611,11 +7611,11 @@
   {
    "id": "S158",
    "date_source": "2026-11-12",
-   "type": "CP newsroom",
-   "reference": "VusionGroup, communiqué du 12/11/2026 : « Vusion Named to TIME's World's Best Companies - Sustainable Growth 2027 » (51e sur 500)",
-   "url": "https://www.vusion.com/fr/newsroom/vusion-named-to-times-worlds-best-companies-sustainable-growth-2027",
+   "type": "CP",
+   "reference": "CP VusionGroup du 12/11/2026, 8h00 : « Vusion distinguée dans le classement de TIME « World's Best Companies – Sustainable Growth 2027 » » (51e sur 500)",
+   "url": "https://investor.vusion.com/French/actualits/communiques-de-presse/communiqus-de-presse-details/default.aspx?id=101352",
    "archive": "integral",
-   "note": "Page 1 transcrite dans textes/S158.txt (image fournie par Picard, textes/pdf/) ; page 2 non vue ; diffusion par le canal réglementé non vérifiée.",
+   "note": "PDF fourni par Picard : textes/pdf/Vusion_CP_2026-11-12_TIME_sustainable_growth_fr.pdf (2 p.) ; texte intégral dans textes/S158.txt. Identifiant 101352 de la série Actusnews (comme S156, S157) : diffusion par le canal réglementé probable, non vérifiée directement.",
    "texte_archive": "sources_textes.json"
   }
  ],
