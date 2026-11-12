@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-12",
- "mis_a_jour": "2026-11-12T07:23",
+ "mis_a_jour": "2026-11-12T19:27",
  "arrete_au": "2026-11-12",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 165,
-  "sources": 201
+  "evenements": 166,
+  "sources": 202
  },
  "evenements": [
   {
@@ -7493,6 +7493,31 @@
    "majeur": false
   },
   {
+   "id": "2026-11-11_citadel-050",
+   "date": "2026-11-11",
+   "date_affichee": "11 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Positions courtes : Citadel Securities (Europe) à 0,50 % au 11/11",
+   "texte": "Déclaration publiée par l'AMF le 12/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,50 % du capital de 2CRSi à la date du 11/11/2026, contre 0,67 % au 06/11 et 0,79 % au 04/11. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
+   "sources": [
+    "S212"
+   ],
+   "sources_libelle": [
+    "Déclaration AMF DPC1150216 du 12/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-06_positions-courtes"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-11-15_valeo-sop",
    "date": "2026-11-15",
    "date_affichee": "nov. 2026",
@@ -10109,6 +10134,16 @@
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/bc712395-692d-41ab-aa25-8e254ae86eb2-CN",
    "archive": "integral",
    "note": "Extraits dans textes/S211.txt (dates limites, charge informatique, SPV, critères de sélection ; ajout du 12/11/2026 : réponses 100520, 103769, 106451, 107937 sur les États hôtes et la séparation des lots) ; export complet dans textes/pdf/FT Portal-Public-QA.xlsx.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S212",
+   "date_source": "2026-11-12",
+   "type": "registre",
+   "reference": "AMF, déclaration de position courte nette DPC1150216 (réf. 2026E1150216) : Citadel Securities (Europe) Limited, 2CRSi, 0,50 % au 11/11/2026, publiée le 12/11/2026",
+   "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/ventes-decouvert",
+   "archive": "integral",
+   "note": "PDF de la déclaration fourni par Picard : textes/pdf/AMF_DPC1150216_Citadel_2026-11-12.pdf. Déclaration établie sous la responsabilité du déclarant, non contrôlée par l'AMF.",
    "texte_archive": "sources_textes.json"
   }
  ],
