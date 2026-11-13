@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-13",
- "mis_a_jour": "2026-11-13T18:47",
+ "mis_a_jour": "2026-11-13T22:07",
  "arrete_au": "2026-11-13",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 169,
-  "sources": 204
+  "evenements": 170,
+  "sources": 205
  },
  "evenements": [
   {
@@ -7652,6 +7652,31 @@
    "majeur": false
   },
   {
+   "id": "2026-11-13_wilmouth-etude-rte",
+   "date": "2026-11-13",
+   "date_affichee": "13 nov. 2026 (au plus tard)",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "decl",
+   "titre": "Le PDG publie une étude sur la capacité du réseau électrique à accueillir les data centers, favorable au Grand Est",
+   "texte": "Alain Wilmouth publie sur LinkedIn une étude de 16 pages, signée de son nom et datée « Septembre 2026 », fondée sur les données publiques RTE éCO2mix (2012-2026). Principaux chiffres : 18 GW de capacité réservée chez RTE pour environ 80 projets de data centers (mai 2026) ; en 2030, 3,5 à 9,6 GW de data centers supplémentaires absorbables avec la météo de l'hiver 2025-26, « entre 0 et 3,5 GW » avec une vague de froid du type de février 2012. Le Grand Est, « seule des trois régions qui reste exportatrice », pourrait accueillir « environ 4 GW de data centers en restant exportateur » ; la conclusion indique : « Le Grand Est coche ces trois cases » (électricité excédentaire, flexibilité, valorisation de la chaleur). Les sites cités pour la région sont Saint-Avold, le Sud Alsace, La Maxe et Richemont ; l'auteur précise que la capacité des postes 400/225 kV est « à valider projet par projet avec RTE ». Le document ne mentionne ni 2CRSi, ni ÆTHER, ni le site FR-SXB2 du Port du Rhin.",
+   "sources": [
+    "S215"
+   ],
+   "sources_libelle": [
+    "Publication LinkedIn d'Alain Wilmouth (étude datée de septembre 2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-10_aether-linkedin-95mw"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-11-15_valeo-sop",
    "date": "2026-11-15",
    "date_affichee": "nov. 2026",
@@ -10323,6 +10348,16 @@
    "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/ventes-decouvert",
    "archive": "integral",
    "note": "PDF de la déclaration fourni par Picard : textes/pdf/AMF_DPC1150532_Citadel_2026-11-13.pdf. Déclaration établie sous la responsabilité du déclarant, non contrôlée par l'AMF.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S215",
+   "date_source": "2026-11-13",
+   "type": "linkedin",
+   "reference": "Publication LinkedIn d'Alain Wilmouth : étude « Data centers & AI factories en France : le réseau électrique peut-il suivre les annonces ? » (16 p., datée « Septembre 2026 », données RTE éCO2mix)",
+   "url": "https://lnkd.in/p/ePgQ_rwA",
+   "archive": "integral",
+   "note": "PDF fourni par Picard (textes/pdf/Wilmouth_2026-09_Data-centers-IA-France-reseau-electrique-Grand-Est.pdf), texte dans textes/S215.txt. Date exacte de la publication LinkedIn non vérifiée (page non lisible depuis l'outil) : constatée le 13/11/2026.",
    "texte_archive": "sources_textes.json"
   }
  ],
