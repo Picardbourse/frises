@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-12",
- "mis_a_jour": "2026-11-12T19:27",
- "arrete_au": "2026-11-12",
+ "genere_le": "2026-11-13",
+ "mis_a_jour": "2026-11-13T08:53",
+ "arrete_au": "2026-11-13",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 166,
-  "sources": 202
+  "evenements": 168,
+  "sources": 203
  },
  "evenements": [
   {
@@ -7426,6 +7426,14 @@
       "volume": 318479,
       "variation_pct": -0.5,
       "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-11",
+      "cloture": 18.76,
+      "volume": 485584,
+      "variation_pct": 9.7,
+      "volume_vs_moy20": 1.1
      }
     ]
    },
@@ -7487,6 +7495,14 @@
       "volume": 318479,
       "variation_pct": -0.5,
       "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-11",
+      "cloture": 18.76,
+      "volume": 485584,
+      "variation_pct": 9.7,
+      "volume_vs_moy20": 1.1
      }
     ]
    },
@@ -7515,6 +7531,85 @@
      "cible": "2026-11-06_positions-courtes"
     }
    ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-11",
+      "cloture": 18.76,
+      "volume": 485584,
+      "variation_pct": 9.7,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-12",
+      "cloture": 18.33,
+      "volume": 338721,
+      "variation_pct": -2.3,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-11-11_balo-avis-ag",
+   "date": "2026-11-11",
+   "date_affichee": "11 nov. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Avis de réunion de l'AG du 17/12/2026 : une administratrice proposée, un second commissaire aux comptes non nommé, ratification des conventions non autorisées",
+   "texte": "Avis publié au BALO le 11/11/2026 ; assemblée générale mixte convoquée par le conseil du 30/10/2026 pour le jeudi 17/12/2026 à 11 h, à Strasbourg (Parc des Forges, Le Terracotta). 25 projets de résolutions. Comptes : approbation des comptes sociaux (bénéfice de 24 173 689,28 €) et consolidés (17 010 723,02 €) de l'exercice clos le 30/06/2026, résultat affecté à la réserve légale et au report à nouveau, sans dividende. Conventions réglementées : approbation des conventions nouvelles (5e résolution) et ratification, « en application de l'article L.225-42 alinéa 3 », des conventions non autorisées préalablement (6e résolution) ; le texte rappelle que « la personne directement ou indirectement intéressée ne peut prendre part au vote ». Conseil : prise d'acte de la démission de Nathalie Roos « intervenue le 8 septembre 2026 » ; nomination de Madame Audrey Nodin-Parsons comme administratrice pour trois ans (8e résolution), sans autre indication sur son parcours ni sur son indépendance ; l'avis ne propose aucune autre nomination ni aucun départ. Commissariat aux comptes : nomination d'un second commissaire aux comptes titulaire pour six exercices, « conformément à l'article L. 821-41 du Code de commerce », l'assemblée « constatant que les conditions [...] pour bénéficier de l'exemption d'établissement de comptes consolidés [...] ne sont pas réunies au titre des exercices clos le 30 juin 2024 et le 30 juin 2025 » (9e résolution) ; le nom du cabinet ne figure pas dans le projet. Capital : rachat d'actions jusqu'à 10 % du capital au prix maximum de 40 € ; délégations d'augmentation de capital aux mêmes plafonds que ceux proposés à l'AG du 18/12/2025 (1 080 000 € de nominal, soit 12 millions d'actions de 0,09 €, avec ou sans droit préférentiel ; 360 000 € pour une « equity line » ; décote maximale de 20 %). Statuts : ratification de la date d'enregistrement portée au cinquième jour ouvré avant l'assemblée (décret du 13/02/2026) et retouches des articles 2, 12 et 15. Modalités : titres inscrits en compte au 10/12/2026 à zéro heure ; site VOTACCESS ouvert du 30/11/2026 à 12 h au 16/12/2026 à 15 h ; formulaires papier reçus par Uptevia trois jours avant l'assemblée ; questions écrites jusqu'au 11/12/2026, par lettre recommandée au siège ou à investors@2crsi.com, avec une attestation d'inscription en compte.",
+   "sources": [
+    "S213",
+    "S181"
+   ],
+   "sources_libelle": [
+    "BALO n° 135 du 11/11/2026, avis de réunion",
+    "Rapport du conseil sur les résolutions de l'AG du 18/12/2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rfa-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-09-08_demission-roos"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-11-03_webinaire-pros"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-11",
+      "cloture": 18.76,
+      "volume": 485584,
+      "variation_pct": 9.7,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-12",
+      "cloture": 18.33,
+      "volume": 338721,
+      "variation_pct": -2.3,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -7563,6 +7658,31 @@
     {
      "type": "precise",
      "cible": "2026-10-22_eurohpc-report-lot1"
+    }
+   ],
+   "majeur": false
+  },
+  {
+   "id": "2026-12-17_ag-2026",
+   "date": "2026-12-17",
+   "date_affichee": "17 déc. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : assemblée générale mixte du 17/12/2026",
+   "texte": "Jeudi 17/12/2026 à 11 h, à Strasbourg. Vote en ligne (VOTACCESS) du 30/11 à 12 h au 16/12 à 15 h ; titres inscrits au 10/12 à zéro heure ; questions écrites jusqu'au 11/12. À vérifier ensuite : résultat des votes sur les comptes et sur les conventions avec HAW (sans les voix des intéressés), nom du second commissaire aux comptes, composition du conseil et du comité d'audit, publication des conclusions de l'expert sur le contrat d'études HAW.",
+   "sources": [
+    "S213"
+   ],
+   "sources_libelle": [
+    "BALO n° 135 du 11/11/2026, avis de réunion"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-11_balo-avis-ag"
     }
    ],
    "majeur": false
@@ -10145,6 +10265,16 @@
    "archive": "integral",
    "note": "PDF de la déclaration fourni par Picard : textes/pdf/AMF_DPC1150216_Citadel_2026-11-12.pdf. Déclaration établie sous la responsabilité du déclarant, non contrôlée par l'AMF.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S213",
+   "date_source": "2026-11-11",
+   "type": "officiel",
+   "reference": "BALO n° 135 du 11/11/2026, affaire n° 2604185 : 2CRSi, avis de réunion de l'assemblée générale mixte du 17/12/2026 (ordre du jour, 25 projets de résolutions, modalités de vote ; 17 p.)",
+   "url": "https://www.journal-officiel.gouv.fr/pages/balo-annonce-unitaire/?q.id=id:202611112604185",
+   "archive": "integral",
+   "note": "PDF fourni par Picard : textes/pdf/BALO_2026-11-11_n135_2604185_2CRSi_avis_reunion.pdf ; texte intégral dans textes/S213.txt. Adresse de la page BALO reconstituée d'après le numéro d'affaire, à vérifier.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -12035,7 +12165,9 @@
    "2026-11-05",
    "2026-11-06",
    "2026-11-09",
-   "2026-11-10"
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12"
   ],
   "cloture": [
    5.37,
@@ -13538,7 +13670,9 @@
    16.22,
    15.88,
    17.19,
-   17.1
+   17.1,
+   18.76,
+   18.33
   ],
   "volume": [
    217653,
@@ -15041,7 +15175,9 @@
    789032,
    435588,
    308528,
-   318479
+   318479,
+   485584,
+   338721
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
