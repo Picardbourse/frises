@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-14",
- "mis_a_jour": "2026-11-14T06:58",
+ "mis_a_jour": "2026-11-14T07:28",
  "arrete_au": "2026-11-14",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 170,
-  "sources": 207
+  "sources": 208
  },
  "evenements": [
   {
@@ -7042,7 +7042,7 @@
    ],
    "statut": "doc",
    "titre": "Création d'AETHER Compute A, B, C et D, filiales d'AETHER Infrastructures au même objet : « véhicule dédié » au projet EuroHPC et fourniture de capacités de calcul",
-   "texte": "Le même jour, 02/11/2026, trois sociétés sont créées : AETHER Compute A, C et D (une quatrième, Compute E, date du 21/10). Une cinquième, AETHER Compute B, absente du registre au 08/11, apparaît au répertoire Sirene le 13/11 : créée elle aussi le 02/11/2026, siège à Sarreguemines, SIREN 132 694 688, attribué après ceux de Compute A, C et D . Ses statuts, signés le 02/11 et déposés le 04/11, sont identiques mot pour mot à ceux de Compute A hors dénomination ; son état des souscriptions (déposé le 05/11) désigne la même associée unique, AETHER Infrastructures, pour 1 000 €. Toutes sont des SASU présidées par AETHER Infrastructures, au même siège, avec le même objet déclaré. Compute D : SAS au capital de 1 000 €, statuts signés le 02/11/2026, inscrite au RNE le 04/11, siège à Sarreguemines (7 place de la Gare), sans salarié, code d'activité 63.11Z (traitement de données, hébergement). Associée unique (1 000 actions de 1 €, intégralement versées selon l'attestation du CIC Est et l'état des souscriptions du 02/11/2026) et présidente « sans limitation de durée » : AETHER Infrastructures, représentée par HAW, elle-même représentée par Alain Wilmouth ; HAW est l'actionnaire unique d'AETHER Infrastructures selon le CP du 30/10/2026. Le préambule, l'objet et l'article 12 reprennent ceux des statuts d'AETHER Compute E, signés douze jours plus tôt : la société est « constituée pour servir de véhicule dédié » au projet EuroHPC d'AETHER Infrastructures, et pourra être « membre, coordinateur ou entité d'hébergement » d'un consortium et « mettre des capacités de calcul à la disposition des utilisateurs ». L'objet vise notamment « la fourniture de capacités de calcul, d'infrastructures et de plateformes en nuage (IaaS, PaaS, GPU as a Service, bare metal) », l'acquisition et l'exploitation de serveurs GPU, et la commercialisation de « services d'intelligence artificielle, notamment de couches L2 et L3 ». L'article 12 encadre le contrôle européen exigé par EuroHPC et prévoit l'accord préalable d'AETHER Infrastructures pour toute perte de contrôle tant que la société « accueille du personnel mis à sa disposition par une société contrôlée par AETHER INFRASTRUCTURES ». Les statuts de Compute A et C, signés le même 02/11, sont identiques à ceux de Compute D hors dénomination ; leurs états des souscriptions désignent la même associée unique, AETHER Infrastructures, pour 1 000 € chacune. Compute A et C (inscrites au RNE le 06/11) portent le code d'activité 68.20B (location de biens immobiliers), comme Compute E ; Compute D porte le 63.11Z (traitement de données, hébergement). Aucun document ne dit pourquoi cinq véhicules au même objet ont été constitués, ni à quoi correspondent les lettres. Les statuts ne mentionnent pas 2CRSi.",
+   "texte": "Le même jour, 02/11/2026, trois sociétés sont créées : AETHER Compute A, C et D (une quatrième, Compute E, date du 21/10). Une cinquième, AETHER Compute B, absente du registre au 08/11, apparaît au répertoire Sirene le 13/11 : créée elle aussi le 02/11/2026, siège à Sarreguemines, SIREN 132 694 688, attribué après ceux de Compute A, C et D . Ses statuts, signés le 02/11 et déposés le 04/11, sont identiques mot pour mot à ceux de Compute A hors dénomination ; son état des souscriptions (déposé le 05/11) désigne la même associée unique, AETHER Infrastructures, pour 1 000 €. Toutes sont des SASU présidées par AETHER Infrastructures, au même siège, avec le même objet déclaré. Compute D : SAS au capital de 1 000 €, statuts signés le 02/11/2026, inscrite au RNE le 04/11, siège à Sarreguemines (7 place de la Gare), sans salarié, code d'activité 63.11Z (traitement de données, hébergement). Associée unique (1 000 actions de 1 €, intégralement versées selon l'attestation du CIC Est et l'état des souscriptions du 02/11/2026) et présidente « sans limitation de durée » : AETHER Infrastructures, représentée par HAW, elle-même représentée par Alain Wilmouth ; HAW est l'actionnaire unique d'AETHER Infrastructures selon le CP du 30/10/2026. Le préambule, l'objet et l'article 12 reprennent ceux des statuts d'AETHER Compute E, signés douze jours plus tôt : la société est « constituée pour servir de véhicule dédié » au projet EuroHPC d'AETHER Infrastructures, et pourra être « membre, coordinateur ou entité d'hébergement » d'un consortium et « mettre des capacités de calcul à la disposition des utilisateurs ». L'objet vise notamment « la fourniture de capacités de calcul, d'infrastructures et de plateformes en nuage (IaaS, PaaS, GPU as a Service, bare metal) », l'acquisition et l'exploitation de serveurs GPU, et la commercialisation de « services d'intelligence artificielle, notamment de couches L2 et L3 ». L'article 12 encadre le contrôle européen exigé par EuroHPC et prévoit l'accord préalable d'AETHER Infrastructures pour toute perte de contrôle tant que la société « accueille du personnel mis à sa disposition par une société contrôlée par AETHER INFRASTRUCTURES ». Les statuts de Compute A et C, signés le même 02/11, sont identiques à ceux de Compute D hors dénomination ; leurs états des souscriptions désignent la même associée unique, AETHER Infrastructures, pour 1 000 € chacune. Compute A et C (inscrites au RNE le 06/11) et Compute B portent le code d'activité 68.20B (location de biens immobiliers), comme Compute E ; Compute D porte le 63.11Z (traitement de données, hébergement). Aucun document ne dit pourquoi cinq véhicules au même objet ont été constitués, ni à quoi correspondent les lettres. Les statuts ne mentionnent pas 2CRSi.",
    "sources": [
     "S193",
     "S196",
@@ -7054,7 +7054,8 @@
     "S172",
     "S159",
     "S216",
-    "S217"
+    "S217",
+    "S218"
    ],
    "sources_libelle": [
     "Statuts d'AETHER Compute D (02/11/2026)",
@@ -7067,7 +7068,8 @@
     "CP du 30/10/2026 (actionnariat d'AETHER Infrastructures)",
     "Statuts d'AETHER Compute E",
     "Répertoire Sirene (Compute B), relevé du 13/11/2026",
-    "Statuts et souscriptions d'AETHER Compute B"
+    "Statuts et souscriptions d'AETHER Compute B",
+    "Fiche Pappers de Compute B"
    ],
    "engagements": [],
    "liens": [
@@ -10398,6 +10400,16 @@
    "url": "https://www.pappers.fr/entreprise/aether-compute-b-132694688",
    "archive": "integral",
    "note": "PDF fournis par l'utilisateur le 14/11/2026 (2 fichiers dans textes/pdf/). Statuts identiques à ceux de Compute A hors dénomination (comparaison mot à mot). Associée unique : AETHER INFRASTRUCTURES, 1 000 actions, 1 000 € versés.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S218",
+   "date_source": "2026-11-14",
+   "type": "registre",
+   "reference": "Fiche Pappers d'AETHER COMPUTE B (SIREN 132 694 688), relevée le 14/11/2026 : code NAF 68.20B (location de terrains et d'autres biens immobiliers), activité principale déclarée identique à l'objet statutaire",
+   "url": "https://www.pappers.fr/entreprise/aether-compute-b-132694688",
+   "archive": "integral",
+   "note": "Texte de la fiche copié par l'utilisateur le 14/11/2026.",
    "texte_archive": "sources_textes.json"
   }
  ],
