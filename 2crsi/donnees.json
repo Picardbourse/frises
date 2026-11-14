@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-14",
- "mis_a_jour": "2026-11-14T08:51",
+ "mis_a_jour": "2026-11-14T16:14",
  "arrete_au": "2026-11-14",
  "version_provisoire": false,
  "config": {
@@ -80,7 +80,7 @@
   ]
  },
  "nb": {
-  "evenements": 170,
+  "evenements": 169,
   "sources": 209
  },
  "evenements": [
@@ -4928,27 +4928,6 @@
    "majeur": false
   },
   {
-   "id": "2026-09-12_aw-etude-rte",
-   "date": "2026-09-12",
-   "date_affichee": "sept. 2026",
-   "sujets": [
-    "aether",
-    "gouv"
-   ],
-   "statut": "decl",
-   "titre": "Étude personnelle du PDG sur la capacité électrique pour les data centers",
-   "texte": "Post LinkedIn : 14 ans de données RTE, conclusion favorable au Grand Est, où le consortium ÆTHER développe son projet (conflit d'intérêts mentionné dans le post). Le texte du post (relayé intégralement par des membres le 27/09) donne : 92 TWh exportés en 2025 ; import 22 h sur 24 le 06/01/2026 ; 18 GW réservés chez RTE pour les data centers, dont 13 GW en Île-de-France et Hauts-de-France ; 6,5 à 9,6 GW absorbables avec un hiver comme 2025-26 et 0 à 3,5 GW avec une vague de froid comme février 2012 ; analyse de 16 pages disponible sur demande.",
-   "sources": [
-    "S017"
-   ],
-   "sources_libelle": [
-    "Post LinkedIn d'Alain Wilmouth, sept. 2026"
-   ],
-   "engagements": [],
-   "liens": [],
-   "majeur": false
-  },
-  {
    "id": "2026-09-15_expert-conclusions",
    "date": "2026-09-15",
    "date_affichee": "15 sept. 2026",
@@ -5250,11 +5229,13 @@
    ],
    "statut": "decl",
    "titre": "Le PDG publie une étude sur la capacité du réseau électrique à accueillir les data centers, favorable au Grand Est",
-   "texte": "Alain Wilmouth publie sur LinkedIn une synthèse d'une étude de 16 pages, signée de son nom et datée « Septembre 2026 », fondée sur les données publiques RTE éCO2mix (2012-2026) ; l'étude complète est envoyée sur demande (« Commentez « ENERGIE » et je vous l'envoie »). Principaux chiffres : 18 GW de capacité réservée chez RTE pour environ 80 projets de data centers (mai 2026) ; en 2030, 6,5 à 9,6 GW de data centers supplémentaires absorbables avec un hiver comme 2025-26 (3,5 à 6,6 GW avec une marge de sécurité de 3 GW), « 0 à 3,5 GW avec une vague de froid comme février 2012 ». Le Grand Est, « seule des trois régions qui reste exportatrice », pourrait accueillir « environ 4 GW de data centers en restant exportateur » ; conclusion de l'étude : « Le Grand Est coche ces trois cases » (électricité excédentaire, flexibilité, valorisation de la chaleur). Les sites cités pour la région sont Saint-Avold, le Sud Alsace, La Maxe et Richemont ; la capacité des postes 400/225 kV est « à valider projet par projet avec RTE ». La publication précise : « Transparence : avec le consortium Aether, nous développons nous-même une AI gigafactory dans le Grand Est. » Le PDF de l'étude ne mentionne ni 2CRSi, ni ÆTHER, ni le site du Port du Rhin, dont la promesse de vente sera signée le 09/10.",
+   "texte": "Alain Wilmouth publie sur LinkedIn une synthèse d'une étude de 16 pages, signée de son nom et datée « Septembre 2026 », fondée sur les données publiques RTE éCO2mix (2012-2026) ; l'étude complète est envoyée sur demande (« Commentez « ENERGIE » et je vous l'envoie »). Principaux chiffres : 18 GW de capacité réservée chez RTE pour environ 80 projets de data centers (mai 2026) ; en 2030, 6,5 à 9,6 GW de data centers supplémentaires absorbables avec un hiver comme 2025-26 (3,5 à 6,6 GW avec une marge de sécurité de 3 GW), « 0 à 3,5 GW avec une vague de froid comme février 2012 ». Le Grand Est, « seule des trois régions qui reste exportatrice », pourrait accueillir « environ 4 GW de data centers en restant exportateur » ; conclusion de l'étude : « Le Grand Est coche ces trois cases » (électricité excédentaire, flexibilité, valorisation de la chaleur). Les sites cités pour la région sont Saint-Avold, le Sud Alsace, La Maxe et Richemont ; la capacité des postes 400/225 kV est « à valider projet par projet avec RTE ». La publication précise : « Transparence : avec le consortium Aether, nous développons nous-même une AI gigafactory dans le Grand Est. » Le PDF de l'étude ne mentionne ni 2CRSi, ni ÆTHER, ni le site du Port du Rhin, dont la promesse de vente sera signée le 09/10. Le post ajoute que l'Île-de-France et les Hauts-de-France « concentrent 13 GW de réservations ».",
    "sources": [
+    "S017",
     "S215"
    ],
    "sources_libelle": [
+    "Post LinkedIn d'Alain Wilmouth (lien court relevé le 10/10/2026)",
     "Publication LinkedIn d'Alain Wilmouth du 27/09/2026 et étude jointe"
    ],
    "engagements": [],
@@ -8526,7 +8507,7 @@
    "reference": "Post LinkedIn d'Alain Wilmouth : étude personnelle sur la capacité électrique (données RTE)",
    "url": "https://lnkd.in/p/e2fqW5Zi",
    "archive": "reference",
-   "note": "Texte à coller."
+   "note": "Date du 12/09 non vérifiée : le même post (même texte) est daté du 27/09/2026 par son identifiant d'activité (voir S215). Événement fusionné le 14/11/2026 dans 2026-09-27_wilmouth-etude-rte."
   },
   {
    "id": "S018",
