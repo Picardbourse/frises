@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-14",
- "mis_a_jour": "2026-11-14T07:28",
+ "mis_a_jour": "2026-11-14T08:51",
  "arrete_au": "2026-11-14",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 170,
-  "sources": 208
+  "sources": 209
  },
  "evenements": [
   {
@@ -5706,12 +5706,14 @@
    ],
    "statut": "doc",
    "titre": "FR-SXB2 : promesse de vente signée pour le site Dumarey Powerglide (Port du Rhin)",
-   "texte": "Selon le CP du 12/10/2026, Aether Infrastructures a signé le 09/10 une promesse de vente portant sur le site industriel Dumarey Powerglide (ex-Punch Powerglide et General Motors), au Port du Rhin à Strasbourg : c'est le site FR-SXB2. Environ 90 hectares et 110 000 m² de bâtiments ; le site « ambitionne de devenir, à terme, le plus grand site industriel d'Europe dédié aux infrastructures d'intelligence artificielle ». Un bail conclu en parallèle permet d'occuper « dès le 15 octobre » les zones déjà disponibles. La réalisation de la vente « reste soumise aux conditions d'usage, dont l'agrément du Port Autonome de Strasbourg ». Organisation en trois pôles (Aether Utilities pour l'énergie, Aether Facilities pour le campus, Aether Compute pour l'AI Factory). Énergie : 25 MW fournis par Strasbourg Électricité Réseaux ; stockage et sécurisation étudiés avec SOCOMEC ; une unité de thermolyse de biomasse avec cogénération de froid étudiée avec Haffner Energy. 2CRSi, « fournisseur pressenti des serveurs du site », « estime que le déploiement des premières capacités de calcul de l'AI Factory sur l'exercice 2026-2027 représente pour le groupe un potentiel de chiffre d'affaires supérieur à un milliard d'euros », sous réserve : « un retard dans l'obtention des permis ou dans la disponibilité des composants pourrait reporter tout ou partie des livraisons au-delà de la clôture de l'exercice » (fin juin 2027). Le groupe souhaite aussi y relocaliser l'intégration des serveurs Godì, puis la production de cartes mères. Partenaires cités en plus de Nhood et Projex : ÉS, Valeo, Demathieu Bard, Equans, Axelera AI, VSORA, SiPearl, Nvidia, AMD, Viridien, Dassault Systèmes, Outscale, Superphenix, Clever Cloud (le CP parle de « partenaires qui viennent compléter cet écosystème », sans préciser lesquels sont membres du consortium).",
+   "texte": "Selon le CP du 12/10/2026, Aether Infrastructures a signé le 09/10 une promesse de vente portant sur le site industriel Dumarey Powerglide (ex-Punch Powerglide et General Motors), au Port du Rhin à Strasbourg : c'est le site FR-SXB2. Environ 90 hectares et 110 000 m² de bâtiments ; le site « ambitionne de devenir, à terme, le plus grand site industriel d'Europe dédié aux infrastructures d'intelligence artificielle ». Un bail conclu en parallèle permet d'occuper « dès le 15 octobre » les zones déjà disponibles. La réalisation de la vente « reste soumise aux conditions d'usage, dont l'agrément du Port Autonome de Strasbourg ». Les textes organiques du Port autonome prévoient que son domaine privé « ne pourra être affecté, toutefois, soit par voie de location, soit par voie d'aliénation, qu'à des établissements commerciaux ou industriels utilisant habituellement la navigation fluviale pour la réception ou pour l'expédition des marchandises faisant l'objet de leur trafic ou de leur fabrication » (loi du 26 avril 1924, art. 9 ; convention annexée, art. 32), le conseil d'administration statuant « définitivement » sur les « locations et aliénations de terrains » (convention, art. 10). Aucune pièce ne précise si le site relève du domaine privé du Port ni comment ce critère serait appliqué au projet. Organisation en trois pôles (Aether Utilities pour l'énergie, Aether Facilities pour le campus, Aether Compute pour l'AI Factory). Énergie : 25 MW fournis par Strasbourg Électricité Réseaux ; stockage et sécurisation étudiés avec SOCOMEC ; une unité de thermolyse de biomasse avec cogénération de froid étudiée avec Haffner Energy. 2CRSi, « fournisseur pressenti des serveurs du site », « estime que le déploiement des premières capacités de calcul de l'AI Factory sur l'exercice 2026-2027 représente pour le groupe un potentiel de chiffre d'affaires supérieur à un milliard d'euros », sous réserve : « un retard dans l'obtention des permis ou dans la disponibilité des composants pourrait reporter tout ou partie des livraisons au-delà de la clôture de l'exercice » (fin juin 2027). Le groupe souhaite aussi y relocaliser l'intégration des serveurs Godì, puis la production de cartes mères. Partenaires cités en plus de Nhood et Projex : ÉS, Valeo, Demathieu Bard, Equans, Axelera AI, VSORA, SiPearl, Nvidia, AMD, Viridien, Dassault Systèmes, Outscale, Superphenix, Clever Cloud (le CP parle de « partenaires qui viennent compléter cet écosystème », sans préciser lesquels sont membres du consortium).",
    "sources": [
-    "S113"
+    "S113",
+    "S219"
    ],
    "sources_libelle": [
-    "CP 2CRSi du 12/10/2026"
+    "CP 2CRSi du 12/10/2026",
+    "Textes organiques du Port autonome de Strasbourg (version au 01/10/2012)"
    ],
    "engagements": [
     {
@@ -10410,6 +10412,16 @@
    "url": "https://www.pappers.fr/entreprise/aether-compute-b-132694688",
    "archive": "integral",
    "note": "Texte de la fiche copié par l'utilisateur le 14/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S219",
+   "date_source": "2012-10-01",
+   "type": "officiel",
+   "reference": "Port autonome de Strasbourg, « Textes organiques du PAS (version en vigueur) », compilation du pôle juridique et administratif au 01/10/2012 : loi du 26 avril 1924 (art. 9, modifié en 1991), convention du 20 mai 1923 (art. 10 et 32), décret du 27 septembre 1925",
+   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000316491",
+   "archive": "integral",
+   "note": "PDF fourni par Picard le 14/11/2026 : textes/pdf/PAS_Textes_organiques_2012-10-01.pdf ; extraits dans textes/S219.txt. Version postérieure à 2012 de l'article 9 non vérifiée sur Légifrance (site non joignable depuis l'outil).",
    "texte_archive": "sources_textes.json"
   }
  ],
