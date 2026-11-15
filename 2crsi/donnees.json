@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-15",
- "mis_a_jour": "2026-11-15T07:04",
+ "mis_a_jour": "2026-11-15T07:18",
  "arrete_au": "2026-11-15",
  "version_provisoire": false,
  "config": {
@@ -201,16 +201,22 @@
    ],
    "statut": "doc",
    "titre": "Projet européen EUPilot (EuroHPC) : 2CRSi participe, avec 2,41 M€ de contribution de l'UE",
-   "texte": "EUPilot, coordonné par le Barcelona Supercomputing Center, vise une plateforme d'accélération européenne fondée sur des accélérateurs RISC-V pour le calcul haute performance et l'IA (23 participants, contribution de l'UE de 15,0 M€ au total). Selon la base CORDIS, la contribution nette de l'UE pour 2CRSI est de 2 412 125 €, la deuxième du consortium après le coordinateur ; le projet court du 01/12/2021 au 31/12/2026. Le consortium comprend aussi Submer Technologies, spécialiste de l'immersion ; le dernier rapport périodique publié (période close le 31/05/2024) mentionne la planification de cuves de refroidissement par immersion. Selon la page de 2CRSi consacrée au projet, la société doit concevoir les systèmes hôtes et cartes accueillant jusqu'à 8 modules accélérateurs, au format OCP et compatibles avec l'immersion ; la page emploie le futur et n'annonce aucune livraison. Le rapport annuel 2025-26 (p. 27) présente l'immersion comme un « domaine dans lequel 2CRSi apporte son expertise de premier plan ».",
+   "texte": "EUPilot, coordonné par le Barcelona Supercomputing Center, vise une plateforme d'accélération européenne fondée sur des accélérateurs RISC-V pour le calcul haute performance et l'IA (23 participants, contribution de l'UE de 15,0 M€ au total). Selon la base CORDIS, la contribution nette de l'UE pour 2CRSI est de 2 412 125 €, la deuxième du consortium après le coordinateur ; le projet court du 01/12/2021 au 31/12/2026. Le consortium comprend aussi Submer Technologies, spécialiste de l'immersion ; le dernier rapport périodique publié (période close le 31/05/2024) mentionne la planification de cuves de refroidissement par immersion. Selon la page de 2CRSi consacrée au projet, la société doit concevoir les systèmes hôtes et cartes accueillant jusqu'à 8 modules accélérateurs, au format OCP et compatibles avec l'immersion ; la page emploie le futur et n'annonce aucune livraison. Le rapport annuel 2025-26 (p. 27) présente l'immersion comme un « domaine dans lequel 2CRSi apporte son expertise de premier plan ». Dans les comptes de 2CRSi, la subvention « European Pilot » constatée en produit s'élève à 171 k€ (exercice clos le 28/02/2023), 243 k€ (exercice de 16 mois clos le 30/06/2024), 42 k€ (2024-25) et 90 k€ (2025-26), soit environ 546 k€ au total ; selon le rapport 2025-26, ces produits sont comptabilisés « au rythme de l'avancement des projets et des dépenses éligibles engagées ». Le bilan porte une « Avance subvention European PILOT » de 1 125 k€ au 28/02/2023 ; le poste « Avance subvention », non détaillé par programme, s'élève ensuite à 1 471 k€ (30/06/2024), 2 166 k€ (30/06/2025) et 2 182 k€ (30/06/2026). S'y ajoutent 220 k€ d'avances conditionnées de Bpifrance liées à European Pilot, Odyssai et ReNESENS, qui « doivent être intégralement remboursés ».",
    "sources": [
     "S220",
     "S221",
-    "S173"
+    "S173",
+    "S202",
+    "S203",
+    "S178"
    ],
    "sources_libelle": [
     "CORDIS, fiche et rapport du projet EUPILOT",
     "Page de 2CRSi sur EUPilot",
-    "Rapport financier annuel 2025-26, p. 27"
+    "Rapport financier annuel 2025-26, p. 27 et notes 4.3.3.5, 4.3.3.7, 4.3.4.3",
+    "Rapport financier annuel 2022-23",
+    "Rapport financier annuel 2023-24",
+    "Rapport financier annuel 2024-25"
    ],
    "engagements": [],
    "liens": [],
