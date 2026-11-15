@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-14",
- "mis_a_jour": "2026-11-14T16:14",
- "arrete_au": "2026-11-14",
+ "genere_le": "2026-11-15",
+ "mis_a_jour": "2026-11-15T07:04",
+ "arrete_au": "2026-11-15",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 169,
-  "sources": 209
+  "evenements": 172,
+  "sources": 212
  },
  "evenements": [
   {
@@ -187,6 +187,52 @@
       "volume": 14060,
       "variation_pct": -1.4,
       "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2021-12-01_eupilot",
+   "date": "2021-12-01",
+   "date_affichee": "1er déc. 2021",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Projet européen EUPilot (EuroHPC) : 2CRSi participe, avec 2,41 M€ de contribution de l'UE",
+   "texte": "EUPilot, coordonné par le Barcelona Supercomputing Center, vise une plateforme d'accélération européenne fondée sur des accélérateurs RISC-V pour le calcul haute performance et l'IA (23 participants, contribution de l'UE de 15,0 M€ au total). Selon la base CORDIS, la contribution nette de l'UE pour 2CRSI est de 2 412 125 €, la deuxième du consortium après le coordinateur ; le projet court du 01/12/2021 au 31/12/2026. Le consortium comprend aussi Submer Technologies, spécialiste de l'immersion ; le dernier rapport périodique publié (période close le 31/05/2024) mentionne la planification de cuves de refroidissement par immersion. Selon la page de 2CRSi consacrée au projet, la société doit concevoir les systèmes hôtes et cartes accueillant jusqu'à 8 modules accélérateurs, au format OCP et compatibles avec l'immersion ; la page emploie le futur et n'annonce aucune livraison. Le rapport annuel 2025-26 (p. 27) présente l'immersion comme un « domaine dans lequel 2CRSi apporte son expertise de premier plan ».",
+   "sources": [
+    "S220",
+    "S221",
+    "S173"
+   ],
+   "sources_libelle": [
+    "CORDIS, fiche et rapport du projet EUPILOT",
+    "Page de 2CRSi sur EUPilot",
+    "Rapport financier annuel 2025-26, p. 27"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2021-12-01",
+      "cloture": 4.785,
+      "volume": 60818,
+      "variation_pct": 5.2,
+      "volume_vs_moy20": 1.4
+     },
+     {
+      "role": "suivante",
+      "date": "2021-12-02",
+      "cloture": 4.72,
+      "volume": 27443,
+      "variation_pct": -1.4,
+      "volume_vs_moy20": 0.7
      }
     ]
    },
@@ -759,6 +805,42 @@
       "variation_pct": 0.4,
       "volume_vs_moy20": 0.7
      },
+     {
+      "role": "suivante",
+      "date": "2025-01-02",
+      "cloture": 4.005,
+      "volume": 36576,
+      "variation_pct": 1.1,
+      "volume_vs_moy20": 0.9
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2025-01-01_higher",
+   "date": "2025-01-01",
+   "date_affichee": "1er janv. 2025",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Projet européen HIGHER (cloud et edge open source) : 2CRSi participe, avec 0,47 M€ de contribution de l'UE",
+   "texte": "HIGHER, coordonné par FORTH (Grèce), vise une infrastructure cloud et edge open source fondée sur les processeurs ARM Rhea2 (SiPearl) et RISC-V, au format OCP (11 partenaires, 6,0 M€ de contribution de l'UE). Selon CORDIS, la contribution nette de l'UE pour 2CRSI est de 474 375 € ; le projet court du 01/01/2025 au 31/12/2027. Selon le rapport annuel 2025-26 (p. 27), 2CRSi « y assure la conception des mécaniques serveur et l'intégration conformément aux standards OCP ». Aucun résultat publié à ce jour.",
+   "sources": [
+    "S222",
+    "S173"
+   ],
+   "sources_libelle": [
+    "CORDIS, fiche du projet HIGHER",
+    "Rapport financier annuel 2025-26, p. 27"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
      {
       "role": "suivante",
       "date": "2025-01-02",
@@ -7781,6 +7863,31 @@
    "majeur": false
   },
   {
+   "id": "2026-12-31_eupilot-fin",
+   "date": "2026-12-31",
+   "date_affichee": "31 déc. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : fin du projet européen EUPilot",
+   "texte": "Date de fin du projet selon CORDIS. À vérifier ensuite : rapport final et résultats publiés sur CORDIS, livraison des systèmes annoncés par 2CRSi.",
+   "sources": [
+    "S220"
+   ],
+   "sources_libelle": [
+    "CORDIS, fiche du projet EUPILOT"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2021-12-01_eupilot"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2027-02-04_eurohpc-depot-lot1",
    "date": "2027-02-04",
    "date_affichee": "4 févr. 2027",
@@ -10403,6 +10510,36 @@
    "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000316491",
    "archive": "integral",
    "note": "PDF fourni par Picard le 14/11/2026 : textes/pdf/PAS_Textes_organiques_2012-10-01.pdf ; extraits dans textes/S219.txt. Version postérieure à 2012 de l'article 9 non vérifiée sur Légifrance (site non joignable depuis l'outil).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S220",
+   "date_source": "2026-11-15",
+   "type": "officiel",
+   "reference": "CORDIS (Commission européenne), projet EUPILOT « Pilot using Independent Local & Open Technologies », convention n° 101034126 (EuroHPC JU) : 01/12/2021 – 31/12/2026, coordinateur Barcelona Supercomputing Center, 2CRSI participant (contribution UE nette 2 412 125 €)",
+   "url": "https://cordis.europa.eu/project/id/101034126",
+   "archive": "integral",
+   "note": "Fiche et page « reporting » (rapport périodique 2, 01/10/2022 – 31/05/2024, mise à jour du 27/01/2025) relevées le 15/11/2026 ; extraits dans textes/S220.txt.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S221",
+   "date_source": "",
+   "type": "web",
+   "reference": "2CRSi, page « The EUPILOT Project and 2CRSi » (site de la société) : rôle de 2CRSi dans EUPilot",
+   "url": "https://2crsi.com/the-eupilot-project-and-2crsi",
+   "archive": "integral",
+   "note": "Page non datée, relevée le 15/11/2026 ; formulations au futur (« will design », « will deliver ») ; extraits dans textes/S221.txt.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S222",
+   "date_source": "2026-11-15",
+   "type": "officiel",
+   "reference": "CORDIS (Commission européenne), projet HIGHER « European Heterogeneous Cloud Infrastructures for Next Generation Hybrid Services », convention n° 101189612 : 01/01/2025 – 31/12/2027, coordinateur FORTH (Grèce), 2CRSI participant (contribution UE nette 474 375 €)",
+   "url": "https://cordis.europa.eu/project/id/101189612",
+   "archive": "integral",
+   "note": "Fiche relevée le 15/11/2026 (page mise à jour le 17/06/2026) ; extraits dans textes/S222.txt.",
    "texte_archive": "sources_textes.json"
   }
  ],
