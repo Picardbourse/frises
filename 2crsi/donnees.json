@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-15",
- "mis_a_jour": "2026-11-15T07:18",
- "arrete_au": "2026-11-15",
+ "genere_le": "2026-11-16",
+ "mis_a_jour": "2026-11-16T06:50",
+ "arrete_au": "2026-11-16",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -2107,7 +2107,7 @@
      "echeance": "2026-11-30",
      "statut": "todo",
      "statue_par": null,
-     "note": "Citation reprise du résumé de S004 ; texte intégral du CP à archiver."
+     "note": "Citation reprise du résumé de S004 ; texte intégral du CP à archiver. Au webinaire du 03/11/2026 (S186), le PDG indique que des problèmes techniques restent à régler « d'ici du mois de décembre » et que des clients « attendent un prototype pour le tester et le valider définitivement » ; statut à établir sur une source postérieure au 30/11/2026."
     }
    ],
    "liens": [
@@ -7263,7 +7263,7 @@
    ],
    "statut": "decl",
    "titre": "Webinaire investisseurs professionnels : chiffre d'affaires retiré, client américain « inculpé », nouvelle organisation",
-   "texte": "Conférence du PDG (17h45), enregistrement publié par la société. Chiffre d'affaires : 32,5 M€ retirés de la consolidation (« 30,5 millions d'euros qui concernent des opérations de juillet, d'août l'année dernière » de négoce, plus 2 M€ de marge), décision prise « lundi dernier » (26/10) [4:10–4:45]. Ces opérations concernent un client basé aux États-Unis qui « a fait l'objet d'une inculpation durant le mois d'octobre » devant un tribunal de Californie ; le PDG ajoute « vu que le client est arrêté, je sais pas si un jour on [les 2 M€] touchera » [5:01–9:21]. Le 17/05/2026, les autorités américaines avaient « demandé confidentiellement » à 2CRSi toute la documentation sur une liste de sociétés, personnes, numéros et adresses électroniques ; 2CRSi se dit « simple témoin », statut qu'un substitut du procureur fédéral lui aurait confirmé par écrit ; « trois affaires », « cinq sollicitations » aux États-Unis, dont trois du département du Commerce [5:28–7:16, 18:14–19:19]. Selon le PDG, le motif premier du commissaire aux comptes est de ne pas pouvoir mesurer l'impact financier de cette enquête ; il aurait été « d'accord » avec le prix du contrat HAW jusqu'au 22/10 [7:25–8:17, 27:40–28:12]. Une revue juridique par un cabinet d'avocats de Washington est en cours [19:19–19:37]. Organisation : une directrice arrivée en avril 2026 doit « partager la direction générale » (fonction « pas encore signée ») ; le directeur financier, externe et présent trois jours par semaine, part fin novembre, remplacé par un DAF à plein temps ; recherche d'un second commissaire aux comptes ; « des nouveaux entrants et des sortants dans le board et dans le comité d'audit », annoncés « dans quelques jours » [29:03–31:42, 38:26–39:06, 41:13–41:41, 1:05:28]. Objectif d'un milliard de chiffre d'affaires présenté comme « l'ambition du groupe » ; « 4 MW […] représente 250 à 300 millions de dollars de chiffre d'affaires » et ÆTHER disposerait de « 20 MW d'IT » installables « dans quelques semaines » sous réserve d'autorisations ; EBITDA associé « plus ou moins 90 millions » [31:53–33:30, 46:03–46:21]. Le PDG conclut : « il y a eu zéro fraude […] uniquement un vrai problème de communication » [1:05:14].",
+   "texte": "Conférence du PDG (17h45), enregistrement publié par la société. Chiffre d'affaires : 32,5 M€ retirés de la consolidation (« 30,5 millions d'euros qui concernent des opérations de juillet, d'août l'année dernière » de négoce, plus 2 M€ de marge), décision prise « lundi dernier » (26/10) [4:10–4:45]. Ces opérations concernent un client basé aux États-Unis qui « a fait l'objet d'une inculpation durant le mois d'octobre » devant un tribunal de Californie ; le PDG ajoute « vu que le client est arrêté, je sais pas si un jour on [les 2 M€] touchera » [5:01–9:21]. Le 17/05/2026, les autorités américaines avaient « demandé confidentiellement » à 2CRSi toute la documentation sur une liste de sociétés, personnes, numéros et adresses électroniques ; 2CRSi se dit « simple témoin », statut qu'un substitut du procureur fédéral lui aurait confirmé par écrit ; « trois affaires », « cinq sollicitations » aux États-Unis, dont trois du département du Commerce [5:28–7:16, 18:14–19:19]. Selon le PDG, le motif premier du commissaire aux comptes est de ne pas pouvoir mesurer l'impact financier de cette enquête ; il aurait été « d'accord » avec le prix du contrat HAW jusqu'au 22/10 [7:25–8:17, 27:40–28:12]. Une revue juridique par un cabinet d'avocats de Washington est en cours [19:19–19:37]. Organisation : une directrice arrivée en avril 2026 doit « partager la direction générale » (fonction « pas encore signée ») ; le directeur financier, externe et présent trois jours par semaine, part fin novembre, remplacé par un DAF à plein temps ; recherche d'un second commissaire aux comptes ; « des nouveaux entrants et des sortants dans le board et dans le comité d'audit », annoncés « dans quelques jours » [29:03–31:42, 38:26–39:06, 41:13–41:41, 1:05:28]. Objectif d'un milliard de chiffre d'affaires présenté comme « l'ambition du groupe » ; « 4 MW […] représente 250 à 300 millions de dollars de chiffre d'affaires » et ÆTHER disposerait de « 20 MW d'IT » installables « dans quelques semaines » sous réserve d'autorisations ; EBITDA associé « plus ou moins 90 millions » [31:53–33:30, 46:03–46:21]. Le PDG conclut : « il y a eu zéro fraude […] uniquement un vrai problème de communication » [1:05:14]. Valeo, en réponse à une question [59:56–1:02:25] : « on a encore quelques petits soucis sur le côté technique du produit », à régler « d'ici du mois de décembre » ; ils portent « en particulier sur le côté euh submersible qui était dans le cahier des charges initiales », « c'est pas la partie du serveur » ; « il y a plusieurs clients aujourd'hui qui attendent un prototype pour le tester et le valider définitivement » ; « l'ambition est toujours la même, hein. Donc c'est 100000 produits à fabriquer, à commercialiser en Inde » ; contacts en Europe du Nord et en Indonésie. Aucune nouvelle date de production n'est donnée.",
    "sources": [
     "S186"
    ],
@@ -7288,6 +7288,10 @@
     {
      "type": "confirme",
      "cible": "2026-11-01_lettre-actionnaires"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-11-15_valeo-sop"
     }
    ],
    "seance": {
@@ -7779,7 +7783,7 @@
    ],
    "statut": "echeance",
    "titre": "Échéance : démarrage de la production Valeo × 2CRSi en Inde",
-   "texte": "",
+   "texte": "Selon le CP commun du 16/02/2026 : « Le cycle de validation devrait aboutir à un démarrage de production en novembre 2026 ».",
    "sources": [
     "S004"
    ],
