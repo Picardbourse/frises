@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-17",
- "mis_a_jour": "2026-11-17T07:09",
+ "mis_a_jour": "2026-11-17T13:05",
  "arrete_au": "2026-11-17",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 172,
-  "sources": 212
+  "evenements": 171,
+  "sources": 211
  },
  "evenements": [
   {
@@ -1947,7 +1947,7 @@
    ],
    "statut": "doc",
    "titre": "NYGC acquiert le site de la centrale de Buena Vista (comté d'Amador, CA)",
-   "texte": "Site d'une centrale biomasse à l'arrêt, pas de data center construit. Partenaire pyrolyse annoncé : BucSha Energy. DataCenterDynamics indique une NYGC « fondée en 2024 ». La propriété du site reste à préciser : un recensement du 23/07 (registre du Secrétaire d'État de Californie) l'attribue à Oneto Group LLC, et à la séance du 22/09 la famille Oneto présente la centrale comme la sienne.",
+   "texte": "Site d'une centrale biomasse à l'arrêt, pas de data center construit. Partenaire pyrolyse annoncé : BucSha Energy. DataCenterDynamics indique une NYGC « fondée en 2024 ». La propriété du site reste à préciser : un recensement du 23/07 (registre du Secrétaire d'État de Californie) l'attribue à Oneto Group LLC.",
    "sources": [
     "S027",
     "S028",
@@ -2717,22 +2717,15 @@
    ],
    "statut": "doc",
    "titre": "Comté d'Amador : Brian Oneto battu par Jamie Lubenko dans le district 5",
-   "texte": "Brian Oneto, superviseur sortant et membre de la famille propriétaire du site de Buena Vista avant son rachat par NYGC en janvier 2026 (vendeur à confirmer), perd l'élection du district 5 (46,9 % contre 53,2 %) face à Jamie Lubenko, qui a fait campagne sur la transparence. À la séance du 22/09, Lubenko est présentée comme « superviseure élue », et la récusation d'Oneto sur le dossier est évoquée.",
+   "texte": "Brian Oneto, superviseur sortant et membre de la famille propriétaire du site de Buena Vista avant son rachat par NYGC en janvier 2026 (vendeur à confirmer), perd l'élection du district 5 (46,9 % contre 53,2 %) face à Jamie Lubenko, qui a fait campagne sur la transparence.",
    "sources": [
-    "S069",
-    "S023"
+    "S069"
    ],
    "sources_libelle": [
-    "recensement forum du 23/07/2026 (résultats officiels à rattacher)",
-    "séance du 22/09/2026 (Amador)"
+    "recensement forum du 23/07/2026 (résultats officiels à rattacher)"
    ],
    "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-09-22_amador-22-09"
-    }
-   ],
+   "liens": [],
    "seance": {
     "jour_de_bourse": true,
     "heure": null,
@@ -3019,7 +3012,7 @@
      "echeance": "2026-09-22",
      "statut": "bad",
      "statue_par": null,
-     "note": "Phase 1 de 5 MW réaffirmée par écrit « pour la fin de l'été 2026 » dans la réponse du 16/07 (S009) ; aucune communication de la société au 11/10 ; le 22/09 et le 01/10 aucun permis de data center n'est déposé (S023, S033)."
+     "note": "Phase 1 de 5 MW réaffirmée par écrit « pour la fin de l'été 2026 » dans la réponse du 16/07 (S009) ; aucune communication de la société au 11/10 ; le 07/09 et le 24/09, le dirigeant de NYGC déclare « We have not even filed for permits » (S146, S147)."
     },
     {
      "id": "2026-06-19_webinaire-buena-vista#e3",
@@ -4496,7 +4489,7 @@
    ],
    "statut": "decl",
    "titre": "Page Facebook de NYGC : « data center proposé de 16 MW » à Buena Vista",
-   "texte": "Une page « Project Buena Vista » attribuée à NYGC, créée en juillet 2026 selon le message qui la relaie le 06/08, décrit « le centre de données proposé de 16 MW » à l'ancienne centrale biomasse près d'Ione : l'installation a été « ramenée à la fonctionnalité », le projet « ne prendra aucune énergie de la grille locale » et sera soumis au processus de permis du comté. La puissance de 16 MW est antérieure à la séance du 22/09, à comparer avec « environ 40 MW » (CP du 29/09/2025), « 5 MW puis environ 15 MW » (réponse du 16/07/2026) et « 41 → 16 MW » (séance du 22/09).",
+   "texte": "Une page « Project Buena Vista » attribuée à NYGC, créée en juillet 2026 selon le message qui la relaie le 06/08, décrit « le centre de données proposé de 16 MW » à l'ancienne centrale biomasse près d'Ione : l'installation a été « ramenée à la fonctionnalité », le projet « ne prendra aucune énergie de la grille locale » et sera soumis au processus de permis du comté. La puissance de 16 MW est à comparer avec « environ 40 MW » (CP du 29/09/2025), « 5 MW puis environ 15 MW » (réponse du 16/07/2026).",
    "sources": [
     "S088"
    ],
@@ -4766,7 +4759,7 @@
      "echeance": "2026-09-30",
      "statut": "nd",
      "statue_par": null,
-     "note": "Échéance indicative (« semaines à venir » à partir du 26/08). Les pièces ultérieures (S023 du 22/09, S033 du 01/10) décrivent une centrale « en tests » ; pas de date de redémarrage commercial établie."
+     "note": "Échéance indicative (« semaines à venir » à partir du 26/08). Les pièces ultérieures (Ledger Dispatch, S146-S147 ; S033 du 01/10) décrivent une centrale en essais (« environ 90 jours » selon le dirigeant) ; pas de date de redémarrage commercial établie."
     }
    ],
    "liens": [
@@ -5262,61 +5255,6 @@
    "majeur": false
   },
   {
-   "id": "2026-09-22_amador-22-09",
-   "date": "2026-09-22",
-   "date_affichee": "22 sept. 2026",
-   "sujets": [
-    "nygc"
-   ],
-   "statut": "doc",
-   "titre": "Comté d'Amador : le projet de Buena Vista qualifié de « concept exploratoire »",
-   "texte": "Séance publique du Board of Supervisors : cible ramenée de 41 à 16 MW, aucun permis déposé, environ un an de tests de la centrale avant toute demande de permis pour un data center. Joseph Church y parle d'un data center de 16 MW alimenté par la centrale. Un intervenant relève que NYGC diffusait dès le 19/01/2026 aux investisseurs des coûts, des modèles de GPU et des dates de mise en service, sans dossier déposé au comté. Aucune décision (point hors ordre du jour) ; le comté voisin de Calaveras a adopté un moratoire d'urgence. Un résumé de membre rapporte aussi que le fondateur de NYGC a qualifié les 40 MW annoncés de « concept exploratoire antérieur » (40 MW dans ce résumé, 41 MW dans l'événement : à harmoniser sur S023).",
-   "sources": [
-    "S023"
-   ],
-   "sources_libelle": [
-    "Séance du Board of Supervisors (Amador County) : résumé d'une transcription de l'enregistrement YouTube"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "infirme",
-     "cible": "2026-07-16_reponse-grizzly"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-01-14_buena-vista-achat"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-08-06_nygc-page-facebook"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-09-22",
-      "cloture": 29.36,
-      "volume": 145067,
-      "variation_pct": 2.8,
-      "volume_vs_moy20": 0.6
-     },
-     {
-      "role": "suivante",
-      "date": "2026-09-23",
-      "cloture": 30.88,
-      "volume": 276776,
-      "variation_pct": 5.2,
-      "volume_vs_moy20": 1.2
-     }
-    ]
-   },
-   "majeur": false
-  },
-  {
    "id": "2026-09-27_wilmouth-etude-rte",
    "date": "2026-09-27",
    "date_affichee": "27 sept. 2026",
@@ -5742,7 +5680,7 @@
    ],
    "statut": "decl",
    "titre": "Presse locale : le dirigeant de NYGC dit n'avoir déposé aucun permis ; le data center de Buena Vista reste « undecided »",
-   "texte": "Deux articles du Ledger Dispatch (08/10 et 19/10/2026) rapportent des propos de Joseph Church recueillis les 07/09 et 24/09. Permis : « We have not even filed for permits » ; « until permits are filed, we don't know which plan we're going ahead with, if any ». Séquence : la centrale biomasse sera remise en marche « regardless », puis NYGC évaluera un data center selon « our internal look at the cost and the benefit » ; interrogé sur l'éventualité qu'il ne se fasse pas, il ne l'exclut pas : « right now we're on straight energy production ». Il ajoute : « If we had intended to ... build something like that, like a data center ... we would have filed for permits in the beginning. » Puissance : la centrale produira « a net amount of 16 megawatts » ; NYGC compte demander l'autorisation d'un data center de 16 MW, une extension à 41 MW exigeant « a new set of permits ». Le journal relève que la réponse de 2CRSi du 16/07 décrit une structure de 5 puis 15 MW. Calendrier : environ 90 jours d'essais et de réglages selon le dirigeant, aucune date de redémarrage ; il annonçait davantage de réponses sur le data center « by mid-October ». Propriété : la centrale a été vendue à NYGC par la famille du superviseur du district 5, qui devra se déporter ; le dirigeant parle aussi de « no change in direct ownership of the LLC that owns the plant and equipment », et un dépôt officiel du 09/09 donne à Buena Vista Biomass LLC une adresse à Plattsburgh (New York). Contexte : demande de moratoire par des habitants (séance du 22/09), deux interventions contre le projet à la séance du 06/10, sept lois californiennes sur les data centers signées fin septembre.",
+   "texte": "Deux articles du Ledger Dispatch (08/10 et 19/10/2026) rapportent des propos de Joseph Church recueillis les 07/09 et 24/09. Permis : « We have not even filed for permits » ; « until permits are filed, we don't know which plan we're going ahead with, if any ». Séquence : la centrale biomasse sera remise en marche « regardless », puis NYGC évaluera un data center selon « our internal look at the cost and the benefit » ; interrogé sur l'éventualité qu'il ne se fasse pas, il ne l'exclut pas : « right now we're on straight energy production ». Il ajoute : « If we had intended to ... build something like that, like a data center ... we would have filed for permits in the beginning. » Puissance : la centrale produira « a net amount of 16 megawatts » ; NYGC compte demander l'autorisation d'un data center de 16 MW, une extension à 41 MW exigeant « a new set of permits ». Le journal relève que la réponse de 2CRSi du 16/07 décrit une structure de 5 puis 15 MW. Calendrier : environ 90 jours d'essais et de réglages selon le dirigeant, aucune date de redémarrage ; il annonçait davantage de réponses sur le data center « by mid-October ». Propriété : la centrale a été vendue à NYGC par la famille du superviseur du district 5, qui devra se déporter ; le dirigeant parle aussi de « no change in direct ownership of the LLC that owns the plant and equipment », et un dépôt officiel du 09/09 donne à Buena Vista Biomass LLC une adresse à Plattsburgh (New York). Contexte : deux interventions contre le projet à la séance du 06/10, sept lois californiennes sur les data centers signées fin septembre.",
    "sources": [
     "S146",
     "S147"
@@ -5764,10 +5702,6 @@
     {
      "type": "confirme",
      "cible": "2026-08-26_nygc-faq"
-    },
-    {
-     "type": "precise",
-     "cible": "2026-09-22_amador-22-09"
     }
    ],
    "majeur": false
@@ -8213,7 +8147,7 @@
   {
    "sujet": "aether",
    "question": "Quelle part de la valeur d'ÆTHER reviendra à 2CRSi : fourniture des serveurs, vente du calcul, ou les deux ?",
-   "etat": "Le PDG a présenté la vente de puissance de calcul comme un relais de marge pour 2CRSi (« vendre les serveurs à une première marge et ensuite de vendre la puissance de calcul derrière », webinaire du 19/06/2026, vers 32:30), puis indiqué que, dans ÆTHER, « à terme, on ne sera que le fournisseur de serveurs » (interview du 20/06/2026, vers 19:57). Le CP du 12/10/2026 désigne 2CRSi comme « fournisseur pressenti des serveurs » de FR-SXB2. Les statuts d'AETHER Compute E, filiale à 100 % d'AETHER Infrastructures (holding du PDG), lui confient la détention et l'exploitation des infrastructures de calcul et la vente de capacité, et imposent que les achats de matériels auprès d'un associé ou d'une société qu'il contrôle soient conclus à des conditions de marché, après mise en concurrence lorsque possible. Aucun contrat entre 2CRSi et les sociétés ÆTHER n'est publié.",
+   "etat": "Le PDG a présenté la vente de puissance de calcul comme un relais de marge pour 2CRSi à propos de la commande NYGC (« on espère arriver 12 % avec la livraison de la commande de NC », puis « vendre les serveurs à une première marge et ensuite de vendre la puissance de calcul derrière », webinaire du 19/06/2026, vers 32:30), puis indiqué que, dans ÆTHER, « à terme, on ne sera que le fournisseur de serveurs » (interview du 20/06/2026, vers 19:57). Le CP du 12/10/2026 désigne 2CRSi comme « fournisseur pressenti des serveurs » de FR-SXB2. Les statuts d'AETHER Compute E, filiale à 100 % d'AETHER Infrastructures (holding du PDG), lui confient la détention et l'exploitation des infrastructures de calcul et la vente de capacité, et imposent que les achats de matériels auprès d'un associé ou d'une société qu'il contrôle soient conclus à des conditions de marché, après mise en concurrence lorsque possible. Aucun contrat entre 2CRSi et les sociétés ÆTHER n'est publié.",
    "attendu": "Contrat de fourniture ou d'hébergement entre 2CRSi et une société ÆTHER, mention dans le rapport des commissaires aux comptes sur les conventions réglementées, ou communication de 2CRSi sur sa place dans ÆTHER.",
    "sources": [
     "S015",
@@ -8680,16 +8614,6 @@
    "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/ventes-decouvert",
    "archive": "integral",
    "note": "Export des données ouvertes AMF du 09/10/2026 (dernières publications au 02/10/2026) ; lignes 2CRSi extraites dans textes/S022.txt. Millennium 0,50 % (29/09, publié le 30/09) puis 0,45 % (01/10, publié le 02/10). Seuil de publication : 0,5 %.",
-   "texte_archive": "sources_textes.json"
-  },
-  {
-   "id": "S023",
-   "date_source": "2026-09-22",
-   "type": "officiel",
-   "reference": "Amador County Board of Supervisors, séance du 22/09/2026 : résumé d'une transcription YouTube posté sur le forum",
-   "url": "",
-   "archive": "extrait",
-   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -10709,7 +10633,6 @@
     "2026-08-20_nygc-prudence",
     "2026-08-24_nygc-precisions",
     "2026-08-26_nygc-faq",
-    "2026-09-22_amador-22-09",
     "2026-10-01_calaveras-01-10",
     "2026-10-06_nygc-5-sites"
    ],
