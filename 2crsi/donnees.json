@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-16",
- "mis_a_jour": "2026-11-16T06:50",
- "arrete_au": "2026-11-16",
+ "genere_le": "2026-11-17",
+ "mis_a_jour": "2026-11-17T07:09",
+ "arrete_au": "2026-11-17",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -3350,7 +3350,7 @@
    ],
    "statut": "decl",
    "titre": "Le PDG publie sur LinkedIn des pièces de BMO : 150,8 M$ reçus en 60 jours, payeurs masqués",
-   "texte": "Deux posts LinkedIn d'Alain Wilmouth, dates déduites de l'horodatage des pièces jointes. Vers le 22/06 : le relevé de compte BMO (« Balance Details », généré le 20/06/2026) montré pendant l'interview du samedi soir, noms des payeurs masqués. Vers le 23/06 : une lettre de BMO listant 33 virements reçus par 2CRSi SA du 21/04 au 22/06/2026, pour 150 825 152,80 USD, présentée comme des « PREUVES qui montrent sans discussion que 2CRSi ne fabrique pas de chiffres d'affaires » ; elle est datée par erreur « 06/22/2025 », erreur reconnue par le PDG et lettre corrigée publiée le lendemain. Les gros montants concordent entre relevé et lettre (par exemple 34 542 133,60 USD le 08/06). Les pièces indiquent le bénéficiaire, pas les payeurs. Le compte se termine par 2703 sur le relevé et par 2073 dans les lettres. Le post annonce aussi des attestations du CIC Est et de la Caisse d'Épargne Grand Est Europe, non publiées à ce jour.",
+   "texte": "Deux posts LinkedIn d'Alain Wilmouth, dates déduites de l'horodatage des pièces jointes. Vers le 22/06 : le relevé de compte BMO (« Balance Details », généré le 20/06/2026) montré pendant l'interview du samedi soir, noms des payeurs masqués. Vers le 23/06 : une lettre de BMO listant 33 virements reçus par 2CRSi SA du 21/04 au 22/06/2026, pour 150 805 152,80 USD, présentée comme des « PREUVES qui montrent sans discussion que 2CRSi ne fabrique pas de chiffres d'affaires » ; elle est datée par erreur « 06/22/2025 », erreur reconnue par le PDG et lettre corrigée publiée le lendemain. Les gros montants concordent entre relevé et lettre (par exemple 34 542 133,60 USD le 08/06). Les pièces indiquent le bénéficiaire, pas les payeurs. Le compte se termine par 2703 sur le relevé et par 2073 dans les lettres. Le post annonce aussi des attestations du CIC Est et de la Caisse d'Épargne Grand Est Europe, non publiées à ce jour.",
    "sources": [
     "S170",
     "S171"
@@ -3373,6 +3373,14 @@
     {
      "type": "precise",
      "cible": "2026-06-20_interview-economies"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-rapport"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-geo-allemand"
     }
    ],
    "majeur": true
@@ -10045,7 +10053,7 @@
    "reference": "Post LinkedIn d'Alain Wilmouth « Chères actionnaires, chers actionnaires » (vers le 23/06/2026, modifié) : attestation BMO des virements reçus en 60 jours",
    "url": "https://lnkd.in/p/ekmSS5QA",
    "archive": "integral",
-   "note": "Date déduite de l'horodatage des documents joints : lettre BMO datée « 06/22/2025 » téléversée le 23/06/2026 à 07:30 (heure de Paris), lettre corrigée datée du 23/06/2026 téléversée le 24/06/2026 à 02:19. La lettre liste 33 virements reçus du 21/04 au 22/06/2026, total 150 825 152,80 USD, sur le compte « se terminant par 2073 » (le relevé du 20/06 indique 2703). Le post écrit « 23 juillet 2027 » pour la publication du CA annuel du 23/07/2026. PDF : textes/pdf/BMO lettre ….pdf.",
+   "note": "Date déduite de l'horodatage des documents joints : lettre BMO datée « 06/22/2025 » téléversée le 23/06/2026 à 07:30 (heure de Paris), lettre corrigée datée du 23/06/2026 téléversée le 24/06/2026 à 02:19. La lettre liste 33 virements reçus du 21/04 au 22/06/2026, total 150 805 152,80 USD, sur le compte « se terminant par 2073 » (le relevé du 20/06 indique 2703). Le post écrit « 23 juillet 2027 » pour la publication du CA annuel du 23/07/2026. PDF : textes/pdf/BMO lettre ….pdf.",
    "texte_archive": "sources_textes.json"
   },
   {
