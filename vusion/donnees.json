@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-17",
- "mis_a_jour": "2026-11-17T08:26",
- "arrete_au": "2026-11-17",
+ "genere_le": "2026-11-18",
+ "mis_a_jour": "2026-11-18T07:41",
+ "arrete_au": "2026-11-18",
  "version_provisoire": false,
  "config": {
   "code": "vusion",
@@ -69,8 +69,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 132,
-  "sources": 158
+  "evenements": 135,
+  "sources": 161
  },
  "evenements": [
   {
@@ -762,7 +762,7 @@
      "echeance": "2027-12-31",
      "statut": "todo",
      "statue_par": null,
-     "note": "Le CP du 26/02/2026 indique que « le Groupe maintient ses ambitions présentées à l'automne 2022 dans son plan stratégique Vusion-27 » ; nouveau plan annoncé pour le Capital Markets Day du 18/11/2026."
+     "note": "Le CP du 26/02/2026 indique que « le Groupe maintient ses ambitions présentées à l'automne 2022 dans son plan stratégique Vusion-27 » ; nouveau plan annoncé pour le Capital Markets Day du 18/11/2026. Le CP du 18/11/2026 anticipe « un chiffre d'affaires de l'ordre de 2 milliards d'euros en 2027 » et dit le groupe « en bonne voie pour atteindre ou approcher » cette ambition, à taux de change comparables ; la part des États-Unis n'est pas rechiffrée."
     },
     {
      "id": "2022-11-09_vusion27#e2",
@@ -770,7 +770,7 @@
      "echeance": "2027-12-31",
      "statut": "todo",
      "statue_par": null,
-     "note": ""
+     "note": "Le CP du 18/11/2026 ne rechiffre pas la marge d'EBITDA 2027 (19 % estimés en 2026, 23 % visés en 2030)."
     },
     {
      "id": "2022-11-09_vusion27#e3",
@@ -778,7 +778,7 @@
      "echeance": "2027-12-31",
      "statut": "todo",
      "statue_par": null,
-     "note": "211 M€ en 2025 ; environ +40 % visé en 2026."
+     "note": "211 M€ en 2025 ; environ +40 % visé en 2026. Le CP du 18/11/2026 vise des VAS à « près de 30% du chiffre d'affaires total » en 2027, soit environ 600 M€ pour un CA de l'ordre de 2 Md€ (calcul)."
     }
    ],
    "liens": [],
@@ -5592,9 +5592,9 @@
      "id": "2026-10-20_ca-t3-2026#e4",
      "texte": "Annonce du distributeur allemand (contrat EdgeSense) « soon », selon la conférence",
      "echeance": "2026-12-31",
-     "statut": "todo",
-     "statue_par": "",
-     "note": "échéance non précisée ; fixée par convention à fin 2026"
+     "statut": "ok",
+     "statue_par": "S161",
+     "note": "Annonce publiée le 18/11/2026 : dm-drogerie markt, plus de 2 000 magasins en Allemagne (échéance fixée par convention à fin 2026)."
     }
    ],
    "liens": [
@@ -6003,6 +6003,147 @@
     }
    ],
    "majeur": false
+  },
+  {
+   "id": "2026-11-18_vusion2030",
+   "date": "2026-11-18",
+   "date_affichee": "18 nov. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Plan « Vusion 2030 » : 3 Md€ de CA visés en 2030, dont 1,2 Md€ de VAS, et 23 % de marge d'EBITDA ; 2027 attendu « de l'ordre de 2 milliards d'euros »",
+   "texte": "Communiqué publié à l'occasion du Capital Markets Day. Objectifs 2030, à taux de change constants : chiffre d'affaires d'« environ 3 Mds € », soit « plus de 15% par an » ; VAS (revenus hors étiquettes) d'environ 1,2 Md€, soit 40 % du CA, dont 0,8 Md€ de « VAS récurrent » ; EBITDA de 0,7 Md€, soit une marge de 23 %, et un free cash-flow de « plus de 10% du chiffre d'affaires » ; base installée d'environ 160 000 magasins et 1,6 milliard d'étiquettes et rails ; ratio dette nette / EBITDA « inférieur à 2x ». Repères donnés pour 2026 (estimé) : CA de 1,6 à 1,7 Md€, VAS d'environ 0,3 Md€ (18 %), marge d'EBITDA de 19 %, environ 85 000 magasins. La base clients actuelle devrait représenter « près de 60% du CA en 2030 », les nouveaux clients environ 40 %, dont « plus de la moitié » correspond à des enseignes « déjà au stade de pilotes en magasin ». Ventes d'étiquettes attendues en hausse d'environ 8 % par an jusqu'à 1,8 Md€ en 2030, compte tenu du niveau 2026 porté par Walmart aux États-Unis. Sur le plan Vusion'27 : le groupe se dit « en bonne voie pour atteindre ou approcher l'ambition de chiffre d'affaires à horizon 2027 » et anticipe « un chiffre d'affaires de l'ordre de 2 milliards d'euros en 2027 », VAS à « près de 30% du chiffre d'affaires total » ; le communiqué ne rechiffre pas l'objectif de marge d'EBITDA de 22 % en 2027. Le projet d'acquisition de Pricer est présenté comme « un nouvel atout dans la réalisation du plan Vusion'30 ». Lancements annoncés pour 2027 : nouvelles solutions de vision par IA « en début d'année », nouvelle génération de rails intelligents compatibles avec toute étiquette. Le communiqué comporte « des données financières non auditées » et des déclarations prospectives.",
+   "sources": [
+    "S160"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 18/11/2026, 7h30"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-18_vusion2030#e1",
+     "texte": "CA « de l'ordre de 2 milliards d'euros » en 2027 (environ +20 %), VAS à « près de 30% » du CA",
+     "echeance": "2027-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "À taux de change comparables. Le plan Vusion'27 visait 2,2 Md€."
+    },
+    {
+     "id": "2026-11-18_vusion2030#e2",
+     "texte": "CA d'« environ 3 Mds € » en 2030, à taux de change constants",
+     "echeance": "2030-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-18_vusion2030#e3",
+     "texte": "VAS d'environ 1,2 Md€ en 2030 (40 % du CA), dont 0,8 Md€ récurrents",
+     "echeance": "2030-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-18_vusion2030#e4",
+     "texte": "Marge d'EBITDA de 23 % et free cash-flow de plus de 10 % du CA en 2030",
+     "echeance": "2030-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-18_vusion2030#e5",
+     "texte": "Base installée d'environ 160 000 magasins et 1,6 milliard d'étiquettes et rails en 2030",
+     "echeance": "2030-12-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    },
+    {
+     "id": "2026-11-18_vusion2030#e6",
+     "texte": "Nouvelles solutions de vision par IA lancées « en début d'année » 2027",
+     "echeance": "2027-03-31",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "« début d'année » : échéance fixée par convention à fin mars 2027."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2022-11-09_vusion27"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-11-18_capital-markets-day"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-11-17_offre-pricer"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-11-18_dm-2000-magasins",
+   "date": "2026-11-18",
+   "date_affichee": "18 nov. 2026",
+   "sujets": [
+    "contrats",
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "dm-drogerie markt : EdgeSense dans plus de 2 000 magasins en Allemagne sur trois ans",
+   "texte": "L'accord prévoit le déploiement de « la toute dernière génération de la plateforme EdgeSense dans plus de 2 000 magasins en Allemagne, sur les trois prochaines années » ; DM serait « la première enseigne au monde » à équiper ses magasins de cette génération. DM exploite plus de 2 150 magasins en Allemagne et plus de 4 200 en Europe. Usages cités : gestion des prix, préparation des commandes en ligne, réapprovisionnement, guidage en magasin ; collaboration en R&D sur des agents d'IA ; EdgeSense dialoguera avec les robots d'Ubica. Ni montant, ni calendrier détaillé.",
+   "sources": [
+    "S161"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 18/11/2026, 7h30"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-18_dm-2000-magasins#e1",
+     "texte": "EdgeSense dans plus de 2 000 magasins DM en Allemagne « sur les trois prochaines années »",
+     "echeance": "2029-11-18",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-10-31_dm"
+    },
+    {
+     "type": "confirme",
+     "cible": "2026-10-20_ca-t3-2026"
+    }
+   ],
+   "majeur": true
+  },
+  {
+   "id": "2026-11-18_relex",
+   "date": "2026-11-18",
+   "date_affichee": "18 nov. 2026",
+   "sujets": [
+    "produit"
+   ],
+   "statut": "doc",
+   "titre": "Partenariat étendu avec RELEX Solutions (prévision et réapprovisionnement) ; deux enseignes en test",
+   "texte": "Vusion et RELEX Solutions (logiciels de prévision de la demande, de réapprovisionnement et d'optimisation des stocks) associent les données de rayon de la plateforme Vusion aux outils de RELEX : détection de rayons vides ou de défauts d'implantation, comparaison entre ce qui est observé en rayon et les stocks enregistrés, recommandations. « Deux enseignes testent déjà ces scénarios en conditions réelles », non nommées. Aucun élément financier.",
+   "sources": [
+    "S162"
+   ],
+   "sources_libelle": [
+    "CP Vusion du 18/11/2026, 7h30"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": true
   },
   {
    "id": "2027-01-05_pricer-fin-offre",
@@ -7711,6 +7852,36 @@
    "url": "https://investor.vusion.com/English/news-events/press-releases/press-releases-details/default.aspx?id=101426",
    "archive": "integral",
    "note": "PDF (version anglaise, 9 p.) fourni par Picard : textes/pdf/Vusion_offre_Pricer_2026-11-17.pdf ; texte intégral dans textes/S159.txt. Lien officiel transmis par Picard (redirection share.google), page non lisible par l'outil. Version française à rechercher.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S160",
+   "date_source": "2026-11-18",
+   "type": "CP",
+   "reference": "CP Vusion du 18/11/2026, 7h30 : « Vusion dévoile ses ambitions stratégiques à l'horizon 2030 » (Capital Markets Day, plan Vusion 2030, 8 p.)",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF transmis par Picard : textes/pdf/vusion_cp_vusion2030_fr.pdf. URL d'origine (Actusnews ou site investisseurs) à compléter.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S161",
+   "date_source": "2026-11-18",
+   "type": "CP",
+   "reference": "CP Vusion du 18/11/2026, 7h30 : « L'enseigne allemande DM étend son partenariat avec Vusion pour digitaliser plus de 2 000 magasins en Allemagne » (2 p.)",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF transmis par Picard : textes/pdf/vusion_dm_2026_pr_fr.pdf. URL d'origine et canal (réglementé ou newsroom) à vérifier.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S162",
+   "date_source": "2026-11-18",
+   "type": "CP",
+   "reference": "CP Vusion du 18/11/2026, 7h30 : « Vusion et RELEX étendent leur partenariat pour accélérer l'adoption de l'IA en magasin » (2 p.)",
+   "url": "",
+   "archive": "integral",
+   "note": "PDF transmis par Picard : textes/pdf/vusion_relex_2026_fr.pdf. URL d'origine et canal (réglementé ou newsroom) à vérifier.",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -9736,7 +9907,8 @@
    "2026-11-10",
    "2026-11-11",
    "2026-11-12",
-   "2026-11-13"
+   "2026-11-13",
+   "2026-11-16"
   ],
   "cloture": [
    35.8,
@@ -11242,7 +11414,8 @@
    142.0,
    146.8,
    150.0,
-   150.0
+   150.0,
+   158.1
   ],
   "volume": [
    14641,
@@ -12748,7 +12921,8 @@
    37534,
    46093,
    51610,
-   37377
+   37377,
+   108455
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
