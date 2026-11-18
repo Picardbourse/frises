@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-17",
- "mis_a_jour": "2026-11-17T13:05",
- "arrete_au": "2026-11-17",
+ "genere_le": "2026-11-18",
+ "mis_a_jour": "2026-11-18T16:35",
+ "arrete_au": "2026-11-18",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 171,
-  "sources": 211
+  "evenements": 172,
+  "sources": 212
  },
  "evenements": [
   {
@@ -7738,6 +7738,45 @@
    "majeur": false
   },
   {
+   "id": "2026-11-16_vad-citadel-securities-05",
+   "date": "2026-11-16",
+   "date_affichee": "16 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Positions courtes : Citadel Securities (Europe) Limited à 0,50 % au 16/11/2026",
+   "texte": "Selon le registre des positions courtes nettes publié par l'AMF (données ouvertes), Citadel Securities (Europe) Limited détient une position courte nette de 0,50 % du capital de 2CRSi à la date du 16/11/2026 (publication du 17/11/2026), contre 0,43 % au 12/11/2026. Déclaration établie sous la responsabilité du déclarant.",
+   "sources": [
+    "S223"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes, publication du 17/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-12_citadel-043"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-16",
+      "cloture": 17.18,
+      "volume": 312046,
+      "variation_pct": -6.2,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-12-03_eurohpc-depot-lot2",
    "date": "2026-12-03",
    "date_affichee": "3 déc. 2026",
@@ -10483,6 +10522,16 @@
    "archive": "integral",
    "note": "Fiche relevée le 15/11/2026 (page mise à jour le 17/06/2026) ; extraits dans textes/S222.txt.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S223",
+   "date_source": "2026-11-17",
+   "type": "registre",
+   "reference": "AMF, registre des positions courtes nettes (données ouvertes) : Citadel Securities (Europe) Limited, 2CRSi, 0,50 % au 16/11/2026, publiée le 17/11/2026",
+   "url": "https://www.data.gouv.fr/fr/datasets/62738e33f1be79935d3e5553/",
+   "archive": "integral",
+   "note": "Relevé automatiquement par la veille AMF le 18/11/2026 (fichier « Historique des positions courtes nettes », data.gouv.fr). LEI du déclarant : 549300WTVI4KO4GEJN54.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -12375,7 +12424,8 @@
    "2026-11-10",
    "2026-11-11",
    "2026-11-12",
-   "2026-11-13"
+   "2026-11-13",
+   "2026-11-16"
   ],
   "cloture": [
    5.37,
@@ -13881,7 +13931,8 @@
    17.1,
    18.76,
    18.33,
-   18.31
+   18.31,
+   17.18
   ],
   "volume": [
    217653,
@@ -15387,7 +15438,8 @@
    318479,
    485584,
    338721,
-   509127
+   509127,
+   312046
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
