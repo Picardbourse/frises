@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-18",
- "mis_a_jour": "2026-11-18T07:41",
+ "mis_a_jour": "2026-11-18T07:43",
  "arrete_au": "2026-11-18",
  "version_provisoire": false,
  "config": {
@@ -7859,9 +7859,9 @@
    "date_source": "2026-11-18",
    "type": "CP",
    "reference": "CP Vusion du 18/11/2026, 7h30 : « Vusion dévoile ses ambitions stratégiques à l'horizon 2030 » (Capital Markets Day, plan Vusion 2030, 8 p.)",
-   "url": "",
+   "url": "https://investor.vusion.com/French/actualits/communiques-de-presse/communiqus-de-presse-details/default.aspx?id=101439",
    "archive": "integral",
-   "note": "PDF transmis par Picard : textes/pdf/vusion_cp_vusion2030_fr.pdf. URL d'origine (Actusnews ou site investisseurs) à compléter.",
+   "note": "PDF transmis par Picard : textes/pdf/vusion_cp_vusion2030_fr.pdf. URL du site investisseurs transmise par Picard le 18/11 ; correspondance lien/communiqué déduite de l'ordre des identifiants (page rendue en JavaScript, non lue).",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -7869,9 +7869,9 @@
    "date_source": "2026-11-18",
    "type": "CP",
    "reference": "CP Vusion du 18/11/2026, 7h30 : « L'enseigne allemande DM étend son partenariat avec Vusion pour digitaliser plus de 2 000 magasins en Allemagne » (2 p.)",
-   "url": "",
+   "url": "https://investor.vusion.com/French/actualits/communiques-de-presse/communiqus-de-presse-details/default.aspx?id=101452",
    "archive": "integral",
-   "note": "PDF transmis par Picard : textes/pdf/vusion_dm_2026_pr_fr.pdf. URL d'origine et canal (réglementé ou newsroom) à vérifier.",
+   "note": "PDF transmis par Picard : textes/pdf/vusion_dm_2026_pr_fr.pdf. URL du site investisseurs transmise par Picard le 18/11 ; correspondance déduite de l'ordre des identifiants (page non lue) ; canal (réglementé ou newsroom) à vérifier.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -7879,9 +7879,9 @@
    "date_source": "2026-11-18",
    "type": "CP",
    "reference": "CP Vusion du 18/11/2026, 7h30 : « Vusion et RELEX étendent leur partenariat pour accélérer l'adoption de l'IA en magasin » (2 p.)",
-   "url": "",
+   "url": "https://investor.vusion.com/French/actualits/communiques-de-presse/communiqus-de-presse-details/default.aspx?id=101419",
    "archive": "integral",
-   "note": "PDF transmis par Picard : textes/pdf/vusion_relex_2026_fr.pdf. URL d'origine et canal (réglementé ou newsroom) à vérifier.",
+   "note": "PDF transmis par Picard : textes/pdf/vusion_relex_2026_fr.pdf. URL du site investisseurs transmise par Picard le 18/11 ; correspondance déduite de l'ordre des identifiants (page non lue) ; canal (réglementé ou newsroom) à vérifier.",
    "texte_archive": "sources_textes.json"
   }
  ],
