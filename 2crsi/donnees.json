@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T16:02",
+ "mis_a_jour": "2026-11-19T16:32",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 173,
-  "sources": 213
+  "evenements": 176,
+  "sources": 218
  },
  "evenements": [
   {
@@ -1167,7 +1167,16 @@
    "sources_libelle": [
     "CP 2CRSi du 08/07/2025"
    ],
-   "engagements": [],
+   "engagements": [
+    {
+     "id": "2025-07-08_commande-54-musd#e1",
+     "texte": "Livraisons progressives « à partir d'août 2025 »",
+     "echeance": "2025-08-31",
+     "statut": "nd",
+     "statue_par": "S173",
+     "note": "Le rapport financier annuel 2025-26 (§2.4.3) reprend l'annonce sans indiquer ce qui a été livré ou facturé."
+    }
+   ],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -2164,7 +2173,16 @@
    "sources_libelle": [
     "CP 2CRSi du 17/02/2026 (AMF EQS FCEQS008039)"
    ],
-   "engagements": [],
+   "engagements": [
+    {
+     "id": "2026-02-17_commande-140#e1",
+     "texte": "Livraison attendue avant la fin de l'exercice (30/06/2026)",
+     "echeance": "2026-06-30",
+     "statut": "nd",
+     "statue_par": "S173",
+     "note": "Le rapport financier annuel 2025-26 (§2.4.3) reprend l'annonce sans indiquer ce qui a été livré ou facturé. Le 19/06/2026, la société déclarait les commandes « au Canada » intégralement livrées et payées, sans les détailler."
+    }
+   ],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -2890,16 +2908,18 @@
    ],
    "statut": "doc",
    "titre": "Registre AMF : positions de Grizzly Capital Management et de Voleon en juin",
-   "texte": "Grizzly Capital Management LP : 0,89 % (position du 17/06, publiée le 18/06), 0,52 % (18/06, publiée le 19/06), 0 % (22/06, publiée le 23/06). Voleon Capital Management LP : 0,79 % (16/06), 0,64 % (22/06), 0,50 % (23/06), puis 0,44 % (24/06, publiée le 25/06), sous le seuil, après un maximum de 2,32 %. Qube : 0,59 % (24/06), 0,67 % (29/06). Les versions du forum sont confirmées pour les dates de position. Constat de dates : la position à 0,89 % du 17/06 est publiée le 18/06, jour de sortie du rapport de Grizzly Research. Le registre ne précise pas le lien entre Grizzly Capital Management LP et Grizzly Research. Le rapport (S036) contient seulement l'avertissement standard selon lequel, à sa publication, « certaines Personnes Associées » à Grizzly Research LLC détiennent une position vendeuse sur l'émetteur ; il ne nomme aucun fonds et la définition annoncée (« ci-dessous ») ne figure pas dans la traduction française : la version anglaise (S090) a le même avertissement, avec « as defined hereunder » sans définition ensuite : le lien n'est donc pas établi par pièce.",
+   "texte": "Grizzly Capital Management LP : 0,89 % (position du 17/06, publiée le 18/06), 0,52 % (18/06, publiée le 19/06), 0 % (22/06, publiée le 23/06). Voleon Capital Management LP : 0,79 % (16/06), 0,64 % (22/06), 0,50 % (23/06), puis 0,44 % (24/06, publiée le 25/06), sous le seuil, après un maximum de 2,32 %. Qube : 0,59 % (24/06), 0,67 % (29/06). Les versions du forum sont confirmées pour les dates de position. Constat de dates : la position à 0,89 % du 17/06 est publiée le 18/06, jour de sortie du rapport de Grizzly Research. Le registre ne précise pas le lien entre Grizzly Capital Management LP et Grizzly Research. Le rapport (S036) contient seulement l'avertissement standard selon lequel, à sa publication, « certaines Personnes Associées » à Grizzly Research LLC détiennent une position vendeuse sur l'émetteur ; il ne nomme aucun fonds et la définition annoncée (« ci-dessous ») ne figure pas dans la traduction française : la version anglaise (S090) a le même avertissement, avec « as defined hereunder » sans définition ensuite : le rapport lui-même n'établit donc pas le lien. Le registre public de la SEC, lui, relie les deux entités : la fiche de Grizzly Capital Management LP (New York, « exempt reporting adviser » depuis le 01/05/2026) mentionne « GRIZZLY RESEARCH LLC » parmi ses « relying advisers » (fiche consultée le 19/11/2026).",
    "sources": [
     "S022",
     "S036",
-    "S090"
+    "S090",
+    "S227"
    ],
    "sources_libelle": [
     "Registre AMF des positions courtes nettes, export du 09/10/2026",
     "Rapport Grizzly Research du 18/06/2026 (traduction française, avertissement p. 4)",
-    "Rapport Grizzly Research du 18/06/2026 (version anglaise, avertissement p. 4)"
+    "Rapport Grizzly Research du 18/06/2026 (version anglaise, avertissement p. 4)",
+    "SEC, fiche IAPD de Grizzly Capital Management LP (consultée le 19/11/2026)"
    ],
    "engagements": [],
    "liens": [
@@ -3476,6 +3496,58 @@
       "volume": 374311,
       "variation_pct": -0.9,
       "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-06-30_creances",
+   "date": "2026-06-30",
+   "date_affichee": "30 juin 2026",
+   "revele_le": "2026-10-31",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Créances clients au 30/06/2026 : 25,6 M€ de factures à établir (1,0 M€ un an plus tôt), 5,3 M€ de dépréciations",
+   "texte": "Selon le rapport financier annuel 2025-26 (note 3.6.5) : créances clients nettes de 43,4 M€ (23,9 M€ au 30/06/2025), « hausse liée aux factures à établir (25 628 K€, dont 24 711 K€ chez 2CRSi SA) », contre 957 K€ un an plus tôt ; dépréciations de 5 305 K€ (553 K€) « après dotation de 4 235 K€ (2CRSi SA et 2CRSi CORP) et 460 K€ d'entrée Green Data ». Les avances et acomptes reçus sur commandes passent de 16,1 à 23,0 M€, ceux versés aux fournisseurs de 8,4 à 3,1 M€ (note 3.6.6 et dettes). La créance sur HAW (16,9 M€ TTC), « ni facturée ni encaissée au 30 juin 2026 », explique une partie des factures à établir ; la nature du solde n'est pas détaillée.",
+   "sources": [
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-26, notes 3.6.5 et 3.6.6"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rfa-2025-26"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-30_haw-contrat-14m"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-30",
+      "cloture": 30.68,
+      "volume": 374311,
+      "variation_pct": -0.9,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-07-01",
+      "cloture": 37.5,
+      "volume": 1089561,
+      "variation_pct": 22.2,
+      "volume_vs_moy20": 2.1
      }
     ]
    },
@@ -5255,6 +5327,63 @@
    "majeur": false
   },
   {
+   "id": "2026-09-22_amador-22-09",
+   "date": "2026-09-22",
+   "date_affichee": "22 sept. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Comté d'Amador : le dirigeant de NYGC dit viser un data center de 16 MW ; demande de permis « à venir »",
+   "texte": "Séance publique du Board of Supervisors, pendant les interventions du public sur des sujets hors ordre du jour ; aucun vote. Plusieurs habitants demandent un moratoire sur les data centers. Joseph Church, fondateur et dirigeant de NYGC, prend la parole [1:38:14] : le chiffre de 41 MW évoqué auparavant relevait d'une gamme de possibilités discutée publiquement, « ahead of where the project is actually today » ; NYGC prévoit de demander l'autorisation d'un data center de 16 MW alimenté par la centrale existante ; des études environnementales et techniques sont en cours et la demande de permis est « forthcoming », c'est-à-dire non encore déposée. Un intervenant du public, qui précise ne pas vouloir parler à la place de la société, indique que l'intention serait de faire fonctionner la centrale « for about a year » pour en vérifier la fiabilité avant de demander les permis du data center [1:40:52] ; ce délai n'est pas énoncé par NYGC. La superviseure élue du district 5 dit ignorer quand la demande sera déposée [1:44:51]. Aux séances des 06/10 et 20/10/2026, les demandes de moratoire n'ont donné lieu à aucun vote, selon une archive citoyenne. Citations tirées des sous-titres automatiques de l'enregistrement : une erreur est possible. Événement masqué du 17/11 au 19/11/2026, le temps de remplacer un résumé de forum produit avec une IA par l'enregistrement de la séance.",
+   "sources": [
+    "S225",
+    "S226"
+   ],
+   "sources_libelle": [
+    "Enregistrement de la séance du 22/09/2026 (sous-titres automatiques), 1:38:14 à 1:45:40",
+    "Amador Transparency Project, rapport sur la séance du 22/09/2026 (site tiers)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-01-14_buena-vista-achat"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-08-06_nygc-page-facebook"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-09-22",
+      "cloture": 29.36,
+      "volume": 145067,
+      "variation_pct": 2.8,
+      "volume_vs_moy20": 0.6
+     },
+     {
+      "role": "suivante",
+      "date": "2026-09-23",
+      "cloture": 30.88,
+      "volume": 276776,
+      "variation_pct": 5.2,
+      "volume_vs_moy20": 1.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-09-27_wilmouth-etude-rte",
    "date": "2026-09-27",
    "date_affichee": "27 sept. 2026",
@@ -6943,6 +7072,52 @@
    "majeur": false
   },
   {
+   "id": "2026-10-31_rfa-evenements-commerciaux",
+   "date": "2026-10-31",
+   "date_affichee": "31 oct. 2026",
+   "sujets": [
+    "nygc",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Rapport annuel, §2.4.3 : la commande de 290 M$ présentée sans référence au contrat de 610 M$ ni calendrier de livraison",
+   "texte": "Le rapport financier annuel 2025-26 liste les « événements commerciaux majeurs » de l'exercice. La commande du 29/09/2025 y est décrite comme « une première commande d'une valeur catalogue de 290 millions de dollars pour le déploiement d'une AI Factory en Californie » : le contrat de 610 M$, auquel le titre du CP d'origine la rattachait, n'est pas mentionné, ni la livraison alors « prévue pour le printemps 2026 ». Pour les commandes du Royaume-Uni (54 M$), de Malaisie (47 M€) et du Japon (140 M€), le rapport reprend les annonces sans indiquer ce qui a été livré ou facturé ; seule la vente allemande (110 M€) est dite réglée, avec une livraison prévue avant la clôture.",
+   "sources": [
+    "S173",
+    "S003"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-26, §2.4.3 (p. 41)",
+    "CP du 29/09/2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-09-29_commande-290"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rfa-2025-26"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2026-11-02",
+      "cloture": 13.57,
+      "volume": 976109,
+      "variation_pct": -38.1,
+      "volume_vs_moy20": 3.8
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
    "id": "2026-11-01_lettre-actionnaires",
    "date": "2026-11-01",
    "date_affichee": "1 nov. 2026",
@@ -7220,6 +7395,14 @@
      "statut": "todo",
      "statue_par": null,
      "note": ""
+    },
+    {
+     "id": "2026-11-03_webinaire-pros#e2",
+     "texte": "Un directeur administratif et financier à temps plein remplace le directeur financier externe (présent trois jours par semaine), qui part « à la fin novembre »",
+     "echeance": "2026-11-30",
+     "statut": "todo",
+     "statue_par": null,
+     "note": "Webinaire du 03/11/2026, vers 30:41 (transcription automatique)."
     }
    ],
    "liens": [
@@ -7725,12 +7908,16 @@
    ],
    "statut": "echeance",
    "titre": "Échéance : démarrage de la production Valeo × 2CRSi en Inde",
-   "texte": "Selon le CP commun du 16/02/2026 : « Le cycle de validation devrait aboutir à un démarrage de production en novembre 2026 ».",
+   "texte": "Selon le CP commun du 16/02/2026 : « Le cycle de validation devrait aboutir à un démarrage de production en novembre 2026 ». Le 03/11/2026, le PDG de 2CRSi évoque « quelques petits soucis sur le côté technique ». Au 19/11/2026, aucune communication de Valeo ni de 2CRSi n'annonce ce démarrage ; le CP de Valeo du 18/11/2026 sur ses technologies de refroidissement de centres de données ne mentionne ni l'immersion, ni 2CRSi, ni l'Inde.",
    "sources": [
-    "S004"
+    "S004",
+    "S186",
+    "S228"
    ],
    "sources_libelle": [
-    "CP du 16/02/2026"
+    "CP du 16/02/2026",
+    "Webinaire du 03/11/2026",
+    "CP Valeo du 18/11/2026"
    ],
    "engagements": [],
    "liens": [],
@@ -8026,19 +8213,22 @@
   {
    "sujet": "nygc",
    "question": "Quelle est la puissance du site de Buena Vista ?",
-   "etat": "Environ 40 MW d'ici fin 2027 (CP du 29/09/2025), 5 puis environ 15 MW (réponse du 16/07/2026), 16 MW (page Facebook de NYGC, séance du comté d'Amador du 22/09/2026). Le site de NYGC (capture du 11/10/2026) indique 16 MW.",
+   "etat": "Environ 40 MW d'ici fin 2027 (CP du 29/09/2025), 5 puis environ 15 MW (réponse du 16/07/2026), 16 MW (page Facebook de NYGC, séance du comté d'Amador du 22/09/2026). Le site de NYGC (capture du 11/10/2026) indique 16 MW. Le 22/09/2026, le dirigeant de NYGC déclare en séance publique viser un data center de 16 MW et présente les 41 MW comme une gamme de possibilités antérieure.",
    "attendu": "Un chiffre de référence de NYGC ou de la société, ou une pièce du comté.",
-   "sources": []
+   "sources": [
+    "S225"
+   ]
   },
   {
    "sujet": "nygc",
    "question": "Les demandes de permis du data center de Buena Vista sont-elles déposées ?",
-   "etat": "Les éléments publics divergent : un post tiers (24/08) parle d'une demande d'autorisation déposée auprès de l'agence de la qualité de l'air ; la FAQ de NYGC du 26/08 et les services du comté indiquent que les permis du data center ne sont pas déposés. Le dirigeant de NYGC déclare au Ledger Dispatch (propos des 07/09 et 24/09, publiés les 08 et 19/10) : « We have not even filed for permits », sans préciser de quels permis il s'agit, et ne dit pas si un data center sera demandé. Vers le 17/10, NYGC indique sur LinkedIn « preparing materials for the next steps in the permitting process ».",
+   "etat": "Les éléments publics divergent : un post tiers (24/08) parle d'une demande d'autorisation déposée auprès de l'agence de la qualité de l'air ; la FAQ de NYGC du 26/08 et les services du comté indiquent que les permis du data center ne sont pas déposés. Le dirigeant de NYGC déclare au Ledger Dispatch (propos des 07/09 et 24/09, publiés les 08 et 19/10) : « We have not even filed for permits », sans préciser de quels permis il s'agit, et ne dit pas si un data center sera demandé. Vers le 17/10, NYGC indique sur LinkedIn « preparing materials for the next steps in the permitting process ». En séance publique du comté, le 22/09/2026, il parle d'une demande de permis « forthcoming ».",
    "attendu": "Les pièces du comté d'Amador (Planning Department, Air District).",
    "sources": [
     "S146",
     "S147",
-    "S148"
+    "S148",
+    "S225"
    ]
   },
   {
@@ -8112,10 +8302,12 @@
   {
    "sujet": "valeo",
    "question": "Le démarrage industriel en Inde de novembre 2026 est-il confirmé ?",
-   "etat": "L'échéance figure dans les pièces de février 2026 ; la « 4e usine » indienne affichée sur le site de 2CRSi n'est pas documentée par ailleurs. Les chiffres de performance (PUE, -30 à 35 % de consommation) sont à vérifier sur le texte du CP. Le rapport financier semestriel au 31/12/2025 (S065) ne mentionne ni l'Inde ni Chennai.",
-   "attendu": "Une communication de Valeo ou de 2CRSi ; le texte intégral du CP du 16/02/2026.",
+   "etat": "Le CP du 16/02/2026 prévoit un « démarrage de production en novembre 2026 » (texte relu : PUE d'environ 1,6 à moins de 1,1, 30 à 35 % de consommation en moins). Le 03/11/2026, le PDG évoque des difficultés techniques. Au 19/11/2026, ni Valeo ni 2CRSi n'ont annoncé ce démarrage ; le CP de Valeo du 18/11 sur le refroidissement des centres de données ne parle ni d'immersion ni de l'Inde.",
+   "attendu": "Une communication de Valeo ou de 2CRSi.",
    "sources": [
-    "S065"
+    "S004",
+    "S186",
+    "S228"
    ]
   },
   {
@@ -8158,13 +8350,6 @@
    "question": "Qui est l'expert indépendant ?",
    "etat": "Le CP du 15/09/2026 ne nomme pas le cabinet. Les noms avancés publiquement ne reposent sur aucune pièce.",
    "attendu": "Une communication de la société (rapport attendu avant fin octobre).",
-   "sources": []
-  },
-  {
-   "sujet": "griz",
-   "question": "Quel lien entre Grizzly Capital Management LP et Grizzly Research ?",
-   "etat": "Le registre AMF des positions courtes nomme Grizzly Capital Management LP ; le rapport de Grizzly Research ne nomme pas de fonds.",
-   "attendu": "Une pièce officielle reliant les deux entités.",
    "sources": []
   },
   {
@@ -8522,7 +8707,7 @@
    "reference": "CP Valeo × 2CRSi : solution edge à immersion pour l'Inde (AI Impact Summit, New Delhi)",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2026/02/FCEQS008030_20260216.pdf",
    "archive": "integral",
-   "note": "AMF EQS FCEQS008030",
+   "note": "Restitution relue sur le PDF d'origine le 19/11/2026 dans textes/S004.txt (citations exactes entre guillemets, pas le texte intégral).",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -8700,6 +8885,16 @@
    "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/ventes-decouvert",
    "archive": "integral",
    "note": "Export des données ouvertes AMF du 09/10/2026 (dernières publications au 02/10/2026) ; lignes 2CRSi extraites dans textes/S022.txt. Millennium 0,50 % (29/09, publié le 30/09) puis 0,45 % (01/10, publié le 02/10). Seuil de publication : 0,5 %.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S023",
+   "date_source": "2026-09-22",
+   "type": "officiel",
+   "reference": "Amador County Board of Supervisors, séance du 22/09/2026 : résumé d'une transcription YouTube posté sur le forum",
+   "url": "",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -10589,6 +10784,44 @@
    "archive": "integral",
    "note": "Relevé automatiquement par la veille AMF le 19/11/2026 (fichier « Historique des positions courtes nettes », data.gouv.fr). LEI du déclarant : 549300WTVI4KO4GEJN54.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S225",
+   "date_source": "2026-09-22",
+   "type": "transcription",
+   "reference": "Enregistrement de la séance du Board of Supervisors du comté d'Amador du 22/09/2026 (chaîne KVGC, YouTube, 3 h 16) : sous-titres automatiques",
+   "url": "https://www.youtube.com/watch?v=nuA8PEExgPY",
+   "archive": "integral",
+   "note": "Extraits dans textes/S225.txt, relevés le 19/11/2026 dans le panneau de transcription de YouTube. Transcription automatique, une erreur est possible. Déclaration du dirigeant de NYGC à 1:38:14.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S226",
+   "date_source": "2026-10-20",
+   "type": "web",
+   "reference": "Amador Transparency Project (archive citoyenne indépendante), « September 22 AI Data Center Discussion Report », mis à jour le 20/10/2026",
+   "url": "https://amadorproject.org/archives/ai-data-center/reports/september-22-data-center-discussion.html",
+   "archive": "reference",
+   "note": ""
+  },
+  {
+   "id": "S227",
+   "date_source": "2026-05-01",
+   "type": "registre",
+   "reference": "SEC, Investment Adviser Public Disclosure : fiche de Grizzly Capital Management LP (CRD 324228, SEC 802-136404), consultée le 19/11/2026",
+   "url": "https://adviserinfo.sec.gov/firm/summary/324228",
+   "archive": "integral",
+   "note": "La SEC rappelle que les déclarations des « exempt reporting advisers » ne sont ni approuvées ni vérifiées par elle.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S228",
+   "date_source": "2026-11-18",
+   "type": "CP tiers",
+   "reference": "CP Valeo du 18/11/2026 : « Valeo présente ses technologies de refroidissement des centres de données au salon Data Centre World 2026 »",
+   "url": "https://www.valeo.com/fr/valeo-presente-ses-technologies-de-refroidissement-des-centres-de-donnees-au-salon-data-centre-world-2026/",
+   "archive": "reference",
+   "note": ""
   }
  ],
  "lieux": [
@@ -10739,6 +10972,7 @@
     "2026-08-20_nygc-prudence",
     "2026-08-24_nygc-precisions",
     "2026-08-26_nygc-faq",
+    "2026-09-22_amador-22-09",
     "2026-10-01_calaveras-01-10",
     "2026-10-06_nygc-5-sites"
    ],
