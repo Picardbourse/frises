@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T16:47",
+ "mis_a_jour": "2026-11-19T18:03",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 176,
-  "sources": 220
+  "evenements": 178,
+  "sources": 224
  },
  "evenements": [
   {
@@ -612,6 +612,50 @@
       "volume": 159324,
       "variation_pct": 8.0,
       "volume_vs_moy20": 0.8
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2024-05-20_earthmade-revendeur",
+   "date": "2024-05-20",
+   "date_affichee": "20 mai 2024",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Le site du revendeur californien Earthmade Computer présente 2CRSi comme l'un de ses trois partenaires",
+   "texte": "Capture du site earthmade.io archivée le 20/05/2024 par l'Internet Archive : « Earthmade Computer is an authorized reseller of Super Micro Computer, Inc, 2Crsi and Dell. » La page d'accueil propose le serveur « Godì 1.8SR-NV8 » (6U, plateforme NVIDIA H100), à côté de serveurs Dell et Supermicro et de commutateurs NVIDIA. La même phrase figure sur la capture du 02/10/2026, où le catalogue propose le « Godì 1.8ER-NV8 by 2Crsi » (7U, huit GPU NVIDIA H200). 2CRSi n'apparaît pas sur les captures de septembre, octobre et décembre 2023. Il s'agit d'une déclaration d'Earthmade ; le corpus ne contient aucune communication de 2CRSi nommant cette société. Au 19/11/2026, le site d'origine n'est plus consultable.",
+   "sources": [
+    "S231",
+    "S232"
+   ],
+   "sources_libelle": [
+    "Site d'Earthmade, capture du 20/05/2024",
+    "Site d'Earthmade, captures du 02/10/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2024-05-20",
+      "cloture": 4.675,
+      "volume": 145068,
+      "variation_pct": 6.7,
+      "volume_vs_moy20": 1.3
+     },
+     {
+      "role": "suivante",
+      "date": "2024-05-21",
+      "cloture": 4.68,
+      "volume": 63389,
+      "variation_pct": 0.1,
+      "volume_vs_moy20": 0.6
      }
     ]
    },
@@ -5513,6 +5557,50 @@
    "majeur": false
   },
   {
+   "id": "2026-10-01_doj-earthmade",
+   "date": "2026-10-01",
+   "date_affichee": "1er oct. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "États-Unis : le propriétaire d'Earthmade Computer arrêté et inculpé pour l'exportation de serveurs à GPU vers la Chine",
+   "texte": "Communiqué du département de la Justice du 01/10/2026 : le propriétaire d'Earthmade Computer Inc. (City of Industry, Californie) est arrêté sur la base d'un acte d'accusation rendu le 29/09/2026 par un grand jury du Central District of California (affaire 2:26-cr-00618). Trois chefs : entente en vue de violer la réglementation de contrôle des exportations, contrebande, entente en vue de blanchiment. Selon l'accusation, en 2023 et 2024, des serveurs contenant des GPU soumis à licence ont été expédiés vers la Malaisie et Singapour puis réexpédiés en Chine, pour plus de 300 M$ ; Earthmade aurait reçu plus de 176 M$ de deux sociétés malaisiennes entre janvier et octobre 2024. L'acte d'accusation mentionne trois fabricants américains de serveurs, désignés « U.S. Manufacturer 1 », « 2 » et « 3 », non nommés et non poursuivis, auxquels de faux documents de destination auraient été remis ; un « sales manager » du premier est désigné co-conspirateur, sans être inculpé. Ni le communiqué ni l'acte ne citent 2CRSi. Un acte d'accusation est une allégation ; la personne poursuivie est présumée innocente.",
+   "sources": [
+    "S233",
+    "S234"
+   ],
+   "sources_libelle": [
+    "Communiqué du département de la Justice (01/10/2026)",
+    "Acte d'accusation du 29/09/2026 (relevé par lecture automatique)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-10-01",
+      "cloture": 26.64,
+      "volume": 227201,
+      "variation_pct": -5.4,
+      "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2026-10-02",
+      "cloture": 26.82,
+      "volume": 308660,
+      "variation_pct": 0.7,
+      "volume_vs_moy20": 1.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-10-02_registre-vad-synthese",
    "date": "2026-10-02",
    "date_affichee": "2 oct. 2026",
@@ -8491,6 +8579,20 @@
     "S173",
     "S065"
    ]
+  },
+  {
+   "sujet": "gouv",
+   "question": "Le client américain « inculpé » évoqué par le PDG le 03/11/2026 est-il Earthmade Computer, et 2CRSi Corporation est-elle l'un des fabricants cités par l'acte d'accusation ?",
+   "etat": "Non établi. Le PDG n'a pas nommé ce client : il a parlé d'une inculpation « durant le mois d'octobre » devant un tribunal du centre de la Californie, d'un client « arrêté » et d'une demande de documents reçue le 17/05/2026 (webinaire du 03/11, 5:01–9:21 ; transcription automatique). Le rapport annuel mentionne un grand jury subpoena du Central District of California reçu en mai 2026. Le propriétaire d'Earthmade Computer a été arrêté le 01/10/2026 sur un acte d'accusation de ce même district, et le site d'Earthmade présentait 2CRSi comme l'un de ses trois partenaires depuis mai 2024 au moins. Écarts : l'acte porte sur 2023 et 2024, le PDG parle d'opérations de 2024 et 2025. L'acte ne nomme aucun des trois fabricants et n'en poursuit aucun. 2CRSi se dit « simple témoin ».",
+   "attendu": "Une confirmation ou un démenti de la société ; l'identité des fabricants, si la procédure la rend publique.",
+   "sources": [
+    "S186",
+    "S173",
+    "S231",
+    "S232",
+    "S233",
+    "S234"
+   ]
   }
  ],
  "pipe": {
@@ -10854,6 +10956,46 @@
    "url": "https://investors.2crsi.com/wp-content/uploads/2019/08/2CRSI-Rapport-Financier-Annuel-2018-1-EN.pdf",
    "archive": "integral",
    "note": "Extraits relevés le 19/11/2026 ; date du fichier d'après son adresse (août 2019).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S231",
+   "date_source": "2024-05-20",
+   "type": "web",
+   "reference": "Site d'Earthmade Computer (earthmade.io), page d'accueil, capture de l'Internet Archive du 20/05/2024",
+   "url": "https://web.archive.org/web/20240520045725/https://www.earthmade.io/",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S232",
+   "date_source": "2026-10-02",
+   "type": "web",
+   "reference": "Site d'Earthmade Computer (earthmade.io), page d'accueil, page « product » et fiche « Godì 1.8ER-NV8 by 2Crsi », captures de l'Internet Archive du 02/10/2026",
+   "url": "https://web.archive.org/web/20261002191508/https://www.earthmade.io/",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S233",
+   "date_source": "2026-10-01",
+   "type": "officiel",
+   "reference": "Département de la Justice des États-Unis, communiqué n° 26-1129 du 01/10/2026 (arrestation du propriétaire d'Earthmade Computer Inc.)",
+   "url": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+   "archive": "integral",
+   "note": "Texte : textes/S233.txt, relevé en français (pas le texte intégral). Nom de la personne poursuivie non repris.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S234",
+   "date_source": "2026-09-29",
+   "type": "officiel",
+   "reference": "Acte d'accusation du 29/09/2026, affaire 2:26-cr-00618-ODW, U.S. District Court, Central District of California (copie mise en ligne par Courthouse News)",
+   "url": "https://www.courthousenews.com/wp-content/uploads/2026/10/greg-lui-indictment.pdf",
+   "archive": "integral",
+   "note": "Texte : textes/S234.txt, relevé par lecture automatique (numéros de paragraphe à vérifier sur le PDF). Agrégateur à défaut de PACER. PDF à archiver dans textes/pdf/S234.pdf. Nom de la personne poursuivie non repris dans les textes.",
    "texte_archive": "sources_textes.json"
   }
  ],
