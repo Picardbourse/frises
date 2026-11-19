@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T16:32",
+ "mis_a_jour": "2026-11-19T16:47",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 176,
-  "sources": 218
+  "sources": 220
  },
  "evenements": [
   {
@@ -8478,6 +8478,19 @@
     "S188",
     "S186"
    ]
+  },
+  {
+   "sujet": "pl",
+   "question": "Que fait Alispalu, et ses activités recoupent-elles celles de 2CRSi ?",
+   "etat": "Alispalu, détenue à 100 % par le PDG, a son siège à l'adresse de celui de 2CRSi et comptait 3 à 5 salariés en 2024 ; son activité déclarée est la réparation d'ordinateurs, et elle n'a déposé aucun compte. Le rapport annuel 2018 indiquait qu'un administrateur, salarié de 2CRSi, était depuis 2015 « in charge of the after-sales service at ALISPALU » ; les rapports récents ne nomment plus Alispalu à ce sujet. Elle a facturé à 2CRSi 49,8 k€ en 2023-24, 387,6 k€ en 2024-25 et 585 k€ en 2025-26, sans que l'objet soit décrit. Elle a acheté fin 2024 118 serveurs hébergés chez Green Data et utilisés par un client, et une convention-cadre du 30/06/2026 lui vend des composants « destinés à l'assemblage de serveurs ». Service après-vente, location de serveurs et assemblage sont aussi des activités de 2CRSi ; aucune pièce ne décrit les clients d'Alispalu ni ne dit si elle intervient pour le compte de 2CRSi ou à côté d'elle.",
+   "attendu": "Le rapport spécial du commissaire aux comptes sur les conventions réglementées, une réponse de la société à l'AG du 17/12/2026, ou les comptes d'Alispalu.",
+   "sources": [
+    "S229",
+    "S230",
+    "S178",
+    "S173",
+    "S065"
+   ]
   }
  ],
  "pipe": {
@@ -10822,6 +10835,26 @@
    "url": "https://www.valeo.com/fr/valeo-presente-ses-technologies-de-refroidissement-des-centres-de-donnees-au-salon-data-centre-world-2026/",
    "archive": "reference",
    "note": ""
+  },
+  {
+   "id": "S229",
+   "date_source": "2026-11-19",
+   "type": "registre",
+   "reference": "Annuaire des entreprises (État) : fiche d'ALISPALU (SIREN 809 572 738), relevée le 19/11/2026",
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/809572738",
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S230",
+   "date_source": "2019-08-01",
+   "type": "officiel",
+   "reference": "Rapport financier annuel 2018 de 2CRSi (version anglaise), biographies des administrateurs",
+   "url": "https://investors.2crsi.com/wp-content/uploads/2019/08/2CRSI-Rapport-Financier-Annuel-2018-1-EN.pdf",
+   "archive": "integral",
+   "note": "Extraits relevés le 19/11/2026 ; date du fichier d'après son adresse (août 2019).",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
