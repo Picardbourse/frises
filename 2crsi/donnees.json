@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T22:20",
+ "mis_a_jour": "2026-11-19T22:24",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -626,7 +626,7 @@
    ],
    "statut": "doc",
    "titre": "Nouveau distributeur à Singapour : Dreamcore, accord présenté comme exclusif",
-   "texte": "Communiqué daté de San José, pendant le salon GTC de Nvidia : 2CRSi annonce un accord de distribution avec Dreamcore Pte. Ltd., distributeur et intégrateur singapourien fondé en 2017, pour l'ensemble de sa gamme et en particulier les produits destinés à l'IA. L'accord est présenté comme exclusif pour la région de Singapour. Le communiqué indique que des clients ont déjà été fournis par ce canal pour environ 18,3 M$ (prix catalogue) et estime le partenariat à plusieurs dizaines de millions de dollars par an. Singapour fait partie des cinq destinations soumises à licence américaine pour les serveurs à puces avancées depuis le 19/11/2026.",
+   "texte": "Communiqué daté de San José, pendant le salon GTC de Nvidia : 2CRSi annonce un accord de distribution avec Dreamcore Pte. Ltd., distributeur et intégrateur singapourien fondé en 2017, pour l'ensemble de sa gamme et en particulier les produits destinés à l'IA. L'accord est présenté comme exclusif pour la région de Singapour. Le communiqué indique que Dreamcore a déjà fourni à ses clients des serveurs 2CRSi « d'une valeur d'environ 18,3 millions de dollars (prix catalogue) » et estime l'accord « à plusieurs dizaines de millions de dollars par an ». Singapour fait partie des cinq destinations soumises à licence américaine pour les serveurs à puces avancées depuis le 19/11/2026.",
    "sources": [
     "S240",
     "S235"
@@ -670,7 +670,7 @@
    ],
    "statut": "doc",
    "titre": "GTC Nvidia : vente de 29,3 M$ de serveurs GODì 1.8SR-NV8, client non nommé, option sur deux commandes identiques",
-   "texte": "Communiqué daté de San Jose : 2CRSi dit avoir finalisé pendant le salon GTC des ventes de serveurs d'IA pour 29,3 M$. La commande principale porte sur des serveurs GODì 1.8SR-NV8, pour environ 29 M$ au prix catalogue, avec une option pour deux commandes identiques en volume et en valeur. « La première tranche sera livrée avant la fin de l'exercice fiscal prévu fin juin 2024. » Le communiqué ne donne ni le client, ni son pays, ni le nombre de serveurs. Il fait état d'un besoin estimé pendant le salon : « un total de 500 serveurs HGX (soit 4000 puces H100) ». Le 1.8SR-NV8, serveur à plateforme NVIDIA H100, est le modèle 2CRSi que le site du revendeur Earthmade Computer propose sur la capture du 20/05/2024.",
+   "texte": "Communiqué daté de San Jose : 2CRSi dit avoir finalisé pendant le salon GTC des ventes de serveurs d'IA pour 29,3 M$. Selon le texte, « les équipes commerciales 2CRSi Corp ont pu engranger de nouvelles commandes de serveurs GODì 1.8SR-NV8 » ; la commande s'élève à « environ 29 MUSD (prix liste) assortie d'une option pour deux commandes identiques tant en volume qu'en valeur. La première tranche sera livrée avant la fin de l'exercice fiscal prévu fin juin 2024. » Le communiqué ne donne ni le client, ni son pays, ni le nombre de serveurs. Il fait état d'un besoin estimé pendant le salon : « un total de 500 serveurs HGX (soit 4000 puces H100) ». Le 1.8SR-NV8, serveur à plateforme NVIDIA H100, est le modèle 2CRSi que le site du revendeur Earthmade Computer propose sur la capture du 20/05/2024.",
    "sources": [
     "S241",
     "S231"
@@ -11235,7 +11235,7 @@
    "reference": "Site de 2CRSi, page « Partenaires agréés 2CRSi aux Etats-Unis », consultée le 19/11/2026",
    "url": "https://2crsi.com/united-states",
    "archive": "integral",
-   "note": "Texte : textes/S237.txt (adresse électronique nominative non reproduite). Copie PDF de la page à archiver (textes/pdf/S237.pdf) : la page peut être modifiée à tout moment.",
+   "note": "Texte : textes/S237.txt (adresse électronique nominative non reproduite). Copie PDF de la page du 19/11/2026 à 21:59 : textes/pdf/S237.pdf.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -11265,7 +11265,7 @@
    "reference": "CP 2CRSi du 21/03/2024 : « Nouveau distributeur à Singapour »",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2024/03/FCEQS005736_20240321.pdf",
    "archive": "integral",
-   "note": "Texte : textes/S240.txt, relevé (pas le texte intégral). PDF à archiver.",
+   "note": "Texte intégral : textes/S240.txt. PDF : textes/pdf/S240.pdf.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -11275,7 +11275,7 @@
    "reference": "CP 2CRSi du 26/03/2024 : « GTC Nvidia 2024 : Des relations renforcées avec Nvidia et une nouvelle vente pour des serveurs d'IA »",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2024/03/FCEQS005743_20240326.pdf",
    "archive": "integral",
-   "note": "Texte : textes/S241.txt, relevé (pas le texte intégral). PDF à archiver.",
+   "note": "Texte intégral : textes/S241.txt. PDF : textes/pdf/S241.pdf.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -11285,7 +11285,7 @@
    "reference": "CP 2CRSi du 05/09/2024 : « 2CRSi annonce la production de ses nouveaux serveurs Godì 1.8ER-NV8 équipés de 8x GPU NVIDIA H200 SXM5, pour une valeur marchande estimée à 288 millions d'USD »",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2024/09/FCEQS006296_20240905.pdf",
    "archive": "integral",
-   "note": "Texte : textes/S242.txt, relevé (pas le texte intégral). PDF à archiver.",
+   "note": "Texte intégral : textes/S242.txt. PDF : textes/pdf/S242.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
