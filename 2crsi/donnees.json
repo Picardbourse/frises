@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T18:16",
+ "mis_a_jour": "2026-11-19T19:40",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 178,
-  "sources": 224
+  "evenements": 179,
+  "sources": 226
  },
  "evenements": [
   {
@@ -8099,6 +8099,35 @@
    "majeur": false
   },
   {
+   "id": "2026-11-19_bis-regle-puces-ia",
+   "date": "2026-11-19",
+   "date_affichee": "19 nov. 2026",
+   "sujets": [
+    "gouv",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "États-Unis : licence exigée pour les serveurs à puces avancées vers la Malaisie et Singapour, vérification des clients imposée aux fournisseurs",
+   "texte": "Le Bureau of Industry and Security (département du Commerce) publie au Federal Register une règle d'application immédiate, « Addressing Remote Access to Advanced Semiconductors ». Une licence, examinée au cas par cas, devient nécessaire pour les « exports, reexports, and transfers (in-country) » de circuits et d'ordinateurs de calcul avancé vers l'Indonésie, la Malaisie, Singapour, le Brésil et la Thaïlande, sauf destinataire à siège américain. Une licence est aussi requise lorsque l'exportateur sait que le matériel alimente un centre de données fournissant plus de 12 millions de « TPP » à des entreprises de Chine, de Macao ou d'un pays du groupe D:5 ; l'exportateur doit obtenir du centre de données des informations sur ses clients, et un refus fait présumer sa connaissance. Selon l'analyse du cabinet Gibson Dunn, la compétence américaine reste acquise sur une puce avancée incorporée dans un serveur fabriqué à l'étranger. Les envois déjà en route disposent de 30 jours. La règle abroge l'AI Diffusion Rule de janvier 2025 et ne nomme aucune société. Éléments du corpus qu'elle touche : 2CRSi a annoncé le 13/08/2025 un contrat de 47 M€ (prix liste) en Malaisie ; l'expert indépendant a relevé le 29/10/2026 « une connaissance insuffisante des contreparties », et le rapport annuel prévoit de « suivre la destination des équipements ». La société n'a pas commenté la règle à la date de sa publication.",
+   "sources": [
+    "S235",
+    "S236",
+    "S059",
+    "S162",
+    "S173"
+   ],
+   "sources_libelle": [
+    "Règle du BIS, Federal Register du 19/11/2026",
+    "Analyse Gibson Dunn (18/11/2026)",
+    "CP du 13/08/2025 (Malaisie)",
+    "CP du 29/10/2026 (expert indépendant)",
+    "Rapport financier annuel 2025-26"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": true
+  },
+  {
    "id": "2026-12-03_eurohpc-depot-lot2",
    "date": "2026-12-03",
    "date_affichee": "3 déc. 2026",
@@ -10997,6 +11026,25 @@
    "archive": "integral",
    "note": "Texte : textes/S234.txt, relevé vérifié sur le PDF le 19/11/2026. Agrégateur à défaut de PACER. PDF : textes/pdf/S234.pdf. Nom de la personne poursuivie non repris dans les textes.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S235",
+   "date_source": "2026-11-19",
+   "type": "officiel",
+   "reference": "Bureau of Industry and Security (États-Unis), « Addressing Remote Access to Advanced Semiconductors », interim final rule, RIN 0694-AK50, Federal Register du 19/11/2026 (91 FR 74970, document 2026-23529)",
+   "url": "https://public-inspection.federalregister.gov/2026-23529.pdf",
+   "archive": "integral",
+   "note": "Texte : textes/S235.txt, relevé en français (version « public inspection », lue pour moitié environ, recoupée avec S236). Version publiée : https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf (page en erreur le 19/11 au soir). PDF à archiver dans textes/pdf/S235.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S236",
+   "date_source": "2026-11-18",
+   "type": "analyste",
+   "reference": "Gibson Dunn, alerte du 18/11/2026 : « BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion »",
+   "url": "https://www.gibsondunn.com/bis-expands-advanced-computing-controls-to-address-data-center-remote-access-and-third-country-diversion/",
+   "archive": "reference",
+   "note": "Analyse d'un cabinet d'avocats, lue le 19/11/2026 ; sert à recouper S235, notamment sur les produits fabriqués hors des États-Unis."
   }
  ],
  "lieux": [
