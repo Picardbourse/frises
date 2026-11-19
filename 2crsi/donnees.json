@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T19:40",
+ "mis_a_jour": "2026-11-19T20:06",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -8108,7 +8108,7 @@
    ],
    "statut": "doc",
    "titre": "États-Unis : licence exigée pour les serveurs à puces avancées vers la Malaisie et Singapour, vérification des clients imposée aux fournisseurs",
-   "texte": "Le Bureau of Industry and Security (département du Commerce) publie au Federal Register une règle d'application immédiate, « Addressing Remote Access to Advanced Semiconductors ». Une licence, examinée au cas par cas, devient nécessaire pour les « exports, reexports, and transfers (in-country) » de circuits et d'ordinateurs de calcul avancé vers l'Indonésie, la Malaisie, Singapour, le Brésil et la Thaïlande, sauf destinataire à siège américain. Une licence est aussi requise lorsque l'exportateur sait que le matériel alimente un centre de données fournissant plus de 12 millions de « TPP » à des entreprises de Chine, de Macao ou d'un pays du groupe D:5 ; l'exportateur doit obtenir du centre de données des informations sur ses clients, et un refus fait présumer sa connaissance. Selon l'analyse du cabinet Gibson Dunn, la compétence américaine reste acquise sur une puce avancée incorporée dans un serveur fabriqué à l'étranger. Les envois déjà en route disposent de 30 jours. La règle abroge l'AI Diffusion Rule de janvier 2025 et ne nomme aucune société. Éléments du corpus qu'elle touche : 2CRSi a annoncé le 13/08/2025 un contrat de 47 M€ (prix liste) en Malaisie ; l'expert indépendant a relevé le 29/10/2026 « une connaissance insuffisante des contreparties », et le rapport annuel prévoit de « suivre la destination des équipements ». La société n'a pas commenté la règle à la date de sa publication.",
+   "texte": "Le Bureau of Industry and Security (département du Commerce) publie au Federal Register une règle d'application immédiate, « Addressing Remote Access to Advanced Semiconductors ». Une licence, examinée au cas par cas, devient nécessaire pour les « exports, reexports, and transfers (in-country) » de circuits et d'ordinateurs de calcul avancé vers l'Indonésie, la Malaisie, Singapour, le Brésil et la Thaïlande, sauf destinataire à siège américain. Une licence est aussi requise lorsque l'exportateur sait que le matériel alimente un centre de données fournissant plus de 12 millions de « TPP » à des entreprises de Chine, de Macao ou d'un pays du groupe D:5 ; l'exportateur doit obtenir du centre de données des informations sur ses clients, et un refus fait présumer sa connaissance. Le préambule précise que la compétence américaine demeure sur une puce avancée incorporée dans un matériel fabriqué à l'étranger, « such as a GPU board or server », et que des licences peuvent s'appliquer à la puce « and by extension, the server ». Les envois déjà en route disposent de 30 jours. La règle abroge l'AI Diffusion Rule de janvier 2025 et ne nomme aucune société. Éléments du corpus qu'elle touche : 2CRSi a annoncé le 13/08/2025 un contrat de 47 M€ (prix liste) en Malaisie ; l'expert indépendant a relevé le 29/10/2026 « une connaissance insuffisante des contreparties », et le rapport annuel prévoit de « suivre la destination des équipements ». La société n'a pas commenté la règle à la date de sa publication.",
    "sources": [
     "S235",
     "S236",
@@ -11034,7 +11034,7 @@
    "reference": "Bureau of Industry and Security (États-Unis), « Addressing Remote Access to Advanced Semiconductors », interim final rule, RIN 0694-AK50, Federal Register du 19/11/2026 (91 FR 74970, document 2026-23529)",
    "url": "https://public-inspection.federalregister.gov/2026-23529.pdf",
    "archive": "integral",
-   "note": "Texte : textes/S235.txt, relevé en français (version « public inspection », lue pour moitié environ, recoupée avec S236). Version publiée : https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf (page en erreur le 19/11 au soir). PDF à archiver dans textes/pdf/S235.pdf.",
+   "note": "Texte : textes/S235.txt, relevé en français (version « public inspection », relue sur le PDF, recoupée avec S236). Version publiée : https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf (page en erreur le 19/11 au soir). PDF : textes/pdf/S235.pdf.",
    "texte_archive": "sources_textes.json"
   },
   {
