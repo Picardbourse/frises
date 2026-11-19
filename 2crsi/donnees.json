@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T22:24",
+ "mis_a_jour": "2026-11-19T23:03",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 183,
-  "sources": 232
+  "evenements": 184,
+  "sources": 233
  },
  "evenements": [
   {
@@ -2326,7 +2326,7 @@
    ],
    "statut": "doc",
    "titre": "Valeo et 2CRSi présentent un data center edge à immersion pour l'Inde",
-   "texte": "Présentation à l'AI Impact Summit de New Delhi. Unité compacte sans eau ni refroidisseur, pour la 5G et l'inférence IA. Conception et production en Inde (sites Valeo de Pune et Chennai). Aucun montant ni volume publié.",
+   "texte": "Communiqué commun publié à l'AI Impact Summit de New Delhi. Valeo et 2CRSi y présentent une unité de centre de données de périphérie refroidie par immersion, autonome, sans eau ni refroidisseur, destinée aux sites proches des antennes relais ; le texte la dit « totalement fonctionnelle » et parle d'une « alliance stratégique ». 2CRSi apporte son expertise « en architecture et fabrication de serveurs », Valeo la gestion thermique et l'intégration système. Pour commercialiser la technologie, les partenaires suivront en 2026 « une feuille de route d'industrialisation rigoureuse », « incluant des séries pilotes, des validations terrain approfondies et des processus de certification ». La conception pour l'industrialisation et la production « seront réalisées en Inde, en s'appuyant sur l'empreinte industrielle de Valeo à Pune et Chennai ». Seule donnée de puissance : l'exemple d'« une charge IT de 1,5 kW ». Le communiqué ne donne ni volume, ni montant, ni opérateur client, et ne précise ni la forme juridique de l'alliance ni qui vend le produit.",
    "sources": [
     "S004"
    ],
@@ -2340,7 +2340,7 @@
      "echeance": "2026-11-30",
      "statut": "todo",
      "statue_par": null,
-     "note": "Citation reprise du résumé de S004 ; texte intégral du CP à archiver. Au webinaire du 03/11/2026 (S186), le PDG indique que des problèmes techniques restent à régler « d'ici du mois de décembre » et que des clients « attendent un prototype pour le tester et le valider définitivement » ; statut à établir sur une source postérieure au 30/11/2026."
+     "note": "Citation vérifiée sur le texte intégral du CP (S004). Au webinaire du 03/11/2026 (S186), le PDG indique que des problèmes techniques restent à régler « d'ici du mois de décembre » et que des clients « attendent un prototype pour le tester et le valider définitivement » ; statut à établir sur une source postérieure au 30/11/2026."
     }
    ],
    "liens": [
@@ -2478,6 +2478,53 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2026-02-18_valeo-inde-elevate",
+   "date": "2026-02-18",
+   "date_affichee": "18 févr. 2026",
+   "sujets": [
+    "valeo"
+   ],
+   "statut": "doc",
+   "titre": "Valeo : plus de 200 M€ d'investissements automobiles en Inde ; le projet avec 2CRSi cité parmi les « nouvelles applications »",
+   "texte": "Deux jours après le communiqué commun, Valeo détaille à New Delhi son plan pour l'Inde : plus de 200 M€ d'investissements et un objectif d'environ 700 M€ de ventes en 2028, avec de nouvelles lignes automobiles à Pune (essieux électriques) et à Sanand (caméras). Le partenariat avec 2CRSi figure dans une section intitulée « From Automotive to New Applications, Including Data Center Cooling » : la collaboration, « established in November 2025 », porte sur une solution de calcul de périphérie refroidie par immersion, dont un usage principal est « supporting 5G deployment in India, where Valeo provides the essential casing and thermal management for the servers ». Le communiqué n'annonce pour cette activité ni ligne de production dédiée, ni volume, ni client, ni montant.",
+   "sources": [
+    "S244"
+   ],
+   "sources_libelle": [
+    "CP Valeo du 18/02/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-02-16_valeo-new-delhi"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-02-18",
+      "cloture": 20.0,
+      "volume": 1075822,
+      "variation_pct": 16.0,
+      "volume_vs_moy20": 2.6
+     },
+     {
+      "role": "suivante",
+      "date": "2026-02-19",
+      "cloture": 22.25,
+      "volume": 862030,
+      "variation_pct": 11.3,
+      "volume_vs_moy20": 1.8
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2026-02-24_chemours",
@@ -8599,12 +8646,13 @@
   {
    "sujet": "valeo",
    "question": "Le démarrage industriel en Inde de novembre 2026 est-il confirmé ?",
-   "etat": "Le CP du 16/02/2026 prévoit un « démarrage de production en novembre 2026 » (texte relu : PUE d'environ 1,6 à moins de 1,1, 30 à 35 % de consommation en moins). Le 03/11/2026, le PDG évoque des difficultés techniques. Au 19/11/2026, ni Valeo ni 2CRSi n'ont annoncé ce démarrage ; le CP de Valeo du 18/11 sur le refroidissement des centres de données ne parle ni d'immersion ni de l'Inde.",
+   "etat": "Le CP du 16/02/2026 prévoit un « démarrage de production en novembre 2026 » (texte relu : PUE d'environ 1,6 à moins de 1,1, 30 à 35 % de consommation en moins). Le 03/11/2026, le PDG évoque des difficultés techniques. Au 19/11/2026, ni Valeo ni 2CRSi n'ont annoncé ce démarrage ; le CP de Valeo du 18/11 sur le refroidissement des centres de données ne parle ni d'immersion ni de l'Inde. Le communiqué du 16/02 disait la solution « totalement fonctionnelle » ; il ne donne ni volume ni client, et Valeo, le 18/02/2026, n'annonce aucune ligne de production dédiée. Les « 100 000 produits » évoqués par le PDG de 2CRSi le 03/11/2026 ne figurent dans aucun communiqué.",
    "attendu": "Une communication de Valeo ou de 2CRSi.",
    "sources": [
     "S004",
     "S186",
-    "S228"
+    "S228",
+    "S244"
    ]
   },
   {
@@ -9033,7 +9081,7 @@
    "reference": "CP Valeo × 2CRSi : solution edge à immersion pour l'Inde (AI Impact Summit, New Delhi)",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2026/02/FCEQS008030_20260216.pdf",
    "archive": "integral",
-   "note": "Restitution relue sur le PDF d'origine le 19/11/2026 dans textes/S004.txt (citations exactes entre guillemets, pas le texte intégral).",
+   "note": "Texte intégral : textes/S004.txt. PDF : textes/pdf/S004.pdf (fourni par Picard le 19/11/2026).",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -11286,6 +11334,16 @@
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2024/09/FCEQS006296_20240905.pdf",
    "archive": "integral",
    "note": "Texte intégral : textes/S242.txt. PDF : textes/pdf/S242.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S244",
+   "date_source": "2026-02-18",
+   "type": "CP tiers",
+   "reference": "CP Valeo du 18/02/2026 : « Valeo Accelerates Industrial Footprint and Technologies in India as Part of its Elevate 2028 Strategic Plan »",
+   "url": "https://www.valeo.com/en/valeo-accelerates-industrial-footprint-and-technologies-in-india-as-part-of-its-elevate-2028-strategic-plan/",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   }
  ],
