@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T18:03",
+ "mis_a_jour": "2026-11-19T18:16",
  "arrete_au": "2026-11-19",
  "version_provisoire": false,
  "config": {
@@ -5572,7 +5572,7 @@
    ],
    "sources_libelle": [
     "Communiqué du département de la Justice (01/10/2026)",
-    "Acte d'accusation du 29/09/2026 (relevé par lecture automatique)"
+    "Acte d'accusation du 29/09/2026"
    ],
    "engagements": [],
    "liens": [],
@@ -10995,7 +10995,7 @@
    "reference": "Acte d'accusation du 29/09/2026, affaire 2:26-cr-00618-ODW, U.S. District Court, Central District of California (copie mise en ligne par Courthouse News)",
    "url": "https://www.courthousenews.com/wp-content/uploads/2026/10/greg-lui-indictment.pdf",
    "archive": "integral",
-   "note": "Texte : textes/S234.txt, relevé par lecture automatique (numéros de paragraphe à vérifier sur le PDF). Agrégateur à défaut de PACER. PDF à archiver dans textes/pdf/S234.pdf. Nom de la personne poursuivie non repris dans les textes.",
+   "note": "Texte : textes/S234.txt, relevé vérifié sur le PDF le 19/11/2026. Agrégateur à défaut de PACER. PDF : textes/pdf/S234.pdf. Nom de la personne poursuivie non repris dans les textes.",
    "texte_archive": "sources_textes.json"
   }
  ],
