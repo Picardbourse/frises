@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-19",
- "mis_a_jour": "2026-11-19T23:03",
- "arrete_au": "2026-11-19",
+ "genere_le": "2026-11-20",
+ "mis_a_jour": "2026-11-20T13:54",
+ "arrete_au": "2026-11-20",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 184,
-  "sources": 233
+  "sources": 236
  },
  "evenements": [
   {
@@ -8320,6 +8320,14 @@
       "volume": 204583,
       "variation_pct": -4.6,
       "volume_vs_moy20": 0.4
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-18",
+      "cloture": 16.27,
+      "volume": 280184,
+      "variation_pct": -0.7,
+      "volume_vs_moy20": 0.6
      }
     ]
    },
@@ -8632,7 +8640,7 @@
   {
    "sujet": "aether",
    "question": "Combien de membres compte le consortium ÆTHER ?",
-   "etat": "Douze membres au CP du 08/07/2026, confirmés de leur côté par OUTSCALE (blog du 29/07) ; un média en compte treize. Le CP du 12/10/2026 liste des « partenaires qui viennent compléter cet écosystème », dont quatre jamais cités auparavant (VSORA, Superphenix, Clever Cloud, Valeo) ; Socomec et Haffner Energy ne figurent pas dans cette liste mais sont cités dans le corps du communiqué comme associés aux solutions énergétiques à l'étude (stockage « avec SOCOMEC », unité de thermolyse « étudiée avec Haffner Energy »). Aucun des nouveaux noms n'a communiqué sur ÆTHER à ce jour ; VSORA, SiPearl et Equans figurent aussi dans l'écosystème du consortium concurrent AION (CP du 20/05/2026). Une infographie du même jour diffusée sur LinkedIn par un salarié de 2CRSi range au contraire les vingt noms, dont NVIDIA, AMD, Socomec et Haffner Energy, sous le titre « LE CONSORTIUM ÆTHER ».",
+   "etat": "Douze membres au CP du 08/07/2026, confirmés de leur côté par OUTSCALE (blog du 29/07) ; un média en compte treize. Le CP du 12/10/2026 liste des « partenaires qui viennent compléter cet écosystème », dont quatre jamais cités auparavant (VSORA, Superphenix, Clever Cloud, Valeo) ; Socomec et Haffner Energy ne figurent pas dans cette liste mais sont cités dans le corps du communiqué comme associés aux solutions énergétiques à l'étude (stockage « avec SOCOMEC », unité de thermolyse « étudiée avec Haffner Energy »). Aucun des nouveaux noms n'a communiqué sur ÆTHER à ce jour ; VSORA, SiPearl et Equans figurent aussi dans l'écosystème du consortium concurrent AION (CP du 20/05/2026). Une infographie du même jour diffusée sur LinkedIn par un salarié de 2CRSi range au contraire les vingt noms, dont NVIDIA, AMD, Socomec et Haffner Energy, sous le titre « LE CONSORTIUM ÆTHER ». Deux liens rattachent en outre ces noms au consortium concurrent : Ardian, membre fondateur d'AION, mène le tour de financement de VSORA annoncé le 01/07/2026 (participation minoritaire selon le cabinet conseil d'Ardian) ; EDF, membre fondateur d'AION, est l'actionnaire majoritaire d'Électricité de Strasbourg, membre d'ÆTHER (rapport d'activité 2025 d'ÉS). Le communiqué de SiPearl du 08/07/2026 sur ÆTHER ne mentionne pas AION.",
    "attendu": "Une liste à jour publiée par le consortium.",
    "sources": [
     "S008",
@@ -8640,7 +8648,10 @@
     "S113",
     "S114",
     "S115",
-    "S116"
+    "S116",
+    "S246",
+    "S247",
+    "S248"
    ]
   },
   {
@@ -11345,6 +11356,36 @@
    "archive": "extrait",
    "note": "",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S246",
+   "date_source": "2026-07-01",
+   "type": "CP tiers",
+   "reference": "Communiqué de VSORA du 01/07/2026, publié sur le site d'Omnes Capital : « VSORA enters a new phase, as Ardian joins its shareholder base »",
+   "url": "https://www.omnescapital.com/press-release/vsora-enters-a-new-phase-as-ardian-joins-its-shareholder-base",
+   "archive": "integral",
+   "note": "Relevé par lecture automatisée le 20/11/2026 (textes/S246.txt) ; texte intégral non archivé, formules à contrôler sur la page.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S247",
+   "date_source": "2026-07-09",
+   "type": "CP tiers",
+   "reference": "Communiqué du cabinet McDermott Will & Schulte du 09/07/2026 : conseil d'Ardian pour une prise de participation minoritaire dans VSORA",
+   "url": "https://www.mcdermottlaw.com/news/mcdermott-will-schulte-advises-ardian-on-a-minority-investment-in-vsora/",
+   "archive": "integral",
+   "note": "Relevé par lecture automatisée le 20/11/2026 (textes/S247.txt).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S248",
+   "date_source": "2026-03-25",
+   "type": "officiel",
+   "reference": "Électricité de Strasbourg, rapport d'activité 2025 (extrait « EDD », fichier daté du 25/03/2026)",
+   "url": "https://groupe.es.fr/sites/default/files/documents/20260325%20Electricite_de_Strasbourg_RA_2025_Extrait_EDD.pdf",
+   "archive": "integral",
+   "note": "Relevé par lecture automatisée le 20/11/2026 (textes/S248.txt) : EDF y est présenté comme actionnaire majoritaire ; pourcentage du capital non relevé (document lu jusqu'aux deux tiers). PDF à archiver.",
+   "texte_archive": "sources_textes.json"
   }
  ],
  "lieux": [
@@ -13240,7 +13281,8 @@
    "2026-11-12",
    "2026-11-13",
    "2026-11-16",
-   "2026-11-17"
+   "2026-11-17",
+   "2026-11-18"
   ],
   "cloture": [
    5.37,
@@ -14748,7 +14790,8 @@
    18.33,
    18.31,
    17.18,
-   16.39
+   16.39,
+   16.27
   ],
   "volume": [
    217653,
@@ -16256,7 +16299,8 @@
    338721,
    509127,
    312046,
-   204583
+   204583,
+   280184
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
