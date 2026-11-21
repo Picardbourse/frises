@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-05",
- "mis_a_jour": "2026-11-05T07:59",
- "arrete_au": "2026-11-05",
+ "genere_le": "2026-11-21",
+ "mis_a_jour": "2026-11-21T22:51",
+ "arrete_au": "2026-11-21",
  "version_provisoire": false,
  "config": {
   "code": "theranexus",
@@ -73,8 +73,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 150,
-  "sources": 171
+  "evenements": 151,
+  "sources": 174
  },
  "evenements": [
   {
@@ -6711,6 +6711,28 @@
    "majeur": true
   },
   {
+   "id": "2026-03-26_declarations-dirigeants",
+   "date": "2026-03-26",
+   "date_affichee": "mars 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Déclarations à l'AMF : le PDG lève et cède 22 436 BSPCE, le directeur général adjoint lève et cède 12 257 options",
+   "texte": "Mathieu Charvériat, PDG : le 26/03/2026, « Levée vente BSPCE » portant sur 22 436 titres, au prix moyen de 3,0225 € ; commentaire de la déclaration : « Levée-vente de BSPCE issus du plan attribué en 2016, avant l'introduction en Bourse, d'une durée de 10 ans, et arrivant à caducité en mars/avril 2026 » (déclaration du 30/03/2026). Julien Veys, directeur général adjoint : acquisitions par exercice d'options au prix de 2,9671 € et cessions le même jour de 4 944 titres à 3,10 € (16/03), 2 825 à 3,12 € (18/03) et 4 488 à 3,05 € (20/03), soit 12 257 titres (déclaration reçue le 01/04/2026). Ce sont les deux seules déclarations de dirigeants retrouvées dans la base de l'AMF pour la société (recherche du 21/11/2026 par nom de société).",
+   "sources": [
+    "S173",
+    "S174"
+   ],
+   "sources_libelle": [
+    "Déclaration de dirigeant AMF 2026DD1104316 (30/03/2026)",
+    "Déclaration de dirigeant AMF 2026DD1105382 (02/04/2026)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
    "id": "2026-04-28_resultats-annuels-2025",
    "date": "2026-04-28",
    "date_affichee": "28 avr. 2026",
@@ -7130,14 +7152,16 @@
    ],
    "statut": "doc",
    "titre": "Phase 3 Batten-1-02 déposée (FDA, MHRA, 6 pays UE) : environ 27 enfants, en ouvert, 52 semaines, financée par Biocodex",
-   "texte": "Étude multicentrique à bras unique (10 centres aux États-Unis et en Europe), enfants de 4 à 17 ans, critère principal acuité visuelle comparée à l'histoire naturelle (NIH, UKE Hambourg). Recrutement attendu d'ici fin 2026 sous réserve des autorisations. La fiche NCT07882290 (lue via un agrégateur) indique BBDF comme promoteur, un début prévu le 01/12/2026 et une fin estimée au 01/06/2028. Ce design diffère de celui annoncé en mai-juin 2023 après les avis FDA et EMA (environ 60 patients, double aveugle contre placebo, 2 ans) ; les CP de 2026 ne commentent pas ce changement. Aucune entrée CTIS publique retrouvée au 04/11/2026.",
+   "texte": "Étude multicentrique à bras unique (10 centres aux États-Unis et en Europe), enfants de 4 à 17 ans, critère principal acuité visuelle comparée à l'histoire naturelle (NIH, UKE Hambourg). Recrutement attendu d'ici fin 2026 sous réserve des autorisations. La fiche NCT07882290 du registre ClinicalTrials.gov (soumise le 21/07/2026, publiée le 20/10/2026) indique la BBDF comme promoteur et Theranexus comme collaborateur, 27 patients, un début estimé en décembre 2026 et une fin de collecte du critère principal estimée en juin 2028 ; statut « Not yet recruiting ». Ce design diffère de celui annoncé en mai-juin 2023 après les avis FDA et EMA (environ 60 patients, double aveugle contre placebo, 2 ans) ; les CP de 2026 ne commentent pas ce changement. Le document d'enregistrement universel 2025, déposé le 29/04/2026, décrit encore une « étude multicentrique randomisée en double-aveugle » contre placebo, portant sur « environ 76 patients CLN3 âgés de 4 à 16 ans » et « deux ans de traitement » (§ 5.2.3). La fiche du registre porte l'identifiant CTIS 2023-510533-29-00 ; aucune entrée CTIS publique retrouvée au 04/11/2026.",
    "sources": [
     "S164",
-    "S163"
+    "S172",
+    "S157"
    ],
    "sources_libelle": [
     "CP THX Pharma du 01/09/2026",
-    "Registre (patient.info) du 01/09/2026"
+    "Registre ClinicalTrials.gov, fiche NCT07882290 (publiée le 20/10/2026)",
+    "DEU 2025 (29/04/2026)"
    ],
    "engagements": [
     {
@@ -7367,15 +7391,15 @@
     "batten"
    ],
    "statut": "echeance",
-   "titre": "Échéance : premiers patients de la phase 3 Batten-1-02 attendus d'ici fin 2026 (début prévu le 1er décembre au registre)",
+   "titre": "Échéance : premiers patients de la phase 3 Batten-1-02 attendus d'ici fin 2026 (début estimé en décembre 2026 au registre)",
    "texte": "Annoncé dans les CP du 01/09, du 29/09 et du 22/10/2026, sous réserve des autorisations FDA, MHRA et CTIS. Le recrutement de la phase 3 avait été annoncé pour fin 2023 en mai 2023.",
    "sources": [
     "S171",
-    "S163"
+    "S172"
    ],
    "sources_libelle": [
     "CP THX Pharma du 22/10/2026",
-    "Registre (patient.info) du 01/09/2026"
+    "Registre ClinicalTrials.gov, fiche NCT07882290 (publiée le 20/10/2026)"
    ],
    "engagements": [],
    "liens": [
@@ -7466,13 +7490,13 @@
     "regl"
    ],
    "statut": "echeance",
-   "titre": "Échéance : fin estimée de l'étude Batten-1-02 au 1er juin 2028 (registre)",
-   "texte": "Date figurant sur la fiche NCT07882290 lue via un agrégateur [non vérifié sur la fiche primaire].",
+   "titre": "Échéance : fin de collecte du critère principal de Batten-1-02 estimée en juin 2028 (registre)",
+   "texte": "Date estimée figurant sur la fiche NCT07882290 du registre ClinicalTrials.gov (publiée le 20/10/2026) : « Primary Completion » en juin 2028, pour un début estimé en décembre 2026 et 52 semaines de traitement.",
    "sources": [
-    "S163"
+    "S172"
    ],
    "sources_libelle": [
-    "Registre (patient.info) du 01/09/2026"
+    "Registre ClinicalTrials.gov, fiche NCT07882290 (publiée le 20/10/2026)"
    ],
    "engagements": [],
    "liens": [
@@ -7539,24 +7563,26 @@
   {
    "sujet": "batten",
    "question": "Pourquoi le design de la phase 3 de Batten-1 est-il passé d'environ 60 patients en double aveugle sur 2 ans à 27 patients en ouvert sur 52 semaines ?",
-   "etat": "Mai-juin 2023 : accords FDA et EMA annoncés sur une étude randomisée en double aveugle contre placebo d'environ 60 enfants de 4 à 16 ans sur 2 ans, plus une cohorte ouverte de 9 patients. Juillet 2024 : étude « optimisée » après les données à 18 mois. Septembre 2025 : « phase 3 européenne ouverte (~20 patients, 12 mois) ». 01/09/2026 : dépôts d'une étude à bras unique d'environ 27 enfants de 4 à 17 ans sur 52 semaines, comparée à l'histoire naturelle. Aucun CP ne dit si le nouveau design a reçu l'accord de la FDA et de l'EMA.",
-   "attendu": "Fiche ClinicalTrials.gov primaire et fiche CTIS ; autorisations FDA, MHRA et UE ; compte rendu d'une nouvelle interaction avec la FDA et l'EMA.",
+   "etat": "Mai-juin 2023 : accords FDA et EMA annoncés sur une étude randomisée en double aveugle contre placebo d'environ 60 enfants de 4 à 16 ans sur 2 ans, plus une cohorte ouverte de 9 patients. Juillet 2024 : étude « optimisée » après les données à 18 mois. Septembre 2025 : « phase 3 européenne ouverte (~20 patients, 12 mois) ». 01/09/2026 : dépôts d'une étude à bras unique d'environ 27 enfants de 4 à 17 ans sur 52 semaines, comparée à l'histoire naturelle. Le DEU 2025 (29/04/2026) décrit encore une étude randomisée en double aveugle contre placebo d'« environ 76 patients » sur deux ans. La fiche primaire du registre (publiée le 20/10/2026) confirme l'étude à bras unique de 27 patients. Aucun CP ne dit si le nouveau design a reçu l'accord de la FDA et de l'EMA.",
+   "attendu": "Fiche CTIS ; autorisations FDA, MHRA et UE ; compte rendu d'une nouvelle interaction avec la FDA et l'EMA.",
    "sources": [
     "S102",
     "S104",
     "S124",
     "S145",
     "S164",
-    "S163"
+    "S163",
+    "S172",
+    "S157"
    ]
   },
   {
    "sujet": "batten",
    "question": "Qui est le promoteur de la phase 3 : la BBDF ou THX Pharma ?",
-   "etat": "La fiche NCT07882290 affiche la BBDF comme promoteur (contact THX Pharma), comme pour Batten-1-01 où Theranexus n'est que collaborateur. Le CP Biocodex du 10/02/2026 indique que THX Pharma « conduit le développement clinique », et le CP semestriel 2026 que les coûts sont refacturés à Biocodex. En 2022, la société indiquait un CIR réduit car l'essai américain n'était pas éligible.",
+   "etat": "La fiche NCT07882290 du registre ClinicalTrials.gov affiche la BBDF comme promoteur et responsable de l'étude, Theranexus comme collaborateur, comme pour Batten-1-01 où Theranexus n'est que collaborateur. Le CP Biocodex du 10/02/2026 indique que THX Pharma « conduit le développement clinique », et le CP semestriel 2026 que les coûts sont refacturés à Biocodex. En 2022, la société indiquait un CIR réduit car l'essai américain n'était pas éligible.",
    "attendu": "Fiche CTIS (promoteur légal UE), autorisation FDA (titulaire de l'IND), contrat THX/BBDF/Biocodex.",
    "sources": [
-    "S163",
+    "S172",
     "S141",
     "S152",
     "S167",
@@ -7566,13 +7592,16 @@
   {
    "sujet": "gouv",
    "question": "D'où viennent les 747 259 actions créées entre novembre 2025 et juin 2026 ?",
-   "etat": "13 796 556 actions après l'augmentation de capital du 17/11/2025 ; 14 543 815 actions au 30/06/2026 selon le rapport semestriel ; BODACC du 31/08/2026 (capital porté à 145 438,15 €, palier intermédiaire de 14 472 800 actions) ; décision du conseil du 10/08/2026. Instruments en circulation : 304 000 BSA, 60 000 BSPCE, 540 000 actions gratuites. Aucun CP sur cette émission.",
+   "etat": "13 796 556 actions après l'augmentation de capital du 17/11/2025 ; 14 543 815 actions au 30/06/2026 selon le rapport semestriel ; BODACC du 31/08/2026 (capital porté à 145 438,15 €, palier intermédiaire de 14 472 800 actions) ; décision du conseil du 10/08/2026. Instruments en circulation : 304 000 BSA, 60 000 BSPCE, 540 000 actions gratuites. Aucun CP sur cette émission. Le DEU 2025 (§ 19.1.7) indique 344 222 actions gratuites du plan 2024 définitivement acquises le 17/01/2026 et 332 000 du plan 2023 acquises le 07/05/2025 ; son tableau d'actionnariat attribue 591 442 actions à Mathieu Charvériat, contre 337 131 après l'opération de novembre 2025. Deux déclarations à l'AMF font état d'exercices de BSPCE et d'options en mars 2026. Ces éléments n'expliquent pas la totalité de l'écart.",
    "attendu": "Rapport complémentaire du conseil, décisions d'attribution définitive d'actions gratuites ou d'exercice de BSA, déclaration mensuelle des droits de vote.",
    "sources": [
     "S148",
     "S166",
     "S168",
-    "S170"
+    "S170",
+    "S157",
+    "S173",
+    "S174"
    ]
   },
   {
@@ -9550,6 +9579,35 @@
    "archive": "integral",
    "note": "Résumé ABC Bourse du CP Actusnews du 22 octobre 2026 (18h00) ; le CP intégral est référencé sur ABC Bourse sous l'ID 704728. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S172",
+   "date_source": "2026-10-20",
+   "type": "registre",
+   "reference": "ClinicalTrials.gov du 20/10/2026 : NCT07882290, phase 3 Batten-1-02 (fiche primaire)",
+   "url": "https://clinicaltrials.gov/study/NCT07882290",
+   "archive": "integral",
+   "note": "Fiche lue le 21/11/2026 par l'API du registre (api/v2/studies/NCT07882290) depuis le navigateur du PC. Promoteur : Beyond Batten Disease Foundation ; collaborateur : Theranexus ; identifiant CTIS 2023-510533-29-00 ; 27 patients (estimation) ; soumise le 21/07/2026 ; début estimé 12/2026 ; fin de collecte du critère principal estimée 06/2028 ; statut vérifié en 10/2026. Remplace S163 (agrégateur). Texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S173",
+   "date_source": "2026-03-30",
+   "type": "AMF",
+   "reference": "Déclaration de dirigeant AMF 2026DD1104316 du 30/03/2026 : Mathieu Charvériat, levée-vente de BSPCE",
+   "url": "https://bdif.amf-france.org/",
+   "archive": "integral",
+   "note": "Base BDIF de l'AMF, recherche « thx pharma » du 21/11/2026 ; PDF lu. Transaction du 26/03/2026 : 10 000 titres à 3,0478 € et 12 436 à 3,0022 €, soit 22 436 à 3,0225 €. PDF à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S174",
+   "date_source": "2026-04-02",
+   "type": "AMF",
+   "reference": "Déclaration de dirigeant AMF 2026DD1105382 du 02/04/2026 : Julien Veys, exercices et cessions d'options",
+   "url": "https://bdif.amf-france.org/",
+   "archive": "reference",
+   "note": "Base BDIF de l'AMF, recherche du 21/11/2026 ; PDF lu. Six transactions des 16, 18 et 20/03/2026 : acquisitions à 2,9671 € et cessions de 4 944 titres à 3,10 €, 2 825 à 3,12 €, 4 488 à 3,05 €. Notification reçue le 01/04/2026. PDF à archiver."
   }
  ],
  "lieux": [],
@@ -11865,7 +11923,18 @@
    "2026-10-30",
    "2026-11-02",
    "2026-11-03",
-   "2026-11-04"
+   "2026-11-04",
+   "2026-11-05",
+   "2026-11-06",
+   "2026-11-09",
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-13",
+   "2026-11-16",
+   "2026-11-17",
+   "2026-11-18",
+   "2026-11-19"
   ],
   "cloture": [
    15.6,
@@ -14175,7 +14244,18 @@
    3.31,
    3.325,
    3.4,
-   3.44
+   3.44,
+   3.26,
+   3.2,
+   3.33,
+   3.42,
+   3.5,
+   3.48,
+   3.32,
+   3.27,
+   3.175,
+   3.21,
+   3.22
   ],
   "volume": [
    7559,
@@ -16485,7 +16565,18 @@
    73733,
    30662,
    35799,
-   82150
+   82550,
+   68810,
+   73280,
+   25639,
+   41196,
+   63677,
+   41651,
+   50135,
+   47821,
+   28577,
+   29469,
+   33254
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
