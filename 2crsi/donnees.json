@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-20",
- "mis_a_jour": "2026-11-20T20:27",
- "arrete_au": "2026-11-20",
+ "genere_le": "2026-11-21",
+ "mis_a_jour": "2026-11-21T07:26",
+ "arrete_au": "2026-11-21",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 184,
-  "sources": 236
+  "evenements": 185,
+  "sources": 238
  },
  "evenements": [
   {
@@ -8334,6 +8334,59 @@
    "majeur": false
   },
   {
+   "id": "2026-11-18_nygc-demande-permis",
+   "date": "2026-11-19",
+   "date_affichee": "19 nov. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "NYGC dépose au comté d'Amador la demande de permis du data center de Buena Vista : 14,4 MW, en une seule phase",
+   "texte": "NewYork GreenCloud, LLC dépose le 19/11/2026 auprès du Planning Department du comté d'Amador une demande de permis d'usage conditionnel pour le « Buena Vista Data Center » (référence UP-26;11-2 ; lettre de son dirigeant datée du 18/11). Le dossier décrit « a 14.4 MW data center with supporting facilities to be powered by the existing 18.5 MW Buena Vista Biomass Power facility » : deux salles formées de quatre bâtiments modulaires préfabriqués (12 994 pieds carrés), un stockage par batteries de 10 MW / 20 MWh et trois turbines à gaz de 6 MW en secours ; l'électricité excédentaire serait vendue au réseau californien. Il indique : « Construction is anticipated to take approximately 8 months » et « The Project would not be developed in phases ». Le terrain appartient à Oneto Group, Inc., qui a donné son accord par lettre du 29/10/2026 ; NYGC y dispose d'environ 30 acres « under lease ». Le dossier ne mentionne ni 2CRSi, ni les serveurs, ni un client. NYGC présentait jusque-là un data center de 16 MW (séance du 22/09, site de NYGC). Le Ledger Dispatch publie le dossier complet le 20/11. Selon le directeur du Planning, le comté « has 30 days to determine if the application is complete » ; un dossier complet doit permettre de déterminer le niveau d'étude environnementale, « Negative Declaration or EIR ». Aucune date de décision n'est fixée. Le moratoire demandé par des habitants n'a pas été inscrit à l'ordre du jour du Board of Supervisors.",
+   "sources": [
+    "S245",
+    "S249",
+    "S225",
+    "S112"
+   ],
+   "sources_libelle": [
+    "Demande de permis UP-26;11-2, comté d'Amador (18-19/11/2026)",
+    "Ledger Dispatch, 20/11/2026",
+    "Séance du Board of Supervisors du 22/09/2026",
+    "Site de NYGC, capture du 11/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-22_amador-22-09"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-08_ledger-church"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-nygc-290"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-19",
+      "cloture": 15.87,
+      "volume": 314381,
+      "variation_pct": -2.5,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-11-19_bis-regle-puces-ia",
    "date": "2026-11-19",
    "date_affichee": "19 nov. 2026",
@@ -8360,6 +8413,20 @@
    ],
    "engagements": [],
    "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-19",
+      "cloture": 15.87,
+      "volume": 314381,
+      "variation_pct": -2.5,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -11358,6 +11425,16 @@
    "texte_archive": "sources_textes.json"
   },
   {
+   "id": "S245",
+   "date_source": "2026-11-18",
+   "type": "officiel",
+   "reference": "Comté d'Amador, Planning Department : demande de permis d'usage de NewYork GreenCloud, LLC pour le « Buena Vista Data Center », réf. UP-26;11-2 (lettre du 18/11/2026, droits payés le 19/11/2026)",
+   "url": "https://www.ledger.news/news/data-center-debate-intensifies-as-nygc-files-application-with-county-for-14-4-megawatt-ai/article_0f97ccb1-afac-4835-8eff-f11b7c117c75.html",
+   "archive": "integral",
+   "note": "Texte : textes/S245.txt, relevé (numérisation sans couche texte). Document rendu public le 20/11/2026 par le Ledger Dispatch, qui l'intègre en PDF à son article (S249) ; même numérisation (créée le 19/11/2026 à 17:07 PST), la copie du Ledger porte une date de modification du 19/11 à 21:52 PST. Copie reçue par Picard le 20/11/2026 conservée sur le PC (*PRIVE*) ; PDF du Ledger à archiver dans textes/pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
    "id": "S246",
    "date_source": "2026-07-01",
    "type": "CP tiers",
@@ -11385,6 +11462,16 @@
    "url": "https://groupe.es.fr/sites/default/files/documents/20260325%20Electricite_de_Strasbourg_RA_2025_Extrait_EDD.pdf",
    "archive": "integral",
    "note": "Relevé par lecture automatisée le 20/11/2026 (textes/S248.txt) : EDF y est présenté comme actionnaire majoritaire ; pourcentage du capital non relevé (document lu jusqu'aux deux tiers). PDF à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S249",
+   "date_source": "2026-11-20",
+   "type": "presse",
+   "reference": "Ledger Dispatch (Jackson, Californie), 20/11/2026, J. Malamed : « Data center debate intensifies as NYGC files application with county for 14.4-megawatt AI factory »",
+   "url": "https://www.ledger.news/news/data-center-debate-intensifies-as-nygc-files-application-with-county-for-14-4-megawatt-ai/article_0f97ccb1-afac-4835-8eff-f11b7c117c75.html",
+   "archive": "integral",
+   "note": "Texte intégral relevé le 21/11/2026 dans textes/S249.txt. Propos du directeur du Planning du comté (délai de 30 jours, choix entre déclaration négative et EIR) ; déclaration du collectif ADCC. L'article intègre la demande complète (S245). Page à archiver en PDF.",
    "texte_archive": "sources_textes.json"
   }
  ],
@@ -13282,7 +13369,8 @@
    "2026-11-13",
    "2026-11-16",
    "2026-11-17",
-   "2026-11-18"
+   "2026-11-18",
+   "2026-11-19"
   ],
   "cloture": [
    5.37,
@@ -14791,7 +14879,8 @@
    18.31,
    17.18,
    16.39,
-   16.27
+   16.27,
+   15.87
   ],
   "volume": [
    217653,
@@ -16300,7 +16389,8 @@
    509127,
    312046,
    204583,
-   280184
+   280184,
+   314381
   ]
  },
  "fichier_textes": "sources_textes.json : texte archivé de chaque source (intégral ou extrait selon le champ archive), par identifiant"
