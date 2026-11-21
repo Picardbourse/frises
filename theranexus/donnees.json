@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-21",
- "mis_a_jour": "2026-11-21T22:51",
+ "mis_a_jour": "2026-11-21T22:58",
  "arrete_au": "2026-11-21",
  "version_provisoire": false,
  "config": {
@@ -7103,18 +7103,18 @@
    ],
    "statut": "doc",
    "titre": "BODACC du 31/08/2026 : capital de 145 438,15 € (14 543 815 actions) : +747 259 actions depuis novembre 2025, origine non expliquée",
-   "texte": "Le BODACC du 31/08/2026 mentionne 137 965,56 € puis 145 438,15 € ; North Data cite un palier intermédiaire de 14 472 800 actions ; societe.com liste une décision du conseil modifiant le capital du 10/08/2026. Le rapport semestriel compte déjà 14 543 815 actions au 30 juin 2026 et 904 000 instruments dilutifs (304 000 BSA, 60 000 BSPCE, 540 000 actions gratuites). Principaux actionnaires au rapport semestriel : Odyssée Venture 13,9 %, BBDF 3,8 % (6,51 % en novembre 2025), Supernova Invest 1,5 %. La fiche Zonebourse affiche 548 437 actions BBDF, contre 898 437 en novembre 2025 [non vérifié].",
+   "texte": "Le BODACC du 31/08/2026 mentionne 137 965,56 € puis 145 438,15 € ; North Data cite un palier intermédiaire de 14 472 800 actions ; societe.com liste une décision du conseil modifiant le capital du 10/08/2026. Le document d'enregistrement universel 2025 compte déjà 14 543 815 actions à sa date d'enregistrement (29/04/2026), comme le rapport semestriel au 30 juin 2026 ; 904 000 instruments dilutifs (60 000 BSA, 304 000 BSPCE, 540 000 actions gratuites). Tableau d'actionnariat du rapport semestriel au 30/06/2026, comparé à celui du DEU au 29/04/2026 : Odyssée Venture 2 023 213 actions (13,9 %) contre 1 699 531 (11,7 %) ; BBDF 548 437 (3,8 %) contre 898 437 (6,2 %) ; Auriga Partners 175 985 (1,2 %) contre 633 862 (4,4 %) ; Supernova Invest 222 926 (1,5 %), inchangé ; flottant 10 028 347 (69,0 %) contre 9 563 831 (65,8 %). Aucun des deux documents ne commente ces variations.",
    "sources": [
     "S170",
     "S168",
     "S166",
-    "S169"
+    "S157"
    ],
    "sources_libelle": [
     "Registre (societe.com) du 06/10/2026",
     "Registre (North Data) du 02/10/2026",
-    "CP THX Pharma du 29/09/2026",
-    "Zonebourse du 05/10/2026"
+    "Rapport semestriel au 30 juin 2026 (29/09/2026)",
+    "DEU 2025 (29/04/2026)"
    ],
    "engagements": [],
    "liens": [],
@@ -7591,8 +7591,8 @@
   },
   {
    "sujet": "gouv",
-   "question": "D'où viennent les 747 259 actions créées entre novembre 2025 et juin 2026 ?",
-   "etat": "13 796 556 actions après l'augmentation de capital du 17/11/2025 ; 14 543 815 actions au 30/06/2026 selon le rapport semestriel ; BODACC du 31/08/2026 (capital porté à 145 438,15 €, palier intermédiaire de 14 472 800 actions) ; décision du conseil du 10/08/2026. Instruments en circulation : 304 000 BSA, 60 000 BSPCE, 540 000 actions gratuites. Aucun CP sur cette émission. Le DEU 2025 (§ 19.1.7) indique 344 222 actions gratuites du plan 2024 définitivement acquises le 17/01/2026 et 332 000 du plan 2023 acquises le 07/05/2025 ; son tableau d'actionnariat attribue 591 442 actions à Mathieu Charvériat, contre 337 131 après l'opération de novembre 2025. Deux déclarations à l'AMF font état d'exercices de BSPCE et d'options en mars 2026. Ces éléments n'expliquent pas la totalité de l'écart.",
+   "question": "D'où viennent les 747 259 actions créées entre novembre 2025 et avril 2026 ?",
+   "etat": "13 796 556 actions après l'augmentation de capital du 17/11/2025 ; 14 543 815 actions dès le DEU du 29/04/2026, chiffre repris au rapport semestriel du 30/06/2026 ; BODACC du 31/08/2026 (capital porté à 145 438,15 €, palier intermédiaire de 14 472 800 actions) ; décision du conseil du 10/08/2026. Instruments en circulation : 60 000 BSA, 304 000 BSPCE, 540 000 actions gratuites. Aucun CP sur cette émission. Le DEU 2025 (§ 19.1.7) indique 344 222 actions gratuites du plan 2024 définitivement acquises le 17/01/2026 et 332 000 du plan 2023 acquises le 07/05/2025 ; son tableau d'actionnariat attribue 591 442 actions à Mathieu Charvériat, contre 337 131 après l'opération de novembre 2025. Deux déclarations à l'AMF font état d'exercices de BSPCE et d'options en mars 2026. Ces éléments n'expliquent pas la totalité de l'écart.",
    "attendu": "Rapport complémentaire du conseil, décisions d'attribution définitive d'actions gratuites ou d'exercice de BSA, déclaration mensuelle des droits de vote.",
    "sources": [
     "S148",
@@ -7606,13 +7606,13 @@
   },
   {
    "sujet": "gouv",
-   "question": "La BBDF a-t-elle cédé environ 350 000 actions THX Pharma depuis novembre 2025 ?",
-   "etat": "898 437 actions (6,51 %) après l'opération de novembre 2025 ; 3,8 % au rapport semestriel 2026 ; la fiche Zonebourse affiche 548 437 actions (3,79 %). La même fiche affiche des lignes Auriga Partners non cohérentes avec le CP de novembre 2025, ce qui limite sa fiabilité.",
-   "attendu": "Tableau d'actionnariat d'un document de la société, déclaration de la BBDF.",
+   "question": "Dans quelles conditions la BBDF a-t-elle réduit sa participation de 350 000 actions entre avril et juin 2026 ?",
+   "etat": "898 437 actions (6,51 %) après l'opération de novembre 2025, et encore 898 437 (6,2 %) au DEU du 29/04/2026 ; 548 437 actions (3,8 %) au tableau d'actionnariat du rapport semestriel au 30/06/2026. Sur la même période, Odyssée Venture passe de 1 699 531 à 2 023 213 actions et Auriga Partners de 633 862 à 175 985. Aucun document ne précise la nature de l'opération (cession sur le marché, hors marché, transfert), ni son prix, ni sa date.",
+   "attendu": "Communication de la BBDF ou de la société ; tableau d'actionnariat du DEU 2026.",
    "sources": [
     "S148",
-    "S166",
-    "S169"
+    "S157",
+    "S166"
    ]
   },
   {
