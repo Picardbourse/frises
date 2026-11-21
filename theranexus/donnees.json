@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-21",
- "mis_a_jour": "2026-11-21T22:58",
+ "mis_a_jour": "2026-11-21T23:03",
  "arrete_au": "2026-11-21",
  "version_provisoire": false,
  "config": {
@@ -525,9 +525,9 @@
      "id": "2018-04-23_ind-fda-thn102#e1",
      "texte": "Partenariat industriel pour THN102 en 2019",
      "echeance": "2019-12-31",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": "Aucun accord ; programme arrêté le 25/04/2022 faute de partenaire."
+     "statut": "warn",
+     "statue_par": "S048",
+     "note": "Reporté : le CP du 31/03/2020 vise un partenariat en 2020. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [
@@ -956,9 +956,9 @@
      "id": "2018-10-15_plan-phase2-thn101#e1",
      "texte": "Lancement de la phase II THN101 (370 patients) au S1 2019",
      "echeance": "2019-06-30",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": "Jamais enregistrée ; le CP du 09/04/2020 indique que la société évaluera son lancement « en fonction de prochaines sources de financement notamment partenariales » ; programme arrêté le 25/04/2022."
+     "statut": "warn",
+     "statue_par": "S050",
+     "note": "Reporté : le CP du 13/02/2019 vise un démarrage « en 2019 », puis le CP du 09/04/2020 indique que la société évaluera le lancement « en fonction de prochaines sources de financement notamment partenariales ». Aucun essai enregistré ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -1076,9 +1076,9 @@
      "id": "2018-11-09_tresorerie-sept-2018#e3",
      "texte": "Démarrage de la phase 2 de THN101 au S1 2019",
      "echeance": "2019-06-30",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": "Aucun essai enregistré ; programme arrêté le 25/04/2022."
+     "statut": "warn",
+     "statue_par": "S050",
+     "note": "Reporté : le CP du 13/02/2019 vise un démarrage « en 2019 », puis le CP du 09/04/2020 indique que la société évaluera le lancement « en fonction de prochaines sources de financement notamment partenariales ». Aucun essai enregistré ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -1305,7 +1305,7 @@
      "echeance": "2019-12-31",
      "statut": "bad",
      "statue_par": "S088",
-     "note": "Aucun essai enregistré ; programme arrêté le 25/04/2022."
+     "note": "Aucun essai enregistré ; le CP du 09/04/2020 conditionne le lancement à de nouveaux financements, sans date ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -1922,9 +1922,9 @@
      "id": "2020-01-15_resultats-phase1b-thn201#e1",
      "texte": "Poursuite des discussions avec des partenaires industriels pour THN201 en 2020",
      "echeance": "2020-12-31",
-     "statut": "bad",
+     "statut": "nd",
      "statue_par": "S088",
-     "note": "Aucun partenaire ; programme arrêté le 25/04/2022."
+     "note": "Aucun accord annoncé ; programme arrêté le 25/04/2022. La poursuite de discussions n'est pas un livrable daté."
     }
    ],
    "liens": [],
@@ -2017,9 +2017,9 @@
      "id": "2020-03-31_thn102-parkinson-resultats#e1",
      "texte": "Partenariat industriel pour THN102 en 2020",
      "echeance": "2020-12-31",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": "Aucun accord ; arrêt du programme le 25/04/2022."
+     "statut": "warn",
+     "statue_par": "S068",
+     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [
@@ -2237,9 +2237,9 @@
      "id": "2020-06-24_pge-3-4m-cir-neurolead#e1",
      "texte": "Partenariat industriel pour THN102 d'ici décembre 2020",
      "echeance": "2020-12-31",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": ""
+     "statut": "warn",
+     "statue_par": "S068",
+     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -2304,9 +2304,9 @@
      "id": "2020-07-09_tresorerie-juin-2020-ligne-iris#e3",
      "texte": "Accord industriel sur THN102 d'ici fin 2020",
      "echeance": "2020-12-31",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": ""
+     "statut": "warn",
+     "statue_par": "S068",
+     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -2553,9 +2553,9 @@
      "id": "2020-10-15_tresorerie-sept-2020#e1",
      "texte": "Partenariat THN102 « idéalement d'ici fin 2020 »",
      "echeance": "2020-12-31",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": ""
+     "statut": "warn",
+     "statue_par": "S068",
+     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -2759,7 +2759,7 @@
      "echeance": "2021-06-30",
      "statut": "bad",
      "statue_par": "S088",
-     "note": ""
+     "note": "Aucun accord ; aucune nouvelle échéance annoncée ; arrêt du programme le 25/04/2022, faute de partenaire."
     },
     {
      "id": "2021-01-18_tresorerie-fin-2020-ligne-iris#e3",
@@ -2926,7 +2926,7 @@
      "echeance": "2021-06-30",
      "statut": "bad",
      "statue_par": "S088",
-     "note": "Aucun accord ; arrêt du programme en avril 2022."
+     "note": "Aucun accord ; aucune nouvelle échéance annoncée ; arrêt du programme le 25/04/2022, faute de partenaire."
     },
     {
      "id": "2021-04-07_resultats-annuels-2020#e2",
@@ -3465,9 +3465,9 @@
      "id": "2022-02-03_recrutement-phase-1-2-batten#e3",
      "texte": "Résultats finaux de phase III au S2 2025",
      "echeance": "2025-12-31",
-     "statut": "bad",
-     "statue_par": "S164",
-     "note": "Aucune phase III démarrée au 31/12/2025 ; demandes d'autorisation déposées le 01/09/2026."
+     "statut": "warn",
+     "statue_par": "S172",
+     "note": "Aucune phase III démarrée au 31/12/2025 ; demandes d'autorisation déposées le 01/09/2026 ; le registre estime la fin de collecte du critère principal à juin 2028."
     }
    ],
    "liens": [
@@ -5134,9 +5134,9 @@
      "id": "2024-04-29_resultats-annuels-2023#e1",
      "texte": "Sécurisation du financement de la phase 3 (partenariat et/ou levée) fin 2024",
      "echeance": "2024-12-31",
-     "statut": "bad",
+     "statut": "warn",
      "statue_par": "S134",
-     "note": "Accord Exeltis du 17/12/2024 portant sur TX01 ; au 30/01/2025 la phase 3 reste à financer (financement par Biocodex annoncé le 10/02/2026)."
+     "note": "Au 30/01/2025, la phase 3 reste à financer et son lancement est visé en 2025 « sous réserve de financement » ; l'accord Exeltis du 17/12/2024 porte sur TX01 ; financement par Biocodex annoncé le 10/02/2026."
     },
     {
      "id": "2024-04-29_resultats-annuels-2023#e2",
