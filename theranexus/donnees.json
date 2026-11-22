@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T13:39",
+ "mis_a_jour": "2026-11-22T13:45",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,7 +73,7 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 163,
+  "evenements": 168,
   "sources": 194
  },
  "evenements": [
@@ -97,6 +97,78 @@
    ],
    "engagements": [],
    "liens": [],
+   "majeur": false
+  },
+  {
+   "id": "2013-06-30_licence-cea-bmsystems",
+   "date": "2013-06-30",
+   "date_affichee": "juin 2013",
+   "sujets": [
+    "autre",
+    "thn"
+   ],
+   "statut": "doc",
+   "titre": "Licence exclusive mondiale du CEA et de Bio Modeling Systems sur les brevets et le savoir-faire à l'origine des programmes THN",
+   "texte": "Accord signé en juin 2013, complété par plusieurs avenants. Il porte sur le brevet principal (famille I, copropriété du CEA et de BMSystems), sur les familles II (THN201) et III (THN102), propriété du CEA, et sur un savoir-faire ; THN101 est couvert par la famille IV, propriété de la société, et dépend du brevet principal. La société rembourse au CEA 169 K€ de frais de propriété industrielle antérieurs et prend en charge les frais postérieurs. Contrepartie : en exploitation directe, une redevance annuelle sur les ventes nettes ; en cas de sous-licence, une part des sommes perçues, d'autant plus faible que le développement est avancé. Pour les trois candidats, le document indique que la société rétrocédera au maximum au CEA une « redevance à un chiffre basée sur les sommes perçues du sous-licencié ». Durée : jusqu'à l'expiration du dernier titre et au moins dix ans après un lancement commercial.",
+   "sources": [
+    "S188"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017"
+   ],
+   "engagements": [],
+   "liens": [],
+   "revele_le": "2017-09-27",
+   "majeur": false
+  },
+  {
+   "id": "2014-10-29_tour-de-table-2-5-m",
+   "date": "2014-10-29",
+   "date_affichee": "29 oct. 2014",
+   "sujets": [
+    "fin",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Augmentation de capital de 2,47 M€ en actions de préférence à 12,38 € ; pacte d'actionnaires",
+   "texte": "Les associés décident le 29 octobre 2014 d'émettre 199 504 actions de préférence de catégorie A au prix de 12,38 euros l'une, soit un apport de 2.469.859,52 euros, et 94 384 bons de souscription d'obligations convertibles. Le capital initial, à l'immatriculation du 19 mars 2013, était de 222 222 euros. Un pacte est signé le même jour entre les principaux actionnaires ; le document de base précise qu'il sera résilié de plein droit à la première cotation. Ces prix s'entendent avant la division du nominal par quatre décidée le 26 septembre 2017.",
+   "sources": [
+    "S188"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017"
+   ],
+   "engagements": [],
+   "liens": [],
+   "revele_le": "2017-09-27",
+   "majeur": false
+  },
+  {
+   "id": "2016-04-01_obligations-convertibles",
+   "date": "2016-04-01",
+   "date_affichee": "29 mars - 1er avr. 2016",
+   "sujets": [
+    "fin"
+   ],
+   "statut": "doc",
+   "titre": "Emprunt obligataire convertible de 1,17 M€ à 10 %, convertible à l'introduction en Bourse avec une décote de 25 %",
+   "texte": "Les 94 384 bons émis en 2014 sont exercés entre le 29 mars et le 1er avril 2016 : emprunt obligataire convertible de 1.168.474 euros, souscrit par Auriga Partners (433 337 €), Sofimac Régions (333 332 €), le fonds Amorçage Technologique Investissement (256 798 €), Kreaxi (125 001 €) et un investisseur personne physique (20 006 €). Durée de deux ans, intérêt annuel de 10 %, « prime de non conversion de 100% ». Le document de base prévoit qu'à la première cotation les obligations seront remboursées pour permettre à leurs porteurs de souscrire, par compensation de créance, à une augmentation de capital réservée « avec une décote de 25% » sur le prix de l'introduction. La note d'opération chiffre cette souscription à 109 909 actions au point médian de la fourchette et à 128 751 actions au maximum. Autres emprunts cités : OSEO (150 000 €, 2013) et Bpifrance (350 000 € à 5,88 %, 2015).",
+   "sources": [
+    "S188",
+    "S005"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017",
+    "Note d'opération du 10/10/2017"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2014-10-29_tour-de-table-2-5-m"
+    }
+   ],
+   "revele_le": "2017-09-27",
    "majeur": false
   },
   {
@@ -136,6 +208,46 @@
    ],
    "sources_libelle": [
     "Brevet US 9,750,734 du 05/09/2017"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
+   "id": "2017-09-27_actionnariat-avant-introduction",
+   "date": "2017-09-27",
+   "date_affichee": "27 sept. 2017",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat avant l'introduction : fondateurs 37,7 %, CEA Investissement 22,6 %, Auriga 16,6 %, Sofimac Régions 12,8 %",
+   "texte": "Répartition à la date d'enregistrement du document de base, après division du nominal par quatre (assemblée du 26 septembre 2017) : Franck Mouthon 317 776 actions (18,8 %), Mathieu Charvériat 317 776 (18,8 %), CEA Investissement 380 896 (22,6 %, dont 247 564 par le fonds Amorçage Technologique Investissement), Auriga Partners 280 020 (16,6 %), Sofimac Régions 215 400 (12,8 %), un investisseur personne physique 94 260 (5,6 %), Kreaxi 80 776 (4,8 %) ; total 1 686 904 actions. Capital dilué : 10 764 actions par exercice de BSA et 96 912 par exercice de BSPCE, soit 1 794 580 actions, hors conversion des obligations. Le document indique qu'il n'existe pas d'actionnaire de contrôle et qu'un droit de vote double sera attaché aux actions inscrites au nominatif depuis deux ans à compter de l'introduction.",
+   "sources": [
+    "S188"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
+   "id": "2017-09-27_contrats-dirigeants-administrateurs",
+   "date": "2017-09-27",
+   "date_affichee": "27 sept. 2017",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Contrats entre la société, ses dirigeants et deux administrateurs indépendants décrits dans le document de base",
+   "texte": "Le contrat de travail de Franck Mouthon (6 mai 2013) est suspendu depuis le 18 novembre 2014, suspension renouvelée par le conseil du 26 septembre 2017 ; celui de Mathieu Charvériat, directeur scientifique (2 avril 2013), est maintenu. Deux contrats de consultant lient la société à des membres du conseil d'administration nommés administrateurs indépendants le 26 septembre 2017 : Luc-André Granier (contrat du 6 mai 2015, charge de 1.500 € hors taxe en 2015 et en 2016) et Dominique Costantini (aucune charge en 2015 ni en 2016). La société n'a pas de filiale.",
+   "sources": [
+    "S188"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017"
    ],
    "engagements": [],
    "liens": [],
