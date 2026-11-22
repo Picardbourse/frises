@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T11:47",
+ "mis_a_jour": "2026-11-22T12:02",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -8230,9 +8230,10 @@
    "date_source": "2017-10-10",
    "type": "AMF",
    "reference": "Prospectus AMF I.17-545 du 10/10/2017 : visa du prospectus d'introduction en Bourse",
-   "url": "https://www.zonebourse.com/actualite-bourse/Succes-de-l-introduction-en-Bourse-de-THERANEXUS-sur-Euronext-Growth-a-Paris--25358216/",
-   "archive": "reference",
-   "note": "Références du prospectus citées dans le CP du 25 octobre 2017 ; le PDF du prospectus lui-même n'a pas pu être ouvert lors de la collecte (URL AMF non accessible). ; reprise via Zonebourse"
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2017/17-0545/A1352A5293B9A2F7EEE9F8E02EC3531495996230F30DB3B2B3D471E49E7439DB.pdf",
+   "archive": "integral",
+   "note": "Références du prospectus citées dans le CP du 25 octobre 2017 ; le PDF du prospectus lui-même n'a pas pu être ouvert lors de la collecte (URL AMF non accessible). ; reprise via Zonebourse",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S006",
@@ -8420,8 +8421,9 @@
    "type": "registre",
    "reference": "Registre (Patsnap) consulté le 04/11/2026 : fiche THN-101 : aucun essai de phase II enregistré",
    "url": "https://synapse.patsnap.com/drug/d0be69f2f29f4ece9c1f25cd6389a063",
-   "archive": "reference",
-   "note": "Agrégateur ; absence dans les registres = constat de recherche, non preuve formelle. ; reprise via Patsnap Synapse"
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S025",
@@ -8548,9 +8550,10 @@
    "date_source": "2019-04-30",
    "type": "AMF",
    "reference": "Document de référence 2018 (AMF R.19-019) du 30/04/2019 : enregistrement du document de référence",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/07/FCACT047686_20190710.pdf",
-   "archive": "reference",
-   "note": "Référence indirecte ; le document lui-même n'a pas été ouvert."
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2019/R.19-0019/14DE6653459980AB3F8218713037FAF70FAB7143C8DCAE66AEFCEBE6EC21906B.pdf",
+   "archive": "integral",
+   "note": "Référence indirecte ; le document lui-même n'a pas été ouvert.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S038",
@@ -9577,8 +9580,9 @@
    "type": "autre",
    "reference": "Neurology du 01/09/2025 : étude ouverte à long terme du miglustat dans la CLN3",
    "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000214110",
-   "archive": "reference",
-   "note": "Pages Neurology et PMC non lisibles (blocage) ; auteurs, effectifs et chiffres non vérifiés. Date exacte de parution [non vérifié] — 2025."
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S141",
@@ -9805,8 +9809,9 @@
    "type": "essai",
    "reference": "Registre (patient.info) du 01/09/2026 : NCT07882290, phase 3 Batten-1 (fiche)",
    "url": "https://patient.info/research/trials/cln3-nct07882290",
-   "archive": "reference",
-   "note": "Date retenue = date des soumissions réglementaires (CP 2026-09-01), la date de première publication de la fiche CT.gov n'ayant pas pu être lue ; début prévu 2026-12-01. Fiche CT.gov non lisible (JS) ; données via agrégateur patient.info (résumé tiers) : effectif, design et dates [non vérifié sur la fiche primaire] — à confirmer. Aucune entrée CTIS publique retrouvée au 2026-11-04. Identifiant protocole 'Batten-1-02' (CP) non visible sur l'agrégateur. ; reprise via patient.info"
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S164",
@@ -9855,7 +9860,7 @@
    "reference": "Registre (North Data) du 02/10/2026 : historique des mentions RCS/BODACC",
    "url": "https://www.northdata.com/Theranexus%20SA,%20Lyon/Siren%20791889777",
    "archive": "reference",
-   "note": "Agrégateur de données BODACC/INPI (page auto-générée, « may have errors ») utilisé faute d'accès à Pappers/annuaire-entreprises ; dates = dates de mention au registre, non dates des décisions ; comptes annuels déposés chaque exercice 2015-2025 (chiffres non visibles)."
+   "note": ""
   },
   {
    "id": "S169",
@@ -9864,7 +9869,7 @@
    "reference": "Zonebourse du 05/10/2026 : fiche société (actionnaires, dirigeants, conseil)",
    "url": "https://www.zonebourse.com/cours/action/THX-PHARMA-109287227/societe/",
    "archive": "reference",
-   "note": "Données agrégées (date d'arrêté non précisée, page consultée au 05/10/2026) ; Rodolphe Besserve est remercié pour sa contribution dans le CP du 23/06/2026 (départ probable) ; BBDF passé de 898 437 à 548 437 actions entre nov. 2025 et 2026 (cession de 350 000 actions [non vérifié]). ; reprise via Zonebourse"
+   "note": ""
   },
   {
    "id": "S170",
@@ -9873,7 +9878,7 @@
    "reference": "Registre (societe.com) du 06/10/2026 : fiche THX Pharma SA, SIREN 791 889 777 (actes, dirigeants, BODACC)",
    "url": "https://societe.com/societe/theranexus-791889777.html",
    "archive": "reference",
-   "note": "Fiche consultée le 04/11/2026 (dernières annonces BODACC du 06/10/2026) ; données de registre via agrégateur. Pappers et annuaire-entreprises non accessibles lors de la collecte (403/allowlist) ; societe.com utilisé comme agrégateur de registre. Les 25 dirigeants historiques ne sont pas détaillés sur la page. Forme avant 2014 : société par actions simplifiée à conseil de surveillance [non vérifié]."
+   "note": ""
   },
   {
    "id": "S171",
