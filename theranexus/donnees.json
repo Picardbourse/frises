@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T13:45",
+ "mis_a_jour": "2026-11-22T13:49",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,7 +73,7 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 168,
+  "evenements": 169,
   "sources": 194
  },
  "evenements": [
@@ -109,7 +109,7 @@
    ],
    "statut": "doc",
    "titre": "Licence exclusive mondiale du CEA et de Bio Modeling Systems sur les brevets et le savoir-faire à l'origine des programmes THN",
-   "texte": "Accord signé en juin 2013, complété par plusieurs avenants. Il porte sur le brevet principal (famille I, copropriété du CEA et de BMSystems), sur les familles II (THN201) et III (THN102), propriété du CEA, et sur un savoir-faire ; THN101 est couvert par la famille IV, propriété de la société, et dépend du brevet principal. La société rembourse au CEA 169 K€ de frais de propriété industrielle antérieurs et prend en charge les frais postérieurs. Contrepartie : en exploitation directe, une redevance annuelle sur les ventes nettes ; en cas de sous-licence, une part des sommes perçues, d'autant plus faible que le développement est avancé. Pour les trois candidats, le document indique que la société rétrocédera au maximum au CEA une « redevance à un chiffre basée sur les sommes perçues du sous-licencié ». Durée : jusqu'à l'expiration du dernier titre et au moins dix ans après un lancement commercial.",
+   "texte": "Accord signé en juin 2013, complété par plusieurs avenants. Il porte sur le brevet principal (famille I, copropriété du CEA et de BMSystems), sur les familles II (THN201) et III (THN102), propriété du CEA, et sur un savoir-faire ; THN101 est couvert par la famille IV, propriété de la société, et dépend du brevet principal. La société rembourse au CEA 169 K€ de frais de propriété industrielle antérieurs et prend en charge les frais postérieurs. Contrepartie : en exploitation directe, une redevance annuelle sur les ventes nettes ; en cas de sous-licence, une part des sommes perçues, d'autant plus faible que le développement est avancé. Pour les trois candidats, le document indique que la société rétrocédera au maximum au CEA une « redevance à un chiffre basée sur les sommes perçues du sous-licencié ». Durée : jusqu'à l'expiration du dernier titre et au moins dix ans après un lancement commercial. Le document de base date les familles de brevets : famille I déposée en 2008 (CEA et BMSystems), famille II en 2011 (CEA), famille III en 2013 (CEA), famille IV en 2015 (Theranexus). Franck Mouthon et Mathieu Charvériat figurent parmi les inventeurs de la famille I, comme salariés du CEA à la date du dépôt. Il indique qu'à sa date aucune opposition n'a été enregistrée contre les brevets délivrés, et chiffre les charges de recherche et développement à 1.531 K€ en 2015 et 1.889 K€ en 2016.",
    "sources": [
     "S188"
    ],
@@ -152,14 +152,16 @@
    ],
    "statut": "doc",
    "titre": "Emprunt obligataire convertible de 1,17 M€ à 10 %, convertible à l'introduction en Bourse avec une décote de 25 %",
-   "texte": "Les 94 384 bons émis en 2014 sont exercés entre le 29 mars et le 1er avril 2016 : emprunt obligataire convertible de 1.168.474 euros, souscrit par Auriga Partners (433 337 €), Sofimac Régions (333 332 €), le fonds Amorçage Technologique Investissement (256 798 €), Kreaxi (125 001 €) et un investisseur personne physique (20 006 €). Durée de deux ans, intérêt annuel de 10 %, « prime de non conversion de 100% ». Le document de base prévoit qu'à la première cotation les obligations seront remboursées pour permettre à leurs porteurs de souscrire, par compensation de créance, à une augmentation de capital réservée « avec une décote de 25% » sur le prix de l'introduction. La note d'opération chiffre cette souscription à 109 909 actions au point médian de la fourchette et à 128 751 actions au maximum. Autres emprunts cités : OSEO (150 000 €, 2013) et Bpifrance (350 000 € à 5,88 %, 2015).",
+   "texte": "Les 94 384 bons émis en 2014 sont exercés entre le 29 mars et le 1er avril 2016 : emprunt obligataire convertible de 1.168.474 euros, souscrit par Auriga Partners (433 337 €), Sofimac Régions (333 332 €), le fonds Amorçage Technologique Investissement (256 798 €), Kreaxi (125 001 €) et un investisseur personne physique (20 006 €). Durée de deux ans, intérêt annuel de 10 %, « prime de non conversion de 100% ». Le document de base prévoit qu'à la première cotation les obligations seront remboursées pour permettre à leurs porteurs de souscrire, par compensation de créance, à une augmentation de capital réservée « avec une décote de 25% » sur le prix de l'introduction. La note d'opération chiffre cette souscription à 109 909 actions au point médian de la fourchette et à 128 751 actions au maximum. Autres emprunts cités : OSEO (150 000 €, 2013) et Bpifrance (350 000 € à 5,88 %, 2015). Le document de référence 2017 indique que la totalité des obligations a été convertie, simultanément à l'introduction en Bourse, en 116 292 actions ordinaires pour 1,4 M€ prime incluse.",
    "sources": [
     "S188",
-    "S005"
+    "S005",
+    "S193"
    ],
    "sources_libelle": [
     "Document de base I.17-068 du 27/09/2017",
-    "Note d'opération du 10/10/2017"
+    "Note d'opération du 10/10/2017",
+    "Document de référence 2017 du 26/04/2018"
    ],
    "engagements": [],
    "liens": [
@@ -208,6 +210,26 @@
    ],
    "sources_libelle": [
     "Brevet US 9,750,734 du 05/09/2017"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
+   "id": "2017-09-26_remunerations-dirigeants",
+   "date": "2017-09-26",
+   "date_affichee": "26 sept. 2017",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Rémunérations des deux dirigeants révisées par le conseil, sous condition de l'introduction en Bourse",
+   "texte": "Le conseil d'administration du 26 septembre 2017 fixe la rémunération brute annuelle fixe de Franck Mouthon, président-directeur général, à 192 000 €, avec une part variable pouvant aller jusqu'à 40 % du fixe, et celle de Mathieu Charvériat, directeur général délégué, à 177 000 €, avec une part variable jusqu'à 30 %. Ces augmentations sont conditionnées à la réalisation de l'introduction en Bourse, de même qu'une prime exceptionnelle brute de 25 000 € pour chacun. Rémunérations dues au titre de 2016 : 143 454 € pour Franck Mouthon (117 702 € en 2015) et 124 364 € pour Mathieu Charvériat (103 629 € en 2015). L'assemblée générale du même jour fixe à 50.000 euros l'enveloppe annuelle des jetons de présence.",
+   "sources": [
+    "S188"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017"
    ],
    "engagements": [],
    "liens": [],
