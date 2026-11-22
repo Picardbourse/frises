@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T13:49",
+ "mis_a_jour": "2026-11-22T16:42",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,7 +73,7 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 169,
+  "evenements": 170,
   "sources": 194
  },
  "evenements": [
@@ -195,6 +195,27 @@
    "majeur": false
   },
   {
+   "id": "2017-06-30_situation-financiere-avant-introduction",
+   "date": "2017-06-30",
+   "date_affichee": "30 juin 2017",
+   "revele_le": "2017-09-27",
+   "sujets": [
+    "fin"
+   ],
+   "statut": "doc",
+   "titre": "Capitaux propres négatifs de 0,62 M€ au 30 juin 2017 ; besoins de trésorerie couverts jusqu'au 30 juin 2018",
+   "texte": "Comptes semestriels du document de base : perte nette de 709.677 € au premier semestre 2017 (686.781 € un an plus tôt) ; capitaux propres de -619.825 € au 30 juin 2017, contre 89.852 € fin 2016 et 1.676.648 € fin 2015. Le document indique que la société « doit renforcer ses fonds propres pour assurer la continuité d’exploitation » et que l'hypothèse de continuité n'était pas remise en cause au 30 juin 2017. Un remboursement de crédit d'impôt recherche de 570 k€, une avance en compte courant de 600 k€ et des subventions doivent couvrir les besoins de trésorerie jusqu'au 30 juin 2018 ; un crédit de 300 k€ a été conclu en août 2017. Si l'introduction en Bourse ne pouvait se faire, la société envisageait le report ou l'annulation de développements, un placement privé ou un refinancement par ses actionnaires. Le document rappelle un financement de 3,6 M€ en deux tranches depuis 2014.",
+   "sources": [
+    "S188"
+   ],
+   "sources_libelle": [
+    "Document de base I.17-068 du 27/09/2017"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
+  {
    "id": "2017-09-05_brevet-us-thn102",
    "date": "2017-09-05",
    "date_affichee": "5 sept. 2017",
@@ -244,7 +265,7 @@
    ],
    "statut": "doc",
    "titre": "Actionnariat avant l'introduction : fondateurs 37,7 %, CEA Investissement 22,6 %, Auriga 16,6 %, Sofimac Régions 12,8 %",
-   "texte": "Répartition à la date d'enregistrement du document de base, après division du nominal par quatre (assemblée du 26 septembre 2017) : Franck Mouthon 317 776 actions (18,8 %), Mathieu Charvériat 317 776 (18,8 %), CEA Investissement 380 896 (22,6 %, dont 247 564 par le fonds Amorçage Technologique Investissement), Auriga Partners 280 020 (16,6 %), Sofimac Régions 215 400 (12,8 %), un investisseur personne physique 94 260 (5,6 %), Kreaxi 80 776 (4,8 %) ; total 1 686 904 actions. Capital dilué : 10 764 actions par exercice de BSA et 96 912 par exercice de BSPCE, soit 1 794 580 actions, hors conversion des obligations. Le document indique qu'il n'existe pas d'actionnaire de contrôle et qu'un droit de vote double sera attaché aux actions inscrites au nominatif depuis deux ans à compter de l'introduction.",
+   "texte": "Répartition à la date d'enregistrement du document de base, après division du nominal par quatre (assemblée du 26 septembre 2017) : Franck Mouthon 317 776 actions (18,8 %), Mathieu Charvériat 317 776 (18,8 %), CEA Investissement 380 896 (22,6 %, dont 247 564 par le fonds Amorçage Technologique Investissement), Auriga Partners 280 020 (16,6 %), Sofimac Régions 215 400 (12,8 %), un investisseur personne physique 94 260 (5,6 %), Kreaxi 80 776 (4,8 %) ; total 1 686 904 actions. Capital dilué : 10 764 actions par exercice de BSA et 96 912 par exercice de BSPCE, soit 1 794 580 actions, hors conversion des obligations. Le document indique qu'il n'existe pas d'actionnaire de contrôle et qu'un droit de vote double sera attaché aux actions inscrites au nominatif depuis deux ans à compter de l'introduction. Les bons en circulation (BSA et BSPCE attribués en 2016) donnent droit à une action au prix de 3,095 € ; chacun des deux dirigeants peut souscrire 4 488 actions par les BSPCE 2016-1 et 26 920 par les BSPCE 2016-4, dont l'exercice dépend en partie d'objectifs opérationnels. Les bons expirent en mars et avril 2026.",
    "sources": [
     "S188"
    ],
@@ -2301,7 +2322,7 @@
      "echeance": "2020-12-31",
      "statut": "warn",
      "statue_par": "S083",
-     "note": "Repoussé au S2 2021 (06/2020), puis fin 2021 ; recrutement lancé le 03/02/2022. Même échéance réaffirmée le 09/04/2020 (annonces non recomptées)."
+     "note": "Repoussé au S2 2021 (06/2020), puis fin 2021 ; recrutement lancé le 03/02/2022. Même échéance réaffirmée le 09/04/2020 (annonces non recomptées). Démarrage encore annoncé « pour la fin d'année » dans le DEU 2019 du 30/04/2020."
     }
    ],
    "liens": [
@@ -2546,7 +2567,7 @@
    ],
    "statut": "doc",
    "titre": "Résultats 2019 : perte nette de 5 580 k€, trésorerie de 7 807 k€ au 31 mars 2020, 18 salariés",
-   "texte": "Produits d'exploitation 617 k€ ; charges d'exploitation 7 994 k€ dont charges externes 5 426 k€ et personnel 2 353 k€ ; résultat d'exploitation -7 377 k€ ; CIR 2 038 k€. Consommation opérationnelle 5,0 M€ en 2019. THN101 : phase 1 terminée, phase 2 conditionnée à un financement. Ressources non dilutives attendues sous 12 mois : subvention Neurolead 2,0 M€, remboursement anticipé du CIR 2019 2,0 M€, prêts garantis par l'État envisagés. Le document d'enregistrement universel 2019 a été déposé à l'AMF le 30/04/2020 (D.20-0414).",
+   "texte": "Produits d'exploitation 617 k€ ; charges d'exploitation 7 994 k€ dont charges externes 5 426 k€ et personnel 2 353 k€ ; résultat d'exploitation -7 377 k€ ; CIR 2 038 k€. Consommation opérationnelle 5,0 M€ en 2019. THN101 : phase 1 terminée, phase 2 conditionnée à un financement. Ressources non dilutives attendues sous 12 mois : subvention Neurolead 2,0 M€, remboursement anticipé du CIR 2019 2,0 M€, prêts garantis par l'État envisagés. Le document d'enregistrement universel 2019 a été déposé à l'AMF le 30/04/2020 (D.20-0414). Ce document indique que l'obtention d'une autorisation d'essai clinique aux États-Unis pour BBDF-101 « est prévue au second trimestre 2020 ».",
    "sources": [
     "S050",
     "S194"
@@ -2563,6 +2584,14 @@
      "statut": "ok",
      "statue_par": "S071",
      "note": "Trésorerie de 10 773 k€ au 31/03/2021."
+    },
+    {
+     "id": "2020-04-09_resultats-annuels-2019#deu1",
+     "texte": "Autorisation d'essai clinique aux États-Unis pour BBDF-101 au second trimestre 2020",
+     "echeance": "2020-06-30",
+     "statut": "warn",
+     "statue_par": "S076",
+     "note": "Statut IND annoncé le 09/09/2021."
     }
    ],
    "liens": [],
