@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T10:28",
+ "mis_a_jour": "2026-11-22T11:22",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,8 +73,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 155,
-  "sources": 179
+  "evenements": 162,
+  "sources": 187
  },
  "evenements": [
   {
@@ -452,6 +452,91 @@
    "majeur": false
   },
   {
+   "id": "2018-03-15_collaboration-college-de-france",
+   "date": "2018-03-15",
+   "date_affichee": "15 mars 2018",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Collaboration de recherche de trois ans avec le Collège de France sur les interactions entre astrocytes et neurones",
+   "texte": "La société annonce la signature d'une collaboration de recherche de 3 ans avec le Collège de France, portant sur l'impact des cellules gliales sur l'activité neuronale. Les travaux sont placés sous la responsabilité du Dr Nathalie Rouach, au Centre de recherche interdisciplinaire en biologie dirigé par le Pr Alain Prochiantz. Une thèse en contrat CIFRE (ANRT) est prévue dans ce cadre. Le communiqué ne donne aucun montant.",
+   "sources": [
+    "S180"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 15/03/2018"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2018-03-15",
+      "cloture": 16.0,
+      "volume": 797,
+      "variation_pct": 1.3,
+      "volume_vs_moy20": 1.5
+     },
+     {
+      "role": "suivante",
+      "date": "2018-03-16",
+      "cloture": 16.5,
+      "volume": 511,
+      "variation_pct": 3.1,
+      "volume_vs_moy20": 1.0
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2018-03-21_pharmacocinetique-thn01",
+   "date": "2018-03-21",
+   "date_affichee": "21 mars 2018",
+   "sujets": [
+    "thn",
+    "regl"
+   ],
+   "statut": "doc",
+   "titre": "Résultats de pharmacocinétique clinique du modulateur glial THN01, composant de THN201 et THN101",
+   "texte": "La société annonce l'obtention des résultats de pharmacocinétique clinique du modulateur glial THN01, intégré dans THN201 (donépézil et méfloquine à faible dose, maladie d'Alzheimer) et THN101 (amitriptyline et méfloquine à faible dose, douleurs neuropathiques). Objectif indiqué de l'étude : déterminer la dose à administrer pour obtenir l'exposition plasmatique recherchée et avancer dans la fabrication des lots pharmaceutiques. Le communiqué ne donne aucun résultat chiffré. Selon le directeur médical, ces résultats permettent de « poursuivre les études cliniques prévues dans le courant de cette année ».",
+   "sources": [
+    "S181"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 21/03/2018"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2018-03-21",
+      "cloture": 17.0,
+      "volume": 3709,
+      "variation_pct": 4.9,
+      "volume_vs_moy20": 7.0
+     },
+     {
+      "role": "suivante",
+      "date": "2018-03-22",
+      "cloture": 16.9,
+      "volume": 344,
+      "variation_pct": -0.6,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
    "id": "2018-04-19_autorisation-hongrie-thn102",
    "date": "2018-04-19",
    "date_affichee": "19 avr. 2018",
@@ -692,6 +777,48 @@
       "volume": 138,
       "variation_pct": -0.1,
       "volume_vs_moy20": 0.1
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2018-05-22_article-ijnp-thn102",
+   "date": "2018-05-22",
+   "date_affichee": "22 mai 2018",
+   "sujets": [
+    "thn"
+   ],
+   "statut": "doc",
+   "titre": "Article sur le mécanisme d'action de THN102 publié dans l'International Journal of Neuropsychopharmacology",
+   "texte": "Article « Cortico-amygdala-striatal activation by modafinil/flecainide combination » : travaux d'imagerie préclinique menés avec le Service hospitalier Frédéric Joliot (CEA Paris-Saclay). D'après le communiqué, l'étude en tomographie par émission de positons avec du glucose radio-marqué montre que THN102 (modafinil et flécaïnide) intensifie l'activité métabolique par rapport au modafinil seul dans le cortex, l'amygdale et le striatum. Le communiqué rappelle que THN102 est alors évalué dans deux programmes de phase 2 (narcolepsie et maladie de Parkinson).",
+   "sources": [
+    "S182"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 22/05/2018"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2018-05-22",
+      "cloture": 16.6,
+      "volume": 501,
+      "variation_pct": 0.6,
+      "volume_vs_moy20": 0.3
+     },
+     {
+      "role": "suivante",
+      "date": "2018-05-23",
+      "cloture": 16.5,
+      "volume": 765,
+      "variation_pct": -0.6,
+      "volume_vs_moy20": 0.6
      }
     ]
    },
@@ -1436,6 +1563,53 @@
    "majeur": false
   },
   {
+   "id": "2019-04-09_collaboration-irisa",
+   "date": "2019-04-09",
+   "date_affichee": "9 avr. 2019",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Collaboration de recherche en bioinformatique avec l'équipe Dyliss de l'IRISA (Rennes)",
+   "texte": "La société annonce une collaboration de recherche avec Dyliss, équipe de l'Institut de recherche en informatique et systèmes aléatoires (IRISA), pour intégrer et structurer les données biologiques disponibles sur la régulation des neurones et des cellules gliales, afin de contribuer à la sélection de nouveaux actifs. Le communiqué la rattache au programme de la plateforme Neurolead. Ni durée ni montant ne sont indiqués.",
+   "sources": [
+    "S183"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 09/04/2019"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2019-01-29_neurolead-pia-6-2m"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2019-04-09",
+      "cloture": 6.8,
+      "volume": 8292,
+      "variation_pct": 7.6,
+      "volume_vs_moy20": 6.2
+     },
+     {
+      "role": "suivante",
+      "date": "2019-04-10",
+      "cloture": 6.84,
+      "volume": 2086,
+      "variation_pct": 0.6,
+      "volume_vs_moy20": 1.3
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
    "id": "2019-04-17_resultats-annuels-2018",
    "date": "2019-04-17",
    "date_affichee": "17 avr. 2019",
@@ -1494,6 +1668,100 @@
       "volume": 892,
       "variation_pct": -1.2,
       "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2019-04-24_brevet-chine-thn102",
+   "date": "2019-04-24",
+   "date_affichee": "24 avr. 2019",
+   "sujets": [
+    "regl",
+    "thn"
+   ],
+   "statut": "doc",
+   "titre": "Brevet chinois CN 105579041 B couvrant THN102 délivré au CEA, protection annoncée jusqu'en 2034",
+   "texte": "Brevet intitulé « Utilisation de la flécaïnide en tant qu’agent anti-connexine et procédé de potentialisation des effets d’un médicament psychotrope », octroyé au CEA par l'office chinois des brevets ; taxe de délivrance payée le 27 mars 2019 ; inventeurs : Franck Mouthon et Mathieu Charvériat ; la société dispose d'une licence exclusive. Le brevet couvre une composition contenant de la flécaïnide et du modafinil. Le communiqué indique que les résultats de la phase II de THN102 dans la maladie de Parkinson « sont attendus au cours du second semestre 2019 ».",
+   "sources": [
+    "S184"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 24/04/2019"
+   ],
+   "engagements": [
+    {
+     "id": "2019-04-24_brevet-chine-thn102#e1",
+     "texte": "Résultats de la phase II THN102 Parkinson au second semestre 2019",
+     "echeance": "2019-12-31",
+     "statut": "warn",
+     "statue_par": "S048",
+     "note": "Publiés le 31/03/2020."
+    }
+   ],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2019-04-24",
+      "cloture": 6.32,
+      "volume": 1642,
+      "variation_pct": -0.3,
+      "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2019-04-25",
+      "cloture": 6.36,
+      "volume": 91,
+      "variation_pct": 0.6,
+      "volume_vs_moy20": 0.1
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2019-06-04_conseil-scientifique",
+   "date": "2019-06-04",
+   "date_affichee": "4 juin 2019",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Constitution d'un conseil scientifique de quatre membres",
+   "texte": "Mission indiquée : assister et conseiller la société dans ses choix, notamment pour l'identification, la sélection et la qualification de candidats médicaments ciblant les interactions entre neurones et cellules gliales. Membres : Dr Didier Cussac (fondateur et président de Cussac-Consulting), Dr Jean-Antoine Girault (directeur de l'Institut du Fer à Moulin, Inserm et Sorbonne Université), Dr Philippe Marin (futur directeur de l'Institut de génomique fonctionnelle, Montpellier), Dr Paul Moser (fondateur et gérant de Cerbascience).",
+   "sources": [
+    "S185"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 04/06/2019"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2019-06-04",
+      "cloture": 5.58,
+      "volume": 1270,
+      "variation_pct": -1.8,
+      "volume_vs_moy20": 2.6
+     },
+     {
+      "role": "suivante",
+      "date": "2019-06-05",
+      "cloture": 5.66,
+      "volume": 730,
+      "variation_pct": 1.4,
+      "volume_vs_moy20": 1.3
      }
     ]
    },
@@ -1683,6 +1951,63 @@
     ]
    },
    "majeur": false
+  },
+  {
+   "id": "2019-09-17_dernier-sujet-phase1b-thn201",
+   "date": "2019-09-17",
+   "date_affichee": "17 sept. 2019",
+   "sujets": [
+    "thn",
+    "regl"
+   ],
+   "statut": "doc",
+   "titre": "Dernier sujet inclus dans la phase 1b de THN201 : 152 sujets sains, 10 centres en Europe ; résultats annoncés au T4 2019",
+   "texte": "Étude randomisée, en double aveugle, en trois groupes parallèles, comparant THN201 au traitement de référence seul (donépézil) et au placebo, sur 15 jours de traitement ; évaluation de l'activité pro-cognitive, de la tolérance et de la pharmacocinétique. Investigateur principal : Pr Régis Bordet (CHU de Lille). Le communiqué indique : « Les résultats sont attendus au T4 2019 ».",
+   "sources": [
+    "S186"
+   ],
+   "sources_libelle": [
+    "CP Theranexus du 17/09/2019"
+   ],
+   "engagements": [
+    {
+     "id": "2019-09-17_dernier-sujet-phase1b-thn201#e1",
+     "texte": "Résultats de la phase 1b THN201 au T4 2019",
+     "echeance": "2019-12-31",
+     "statut": "warn",
+     "statue_par": "S046",
+     "note": "Publiés le 15/01/2020."
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2018-09-26_autorisation-phase1b-thn201"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2019-09-17",
+      "cloture": 3.12,
+      "volume": 1832,
+      "variation_pct": 0.0,
+      "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2019-09-18",
+      "cloture": 3.07,
+      "volume": 2716,
+      "variation_pct": -1.6,
+      "volume_vs_moy20": 1.3
+     }
+    ]
+   },
+   "majeur": true
   },
   {
    "id": "2019-09-23_mouthon-france-biotech",
@@ -2593,16 +2918,27 @@
    ],
    "statut": "doc",
    "titre": "Désignations orphelines UE du miglustat (EU/3/20/2349) et du tréhalose (EU/3/20/2347) pour Theranexus",
-   "texte": "Avis du COMP le 10/09/2020, décisions le 19/10/2020, promoteur Theranexus ; indication : céroïde-lipofuscinose neuronale ; stade préclinique au moment de la désignation, usage prévu en association. La désignation du miglustat est toujours « Positive » sur la page EMA ; celle du tréhalose a été retirée en février 2025 à la demande du promoteur.",
+   "texte": "Avis du COMP le 10/09/2020, décisions le 19/10/2020, promoteur Theranexus ; indication : céroïde-lipofuscinose neuronale ; stade préclinique au moment de la désignation, usage prévu en association. La désignation du miglustat est toujours « Positive » sur la page EMA ; celle du tréhalose a été retirée en février 2025 à la demande du promoteur. Le communiqué de la société du 21/10/2020 annonce la décision de la Commission européenne d'accorder le statut de médicament orphelin à chacun des deux principes actifs de BBDF-101 (tréhalose et miglustat) et évoque « le lancement du programme clinique en 2021 ».",
    "sources": [
     "S061",
-    "S062"
+    "S062",
+    "S187"
    ],
    "sources_libelle": [
     "EMA EU/3/20/2349 du 19/10/2020",
-    "EMA EU/3/20/2347 du 19/10/2020"
+    "EMA EU/3/20/2347 du 19/10/2020",
+    "CP Theranexus du 21/10/2020"
    ],
-   "engagements": [],
+   "engagements": [
+    {
+     "id": "2020-10-19_designations-orphelines-ue#e1",
+     "texte": "Lancement du programme clinique BBDF-101 en 2021",
+     "echeance": "2021-12-31",
+     "statut": "warn",
+     "statue_par": "S083",
+     "note": "Recrutement lancé le 03/02/2022 ; début réel au registre le 10/03/2022."
+    }
+   ],
    "liens": [
     {
      "type": "precise",
@@ -2631,7 +2967,7 @@
      }
     ]
    },
-   "majeur": false
+   "majeur": true
   },
   {
    "id": "2020-11-20_fda-avis-plan-preclinique",
@@ -9819,6 +10155,86 @@
    "url": "https://patents.google.com/patent/US20260240827A1/en",
    "archive": "integral",
    "note": "Lu le 22/11/2026 sur Google Patents (agrégateur, à défaut du registre de l'USPTO non consulté) : demande 19/118,774, déposant Theranexus SA, priorité 07/10/2022, dépôt 09/10/2023, publication 20/08/2026, statut « Pending ». Piste signalée par un forum.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S180",
+   "date_source": "2018-03-15",
+   "type": "CP",
+   "reference": "CP Theranexus du 15/03/2018 : collaboration de recherche avec le Collège de France",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/03/FCACT041885_20180315.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S180.txt ; PDF : textes/pdf/AMF_2018-03-15_FCACT041885_20180315.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S181",
+   "date_source": "2018-03-21",
+   "type": "CP",
+   "reference": "CP Theranexus du 21/03/2018 : résultats de pharmacocinétique clinique pour THN201 et THN101",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/03/FCACT041934_20180321.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S181.txt ; PDF : textes/pdf/AMF_2018-03-21_FCACT041934_20180321.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S182",
+   "date_source": "2018-05-22",
+   "type": "CP",
+   "reference": "CP Theranexus du 22/05/2018 : article sur le mécanisme d'action de THN102 (International Journal of Neuropsychopharmacology)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/05/FCACT042771_20180522.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S182.txt ; PDF : textes/pdf/AMF_2018-05-22_FCACT042771_20180522.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S183",
+   "date_source": "2019-04-09",
+   "type": "CP",
+   "reference": "CP Theranexus du 09/04/2019 : collaboration de recherche avec l'IRISA (équipe Dyliss)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/04/FCACT046420_20190409.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S183.txt ; PDF : textes/pdf/AMF_2019-04-09_FCACT046420_20190409.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S184",
+   "date_source": "2019-04-24",
+   "type": "CP",
+   "reference": "CP Theranexus du 24/04/2019 : délivrance en Chine d'un brevet couvrant THN102",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/04/FCACT046597_20190424.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S184.txt ; PDF : textes/pdf/AMF_2019-04-24_FCACT046597_20190424.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S185",
+   "date_source": "2019-06-04",
+   "type": "CP",
+   "reference": "CP Theranexus du 04/06/2019 : constitution du conseil scientifique",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/06/FCACT047165_20190604.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S185.txt ; PDF : textes/pdf/AMF_2019-06-04_FCACT047165_20190604.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S186",
+   "date_source": "2019-09-17",
+   "type": "CP",
+   "reference": "CP Theranexus du 17/09/2019 : inclusion du dernier sujet de la phase 1b de THN201",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/09/FCACT048345_20190917.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S186.txt ; PDF : textes/pdf/AMF_2019-09-17_FCACT048345_20190917.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S187",
+   "date_source": "2020-10-21",
+   "type": "CP",
+   "reference": "CP Theranexus du 21/10/2020 : statut de médicament orphelin en Europe pour BBDF-101",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/10/FCACT053101_20201021.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S187.txt ; PDF : textes/pdf/AMF_2020-10-21_FCACT053101_20201021.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
