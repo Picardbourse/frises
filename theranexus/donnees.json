@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T12:02",
+ "mis_a_jour": "2026-11-22T12:22",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -74,7 +74,7 @@
  },
  "nb": {
   "evenements": 162,
-  "sources": 187
+  "sources": 188
  },
  "evenements": [
   {
@@ -151,14 +151,16 @@
    ],
    "statut": "decl",
    "titre": "Document de base enregistré par l'AMF (n° I.17-068) en vue d'une introduction sur Euronext Growth",
-   "texte": "L'AMF a enregistré le document de base le 27 septembre 2017 sous le n° I.17-068. La société, fondée en 2013 par Franck Mouthon et Mathieu Charvériat, déclare 8 M€ levés depuis sa création dont 4,4 M€ non dilutifs (Bpifrance) ; actionnaires : CEA Investissement, Auriga Partners, Sofimac Partners, Kreaxi. Pipeline présenté : THN102 (narcolepsie, phase II en cours ; somnolence diurne de la maladie de Parkinson, phase II prévue), THN201 (Alzheimer) et THN101 (douleur neuropathique). La presse locale reprend les mêmes chiffres.",
+   "texte": "L'AMF a enregistré le document de base le 27 septembre 2017 sous le n° I.17-068. La société, fondée en 2013 par Franck Mouthon et Mathieu Charvériat, déclare 8 M€ levés depuis sa création dont 4,4 M€ non dilutifs (Bpifrance) ; actionnaires : CEA Investissement, Auriga Partners, Sofimac Partners, Kreaxi. Pipeline présenté : THN102 (narcolepsie, phase II en cours ; somnolence diurne de la maladie de Parkinson, phase II prévue), THN201 (Alzheimer) et THN101 (douleur neuropathique). La presse locale reprend les mêmes chiffres. Le document de base lui-même donne un calendrier : pour la phase II de THN102 dans la narcolepsie, 20 patients inclus sur 42, une fin de recrutement « prévue avant la fin du 2ème trimestre 2018 » et de premiers résultats « avant le troisième trimestre 2018 » ; une phase II dans la maladie de Parkinson « prévue pour 2018 » (le communiqué évoque un démarrage d'ici fin 2017) ; pour THN201, une phase II « prévue pour débuter à partir de 2020 », sous réserve des résultats de sécurité, de tolérance et de pharmacodynamie.",
    "sources": [
     "S004",
-    "S003"
+    "S003",
+    "S188"
    ],
    "sources_libelle": [
     "CP Theranexus du 28/09/2017",
-    "Bref Eco, 28/09/2017"
+    "Bref Eco, 28/09/2017",
+    "Document de base I.17-068 du 27/09/2017"
    ],
    "engagements": [
     {
@@ -176,6 +178,30 @@
      "statut": "warn",
      "statue_par": "S019",
      "note": "Autorisation de la phase 1b de THN201 annoncée le 26/09/2018 ; THN101 en phase Ia en février 2019 (CP du 13/02/2019)."
+    },
+    {
+     "id": "2017-09-28_document-de-base-ipo#e3",
+     "texte": "Fin du recrutement de la phase II de THN102 dans la narcolepsie avant la fin du 2e trimestre 2018",
+     "echeance": "2018-06-30",
+     "statut": "warn",
+     "statue_par": "S026",
+     "note": "Dernier patient inclus annoncé le 29/10/2018."
+    },
+    {
+     "id": "2017-09-28_document-de-base-ipo#e4",
+     "texte": "Premiers résultats de la phase II de THN102 dans la narcolepsie avant le 3e trimestre 2018",
+     "echeance": "2018-06-30",
+     "statut": "warn",
+     "statue_par": "S034",
+     "note": "Résultats publiés le 27/02/2019."
+    },
+    {
+     "id": "2017-09-28_document-de-base-ipo#e5",
+     "texte": "Début de la phase II de THN201 à partir de 2020 (sous réserve des résultats de phase I)",
+     "echeance": "2020-12-31",
+     "statut": "nd",
+     "statue_par": "S088",
+     "note": "Aucun essai de phase II de THN201 n'a été trouvé dans les sources ; les programmes THN ont été arrêtés le 25/04/2022. Même indication reprise dans le document de référence 2018 (30/04/2019)."
     }
    ],
    "liens": [],
@@ -190,7 +216,7 @@
    ],
    "statut": "doc",
    "titre": "Visa AMF n° I.17-545 sur le prospectus d'IPO ; fourchette indicative de 14,00 € à 18,80 € par action",
-   "texte": "Le prospectus, composé du document de base et d'une note d'opération, a reçu le visa n° I.17-545 le 10 octobre 2017. La fiche Euronext indique une note d'opération du 11 octobre 2017, une fourchette de 14,00 € à 18,80 € et une clôture de l'offre à prix ouvert le 24 octobre. Le CP précise que les titres souscrits ouvrant droit à réduction IR/ISF ne peuvent être inscrits en PEA ou PEA-PME. Le prospectus lui-même n'a pas été ouvert.",
+   "texte": "Le prospectus, composé du document de base et d'une note d'opération, a reçu le visa n° I.17-545 le 10 octobre 2017. La fiche Euronext indique une note d'opération du 11 octobre 2017, une fourchette de 14,00 € à 18,80 € et une clôture de l'offre à prix ouvert le 24 octobre. Le CP précise que les titres souscrits ouvrant droit à réduction IR/ISF ne peuvent être inscrits en PEA ou PEA-PME. La note d'opération prévoit d'affecter le produit net de l'émission ainsi : environ 35 % au développement de phase II de THN102 (maladie de Parkinson et narcolepsie), environ 20 % aux phases Ia et Ib de THN201 (maladie d'Alzheimer), environ 20 % aux phases Ia et Ib de THN101 (douleurs neuropathiques), environ 15 % à l'identification de nouveaux candidats-médicaments et à la recherche sur le réseau glial, environ 10 % au développement commercial en vue d'un accord de licence et aux frais généraux. Elle ajoute qu'en cas de souscription à 75 % seulement, la société ralentirait le développement de THN201 ou de THN101.",
    "sources": [
     "S005",
     "S006"
@@ -10048,6 +10074,16 @@
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/10/FCACT053101_20201021.pdf",
    "archive": "integral",
    "note": "Dépôt AMF (archive DILA), relevé le 22/11/2026 par la récupération de l'information réglementée. Texte intégral : textes/S187.txt ; PDF : textes/pdf/AMF_2020-10-21_FCACT053101_20201021.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S188",
+   "date_source": "2017-09-27",
+   "type": "AMF",
+   "reference": "Document de base de Theranexus enregistré par l'AMF le 27/09/2017 sous le n° I.17-068",
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2017/I.17-0068/5D259C78BD77A364D57EA5402B2DEBC2644F116AD33FE8925EDA8FEEF68BA13B.pdf",
+   "archive": "integral",
+   "note": "Lu le 22/11/2026 dans la base BDIF de l'AMF par le navigateur du PC. Texte intégral : textes/S188.txt ; PDF archivé sans ses images : textes/pdf/AMF_2017-09-28_document-de-base_I17-068_sans-images.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
