@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T16:42",
+ "mis_a_jour": "2026-11-22T16:46",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,7 +73,7 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 170,
+  "evenements": 172,
   "sources": 194
  },
  "evenements": [
@@ -486,6 +486,48 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2017-12-31_actionnariat-fin-2017",
+   "date": "2017-12-31",
+   "date_affichee": "31 déc. 2017",
+   "revele_le": "2018-04-26",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat fin 2017 : fondateurs 20,4 %, Auriga 14,5 %, Supernova Invest 13,9 %, flottant 33,0 %",
+   "texte": "Répartition au 31 décembre 2017 sur 3 119 143 actions : Franck Mouthon et Mathieu Charvériat 317 776 actions chacun (10,2 %), Auriga Partners 452 180 (14,5 %), Supernova Invest 432 260 (13,9 %), Sofimac Partners 306 639 (9,8 %), Kreaxi 157 732 (5,1 %), un investisseur personne physique 102 702 (3,3 %), salariés 3 225 (0,1 %), flottant 1 028 853 (33,0 %). Le communiqué du 25 octobre 2017 indiquait 16,2 % pour CEA Investissement ; le document de référence ne commente pas l'écart. Le document d'enregistrement universel 2019 donne la même répartition au 31 décembre 2018.",
+   "sources": [
+    "S193",
+    "S194"
+   ],
+   "sources_libelle": [
+    "Document de référence 2017 du 26/04/2018",
+    "DEU 2019 du 30/04/2020"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2017-10-25_actionnariat-post-ipo"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2018-01-02",
+      "cloture": 15.1,
+      "volume": 170,
+      "variation_pct": 1.7,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2018-01-11_brevet-europeen-thn102",
@@ -2354,6 +2396,54 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2019-12-31_actionnariat-fin-2019",
+   "date": "2019-12-31",
+   "date_affichee": "31 déc. 2019",
+   "revele_le": "2020-04-30",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat fin 2019 : Auriga 17,7 %, fondateurs 17,5 %, Supernova Invest 11,9 %, flottant 37,1 %",
+   "texte": "Répartition au 31 décembre 2019 sur 3 622 413 actions, après la levée de juillet 2019 : Auriga Partners 641 068 actions (17,7 %), Franck Mouthon et Mathieu Charvériat 317 776 chacun (8,8 %), Supernova Invest 432 260 (11,9 %), Sofimac Partners 306 639 (8,5 %), Kreaxi 157 732 (4,4 %), un investisseur personne physique 102 702 (2,8 %), salariés 3 225 (0,1 %), flottant 1 343 235 (37,1 %). Seul Auriga Partners a augmenté sa ligne depuis fin 2018 (452 180 actions). Les fondateurs détiennent chacun 635 552 droits de vote (11,9 %) par l'effet du droit de vote double.",
+   "sources": [
+    "S194"
+   ],
+   "sources_libelle": [
+    "DEU 2019 du 30/04/2020"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2019-07-11_levee-2-2m-absa"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2019-12-31",
+      "cloture": 3.04,
+      "volume": 13350,
+      "variation_pct": 1.7,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2020-01-02",
+      "cloture": 3.03,
+      "volume": 14101,
+      "variation_pct": -0.3,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2020-01-15_resultats-phase1b-thn201",
