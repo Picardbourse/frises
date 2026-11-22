@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T07:57",
+ "mis_a_jour": "2026-11-22T08:19",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -3978,7 +3978,7 @@
      "echeance": "2024-06-30",
      "statut": "nd",
      "statue_par": "S119",
-     "note": "Le projet PickASO (avril 2024) associe le laboratoire ARNA de l'Inserm ; les sources ne précisent pas qu'il est issu de l'alliance."
+     "note": "Le projet PickASO (avril 2024) associe le laboratoire ARNA de l'Inserm ; les sources ne précisent pas qu'il est issu de l'alliance. Aucune pièce postérieure à l'échéance trouvée au 22/11/2026."
     }
    ],
    "liens": [],
@@ -5290,7 +5290,7 @@
      "echeance": "2024-11-22",
      "statut": "nd",
      "statue_par": "S129",
-     "note": "La collecte documente une présentation au Child Neurology Society (San Diego, 11-14/11/2024), pas celle de Chicago."
+     "note": "Le corpus documente une présentation au Child Neurology Society (San Diego, 11-14/11/2024), pas celle de Chicago ; aucune pièce postérieure trouvée au 22/11/2026."
     }
    ],
    "liens": [
@@ -6021,7 +6021,7 @@
      "echeance": "2025-10-31",
      "statut": "nd",
      "statue_par": "S147",
-     "note": "Recherche négative : aucune source ne documente cette présentation."
+     "note": "Aucune pièce trouvée au 22/11/2026 sur cette présentation ; la source citée, antérieure au congrès, n'en dit rien."
     }
    ],
    "liens": [],
@@ -6072,7 +6072,7 @@
      "echeance": "2025-10-31",
      "statut": "nd",
      "statue_par": "S147",
-     "note": "Recherche négative : aucune source ne documente cette présentation."
+     "note": "Aucune pièce trouvée au 22/11/2026 sur cette présentation ; la source citée, antérieure au congrès, n'en dit rien."
     }
    ],
    "liens": [],
