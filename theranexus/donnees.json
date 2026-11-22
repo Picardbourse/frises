@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-21",
- "mis_a_jour": "2026-11-21T23:03",
- "arrete_au": "2026-11-21",
+ "genere_le": "2026-11-22",
+ "mis_a_jour": "2026-11-22T07:57",
+ "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
   "code": "theranexus",
@@ -6718,15 +6718,17 @@
     "gouv"
    ],
    "statut": "doc",
-   "titre": "Déclarations à l'AMF : le PDG lève et cède 22 436 BSPCE, le directeur général adjoint lève et cède 12 257 options",
-   "texte": "Mathieu Charvériat, PDG : le 26/03/2026, « Levée vente BSPCE » portant sur 22 436 titres, au prix moyen de 3,0225 € ; commentaire de la déclaration : « Levée-vente de BSPCE issus du plan attribué en 2016, avant l'introduction en Bourse, d'une durée de 10 ans, et arrivant à caducité en mars/avril 2026 » (déclaration du 30/03/2026). Julien Veys, directeur général adjoint : acquisitions par exercice d'options au prix de 2,9671 € et cessions le même jour de 4 944 titres à 3,10 € (16/03), 2 825 à 3,12 € (18/03) et 4 488 à 3,05 € (20/03), soit 12 257 titres (déclaration reçue le 01/04/2026). Ce sont les deux seules déclarations de dirigeants retrouvées dans la base de l'AMF pour la société (recherche du 21/11/2026 par nom de société).",
+   "titre": "Déclarations à l'AMF : le PDG lève et cède 22 436 BSPCE, le directeur général délégué lève et cède 12 257 options",
+   "texte": "Mathieu Charvériat, PDG : le 26/03/2026, « Levée vente BSPCE » portant sur 22 436 titres, au prix moyen de 3,0225 € ; commentaire de la déclaration : « Levée-vente de BSPCE issus du plan attribué en 2016, avant l'introduction en Bourse, d'une durée de 10 ans, et arrivant à caducité en mars/avril 2026 » (déclaration du 30/03/2026). Julien Veys, directeur général délégué (« directeur général adjoint » dans la déclaration) : acquisitions par exercice d'options au prix de 2,9671 € et cessions le même jour de 4 944 titres à 3,10 € (16/03), 2 825 à 3,12 € (18/03) et 4 488 à 3,05 € (20/03), soit 12 257 titres (déclaration reçue le 01/04/2026). Ce sont les deux seules déclarations de dirigeants retrouvées dans la base de l'AMF pour la société (recherche du 21/11/2026 par nom de société). Le document d'enregistrement universel 2025 indique que 71 037 BSPCE du plan 2016 ont été exercés en février et mars 2026.",
    "sources": [
     "S173",
-    "S174"
+    "S174",
+    "S157"
    ],
    "sources_libelle": [
     "Déclaration de dirigeant AMF 2026DD1104316 (30/03/2026)",
-    "Déclaration de dirigeant AMF 2026DD1105382 (02/04/2026)"
+    "Déclaration de dirigeant AMF 2026DD1105382 (02/04/2026)",
+    "DEU 2025 (29/04/2026)"
    ],
    "engagements": [],
    "liens": [],
@@ -7102,8 +7104,8 @@
     "fin"
    ],
    "statut": "doc",
-   "titre": "BODACC du 31/08/2026 : capital de 145 438,15 € (14 543 815 actions) : +747 259 actions depuis novembre 2025, origine non expliquée",
-   "texte": "Le BODACC du 31/08/2026 mentionne 137 965,56 € puis 145 438,15 € ; North Data cite un palier intermédiaire de 14 472 800 actions ; societe.com liste une décision du conseil modifiant le capital du 10/08/2026. Le document d'enregistrement universel 2025 compte déjà 14 543 815 actions à sa date d'enregistrement (29/04/2026), comme le rapport semestriel au 30 juin 2026 ; 904 000 instruments dilutifs (60 000 BSA, 304 000 BSPCE, 540 000 actions gratuites). Tableau d'actionnariat du rapport semestriel au 30/06/2026, comparé à celui du DEU au 29/04/2026 : Odyssée Venture 2 023 213 actions (13,9 %) contre 1 699 531 (11,7 %) ; BBDF 548 437 (3,8 %) contre 898 437 (6,2 %) ; Auriga Partners 175 985 (1,2 %) contre 633 862 (4,4 %) ; Supernova Invest 222 926 (1,5 %), inchangé ; flottant 10 028 347 (69,0 %) contre 9 563 831 (65,8 %). Aucun des deux documents ne commente ces variations.",
+   "titre": "BODACC du 31/08/2026 : capital de 145 438,15 € (14 543 815 actions), soit 747 259 actions de plus qu'en novembre 2025 (actions gratuites et BSPCE)",
+   "texte": "Le BODACC du 31/08/2026 mentionne 137 965,56 € puis 145 438,15 € ; North Data cite un palier intermédiaire de 14 472 800 actions ; societe.com liste une décision du conseil modifiant le capital du 10/08/2026. Le document d'enregistrement universel 2025 (§ 19.1.11.1) en donne l'origine : « En janvier 2026, la société a constaté l'acquisition définitive et émis les actions correspondantes de 332 000 AGA 2024 et 344 222 AGA 2025 précédemment émises au profit de salariés de la Société » ; « En février et mars 2026, 71 037 BSPCE 2016 ont été exercés ce qui a généré la création de 71 037 actions », soit 747 259 actions au total. Il compte 14 543 815 actions à sa date d'enregistrement (29/04/2026), comme le rapport semestriel au 30 juin 2026 ; 904 000 instruments dilutifs (60 000 BSA, 304 000 BSPCE, 540 000 actions gratuites). Tableau d'actionnariat du rapport semestriel au 30/06/2026, comparé à celui du DEU au 29/04/2026 : Odyssée Venture 2 023 213 actions (13,9 %) contre 1 699 531 (11,7 %) ; BBDF 548 437 (3,8 %) contre 898 437 (6,2 %) ; Auriga Partners 175 985 (1,2 %) contre 633 862 (4,4 %) ; Supernova Invest 222 926 (1,5 %), inchangé ; flottant 10 028 347 (69,0 %) contre 9 563 831 (65,8 %). Aucun des deux documents ne commente ces variations.",
    "sources": [
     "S170",
     "S168",
@@ -7587,21 +7589,6 @@
     "S152",
     "S167",
     "S101"
-   ]
-  },
-  {
-   "sujet": "gouv",
-   "question": "D'où viennent les 747 259 actions créées entre novembre 2025 et avril 2026 ?",
-   "etat": "13 796 556 actions après l'augmentation de capital du 17/11/2025 ; 14 543 815 actions dès le DEU du 29/04/2026, chiffre repris au rapport semestriel du 30/06/2026 ; BODACC du 31/08/2026 (capital porté à 145 438,15 €, palier intermédiaire de 14 472 800 actions) ; décision du conseil du 10/08/2026. Instruments en circulation : 60 000 BSA, 304 000 BSPCE, 540 000 actions gratuites. Aucun CP sur cette émission. Le DEU 2025 (§ 19.1.7) indique 344 222 actions gratuites du plan 2024 définitivement acquises le 17/01/2026 et 332 000 du plan 2023 acquises le 07/05/2025 ; son tableau d'actionnariat attribue 591 442 actions à Mathieu Charvériat, contre 337 131 après l'opération de novembre 2025. Deux déclarations à l'AMF font état d'exercices de BSPCE et d'options en mars 2026. Ces éléments n'expliquent pas la totalité de l'écart.",
-   "attendu": "Rapport complémentaire du conseil, décisions d'attribution définitive d'actions gratuites ou d'exercice de BSA, déclaration mensuelle des droits de vote.",
-   "sources": [
-    "S148",
-    "S166",
-    "S168",
-    "S170",
-    "S157",
-    "S173",
-    "S174"
    ]
   },
   {
