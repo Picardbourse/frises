@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T12:22",
+ "mis_a_jour": "2026-11-22T12:37",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,8 +73,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 162,
-  "sources": 188
+  "evenements": 163,
+  "sources": 192
  },
  "evenements": [
   {
@@ -3912,14 +3912,16 @@
    ],
    "statut": "doc",
    "titre": "Résultats 2021 : perte nette de 8 150 k€ dont 771 k€ de dépréciation des actifs THN ; trésorerie de 13,0 M€ en mars 2022",
-   "texte": "Produits d'exploitation 25 k€ ; charges d'exploitation 9 537 k€ dont charges externes 5 591 k€, personnel 2 689 k€, amortissements 1 204 k€ ; résultat d'exploitation -9 512 k€ ; impôt +1 758 k€. Encaissements T1 2022 : 1,7 M€ Neurolead et prêt innovation Bpifrance de 0,8 M€ ; visibilité annoncée supérieure à 18 mois. Publié le 25 avril, avant la date du 28 avril prévue à l'agenda du 20/12/2021.",
+   "texte": "Produits d'exploitation 25 k€ ; charges d'exploitation 9 537 k€ dont charges externes 5 591 k€, personnel 2 689 k€, amortissements 1 204 k€ ; résultat d'exploitation -9 512 k€ ; impôt +1 758 k€. Encaissements T1 2022 : 1,7 M€ Neurolead et prêt innovation Bpifrance de 0,8 M€ ; visibilité annoncée supérieure à 18 mois. Publié le 25 avril, avant la date du 28 avril prévue à l'agenda du 20/12/2021. Le document d'enregistrement universel 2021 a été déposé à l'AMF le 29/04/2022 (D.22-0399).",
    "sources": [
     "S088",
-    "S080"
+    "S080",
+    "S191"
    ],
    "sources_libelle": [
     "CP Theranexus du 25/04/2022",
-    "CP Theranexus du 20/12/2021"
+    "CP Theranexus du 20/12/2021",
+    "DEU 2021 du 29/04/2022"
    ],
    "engagements": [
     {
@@ -4453,12 +4455,14 @@
    ],
    "statut": "doc",
    "titre": "Résultats 2022 : perte nette de 6 567 k€, trésorerie de 7,3 M€ au 31 mars 2023 ; visibilité d'au moins 12 mois",
-   "texte": "Produits d'exploitation 1 246 k€ (subventions Neurolead) ; charges d'exploitation 7 503 k€ ; résultat d'exploitation -6 257 k€ ; exceptionnel -771 k€ (expiration de brevets historiques, compensée par une reprise de dépréciation) ; impôt 619 k€, CIR réduit car l'essai américain n'est pas éligible. La phase 3 de Batten-1 est désormais visée pour décembre 2023.",
+   "texte": "Produits d'exploitation 1 246 k€ (subventions Neurolead) ; charges d'exploitation 7 503 k€ ; résultat d'exploitation -6 257 k€ ; exceptionnel -771 k€ (expiration de brevets historiques, compensée par une reprise de dépréciation) ; impôt 619 k€, CIR réduit car l'essai américain n'est pas éligible. La phase 3 de Batten-1 est désormais visée pour décembre 2023. Le document d'enregistrement universel 2022 a été déposé à l'AMF le 26/04/2023 (D.23-0345).",
    "sources": [
-    "S101"
+    "S101",
+    "S192"
    ],
    "sources_libelle": [
-    "CP Theranexus du 12/04/2023"
+    "CP Theranexus du 12/04/2023",
+    "DEU 2022 du 26/04/2023"
    ],
    "engagements": [
     {
@@ -6101,6 +6105,49 @@
    "majeur": true
   },
   {
+   "id": "2025-03-19_brevet-ep-formulation",
+   "date": "2025-03-19",
+   "date_affichee": "19 mars 2025",
+   "sujets": [
+    "regl",
+    "tx01"
+   ],
+   "statut": "doc",
+   "titre": "Brevet européen EP 4 349 334 délivré à Theranexus pour la solution buvable concentrée de miglustat",
+   "texte": "Brevet « Palatable liquid solution containing high concentration of miglustat », déposé le 07/10/2022 par Theranexus SA ; mention de la délivrance publiée le 19/03/2025 (EP 4 349 334 B1), avec une publication d'effet unitaire (C0) le même jour. Les événements juridiques repris par la fiche indiquent qu'aucune opposition n'a été formée dans le délai (« NO OPPOSITION FILED WITHIN TIME LIMIT », inscrit le 23/01/2026). La fiche donne une expiration anticipée au 07/10/2042 et signale une seconde demande européenne de la même famille (EP 4 598 529, issue de la demande internationale WO 2024/074723), en cours d'examen. Source : Google Patents, à défaut du registre de l'Office européen des brevets.",
+   "sources": [
+    "S189"
+   ],
+   "sources_libelle": [
+    "Brevet EP 4 349 334 B1 du 19/03/2025 (Google Patents)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-03-19",
+      "cloture": 0.416,
+      "volume": 5045,
+      "variation_pct": -3.3,
+      "volume_vs_moy20": 0.2
+     },
+     {
+      "role": "suivante",
+      "date": "2025-03-20",
+      "cloture": 0.426,
+      "volume": 25989,
+      "variation_pct": 2.4,
+      "volume_vs_moy20": 1.3
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2025-03-26_depart-administrateur-doulat",
    "date": "2025-03-26",
    "date_affichee": "26 mars 2025",
@@ -7258,12 +7305,14 @@
    ],
    "statut": "doc",
    "titre": "Registre : Polaryx Therapeutics inscrit un essai de phase 2 de PLX-200 dans quatre maladies lysosomales, dont la CLN3",
-   "texte": "La fiche NCT07740512 du registre ClinicalTrials.gov (essai SOTERIA), publiée le 31/07/2026, décrit un essai ouvert à un seul groupe, de phase 2, sur 24 participants estimés de 2 à 15 ans atteints de CLN2, de CLN3, de la maladie de Krabbe ou de la maladie de Sandhoff. Statut « Not yet recruiting », début estimé en décembre 2026, fin de collecte du critère principal estimée au 31/12/2028. Les participants qui reçoivent du miglustat doivent l'arrêter avant l'étude : « Participants receiving Zavesca® (miglustat) or any other prohibited therapies must be willing to discontinue these therapies ». Promoteur : Polaryx Therapeutics, Inc.",
+   "texte": "La fiche NCT07740512 du registre ClinicalTrials.gov (essai SOTERIA), publiée le 31/07/2026, décrit un essai ouvert à un seul groupe, de phase 2, sur 24 participants estimés de 2 à 15 ans atteints de CLN2, de CLN3, de la maladie de Krabbe ou de la maladie de Sandhoff. Statut « Not yet recruiting », début estimé en décembre 2026, fin de collecte du critère principal estimée au 31/12/2028. Les participants qui reçoivent du miglustat doivent l'arrêter avant l'étude : « Participants receiving Zavesca® (miglustat) or any other prohibited therapies must be willing to discontinue these therapies ». Promoteur : Polaryx Therapeutics, Inc. Le 09/11/2026, Polaryx annonce l'activation d'un premier centre (Boys Town National Research Hospital, Nebraska), où la sélection des patients a commencé, et prévoit l'activation de cinq autres centres américains d'ici la fin du premier trimestre 2027 ; le communiqué n'annonce aucun patient traité.",
    "sources": [
-    "S178"
+    "S178",
+    "S190"
    ],
    "sources_libelle": [
-    "Registre ClinicalTrials.gov, fiche NCT07740512 (31/07/2026)"
+    "Registre ClinicalTrials.gov, fiche NCT07740512 (31/07/2026)",
+    "CP Polaryx du 09/11/2026"
    ],
    "engagements": [],
    "liens": [],
@@ -9626,8 +9675,9 @@
    "type": "autre",
    "reference": "Journal of Child Neurology du 19/09/2025 : miglustat dans la CLN3 pédiatrique (vie réelle)",
    "url": "https://journals.sagepub.com/doi/10.1177/08830738251374538",
-   "archive": "reference",
-   "note": "Date de publication en ligne exacte [non vérifié] ; article non ouvert, métadonnées issues de la page BBDF et du titre de la page SAGE."
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S143",
@@ -10084,6 +10134,46 @@
    "url": "https://bdif.amf-france.org/back/api/v1/documents/2017/I.17-0068/5D259C78BD77A364D57EA5402B2DEBC2644F116AD33FE8925EDA8FEEF68BA13B.pdf",
    "archive": "integral",
    "note": "Lu le 22/11/2026 dans la base BDIF de l'AMF par le navigateur du PC. Texte intégral : textes/S188.txt ; PDF archivé sans ses images : textes/pdf/AMF_2017-09-28_document-de-base_I17-068_sans-images.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S189",
+   "date_source": "2025-03-19",
+   "type": "brevet",
+   "reference": "Brevet européen EP 4 349 334 B1 du 19/03/2025 : solution buvable concentrée de miglustat (Theranexus), fiche et événements juridiques",
+   "url": "https://patents.google.com/patent/EP4349334B1/en",
+   "archive": "integral",
+   "note": "Lu sur Google Patents (agrégateur, à défaut du registre de l'OEB, qui refuse l'accès automatique). Piste signalée par un forum, vérifiée sur cette fiche.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S190",
+   "date_source": "2026-11-09",
+   "type": "CP tiers",
+   "reference": "CP Polaryx Therapeutics du 09/11/2026 : activation du premier centre de l'essai SOTERIA (PLX-200)",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398407/0/en/polaryx-therapeutics-activates-first-clinical-trial-site-for-soteria-phase-2-basket-trial-of-plx-200.html",
+   "archive": "integral",
+   "note": "Communiqué d'un tiers, lu sur GlobeNewswire (diffuseur d'origine).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S191",
+   "date_source": "2022-04-29",
+   "type": "RFA",
+   "reference": "DEU 2021 (D.22-0399) du 29/04/2022 : document d'enregistrement universel 2021",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/410/8888/01/FC410442564_20220429.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA). PDF : textes/pdf/AMF_2022-04-29_FC410442564_20220429.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S192",
+   "date_source": "2023-04-26",
+   "type": "RFA",
+   "reference": "DEU 2022 (D.23-0345) du 26/04/2023 : document d'enregistrement universel 2022",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/410/8888/01/FC410481468_20230426.pdf",
+   "archive": "integral",
+   "note": "Dépôt AMF (archive DILA). PDF : textes/pdf/AMF_2023-04-26_FC410481468_20230426.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
