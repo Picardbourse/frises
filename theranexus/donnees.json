@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T08:40",
+ "mis_a_jour": "2026-11-22T08:47",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,8 +73,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 153,
-  "sources": 177
+  "evenements": 155,
+  "sources": 179
  },
  "evenements": [
   {
@@ -7096,6 +7096,98 @@
    "majeur": true
   },
   {
+   "id": "2026-07-31_essai-soteria-polaryx",
+   "date": "2026-07-31",
+   "date_affichee": "31 juil. 2026",
+   "sujets": [
+    "batten",
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Registre : Polaryx Therapeutics inscrit un essai de phase 2 de PLX-200 dans quatre maladies lysosomales, dont la CLN3",
+   "texte": "La fiche NCT07740512 du registre ClinicalTrials.gov (essai SOTERIA), publiée le 31/07/2026, décrit un essai ouvert à un seul groupe, de phase 2, sur 24 participants estimés de 2 à 15 ans atteints de CLN2, de CLN3, de la maladie de Krabbe ou de la maladie de Sandhoff. Statut « Not yet recruiting », début estimé en décembre 2026, fin de collecte du critère principal estimée au 31/12/2028. Les participants qui reçoivent du miglustat doivent l'arrêter avant l'étude : « Participants receiving Zavesca® (miglustat) or any other prohibited therapies must be willing to discontinue these therapies ». Promoteur : Polaryx Therapeutics, Inc.",
+   "sources": [
+    "S178"
+   ],
+   "sources_libelle": [
+    "Registre ClinicalTrials.gov, fiche NCT07740512 (31/07/2026)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-07-31",
+      "cloture": 4.3,
+      "volume": 359136,
+      "variation_pct": 4.6,
+      "volume_vs_moy20": 4.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-08-03",
+      "cloture": 4.27,
+      "volume": 154595,
+      "variation_pct": -0.7,
+      "volume_vs_moy20": 1.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-08-20_demande-brevet-us-formulation",
+   "date": "2026-08-20",
+   "date_affichee": "20 août 2026",
+   "sujets": [
+    "regl",
+    "batten",
+    "tx01"
+   ],
+   "statut": "doc",
+   "titre": "Publication de la demande de brevet américaine US 2026/0240827 A1 de Theranexus sur la solution buvable de miglustat",
+   "texte": "Demande n° 19/118,774, intitulée « Palatable liquid solution containing high concentration of miglustat », de la même famille que la demande internationale WO2024074723 (priorité du 07/10/2022, dépôt du 09/10/2023). Statut à la consultation du 22/11/2026 : en cours d'examen. Lu sur Google Patents, qui reprend les registres ; registre de l'office américain non consulté.",
+   "sources": [
+    "S179"
+   ],
+   "sources_libelle": [
+    "Demande US 2026/0240827 A1 (Google Patents, consulté le 22/11/2026)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-04-11_brevet-formulation-miglustat"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-08-20",
+      "cloture": 4.28,
+      "volume": 62468,
+      "variation_pct": -2.9,
+      "volume_vs_moy20": 0.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-08-21",
+      "cloture": 4.235,
+      "volume": 43558,
+      "variation_pct": -1.1,
+      "volume_vs_moy20": 0.3
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-08-31_capital-145-438-actions",
    "date": "2026-08-31",
    "date_affichee": "31 août 2026",
@@ -9683,6 +9775,26 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-510533-29-00",
    "archive": "integral",
    "note": "Document « Protocol (for publication) » téléchargé du registre le 22/11/2026 ; PDF : textes/pdf/CTIS_2023-510533-29-00_protocole_v1.1_2026-10-19.pdf ; texte : textes/CTIS_2023-510533-29-00_protocole_v1.1.txt. Version 1.0 datée du 30/06/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S178",
+   "date_source": "2026-07-31",
+   "type": "registre",
+   "reference": "ClinicalTrials.gov du 31/07/2026 : NCT07740512, essai SOTERIA de Polaryx Therapeutics (PLX-200)",
+   "url": "https://clinicaltrials.gov/study/NCT07740512",
+   "archive": "integral",
+   "note": "Fiche lue le 22/11/2026 par l'API du registre (api/v2/studies/NCT07740512) depuis le navigateur du PC. Première publication et dernière mise à jour : 31/07/2026. Piste signalée par un forum, vérifiée au registre.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S179",
+   "date_source": "2026-08-20",
+   "type": "brevet",
+   "reference": "Demande de brevet US 2026/0240827 A1 du 20/08/2026 : solution buvable concentrée de miglustat (Theranexus)",
+   "url": "https://patents.google.com/patent/US20260240827A1/en",
+   "archive": "integral",
+   "note": "Lu le 22/11/2026 sur Google Patents (agrégateur, à défaut du registre de l'USPTO non consulté) : demande 19/118,774, déposant Theranexus SA, priorité 07/10/2022, dépôt 09/10/2023, publication 20/08/2026, statut « Pending ». Piste signalée par un forum.",
    "texte_archive": "sources_textes.json"
   }
  ],
