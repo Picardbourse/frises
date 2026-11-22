@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T08:47",
+ "mis_a_jour": "2026-11-22T10:28",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -8084,7 +8084,7 @@
    "reference": "Bref Eco, 28/09/2017 : Theranexus prépare son introduction sur Euronext Growth",
    "url": "https://www.brefeco.com/actualite/sante/theranexus-prepare-son-introduction-sur-euronext-growth-paris",
    "archive": "reference",
-   "note": "Pas de fait nouveau notable par rapport au communiqué, hormis l'effectif."
+   "note": ""
   },
   {
    "id": "S004",
@@ -8160,8 +8160,9 @@
    "type": "CP",
    "reference": "CP Theranexus du 29/01/2018 : agenda financier 2018",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/01/FCACT041375_20180129.pdf",
-   "archive": "reference",
-   "note": "PDF déposé à l'AMF (archive DILA)."
+   "archive": "integral",
+   "note": "PDF déposé à l'AMF (archive DILA).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S012",
@@ -8169,7 +8170,7 @@
    "type": "analyste",
    "reference": "BFM Bourse du 08/02/2018 : Portzamparc voit « un potentiel de blockbuster »",
    "url": "https://www.tradingsat.com/thx-pharma-ex-theranexus-FR0013286259/actualites/thx-pharma-ex-theranexus-portzamparc-voit-un-potentiel-de-blockbuster-787159.html",
-   "archive": "integral",
+   "archive": "reference",
    "note": "Portzamparc était chef de file de l'IPO et listing sponsor (recherche sponsorisée).",
    "texte_archive": "sources_textes.json"
   },
@@ -8178,7 +8179,7 @@
    "date_source": "2018-04-19",
    "type": "CP",
    "reference": "CP Theranexus du 19/04/2018 : autorisation hongroise pour la phase 2 THN102 (Parkinson)",
-   "url": "https://www.zonebourse.com/cours/action/THERANEXUS-38226962/actualite/THERANEXUS-obtient-une-autorisation-europeenne-pour-l-etude-clinique-de-phase-2-avec-THN-102-26387220/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/04/FCACT042292_20180419.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -8188,7 +8189,7 @@
    "date_source": "2018-04-23",
    "type": "CP",
    "reference": "CP Theranexus du 23/04/2018 : statut IND de la FDA pour THN102",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/04/FCACT042303_20180423.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/04/FCACT042302_20180423.pdf",
    "archive": "integral",
    "note": "PDF déposé à l'AMF (archive DILA), version anglaise du CP du 23 avril 2018 (version française reprise par Industrie-Mag article16694).",
    "texte_archive": "sources_textes.json"
@@ -8218,9 +8219,10 @@
    "date_source": "2018-05-15",
    "type": "CP",
    "reference": "CP Theranexus du 15/05/2018 : trésorerie au 31 mars 2018",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/05/FCACT042698_20180515.pdf",
-   "archive": "reference",
-   "note": "Version anglaise déposée à l'AMF (archive DILA) ; version française FCACT042701_20180515."
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/05/FCACT042701_20180515.pdf",
+   "archive": "integral",
+   "note": "Version anglaise déposée à l'AMF (archive DILA) ; version française FCACT042701_20180515.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S018",
@@ -8334,18 +8336,20 @@
    "date_source": "2019-01-28",
    "type": "CP",
    "reference": "CP Theranexus du 28/01/2019 : agenda financier 2019",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/01/FCACT045587_20190128.pdf",
-   "archive": "reference",
-   "note": "PDF déposé à l'AMF (archive DILA)."
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/01/FCACT045585_20190128.pdf",
+   "archive": "integral",
+   "note": "PDF déposé à l'AMF (archive DILA).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S030",
    "date_source": "2019-01-29",
    "type": "CP",
    "reference": "CP Theranexus du 29/01/2019 : financement de 6,2 M€ du PIA (Bpifrance) pour Neurolead",
-   "url": "https://financialreports.eu/companies/theranexus/?page=18",
-   "archive": "reference",
-   "note": "Titre relevé sur l'index financialreports.eu (agrégateur) ; contenu détaillé repris des CP des 13 février et 17 avril 2019. PDF d'origine non ouvert. ; reprise via financialreports.eu"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/01/FCACT045607_20190129.pdf",
+   "archive": "integral",
+   "note": "Titre relevé sur l'index financialreports.eu (agrégateur) ; contenu détaillé repris des CP des 13 février et 17 avril 2019. PDF d'origine non ouvert. ; reprise via financialreports.eu",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S031",
@@ -8362,7 +8366,7 @@
    "date_source": "2019-02-13",
    "type": "CP",
    "reference": "CP Theranexus du 13/02/2019 : trésorerie au 31 décembre 2018 et point d'avancement",
-   "url": "https://www.zonebourse.com/cours/action/THX-PHARMA-38226962/actualite/Theranexus-THERANEXUS-PUBLIE-SA-TRESORERIE-AU-31-DECEMBRE-2018-ET-PRESENTE-UN-POINT-SUR-L-28005980/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/02/FCACT045833_20190213.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -8382,7 +8386,7 @@
    "date_source": "2019-02-27",
    "type": "CP",
    "reference": "CP Theranexus du 27/02/2019 : résultats préliminaires de la phase 2 THN102 dans la narcolepsie",
-   "url": "https://www.zonebourse.com/cours/action/THX-PHARMA-38226962/actualite/Theranexus-THERANEXUS-ANNONCE-LES-RESULTATS-PRELIMINAIRES-DE-L-ETUDE-DE-PHASE-2-DU-THN10-28079518/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/02/FCACT045972_20190227.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -8393,7 +8397,7 @@
    "type": "presse",
    "reference": "Biotech Finances (via Boursorama), 01/03/2019 : Theranexus est prêt pour le 2ème round",
    "url": "https://www.boursorama.com/bourse/actualites/theranexus-est-pret-pour-le-2eme-round-c2a42329e36b1445c52ae269cc3b90a6",
-   "archive": "integral",
+   "archive": "extrait",
    "note": "",
    "texte_archive": "sources_textes.json"
   },
@@ -8402,7 +8406,7 @@
    "date_source": "2019-04-17",
    "type": "RFA",
    "reference": "CP Theranexus du 17/04/2019 : résultats annuels 2018 et point d'actualité",
-   "url": "https://www.boursorama.com/bourse/actualites/theranexus-theranexus-annonce-ses-resultats-annuels-2018-et-presente-un-point-d-actualite-sur-l-avancement-de-ses-activites-0a874c91f14b8062792868e5c51d21f0",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/04/FCACT046532_20190417.pdf",
    "archive": "integral",
    "note": "Publié le 17 avril 2019 (et non le 29 avril initialement annoncé). Texte Actusnews repris par Boursorama. ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -8421,7 +8425,7 @@
    "date_source": "2019-06-27",
    "type": "CP",
    "reference": "CP Theranexus du 27/06/2019 : accord de principe avec la BBDF pour BBDF 101",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/06/FCACT047443_20190627.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/06/FCACT047441_20190627.pdf",
    "archive": "integral",
    "note": "PDF déposé à l'AMF (archive DILA), version anglaise.",
    "texte_archive": "sources_textes.json"
@@ -8441,7 +8445,7 @@
    "date_source": "2019-07-11",
    "type": "CP",
    "reference": "CP Theranexus du 11/07/2019 : levée de 2,2 M€ par placement réservé",
-   "url": "https://www.zonebourse.com/cours/action/THERANEXUS-38226962/actualite/Theranexus-THERANEXUS-LEVE-2-2-MILLIONS-D-EUROS-DANS-LE-CADRE-D-UN-PLACEMENT-RESERVE-A-UNE-CA-28882054/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/07/FCACT047690_20190711.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. | Agrégateur France Bourse ; communiqué primaire non accessible. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -8470,7 +8474,7 @@
    "date_source": "2019-09-24",
    "type": "CP",
    "reference": "CP Theranexus du 24/09/2019 : inclusion du dernier patient de la phase 2 THN102 (Parkinson)",
-   "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-nouvelle-etape-franchie-pour-theranexus-inclusion-du-dernier-patient-dans-l-etude-de-phase-2-pour-thn102-dans-la-maladie-de-parkinson-e30bbbcf043998fd287e0db1e4bd55d3",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/09/FCACT048463_20190924.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama (AMP). Le CP du 17 septembre 2019 annonçait l'inclusion du dernier sujet de la phase 1b THN201 (152 sujets, 10 centres). ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -8480,7 +8484,7 @@
    "date_source": "2019-09-26",
    "type": "RFS",
    "reference": "CP Theranexus du 26/09/2019 : résultats du premier semestre 2019",
-   "url": "https://www.francebourse.com/fiche_news_145674.fb",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/09/FCACT048502_20190926.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par France Bourse. ; reprise via France Bourse",
    "texte_archive": "sources_textes.json"
@@ -8490,7 +8494,7 @@
    "date_source": "2019-12-12",
    "type": "CP",
    "reference": "CP Theranexus du 12/12/2019 : licence exclusive mondiale BBDF-101 avec la BBDF",
-   "url": "https://in.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-Theranexus-and-Beyond-Batten-Disease-Foundation-BBDF-announce-the-signing-of-a-wo-29720000/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/12/FCACT049391_20191212.pdf",
    "archive": "integral",
    "note": "Version anglaise (Actusnews) reprise par MarketScreener ; version française sur Boursorama (URL trop longue pour être ouverte lors de la collecte). ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8500,7 +8504,7 @@
    "date_source": "2020-01-15",
    "type": "CP",
    "reference": "CP Theranexus du 15/01/2020 : résultats de la phase Ib de THN201",
-   "url": "https://www.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-THERANEXUS-ANNOUNCES-THE-CLINICAL-RESULTS-OF-ITS-PHASE-IB-STUDY-DEMONSTRATING-THE-29841717/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/01/FCACT049730_20200115.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par MarketScreener ; version française sur Boursorama (URL trop longue lors de la collecte). ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8510,7 +8514,7 @@
    "date_source": "2020-01-27",
    "type": "CP",
    "reference": "CP Theranexus du 27/01/2020 : trésorerie au 31 décembre 2019",
-   "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-theranexus-publie-sa-position-de-tresorerie-au-31-decembre-2019-011f0837fda582999f28c61cc0e7a51f",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/01/FCACT049837_20200127.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama ; PDF d'origine : actusnews.com/news/61866-theranexus_cp_t4-2019_vdef.pdf (non ouvert). ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -8531,8 +8535,8 @@
    "type": "presse",
    "reference": "Lyon Entreprises, 03/04/2020 : son cours de Bourse s'envole : succès contre Parkinson",
    "url": "https://www.lyon-entreprises.com/actualites/article/son-cours-de-bourse-senvole-succes-de-la-biotech-lyonnaise-theranexus-dans-la-lutte-contre-la-maladie-de-parkinson",
-   "archive": "integral",
-   "note": "Le chiffre de +477 % en une séance est tel que rapporté par l'article [non recoupé].",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -8559,7 +8563,7 @@
    "date_source": "2020-06-24",
    "type": "CP",
    "reference": "CP Theranexus du 24/06/2020 : PGE de 3,4 M€ et point sur les développements",
-   "url": "https://www.boursorama.com/bourse/actualites/theranexus-theranexus-obtient-un-financement-non-dilutif-de-3-4-m-eur-sous-forme-de-pret-garanti-pge-par-l-etat-et-fait-le-point-sur-ses-developpements-72b073fb673e6f353033016f618a1bcd",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/06/FCACT051656_20200624.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama. ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -8569,7 +8573,7 @@
    "date_source": "2020-07-09",
    "type": "CP",
    "reference": "CP Theranexus du 09/07/2020 : trésorerie au 30 juin 2020 et ligne de financement en fonds propres (IRIS)",
-   "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-theranexus-annonce-sa-position-de-tresorerie-au-30-juin-2020-et-la-mise-en-place-d-une-ligne-de-financement-en-fonds-propres-c4031a9bbfc74e0e3caa092cbbbd5b85",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/07/FCACT051884_20200709.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama (version AMP). | Communiqué repris par ABC Bourse (PDF société inaccessible). ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -8579,7 +8583,7 @@
    "date_source": "2020-08-11",
    "type": "CP",
    "reference": "CP Theranexus du 11/08/2020 : ODD et RPDD de la FDA pour BBDF-101",
-   "url": "https://www.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-THERANEXUS-AND-BBDF-OBTAIN-ORPHAN-DRUG-DESIGNATION-ODD-AND-RARE-PEDIATRIC-DISEASE-31100131/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/08/FCACT052297_20200811.pdf",
    "archive": "integral",
    "note": "Version anglaise (Actusnews) reprise par MarketScreener ; version française listée sur abcbourse le 11/08/2020 et republiée le 21/10/2020 (statut orphelin EMA). ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8591,7 +8595,7 @@
    "reference": "Global Genes / RARE Daily, 12/08/2020 : désignation Rare Pediatric Disease pour BBDF-101",
    "url": "https://globalgenes.org/raredaily/fda-grants-rare-pediatric-disease-designation-to-theranexus-and-bbdf-for-batten-disease-therapy/",
    "archive": "reference",
-   "note": "Fiche primaire de la base FDA OOPD non atteinte (recherche sans résultat direct) ; date d'octroi et titulaire exact (BBDF vs Theranexus) [non vérifié]. Question ouverte : transfert/maintien des désignations pour Batten-1 (miglustat seul)."
+   "note": ""
   },
   {
    "id": "S056",
@@ -8607,7 +8611,7 @@
    "date_source": "2020-09-09",
    "type": "CP",
    "reference": "CP Theranexus du 09/09/2020 : point sur l'actualité scientifique",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/09/FCACT052506_20200909.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/09/FCACT052505_20200909.pdf",
    "archive": "integral",
    "note": "PDF déposé à l'AMF (archive DILA), version anglaise ; version française « THERANEXUS FAIT LE POINT SUR SON ACTUALITÉ SCIENTIFIQUE ».",
    "texte_archive": "sources_textes.json"
@@ -8627,7 +8631,7 @@
    "date_source": "2020-09-29",
    "type": "RFS",
    "reference": "CP Theranexus du 29/09/2020 : résultats du premier semestre 2020",
-   "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-theranexus-announces-its-first-half-2020-results-d26d45b06a6e6db22d1e4004aa8f321c",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/09/FCACT052816_20200929.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par Boursorama (AMP). ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -8637,9 +8641,10 @@
    "date_source": "2020-10-15",
    "type": "CP",
    "reference": "CP Theranexus du 15/10/2020 : trésorerie au 30 septembre 2020",
-   "url": "https://abcbourse.com/marches/theranexus-publishes-its-cash-position-as-of-30-september-2020_516316",
-   "archive": "reference",
-   "note": "Version anglaise (Actusnews) reprise par ABC Bourse. ; reprise via ABC Bourse"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/10/FCACT053049_20201015.pdf",
+   "archive": "integral",
+   "note": "Version anglaise (Actusnews) reprise par ABC Bourse. ; reprise via ABC Bourse",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S061",
@@ -8666,16 +8671,17 @@
    "date_source": "2020-11-04",
    "type": "CP",
    "reference": "CP Theranexus du 04/11/2020 : présentation des résultats de phase 1b THN201 au CTAD",
-   "url": "https://www.kreaxi.com/en/presentation-of-the-results-of-the-phase-ib-clinical-study-of-thn201-for-alzheimers-disease-at-the-clinical-trials-on-alzheimers-disease-conference-ctad/",
-   "archive": "reference",
-   "note": "Reprise partielle (Kreaxi) ; PDF AMF : FCACT053288_20201104 (non ouvert). ; reprise via Kreaxi"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/11/FCACT053287_20201104.pdf",
+   "archive": "integral",
+   "note": "Reprise partielle (Kreaxi) ; PDF AMF : FCACT053288_20201104 (non ouvert). ; reprise via Kreaxi",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S064",
    "date_source": "2020-11-20",
    "type": "CP",
    "reference": "CP Theranexus du 20/11/2020 : avis favorable de la FDA sur le plan préclinique de BBDF-101",
-   "url": "https://www.marketscreener.com/quote/stock/THERANEXUS-SOCIETE-ANONYM-38226962/news/Theranexus-nbsp-The-Food-And-Drug-Administration-issues-a-favorable-opinion-on-the-preclinical-d-31829172/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/11/FCACT053463_20201119.pdf",
    "archive": "integral",
    "note": "Reprise MarketScreener (ENP Newswire) ; version française « La Food and Drug Administration rend un avis favorable au plan de développement préclinique… » (Industrie-Mag article27363). ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8694,7 +8700,7 @@
    "date_source": "2020-12-18",
    "type": "CP",
    "reference": "CP Theranexus du 18/12/2020 : création du laboratoire commun NI2D",
-   "url": "https://ca.marketscreener.com/quote/stock/THERANEXUS-38226962/news/THERANEXUS-Lyon-Neuroscience-Research-Center-and-CERMEP-announce-the-creation-and-funding-of-new-j-32043497/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/12/FCACT053758_20201218.pdf",
    "archive": "integral",
    "note": "Reprise MarketScreener (Publicnow). ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8704,16 +8710,17 @@
    "date_source": "2020-12-28",
    "type": "CP",
    "reference": "CP Theranexus du 28/12/2020 : agenda financier 2021",
-   "url": "https://www.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-THERANEXUS-ANNOUNCES-ITS-FINANCIAL-CALENDAR-FOR-2021-32092786/",
-   "archive": "reference",
-   "note": "PDF d'origine : actusnews.com/news/66603-theranexus_pr_calendar2021_vdef.pdf (non ouvert). ; reprise via MarketScreener"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2020/12/FCACT053821_20201228.pdf",
+   "archive": "integral",
+   "note": "PDF d'origine : actusnews.com/news/66603-theranexus_pr_calendar2021_vdef.pdf (non ouvert). ; reprise via MarketScreener",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S068",
    "date_source": "2021-01-18",
    "type": "CP",
    "reference": "CP Theranexus du 18/01/2021 : trésorerie au 31 décembre 2020 et nouvelle ligne de financement IRIS",
-   "url": "https://www.minalogic.com/wp-content/uploads/2021/03/210118theranexus-cppointdavancement2021-vdef.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/01/FCACT054075_20210118.pdf",
    "archive": "integral",
    "note": "PDF du CP hébergé par Minalogic (copie du document Actusnews VDEF). | PDF du communiqué hébergé par Minalogic. ; reprise via Minalogic",
    "texte_archive": "sources_textes.json"
@@ -8752,16 +8759,17 @@
    "date_source": "2021-04-28",
    "type": "RFA",
    "reference": "DEU 2020 du 28/04/2021 : document d'enregistrement universel 2020",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/410/8888/01/FC410381605_20210428.pdf",
-   "archive": "reference",
-   "note": "Lecture partielle (chapitres 1-4 et chiffres clés) du PDF archivé par la DILA ; tableau d'actionnariat (section 16.1, p. 161) non lu."
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/04/FCACT055276_20210428.pdf",
+   "archive": "integral",
+   "note": "Lecture partielle (chapitres 1-4 et chiffres clés) du PDF archivé par la DILA ; tableau d'actionnariat (section 16.1, p. 161) non lu.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S073",
    "date_source": "2021-06-16",
    "type": "AG",
    "reference": "CP Theranexus du 16/06/2021 : compte rendu de l'AG mixte du 16 juin 2021",
-   "url": "https://uk.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-MINUTES-OF-THE-COMBINED-GENERAL-MEETING-OF-16-JUNE-2021-35625083/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/06/FCACT055978_20210616.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par MarketScreener. ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8791,7 +8799,7 @@
    "date_source": "2021-09-09",
    "type": "CP",
    "reference": "CP Theranexus du 09/09/2021 : statut IND pour BBDF 101",
-   "url": "https://www.mypharma-editions.com/theranexus-et-la-fondation-bbdf-obtiennent-le-statut-ind-aux-etats-unis-pour-demarrer-le-developpement-clinique-de-bbdf-101",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/09/FCACT056957_20210909.pdf",
    "archive": "integral",
    "note": "Reprise MyPharma Editions du CP Actusnews du 9 septembre 2021 (18h00). ; reprise via MyPharma Editions",
    "texte_archive": "sources_textes.json"
@@ -8801,7 +8809,7 @@
    "date_source": "2021-09-30",
    "type": "RFS",
    "reference": "CP Theranexus du 30/09/2021 : résultats du premier semestre 2021",
-   "url": "https://www.zonebourse.com/cours/action/THERANEXUS-38226962/actualite/Theranexus-THERANEXUS-ANNONCE-SES-RESULTATS-DU-PREMIER-SEMESTRE-2021-36562548/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/09/FCACT057245_20210930.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -8832,15 +8840,16 @@
    "type": "CP",
    "reference": "CP Theranexus du 20/12/2021 : agenda financier 2022",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/12/FCACT058207_20211220.pdf",
-   "archive": "reference",
-   "note": "PDF déposé à l'AMF (archive DILA). Les résultats annuels 2021 ont finalement été publiés le 25 avril 2022."
+   "archive": "integral",
+   "note": "PDF déposé à l'AMF (archive DILA). Les résultats annuels 2021 ont finalement été publiés le 25 avril 2022.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S081",
    "date_source": "2022-01-13",
    "type": "CP",
    "reference": "CP Theranexus du 13/01/2022 : trésorerie au 31 décembre 2021 et nouvelle ligne IRIS",
-   "url": "https://www.zonebourse.com/cours/action/THERANEXUS-38226962/actualite/Theranexus-THERANEXUS-PUBLIE-SA-POSITION-DE-TRESORERIE-AU-31-DECEMBRE-2021-MISE-EN-PLACE-D-U-37541520/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/01/FCACT058455_20220113.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. La ligne a été définitivement arrêtée en avril 2022 (CP du 12 juillet 2022). | Version anglaise reprise par MarketScreener. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -8859,7 +8868,7 @@
    "date_source": "2022-02-03",
    "type": "CP",
    "reference": "CP Theranexus du 03/02/2022 : début du recrutement de la phase I/II dans la maladie de Batten",
-   "url": "https://www.abcbourse.com/marches/theranexus-et-la-fondation-bbdf-initient-le-recrutement-pour-l-etude-de-phase-i_556654",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/02/FCACT058748_20220203.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par ABC Bourse. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
@@ -8870,8 +8879,9 @@
    "type": "CP",
    "reference": "CP Theranexus du 28/02/2022 : avancées scientifiques (Journée des maladies rares 2022)",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/02/FCACT058986_20220228.pdf",
-   "archive": "reference",
-   "note": "PDF AMF identifié mais non ouvert ; titre relevé sur la liste abcbourse / Zonebourse."
+   "archive": "integral",
+   "note": "PDF AMF identifié mais non ouvert ; titre relevé sur la liste abcbourse / Zonebourse.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S085",
@@ -8879,8 +8889,9 @@
    "type": "CP",
    "reference": "CP Theranexus du 23/03/2022 : nombre de droits de vote et d'actions au 28 février 2022",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/03/FCACT059237_20220323.pdf",
-   "archive": "reference",
-   "note": ""
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S086",
@@ -8897,8 +8908,8 @@
    "type": "presse",
    "reference": "BFM Bourse, 25/04/2022 : échouant à valoriser son succès contre Parkinson, Theranexus se recentre",
    "url": "https://www.tradingsat.com/thx-pharma-ex-theranexus-FR0013286259/actualites/thx-pharma-ex-theranexus-echouant-a-valoriser-son-succes-contre-parkinson-theranexus-se-recentre-sur-les-maladies-rares-1015911.html",
-   "archive": "integral",
-   "note": "Communiqué d'origine (résultats annuels 2021 et changement de stratégie, 25/04/2022) non ouvert (URL Lyonbiopôle non autorisée).",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -8906,7 +8917,7 @@
    "date_source": "2022-04-25",
    "type": "RFA",
    "reference": "CP Theranexus du 25/04/2022 : résultats annuels 2021 et recentrage sur les maladies neurologiques rares",
-   "url": "https://www.marketscreener.com/quote/stock/THX-PHARMA-38226962/news/Theranexus-Theranexus-publishes-its-2021-full-year-results-And-announces-a-shift-of-its-strate-40138053/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/04/FCACT059609_20220425.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par MarketScreener ; version française PDF sur lyonbiopole.com (Theranexus-publie-ses-résultats-annuels-2021.pdf). DEU 2021 mis à disposition le 29 avril 2022. ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -8926,9 +8937,10 @@
    "date_source": "2022-09-08",
    "type": "CP",
    "reference": "CP Theranexus du 08/09/2022 : finalisation du recrutement de la phase I/II de Batten-1",
-   "url": "https://www.boursorama.com/cours/actualites/1rPALTHX/page-2",
-   "archive": "reference",
-   "note": "Titre relevé sur la liste Boursorama ; contenu détaillé non ouvert (URL Boursorama de l'article trop longue lors de la collecte). ; reprise via Boursorama"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/09/FCACT061377_20220908.pdf",
+   "archive": "integral",
+   "note": "Titre relevé sur la liste Boursorama ; contenu détaillé non ouvert (URL Boursorama de l'article trop longue lors de la collecte). ; reprise via Boursorama",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S091",
@@ -8955,7 +8967,7 @@
    "date_source": "2022-10-20",
    "type": "CP",
    "reference": "CP Theranexus du 20/10/2022 : alliance stratégique avec Inserm Transfert",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/10/FCACT061938_20221020.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/10/FCACT061941_20221020.pdf",
    "archive": "integral",
    "note": "PDF déposé à l'AMF (archive DILA), version anglaise ; version française FCACT061941_20221020.",
    "texte_archive": "sources_textes.json"
@@ -8965,25 +8977,27 @@
    "date_source": "2022-11-02",
    "type": "CP",
    "reference": "CP Theranexus du 02/11/2022 : Batten-1 à la conférence NCL de Chicago",
-   "url": "https://www.boursorama.com/cours/actualites/1rPALTHX/page-2",
-   "archive": "reference",
-   "note": "Titre relevé sur la liste Boursorama ; CP non ouvert. ; reprise via Boursorama"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/11/FCACT062128_20221102.pdf",
+   "archive": "integral",
+   "note": "Titre relevé sur la liste Boursorama ; CP non ouvert. ; reprise via Boursorama",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S095",
    "date_source": "2022-12-21",
    "type": "CP",
    "reference": "CP Theranexus du 21/12/2022 : agenda financier 2023",
-   "url": "https://live.euronext.com/en/products/equities/company-news/2022-12-21-theranexus-announces-its-financial-calendar-2023",
-   "archive": "reference",
-   "note": "Page Euronext vide à l'ouverture ; dates reconstituées à partir des publications effectives [calendrier initial non vérifié]. Le 20 décembre 2022, la société annonçait aussi sa participation à la 41st J.P. Morgan Healthcare Conference (9-12 janvier 2023, San Francisco)."
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/12/FCACT062696_20221221.pdf",
+   "archive": "integral",
+   "note": "Page Euronext vide à l'ouverture ; dates reconstituées à partir des publications effectives [calendrier initial non vérifié]. Le 20 décembre 2022, la société annonçait aussi sa participation à la 41st J.P. Morgan Healthcare Conference (9-12 janvier 2023, San Francisco).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S096",
    "date_source": "2023-01-05",
    "type": "CP",
    "reference": "CP Theranexus du 05/01/2023 : premiers résultats de la phase I/II de Batten-1",
-   "url": "https://ca.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-Announces-the-Initial-Results-of-Their-Phase-I-II-Clinical-Trial-for-Juvenile-Batten-Dise-42672607/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/01/FCACT062838_20230105.pdf",
    "archive": "integral",
    "note": "Résumé MarketScreener (S&P Capital IQ) du CP du 5 janvier 2023 ; titre français relevé sur la liste Boursorama. ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -9004,8 +9018,9 @@
    "type": "CP",
    "reference": "CP Theranexus du 27/01/2023 : bilan semestriel du contrat de liquidité (S2 2022)",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/01/FCACT063139_20230127.pdf",
-   "archive": "reference",
-   "note": "Moyens du contrat augmentés de 100 k€ en février 2026 (CP du 25/02/2026, non ouvert)."
+   "archive": "integral",
+   "note": "Moyens du contrat augmentés de 100 k€ en février 2026 (CP du 25/02/2026, non ouvert).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S099",
@@ -9013,8 +9028,8 @@
    "type": "presse",
    "reference": "Tribune de Lyon, 10/02/2023 : pourquoi Theranexus bifurque vers les maladies neurologiques",
    "url": "https://tribunedelyon.fr/economie/sante-pourquoi-la-biotech-lyonnaise-theranexus-bifurque-vers-les-maladies-neurologiques/",
-   "archive": "integral",
-   "note": "Année non affichée dans l'extrait ; datée de 2023 par cohérence avec l'annonce AIstroSight de février 2023 [non vérifié].",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -9042,7 +9057,7 @@
    "date_source": "2023-05-09",
    "type": "CP",
    "reference": "CP Theranexus du 09/05/2023 : accord de la FDA sur les critères de la phase 3 de Batten-1",
-   "url": "https://www.abcbourse.com/marches/theranexus-et-bbdf-obtiennent-l-accord-de-la-fda-sur-les-criteres-d-efficacite-d_594765",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/05/FCACT064467_20230509.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par ABC Bourse (Lyon / Austin, 9 mai 2023, 7h30). | Version AMF/DILA du CP : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/05/FCACT064466_20230509.pdf (non ouverte). Reprise MarketScreener de l'Actusnews. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
@@ -9053,15 +9068,16 @@
    "type": "AG",
    "reference": "CP Theranexus du 24/05/2023 : informations relatives à l'AG du 8 juin 2023",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/05/FCACT064681_20230524.pdf",
-   "archive": "reference",
-   "note": "PDF AMF non ouvert ; titre relevé sur la liste Boursorama. Autres AG identifiées : 20 juin 2018, 20 juin 2019, 2 juin 2020, 16 juin 2021, 22 juin 2022, 27 juin 2024 (AG mixte), 23 juin 2026 (changement de dénomination en THX Pharma)."
+   "archive": "integral",
+   "note": "PDF AMF non ouvert ; titre relevé sur la liste Boursorama. Autres AG identifiées : 20 juin 2018, 20 juin 2019, 2 juin 2020, 16 juin 2021, 22 juin 2022, 27 juin 2024 (AG mixte), 23 juin 2026 (changement de dénomination en THX Pharma).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S104",
    "date_source": "2023-06-07",
    "type": "CP",
    "reference": "CP Theranexus du 07/06/2023 : avis positif de l'EMA sur le design de la phase 3 de Batten-1",
-   "url": "https://www.boursorama.com/bourse/actualites/theranexus-theranexus-et-bbdf-obtiennent-l-avis-positif-de-l-ema-sur-le-design-de-la-phase-3-de-batten-1-dans-la-maladie-de-batten-cln3-e24a3f8f67eccdd1c7e9e18f9a297761",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT064855_20230607.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama ; PDF société Theranexus_CP_Avis_Positif_EMA_VDEF.pdf non accessible. | Version AMF/DILA : https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/06/FCACT064856_20230607.pdf (non ouverte). Les avis scientifiques EMA ne sont pas publiés individuellement : aucune fiche primaire EMA. ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -9082,17 +9098,19 @@
    "type": "CP",
    "reference": "CP Theranexus du 06/07/2023 : bilan semestriel du contrat de liquidité (S1 2023)",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/07/FCACT065320_20230706.pdf",
-   "archive": "reference",
-   "note": "PDF déposé à l'AMF (archive DILA). Des bilans semestriels similaires sont publiés chaque janvier et juillet depuis 2018 (ex. 4 janvier 2019, 20 juillet 2020, 19 janvier 2021, 6 juillet 2021, 18 juillet 2022, 27 janvier 2023, 31 janvier 2025, 17 juillet 2025, 27 janvier 2026) ; le contrat a été modifié le 6 mars 2025 et doté de 100 k€ supplémentaires le 25 février 2026."
+   "archive": "integral",
+   "note": "PDF déposé à l'AMF (archive DILA). Des bilans semestriels similaires sont publiés chaque janvier et juillet depuis 2018 (ex. 4 janvier 2019, 20 juillet 2020, 19 janvier 2021, 6 juillet 2021, 18 juillet 2022, 27 janvier 2023, 31 janvier 2025, 17 juillet 2025, 27 janvier 2026) ; le contrat a été modifié le 6 mars 2025 et doté de 100 k€ supplémentaires le 25 février 2026.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S107",
    "date_source": "2023-07-11",
    "type": "CP",
    "reference": "CP Theranexus du 11/07/2023 : lancement d'une levée de fonds d'environ 4 M€",
-   "url": "https://www.boursorama.com/cours/actualites/1rPALTHX/page-2",
-   "archive": "reference",
-   "note": "Titre relevé sur la liste Boursorama ; détail repris du CP de résultat du 12 juillet 2023. ; reprise via Boursorama"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/07/FCACT065405_20230711.pdf",
+   "archive": "integral",
+   "note": "Titre relevé sur la liste Boursorama ; détail repris du CP de résultat du 12 juillet 2023. ; reprise via Boursorama",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S108",
@@ -9108,7 +9126,7 @@
    "date_source": "2023-07-12",
    "type": "CP",
    "reference": "CP Theranexus du 12/07/2023 : levée de fonds d'environ 3,1 M€",
-   "url": "https://www.marketscreener.com/quote/stock/THX-PHARMA-38226962/news/Theranexus-Theranexus-raises-around-3-1-million-euros-in-fundraising-44315643/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/07/FCACT065415_20230712.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par MarketScreener ; PDF Actusnews ACTUS-0-80964-cp_resultats-theranexus_fr_12072023.pdf non accessible. | Version anglaise sur MarketScreener ; communiqué de lancement du 11/07/2023 (~4 M€ visés) non ouvert. Zonebourse (12/07/2023, 09h44) : le titre chute de 25,20 % à 1,32 €. ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -9128,7 +9146,7 @@
    "date_source": "2023-09-29",
    "type": "CP",
    "reference": "CP Theranexus du 29/09/2023 : résultats à 12 mois de la phase 1/2 de Batten-1",
-   "url": "https://www.marketscreener.com/quote/stock/THX-PHARMA-38226962/news/Theranexus-Theranexus-Highly-Promising-12-month-results-in-the-Phase-I-II-trial-of-Batten-1-44948411/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/09/FCACT066314_20230929.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par MarketScreener ; PDF AMF FCACT066314_20230929 (version française). ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -9237,7 +9255,7 @@
    "date_source": "2024-06-06",
    "type": "CP",
    "reference": "CP Theranexus du 06/06/2024 : neurofilaments à 18 mois dans la phase 1/2 de Batten-1",
-   "url": "https://www.marketscreener.com/quote/stock/THERANEXUS-38226962/news/Theranexus-Theranexus-and-BBDF-confirm-positive-18-month-results-for-Batten-1-in-Phase-I-II-tr-46915472/",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/06/FCACT069685_20240606.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par MarketScreener. ; reprise via MarketScreener",
    "texte_archive": "sources_textes.json"
@@ -9257,7 +9275,7 @@
    "date_source": "2024-07-11",
    "type": "CP",
    "reference": "CP Theranexus du 11/07/2024 : trésorerie au 30 juin 2024, Batten-1 et ligne IRIS",
-   "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-theranexus-publie-sa-tresorerie-au-30-juin-2024-et-fait-le-point-sur-l-avancement-de-batten-1-334032f2836edea853cb294bed58fd1a",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/07/FCACT070267_20240711.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama (version AMP). | Résumé Zonebourse du communiqué du 11/07/2024 ; les modalités détaillées (25 tranches de 100 k€, ORA de 2 500 €) figurent dans le CP du 29/04/2025. ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -9268,7 +9286,7 @@
    "type": "presse",
    "reference": "BFM Bourse, 12/07/2024 : trésorerie sous pression, le titre chute",
    "url": "https://www.tradingsat.com/thx-pharma-ex-theranexus-FR0013286259/actualites/thx-pharma-ex-theranexus-theranexus-tresorerie-sous-pression-le-titre-chute-1118994.html",
-   "archive": "integral",
+   "archive": "extrait",
    "note": "",
    "texte_archive": "sources_textes.json"
   },
@@ -9277,7 +9295,7 @@
    "date_source": "2024-09-26",
    "type": "RFS",
    "reference": "CP Theranexus du 26/09/2024 : résultats du premier semestre 2024",
-   "url": "https://www.boursorama.com/bourse/actualites/theranexus-theranexus-annonce-ses-resultats-financiers-du-premier-semestre-2024-dd840bfc443b85e22115b6289d91a5dc",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/09/FCACT071165_20240926.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama / ABC Bourse. ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -9287,7 +9305,7 @@
    "date_source": "2024-10-17",
    "type": "CP",
    "reference": "CP Theranexus du 17/10/2024 : accord avec Synerlab pour la formulation pédiatrique (Niemann-Pick C)",
-   "url": "https://live.euronext.com/sites/default/files/company_press_releases/attachments/2024/10/17/cpr05_actus_88299_FR0013286259.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/10/FCACT071497_20241017.pdf",
    "archive": "integral",
    "note": "PDF Actusnews hébergé par Euronext.",
    "texte_archive": "sources_textes.json"
@@ -9297,9 +9315,10 @@
    "date_source": "2024-10-23",
    "type": "CP",
    "reference": "CP Theranexus du 23/10/2024 : trésorerie au 30 septembre 2024",
-   "url": "https://www.boursorama.com/bourse/actualites/theranexus-theranexus-publie-sa-position-de-tresorerie-au-30-septembre-2024-9ab9b15a396432651448f664012e140c",
-   "archive": "reference",
-   "note": "Titre relevé via Boursorama ; chiffre repris du CP du 17 décembre 2024 ; article non ouvert. ; reprise via Boursorama"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/10/FCACT071556_20241023.pdf",
+   "archive": "integral",
+   "note": "Titre relevé via Boursorama ; chiffre repris du CP du 17 décembre 2024 ; article non ouvert. ; reprise via Boursorama",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S129",
@@ -9316,7 +9335,7 @@
    "date_source": "2024-12-17",
    "type": "CP",
    "reference": "CP Theranexus du 17/12/2024 : licence TX01 avec Exeltis (Insud Pharma)",
-   "url": "https://www.biospace.com/press-releases/theranexus-and-exeltis-insud-pharma-announce-licensing-agreement-to-commercialize-theranexus-tx01-for-two-rare-neurological-disorders",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/12/FCACT072295_20241217.pdf",
    "archive": "integral",
    "note": "Version anglaise (ACCESS Newswire) reprise par BioSpace. | Version anglaise reprise par MarketScreener (S&P Capital IQ). ; reprise via BioSpace",
    "texte_archive": "sources_textes.json"
@@ -9326,7 +9345,7 @@
    "date_source": "2024-12-17",
    "type": "CP",
    "reference": "CP Theranexus du 17/12/2024 : trésorerie et horizon de financement",
-   "url": "https://www.biospace.com/press-releases/theranexus-presents-an-update-of-its-cash-position-and-financing-horizon",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/12/FCACT072297_20241217.pdf",
    "archive": "integral",
    "note": "Version anglaise (ACCESSWIRE) reprise par BioSpace ; version française PDF Euronext cpr05_actus_89193_FR0013286259.pdf. ; reprise via BioSpace",
    "texte_archive": "sources_textes.json"
@@ -9346,15 +9365,16 @@
    "type": "CP",
    "reference": "CP Theranexus du 23/01/2025 : agenda financier 2025",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/01/FCACT072695_20250123.pdf",
-   "archive": "reference",
-   "note": "PDF AMF non ouvert ; dates reconstituées à partir des publications effectives [non vérifié pour le calendrier initial]."
+   "archive": "integral",
+   "note": "PDF AMF non ouvert ; dates reconstituées à partir des publications effectives [non vérifié pour le calendrier initial].",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S134",
    "date_source": "2025-01-30",
    "type": "CP",
    "reference": "CP Theranexus du 30/01/2025 : trésorerie au 31 décembre 2024 et point d'activité",
-   "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-theranexus-publie-sa-position-de-tresorerie-au-31-decembre-2024-et-fait-le-point-sur-ses-activites-9ec7cf23e5343de17dd02951b619839c",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/01/FCACT072779_20250130.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Boursorama (AMP). Agenda financier 2025 publié le 23 janvier 2025 (PDF AMF FCACT072695_20250123, non ouvert). ; reprise via Boursorama",
    "texte_archive": "sources_textes.json"
@@ -9364,7 +9384,7 @@
    "date_source": "2025-04-29",
    "type": "RFA",
    "reference": "DEU 2024 du 29/04/2025 : document d'enregistrement universel 2024",
-   "url": "https://zonebourse.com/cours/action/THERANEXUS-38226962/actualite/Theranexus-URD-2024-49759185",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/410/8888/01/FC410580484_20250429.pdf",
    "archive": "integral",
    "note": "Seul le début du document est lisible via Zonebourse ; actionnariat (p. 97-99), conseil (p. 77-82), rémunérations (p. 83-90), historique du capital (p. 149) non lus. Numéro de dépôt cité ailleurs comme D.25-0350 (CP du 25/03/2026) : incohérence à vérifier. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -9374,7 +9394,7 @@
    "date_source": "2025-04-29",
    "type": "RFA",
    "reference": "CP Theranexus du 29/04/2025 : résultats annuels 2024 et clôture de la ligne de financement",
-   "url": "https://www.webdisclosure.com/press-release/theranexus-publie-ses-resultats-annuels-2024-fait-le-point-sur-ses-activites-et-cloture-sa-ligne-de-financement-u4Jm1IaF29D",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/04/FCACT074073_20250429.pdf",
    "archive": "integral",
    "note": "Texte repris par WebDisclosure (agrégateur) ; publié le 29 avril 2025 à 19h00. ; reprise via WebDisclosure",
    "texte_archive": "sources_textes.json"
@@ -9384,7 +9404,7 @@
    "date_source": "2025-05-13",
    "type": "CP",
    "reference": "CP Theranexus du 13/05/2025 : données en vie réelle de Batten-1",
-   "url": "https://www.biospace.com/press-releases/theranexus-and-beyond-batten-disease-foundation-announce-strong-positive-real-world-data-supporting-batten-1-efficacy-for-the-treatment-of-batten-disease",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/05/FCACT074373_20250513.pdf",
    "archive": "integral",
    "note": "Version anglaise (ACCESS Newswire) reprise par BioSpace. ; reprise via BioSpace",
    "texte_archive": "sources_textes.json"
@@ -9404,9 +9424,10 @@
    "date_source": "2025-07-10",
    "type": "CP",
    "reference": "CP Theranexus du 10/07/2025 : trésorerie au 30 juin 2025",
-   "url": "https://live.euronext.com/el/listview/company-press-release/232850?page=1",
-   "archive": "reference",
-   "note": "Titre relevé sur la liste Euronext ; CP non ouvert."
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/07/FCACT075309_20250710.pdf",
+   "archive": "integral",
+   "note": "Titre relevé sur la liste Euronext ; CP non ouvert.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S140",
@@ -9451,7 +9472,7 @@
    "date_source": "2025-09-25",
    "type": "RFS",
    "reference": "CP Theranexus du 25/09/2025 : résultats du premier semestre 2025",
-   "url": "https://www.zonebourse.com/actualite-bourse/theranexus-annonce-ses-resultats-financiers-du-premier-semestre-2025-ce7d58d3db8bf421",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/09/FCACT076344_20250925.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par Zonebourse. ; reprise via Zonebourse",
    "texte_archive": "sources_textes.json"
@@ -9461,7 +9482,7 @@
    "date_source": "2025-09-29",
    "type": "CP",
    "reference": "CP Theranexus du 29/09/2025 : Theranexus devient THX Pharma",
-   "url": "https://www.webdisclosure.com/press-release/theranexus-devient-thx-pharma-une-evolution-strategique-vers-la-commercialisation-de-ses-medicaments-dans-les-maladies-rares-kCVVdxjvInj",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/09/FCACT076424_20250929.pdf",
    "archive": "integral",
    "note": "Reprise intégrale du communiqué sur WebDisclosure (PDF Actusnews non accessible). | Version anglaise (Actusnews) reprise par un site tiers (mammothtimes) ; version française listée sur Euronext le 29 septembre 2025 à 18h30. ; reprise via WebDisclosure",
    "texte_archive": "sources_textes.json"
@@ -9471,7 +9492,7 @@
    "date_source": "2025-10-14",
    "type": "CP",
    "reference": "CP THX Pharma du 14/10/2025 : étape franchie avec Exeltis vers la commercialisation de TX01",
-   "url": "https://markets.financialcontent.com/minstercommunitypost/article/actus-2025-10-14-thx-pharma-theranexus-and-exeltis-achieve-key-milestone-towards-the-commercialization-of-tx01",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/10/FCACT076678_20251014.pdf",
    "archive": "integral",
    "note": "Version anglaise (Actusnews) reprise par un site tiers ; version française listée sur Euronext le 14 octobre 2025 à 18h30. ; reprise via un site tiers (financialcontent)",
    "texte_archive": "sources_textes.json"
@@ -9481,7 +9502,7 @@
    "date_source": "2025-10-23",
    "type": "CP",
    "reference": "CP THX Pharma du 23/10/2025 : lancement d'une augmentation de capital avec DPS d'environ 8 M€",
-   "url": "https://www.webdisclosure.fr/press-release/thx-pharma-annonce-le-lancement-dune-augmentation-de-capital-avec-maintien-du-dps-dun-montant-denviron-8m-eur-zc5NRfe1wEL",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/10/FCACT076809_20251023.pdf",
    "archive": "integral",
    "note": "Cours de référence : clôture 22/10/2025 = 2,55 €. | Version anglaise (Actusnews) reprise par finanznachrichten.de ; version française sur Boursorama (résumé seulement). Avis BALO publié le 24 octobre 2025. ; reprise via WebDisclosure",
    "texte_archive": "sources_textes.json"
@@ -9501,7 +9522,7 @@
    "date_source": "2026-01-07",
    "type": "CP",
    "reference": "CP THX Pharma du 07/01/2026 : nomination de Julien Veys comme directeur général adjoint",
-   "url": "https://live.euronext.com/sites/default/files/company_press_releases/attachments/2026/01/07/cpr05_actus_95820_FR0013286259.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/01/FCACT077701_20260107.pdf",
    "archive": "integral",
    "note": "PDF Actusnews hébergé par Euronext. | Le rapport semestriel 2026 et le registre le qualifient de « directeur général délégué ».",
    "texte_archive": "sources_textes.json"
@@ -9512,24 +9533,26 @@
    "type": "CP",
    "reference": "CP THX Pharma du 08/01/2026 : publication de la lettre aux actionnaires",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/01/FCACT077758_20260108.pdf",
-   "archive": "reference",
-   "note": "Contenu de la lettre non lu (site société inaccessible)."
+   "archive": "integral",
+   "note": "Contenu de la lettre non lu (site société inaccessible).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S151",
    "date_source": "2026-01-20",
    "type": "CP",
    "reference": "CP THX Pharma du 20/01/2026 : agenda financier 2026",
-   "url": "https://business.mammothtimes.com/mammothtimes/article/actus-2026-1-20-theranexus-thx-pharma-announces-its-2026-financial-calendar",
-   "archive": "reference",
-   "note": "Version anglaise reprise par un site tiers ; PDF Euronext cpr05_actus_96086_FR0013286259.pdf (version française). ; reprise via un site tiers (mammothtimes)"
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/01/FCACT077919_20260120.pdf",
+   "archive": "integral",
+   "note": "Version anglaise reprise par un site tiers ; PDF Euronext cpr05_actus_96086_FR0013286259.pdf (version française). ; reprise via un site tiers (mammothtimes)",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S152",
    "date_source": "2026-02-10",
    "type": "CP",
    "reference": "CP THX Pharma du 10/02/2026 : accord stratégique de licences avec Biocodex",
-   "url": "https://lyonbiopole.com/wp-content/uploads/2026/02/THX-Pharma-Biocodex-CP-Partenariat-VDEF2.pdf",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/02/FCACT078245_20260210.pdf",
    "archive": "integral",
    "note": "PDF du communiqué hébergé par Lyonbiopôle. | Version anglaise (Actusnews) reprise par un site tiers ; version française listée sur Euronext (10 février 2026, 18h00) et ABC Bourse. | Entrée de datation uniquement (page BusinessWire non ouverte ; données via Patsnap et MedPath). Échéances 2027/2029 issues du profil Whiteford Biobase et de MedPath (reprise de CP). ; reprise via Lyonbiopôle",
    "texte_archive": "sources_textes.json"
@@ -9541,7 +9564,7 @@
    "reference": "AFP (via Boursorama), 11/02/2026 : accord de licence entre Biocodex et THX Pharma",
    "url": "https://www.boursorama.com/bourse/actualites/maladies-rares-accord-de-licence-entre-les-francais-biocodex-et-thx-pharma-58919607f55d876ceee11db58277f850",
    "archive": "reference",
-   "note": "Pas d'information nouvelle sur THX Pharma au-delà du communiqué ; BFM Bourse titre une hausse de 60 % du titre le 11/02/2026 (URL trop longue pour être ouverte : tradingsat.com, article 1156339) [non vérifié]."
+   "note": ""
   },
   {
    "id": "S154",
@@ -9588,7 +9611,7 @@
    "date_source": "2026-06-09",
    "type": "CP",
    "reference": "CP THX Pharma du 09/06/2026 : avis favorable de l'EMA sur le PIP de TX01",
-   "url": "https://www.abcbourse.com/marches/thx-pharma-theranexus-et-exeltis-obtiennent-un-avis-favorable-de-l-ema-sur-le_698051",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/06/FCACT080036_20260609.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par ABC Bourse (URL exacte : https://www.abcbourse.com/marches/thx-pharma-theranexus-et-exeltis-obtiennent-un-avis-favorable-de-l-ema-sur-le_698051). Même jour (8h00) : CP commun avec Biocodex et BBDF pour la Journée internationale de la maladie de Batten. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
@@ -9599,7 +9622,7 @@
    "type": "analyste",
    "reference": "CP THX Pharma du 16/06/2026 : Allinvest Securities initie la couverture à l'achat",
    "url": "https://www.webdisclosure.com/press-release/theranexus-epa-althx-allinvest-securities-initie-la-couverture-de-titre-de-thx-pharma-theranexus-avec-une-recommandation-a-lachat-FQazjkTYutR",
-   "archive": "integral",
+   "archive": "reference",
    "note": "Communiqué émis par la société elle-même ; MarketScreener affiche un consensus d'un analyste « BUY », objectif 5,80 € (04/11/2026), source non identifiée. | Titre relevé sur la liste Euronext (16 juin 2026, 8h00) ; contenu repris du CP du 9 juillet 2026.",
    "texte_archive": "sources_textes.json"
   },
@@ -9608,9 +9631,10 @@
    "date_source": "2026-06-23",
    "type": "CP",
    "reference": "CP THX Pharma du 23/06/2026 : nomination de Sophie Jacq Lapointe au conseil",
-   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/06/FCACT080166_20260623.pdf",
-   "archive": "reference",
-   "note": "Communiqué en anglais diffusé via l'open data AMF/DILA. | Titre relevé sur la liste Euronext ; CP non ouvert. Changement de dénomination confirmé par le CP des résultats semestriels du 29 septembre 2026."
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/06/FCACT080165_20260623.pdf",
+   "archive": "integral",
+   "note": "Communiqué en anglais diffusé via l'open data AMF/DILA. | Titre relevé sur la liste Euronext ; CP non ouvert. Changement de dénomination confirmé par le CP des résultats semestriels du 29 septembre 2026.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S161",
@@ -9618,8 +9642,8 @@
    "type": "presse",
    "reference": "Zonebourse / AOF (via Bourse Direct), 09/07/2026 : THX Pharma sécurise sa feuille de route financière",
    "url": "https://www.boursedirect.fr/fr/actualites/categorie/actualites-financieres/thx-pharma-securise-sa-feuille-de-route-financiere-zone-bourse-22cb806b65d532d8fcc107628b0fc922b272eb91",
-   "archive": "integral",
-   "note": "Dépêche AOF reprise par Bourse Direct ; communiqué d'origine du 09/07/2026 non ouvert.",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -9646,7 +9670,7 @@
    "date_source": "2026-09-01",
    "type": "CP",
    "reference": "CP THX Pharma du 01/09/2026 : dépôt des demandes d'autorisation de la phase 3 de Batten-1",
-   "url": "https://www.abcbourse.com/marches/thx-pharma-bbdf-et-biocodex-annoncent-le-depot-des-demandes-d-autorisation-de-l_701893",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/09/FCACT081139_20260901.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par ABC Bourse. | Source : reprise du CP sur le site de BBDF (PDF Actusnews non ouvert : client_error). Au 2026-11-04, aucune entrée CTIS publique retrouvée par recherche. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
@@ -9656,7 +9680,7 @@
    "date_source": "2026-09-08",
    "type": "CP",
    "reference": "CP THX Pharma du 08/09/2026 : brevet européen EP 4 188 371 protégeant Batten-1",
-   "url": "https://www.abcbourse.com/marches/thx-pharma-et-la-beyond-batten-disease-foundation-annoncent-la-delivrance-d-un-b_702217",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/09/FCACT081257_20260908.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par ABC Bourse ; un rectificatif a été publié le 9 septembre 2026 à 8h30 (contenu de la correction non précisé sur la page consultée). ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
@@ -9676,7 +9700,7 @@
    "date_source": "2026-09-29",
    "type": "RFS",
    "reference": "CP THX Pharma du 29/09/2026 : résultats du premier semestre 2026",
-   "url": "https://www.abcbourse.com/marches/thx-pharma-annonce-ses-resultats-financiers-du-premier-semestre-2026_703360",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/09/FCACT081585_20260929.pdf",
    "archive": "integral",
    "note": "Texte Actusnews repris par ABC Bourse ; rapport semestriel publié le même jour (liste Euronext) ; PDF Euronext cpr05_actus_100512_FR0013286259.pdf. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
@@ -9713,7 +9737,7 @@
    "date_source": "2026-10-22",
    "type": "CP",
    "reference": "CP THX Pharma du 22/10/2026 : trésorerie au 30 septembre 2026",
-   "url": "https://www.abcbourse.com/marches/thx-pharma-affiche-une-tresorerie-de-16-0-m-au-30-septembre-2026_704735",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/10/FCACT081944_20261022.pdf",
    "archive": "integral",
    "note": "Résumé ABC Bourse du CP Actusnews du 22 octobre 2026 (18h00) ; le CP intégral est référencé sur ABC Bourse sous l'ID 704728. ; reprise via ABC Bourse",
    "texte_archive": "sources_textes.json"
