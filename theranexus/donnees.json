@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T12:37",
+ "mis_a_jour": "2026-11-22T13:39",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -74,7 +74,7 @@
  },
  "nb": {
   "evenements": 163,
-  "sources": 192
+  "sources": 194
  },
  "evenements": [
   {
@@ -681,12 +681,14 @@
    ],
    "statut": "doc",
    "titre": "Résultats 2017 : perte nette de 2 115 k€, trésorerie de 18 226 k€ au 31/12/2017 après l'IPO",
-   "texte": "Normes françaises : résultat d'exploitation -2 719 k€ (2016 : -2 059 k€), résultat net -2 115 k€ (-1 587 k€), produit d'impôt 730 k€ (principalement CIR). Charges externes 1 477 k€, salaires et charges 1 370 k€. Consommation de trésorerie hors financement : 2 242 k€. Sept recrutements en 18 mois. THN102 narcolepsie : 37 patients inclus sur un objectif de 48. La date exacte du CP (avril 2018) n'est pas vérifiée.",
+   "texte": "Normes françaises : résultat d'exploitation -2 719 k€ (2016 : -2 059 k€), résultat net -2 115 k€ (-1 587 k€), produit d'impôt 730 k€ (principalement CIR). Charges externes 1 477 k€, salaires et charges 1 370 k€. Consommation de trésorerie hors financement : 2 242 k€. Sept recrutements en 18 mois. THN102 narcolepsie : 37 patients inclus sur un objectif de 48. La date exacte du CP (avril 2018) n'est pas vérifiée. Le document de référence 2017 a été enregistré par l'AMF le 26/04/2018 (R.18-028).",
    "sources": [
-    "S015"
+    "S015",
+    "S193"
    ],
    "sources_libelle": [
-    "CP Theranexus du 25/04/2018"
+    "CP Theranexus du 25/04/2018",
+    "Document de référence 2017 du 26/04/2018"
    ],
    "engagements": [
     {
@@ -2410,12 +2412,14 @@
    ],
    "statut": "doc",
    "titre": "Résultats 2019 : perte nette de 5 580 k€, trésorerie de 7 807 k€ au 31 mars 2020, 18 salariés",
-   "texte": "Produits d'exploitation 617 k€ ; charges d'exploitation 7 994 k€ dont charges externes 5 426 k€ et personnel 2 353 k€ ; résultat d'exploitation -7 377 k€ ; CIR 2 038 k€. Consommation opérationnelle 5,0 M€ en 2019. THN101 : phase 1 terminée, phase 2 conditionnée à un financement. Ressources non dilutives attendues sous 12 mois : subvention Neurolead 2,0 M€, remboursement anticipé du CIR 2019 2,0 M€, prêts garantis par l'État envisagés.",
+   "texte": "Produits d'exploitation 617 k€ ; charges d'exploitation 7 994 k€ dont charges externes 5 426 k€ et personnel 2 353 k€ ; résultat d'exploitation -7 377 k€ ; CIR 2 038 k€. Consommation opérationnelle 5,0 M€ en 2019. THN101 : phase 1 terminée, phase 2 conditionnée à un financement. Ressources non dilutives attendues sous 12 mois : subvention Neurolead 2,0 M€, remboursement anticipé du CIR 2019 2,0 M€, prêts garantis par l'État envisagés. Le document d'enregistrement universel 2019 a été déposé à l'AMF le 30/04/2020 (D.20-0414).",
    "sources": [
-    "S050"
+    "S050",
+    "S194"
    ],
    "sources_libelle": [
-    "CP Theranexus du 09/04/2020"
+    "CP Theranexus du 09/04/2020",
+    "DEU 2019 du 30/04/2020"
    ],
    "engagements": [
     {
@@ -10174,6 +10178,26 @@
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/410/8888/01/FC410481468_20230426.pdf",
    "archive": "integral",
    "note": "Dépôt AMF (archive DILA). PDF : textes/pdf/AMF_2023-04-26_FC410481468_20230426.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S193",
+   "date_source": "2018-04-26",
+   "type": "RFA",
+   "reference": "Document de référence 2017 (AMF R.18-028) du 26/04/2018",
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2018/R.18-0028/A3197C067CF0BD4CA310E19776A80AB47A9F41B980E212B9412304443C1FEFCB.pdf",
+   "archive": "integral",
+   "note": "Lu le 22/11/2026 dans la base BDIF de l'AMF par le navigateur du PC. PDF archivé sans ses images : textes/pdf/AMF_2018-04-26_document-de-reference-2017_R18-0028_sans-images.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S194",
+   "date_source": "2020-04-30",
+   "type": "RFA",
+   "reference": "DEU 2019 (D.20-0414) du 30/04/2020 : document d'enregistrement universel 2019",
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2020/D.20-0414/B34699A6D45C2A772D97765742703923BABD18DB0EF13E2A43A9513EDC1E11A1.pdf",
+   "archive": "integral",
+   "note": "Lu le 22/11/2026 dans la base BDIF de l'AMF par le navigateur du PC. PDF archivé sans ses images : textes/pdf/AMF_2020-04-30_DEU-2019_D20-0414_sans-images.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
