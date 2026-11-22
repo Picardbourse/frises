@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T16:46",
+ "mis_a_jour": "2026-11-22T16:49",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,7 +73,7 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 172,
+  "evenements": 174,
   "sources": 194
  },
  "evenements": [
@@ -3236,6 +3236,56 @@
    "majeur": false
   },
   {
+   "id": "2020-12-31_actionnariat-fin-2020",
+   "date": "2020-12-31",
+   "date_affichee": "31 déc. 2020",
+   "revele_le": "2021-04-28",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat fin 2020 : Sofimac Partners sorti du capital, flottant passé de 37,1 % à 55,3 %",
+   "texte": "Répartition au 31 décembre 2020 sur 4 087 437 actions : Franck Mouthon et Mathieu Charvériat 317 776 actions chacun (7,8 %), Auriga Partners 577 762 (14,1 %), Supernova Invest 393 078 (9,6 %), Kreaxi 124 738 (3,1 %), un investisseur personne physique 96 884 (2,4 %), flottant 2 259 423 (55,3 %). Par rapport à fin 2019, Sofimac Partners ne détient plus d'actions (306 639 un an plus tôt) et les autres investisseurs historiques ont réduit leur ligne : Auriga Partners de 641 068 à 577 762, Supernova Invest de 432 260 à 393 078, Kreaxi de 157 732 à 124 738. Le document d'enregistrement universel 2020 montre déjà Sofimac Partners à zéro à sa date de dépôt.",
+   "sources": [
+    "S192",
+    "S072"
+   ],
+   "sources_libelle": [
+    "DEU 2022 du 26/04/2023",
+    "DEU 2020 du 28/04/2021"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2019-12-31_actionnariat-fin-2019"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2020-12-31",
+      "cloture": 18.65,
+      "volume": 25718,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 0.3
+     },
+     {
+      "role": "suivante",
+      "date": "2021-01-04",
+      "cloture": 19.0,
+      "volume": 47090,
+      "variation_pct": 1.9,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2021-01-18_tresorerie-fin-2020-ligne-iris",
    "date": "2021-01-18",
    "date_affichee": "18 janv. 2021",
@@ -4466,6 +4516,48 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2022-12-31_actionnariat-fin-2022",
+   "date": "2022-12-31",
+   "date_affichee": "31 déc. 2022",
+   "revele_le": "2023-04-26",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat fin 2022 : flottant 65,8 %, fondateurs 11,9 %, Auriga 10,8 %, Supernova Invest 7,4 %",
+   "texte": "Répartition au 31 décembre 2022 sur 5 346 213 actions : Franck Mouthon et Mathieu Charvériat 317 776 actions chacun (5,9 %), Auriga Partners 577 762 (10,8 %), Supernova Invest 393 078 (7,4 %), Kreaxi 124 738 (2,3 %), un investisseur personne physique 96 884 (1,8 %), flottant 3 518 199 (65,8 %). Au 31 décembre 2021, sur 5 023 856 actions, le flottant était de 63,6 %. Les investisseurs historiques détiennent le même nombre d'actions depuis fin 2020 ; leur part baisse par l'effet des émissions nouvelles. Le chapitre des contrats importants du document d'enregistrement universel 2022 ne cite plus la licence du CEA et de BMSystems, qui figurait encore dans celui de 2021.",
+   "sources": [
+    "S192",
+    "S191"
+   ],
+   "sources_libelle": [
+    "DEU 2022 du 26/04/2023",
+    "DEU 2021 du 29/04/2022"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2020-12-31_actionnariat-fin-2020"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2023-01-02",
+      "cloture": 1.836,
+      "volume": 4648,
+      "variation_pct": 4.9,
+      "volume_vs_moy20": 0.8
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2023-01-05_premiers-resultats-phase-1-2",
