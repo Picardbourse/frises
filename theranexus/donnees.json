@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T16:49",
+ "mis_a_jour": "2026-11-22T17:17",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -73,7 +73,7 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 174,
+  "evenements": 176,
   "sources": 194
  },
  "evenements": [
@@ -5385,6 +5385,48 @@
    "majeur": true
   },
   {
+   "id": "2023-12-31_actionnariat-fin-2023",
+   "date": "2023-12-31",
+   "date_affichee": "31 déc. 2023",
+   "revele_le": "2025-04-29",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat fin 2023 : la fondation BBDF premier actionnaire déclaré avec 11,6 %, fondateurs 8,2 %, Auriga 7,4 %",
+   "texte": "Répartition au 31 décembre 2023 sur 7 758 724 actions : Beyond Batten Disease Foundation 898 437 actions (11,6 %), Franck Mouthon et Mathieu Charvériat 317 776 chacun (4,1 %), Auriga Partners 577 762 (7,4 %), Supernova Invest 393 078 (5,1 %), Kreaxi 124 738 (1,6 %), flottant 5 129 157 (66,1 %). La fondation ne figurait pas au capital fin 2022. Le document d'enregistrement universel 2023 isole en plus un investisseur personne physique (96 884 actions, 1,2 %), que celui de 2024 compte dans le flottant. Dans le tableau du document 2023, la colonne libellée 2022 reprend les chiffres de fin 2021 (5 023 856 actions) ; les documents 2022 et 2024 donnent 5 346 213 actions à fin 2022.",
+   "sources": [
+    "S135",
+    "S121"
+   ],
+   "sources_libelle": [
+    "DEU 2024 du 29/04/2025",
+    "DEU 2023 du 30/04/2024"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2022-12-31_actionnariat-fin-2022"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2024-01-02",
+      "cloture": 1.116,
+      "volume": 12755,
+      "variation_pct": -0.4,
+      "volume_vs_moy20": 2.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2024-02-14_tresorerie-fin-2023-horizon",
    "date": "2024-02-14",
    "date_affichee": "14 févr. 2024",
@@ -7079,6 +7121,56 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2025-12-31_actionnariat-fin-2025",
+   "date": "2025-12-31",
+   "date_affichee": "31 déc. 2025",
+   "revele_le": "2026-04-29",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Actionnariat fin 2025 : Odyssée Venture 12,3 %, fondation BBDF 6,5 %, fondateurs 4,8 %, flottant 68,8 %",
+   "texte": "Répartition au 31 décembre 2025 sur 13 796 556 actions : Odyssée Venture 1 699 531 actions (12,3 %), Beyond Batten Disease Foundation 898 437 (6,5 %), Auriga Partners 633 862 (4,6 %), Franck Mouthon 331 576 (2,4 %), Mathieu Charvériat 337 131 (2,4 %), Supernova Invest 222 926 (1,6 %), Kreaxi 105 667 (0,8 %), salariés 37 490 (0,3 %), autodétention 37 142 (0,3 %), flottant 9 492 794 (68,8 %). Au 31 décembre 2024, sur 8 536 549 actions : fondation 10,5 %, fondateurs 7,8 % (331 576 actions chacun), Auriga Partners 627 762 (7,4 %), Supernova Invest 222 926 (2,6 %), Kreaxi 105 667 (1,2 %), autodétention 110 572 (1,3 %), flottant 5 908 033 (69,2 %). Entre fin 2023 et fin 2024, Supernova Invest passe de 393 078 à 222 926 actions et Kreaxi de 124 738 à 105 667 ; Odyssée Venture n'apparaît qu'à fin 2025.",
+   "sources": [
+    "S157",
+    "S135"
+   ],
+   "sources_libelle": [
+    "DEU 2025 du 29/04/2026",
+    "DEU 2024 du 29/04/2025"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2023-12-31_actionnariat-fin-2023"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-12-31",
+      "cloture": 2.14,
+      "volume": 49097,
+      "variation_pct": 3.9,
+      "volume_vs_moy20": 0.6
+     },
+     {
+      "role": "suivante",
+      "date": "2026-01-02",
+      "cloture": 2.27,
+      "volume": 93313,
+      "variation_pct": 6.1,
+      "volume_vs_moy20": 1.2
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2026-01-07_veys-directeur-general-adjoint",
