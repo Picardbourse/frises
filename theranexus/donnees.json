@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T11:22",
+ "mis_a_jour": "2026-11-22T11:47",
  "arrete_au": "2026-11-22",
  "version_provisoire": false,
  "config": {
@@ -560,7 +560,7 @@
      "echeance": "2019-06-30",
      "statut": "warn",
      "statue_par": "S048",
-     "note": "Échéance repoussée à S1 2019 (02/2019), S2 2019 (04/2019) puis T1 2020 (09/2019) ; résultats publiés le 31/03/2020."
+     "note": "Échéance repoussée à S1 2019 (02/2019), S2 2019 (04/2019) puis T1 2020 (09/2019) ; résultats publiés le 31/03/2020. Même échéance réaffirmée le 13/02/2019 (annonces non recomptées)."
     }
    ],
    "liens": [],
@@ -902,7 +902,7 @@
      "echeance": "2019-12-31",
      "statut": "warn",
      "statue_par": "S046",
-     "note": "Résultats publiés le 15/01/2020."
+     "note": "Résultats publiés le 15/01/2020. Même échéance réaffirmée le 13/02/2019 (annonces non recomptées)."
     }
    ],
    "liens": [],
@@ -1085,7 +1085,7 @@
      "echeance": "2019-06-30",
      "statut": "warn",
      "statue_par": "S050",
-     "note": "Reporté : le CP du 13/02/2019 vise un démarrage « en 2019 », puis le CP du 09/04/2020 indique que la société évaluera le lancement « en fonction de prochaines sources de financement notamment partenariales ». Aucun essai enregistré ; programme arrêté le 25/04/2022."
+     "note": "Reporté : le CP du 13/02/2019 vise un démarrage « en 2019 », puis le CP du 09/04/2020 indique que la société évaluera le lancement « en fonction de prochaines sources de financement notamment partenariales ». Aucun essai enregistré ; programme arrêté le 25/04/2022. Même échéance réaffirmée le 09/11/2018 (annonces non recomptées)."
     }
    ],
    "liens": [],
@@ -1138,7 +1138,7 @@
      "echeance": "2019-12-31",
      "statut": "warn",
      "statue_par": "S048",
-     "note": "Narcolepsie publiée le 27/02/2019 ; Parkinson publiée le 31/03/2020."
+     "note": "Narcolepsie publiée le 27/02/2019 ; Parkinson publiée le 31/03/2020. Même échéance réaffirmée le 17/04/2019 (annonces non recomptées)."
     }
    ],
    "liens": [],
@@ -1198,14 +1198,6 @@
      "statut": "ok",
      "statue_par": "S034",
      "note": ""
-    },
-    {
-     "id": "2018-11-09_tresorerie-sept-2018#e3",
-     "texte": "Démarrage de la phase 2 de THN101 au S1 2019",
-     "echeance": "2019-06-30",
-     "statut": "warn",
-     "statue_par": "S050",
-     "note": "Reporté : le CP du 13/02/2019 vise un démarrage « en 2019 », puis le CP du 09/04/2020 indique que la société évaluera le lancement « en fonction de prochaines sources de financement notamment partenariales ». Aucun essai enregistré ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -1410,22 +1402,6 @@
     "CP Theranexus du 13/02/2019"
    ],
    "engagements": [
-    {
-     "id": "2019-02-13_tresorerie-fin-2018#e1",
-     "texte": "Résultats de la phase II THN102 Parkinson au S1 2019",
-     "echeance": "2019-06-30",
-     "statut": "warn",
-     "statue_par": "S048",
-     "note": "Publiés le 31/03/2020."
-    },
-    {
-     "id": "2019-02-13_tresorerie-fin-2018#e2",
-     "texte": "Résultats de la phase 1b THN201 au T4 2019",
-     "echeance": "2019-12-31",
-     "statut": "warn",
-     "statue_par": "S046",
-     "note": "Publiés le 15/01/2020."
-    },
     {
      "id": "2019-02-13_tresorerie-fin-2018#e3",
      "texte": "Démarrage de la phase 2 de THN101 en 2019",
@@ -1638,14 +1614,6 @@
      "statut": "nd",
      "statue_par": "S044",
      "note": "Résultats de phase 1 qualifiés de positifs dans le CP du 26/09/2019, sans date de publication ; respect de l'échéance non documenté."
-    },
-    {
-     "id": "2019-04-17_resultats-annuels-2018#e2",
-     "texte": "Résultats de phase 2 THN102 Parkinson au S2 2019",
-     "echeance": "2019-12-31",
-     "statut": "warn",
-     "statue_par": "S048",
-     "note": "Publiés le 31/03/2020."
     }
    ],
    "liens": [],
@@ -1690,16 +1658,7 @@
    "sources_libelle": [
     "CP Theranexus du 24/04/2019"
    ],
-   "engagements": [
-    {
-     "id": "2019-04-24_brevet-chine-thn102#e1",
-     "texte": "Résultats de la phase II THN102 Parkinson au second semestre 2019",
-     "echeance": "2019-12-31",
-     "statut": "warn",
-     "statue_par": "S048",
-     "note": "Publiés le 31/03/2020."
-    }
-   ],
+   "engagements": [],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -1969,16 +1928,7 @@
    "sources_libelle": [
     "CP Theranexus du 17/09/2019"
    ],
-   "engagements": [
-    {
-     "id": "2019-09-17_dernier-sujet-phase1b-thn201#e1",
-     "texte": "Résultats de la phase 1b THN201 au T4 2019",
-     "echeance": "2019-12-31",
-     "statut": "warn",
-     "statue_par": "S046",
-     "note": "Publiés le 15/01/2020."
-    }
-   ],
+   "engagements": [],
    "liens": [
     {
      "type": "precise",
@@ -2189,7 +2139,7 @@
      "echeance": "2020-12-31",
      "statut": "warn",
      "statue_par": "S083",
-     "note": "Repoussé au S2 2021 (06/2020), puis fin 2021 ; recrutement lancé le 03/02/2022."
+     "note": "Repoussé au S2 2021 (06/2020), puis fin 2021 ; recrutement lancé le 03/02/2022. Même échéance réaffirmée le 09/04/2020 (annonces non recomptées)."
     }
    ],
    "liens": [
@@ -2344,7 +2294,7 @@
      "echeance": "2020-12-31",
      "statut": "warn",
      "statue_par": "S068",
-     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
+     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022. Même échéance réaffirmée le 24/06/2020, le 09/07/2020, le 15/10/2020 (annonces non recomptées)."
     }
    ],
    "liens": [
@@ -2449,14 +2399,6 @@
      "statut": "ok",
      "statue_par": "S071",
      "note": "Trésorerie de 10 773 k€ au 31/03/2021."
-    },
-    {
-     "id": "2020-04-09_resultats-annuels-2019#e2",
-     "texte": "Lancement de l'essai clinique BBDF-101 en 2020",
-     "echeance": "2020-12-31",
-     "statut": "warn",
-     "statue_par": "S052",
-     "note": "Repoussé au S2 2021 le 24/06/2020."
     }
    ],
    "liens": [],
@@ -2508,7 +2450,7 @@
      "echeance": "2021-12-31",
      "statut": "warn",
      "statue_par": "S083",
-     "note": "Recrutement lancé le 03/02/2022 ; début réel au registre le 10/03/2022."
+     "note": "Recrutement lancé le 03/02/2022 ; début réel au registre le 10/03/2022. Même échéance réaffirmée le 11/08/2020, le 20/11/2020, le 18/01/2021, le 08/07/2021, le 09/09/2021 (annonces non recomptées)."
     }
    ],
    "liens": [
@@ -2557,16 +2499,7 @@
    "sources_libelle": [
     "CP Theranexus du 24/06/2020"
    ],
-   "engagements": [
-    {
-     "id": "2020-06-24_pge-3-4m-cir-neurolead#e1",
-     "texte": "Partenariat industriel pour THN102 d'ici décembre 2020",
-     "echeance": "2020-12-31",
-     "statut": "warn",
-     "statue_par": "S068",
-     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
-    }
-   ],
+   "engagements": [],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -2624,14 +2557,6 @@
      "statut": "ok",
      "statue_par": "S081",
      "note": "Trésorerie de 12,5 M€ au 31/12/2021."
-    },
-    {
-     "id": "2020-07-09_tresorerie-juin-2020-ligne-iris#e3",
-     "texte": "Accord industriel sur THN102 d'ici fin 2020",
-     "echeance": "2020-12-31",
-     "statut": "warn",
-     "statue_par": "S068",
-     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
     }
    ],
    "liens": [],
@@ -2678,16 +2603,7 @@
     "CP Theranexus du 11/08/2020",
     "Global Genes / RARE Daily, 12/08/2020"
    ],
-   "engagements": [
-    {
-     "id": "2020-08-11_odd-rpdd-fda-bbdf101#e1",
-     "texte": "Lancement du programme clinique BBDF-101 en 2021",
-     "echeance": "2021-12-31",
-     "statut": "warn",
-     "statue_par": "S141",
-     "note": "Début réel de l'essai au registre le 10/03/2022."
-    }
-   ],
+   "engagements": [],
    "liens": [
     {
      "type": "precise",
@@ -2873,16 +2789,7 @@
    "sources_libelle": [
     "CP Theranexus du 15/10/2020"
    ],
-   "engagements": [
-    {
-     "id": "2020-10-15_tresorerie-sept-2020#e1",
-     "texte": "Partenariat THN102 « idéalement d'ici fin 2020 »",
-     "echeance": "2020-12-31",
-     "statut": "warn",
-     "statue_par": "S068",
-     "note": "Reporté : le CP du 18/01/2021 vise un accord au S1 2021. Aucun accord n'a été conclu ; programme arrêté le 25/04/2022."
-    }
-   ],
+   "engagements": [],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -2929,16 +2836,7 @@
     "EMA EU/3/20/2347 du 19/10/2020",
     "CP Theranexus du 21/10/2020"
    ],
-   "engagements": [
-    {
-     "id": "2020-10-19_designations-orphelines-ue#e1",
-     "texte": "Lancement du programme clinique BBDF-101 en 2021",
-     "echeance": "2021-12-31",
-     "statut": "warn",
-     "statue_par": "S083",
-     "note": "Recrutement lancé le 03/02/2022 ; début réel au registre le 10/03/2022."
-    }
-   ],
+   "engagements": [],
    "liens": [
     {
      "type": "precise",
@@ -2986,16 +2884,7 @@
    "sources_libelle": [
     "CP Theranexus du 20/11/2020"
    ],
-   "engagements": [
-    {
-     "id": "2020-11-20_fda-avis-plan-preclinique#e1",
-     "texte": "Démarrage des essais cliniques BBDF-101 chez les patients en 2021",
-     "echeance": "2021-12-31",
-     "statut": "warn",
-     "statue_par": "S141",
-     "note": "Début réel le 10/03/2022."
-    }
-   ],
+   "engagements": [],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -3019,7 +2908,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2020-12-18_laboratoire-ni2d",
@@ -3095,7 +2984,7 @@
      "echeance": "2021-06-30",
      "statut": "bad",
      "statue_par": "S088",
-     "note": "Aucun accord ; aucune nouvelle échéance annoncée ; arrêt du programme le 25/04/2022, faute de partenaire."
+     "note": "Aucun accord ; aucune nouvelle échéance annoncée ; arrêt du programme le 25/04/2022, faute de partenaire. Même échéance réaffirmée le 07/04/2021 (annonces non recomptées)."
     },
     {
      "id": "2021-01-18_tresorerie-fin-2020-ligne-iris#e3",
@@ -3104,14 +2993,6 @@
      "statut": "warn",
      "statue_par": "S076",
      "note": "IND annoncé le 09/09/2021."
-    },
-    {
-     "id": "2021-01-18_tresorerie-fin-2020-ligne-iris#e4",
-     "texte": "Démarrage de l'essai clinique BBDF-101 en décembre 2021",
-     "echeance": "2021-12-31",
-     "statut": "warn",
-     "statue_par": "S141",
-     "note": "Début réel le 10/03/2022."
     }
    ],
    "liens": [
@@ -3256,14 +3137,6 @@
     "CP Theranexus du 28/12/2020"
    ],
    "engagements": [
-    {
-     "id": "2021-04-07_resultats-annuels-2020#e1",
-     "texte": "Accord de partenariat THN102 d'ici fin S1 2021",
-     "echeance": "2021-06-30",
-     "statut": "bad",
-     "statue_par": "S088",
-     "note": "Aucun accord ; aucune nouvelle échéance annoncée ; arrêt du programme le 25/04/2022, faute de partenaire."
-    },
     {
      "id": "2021-04-07_resultats-annuels-2020#e2",
      "texte": "IND FDA pour BBDF-101 au S2 2021",
@@ -3449,14 +3322,6 @@
    ],
    "engagements": [
     {
-     "id": "2021-07-08_tresorerie-juin-2021#e1",
-     "texte": "Démarrage des études cliniques américaines BBDF-101 en décembre 2021 (sous réserve FDA)",
-     "echeance": "2021-12-31",
-     "statut": "warn",
-     "statue_par": "S141",
-     "note": "Début réel le 10/03/2022."
-    },
-    {
      "id": "2021-07-08_tresorerie-juin-2021#e2",
      "texte": "Visibilité financière supérieure à 18 mois",
      "echeance": "2023-01-08",
@@ -3509,20 +3374,12 @@
    ],
    "engagements": [
     {
-     "id": "2021-09-09_ind-bbdf-101#e1",
-     "texte": "Lancement de la phase I/II BBDF 101 en décembre 2021",
-     "echeance": "2021-12-31",
-     "statut": "warn",
-     "statue_par": "S141",
-     "note": "Recrutement lancé le 03/02/2022 ; début réel le 10/03/2022."
-    },
-    {
      "id": "2021-09-09_ind-bbdf-101#e2",
      "texte": "Démarrage de la phase III en 2022",
      "echeance": "2022-12-31",
      "statut": "warn",
      "statue_par": "S088",
-     "note": "Repoussé au S1 2023 le 25/04/2022."
+     "note": "Repoussé au S1 2023 le 25/04/2022. Même échéance réaffirmée le 19/10/2021, le 03/02/2022 (annonces non recomptées)."
     }
    ],
    "liens": [
@@ -3664,16 +3521,7 @@
    "sources_libelle": [
     "CP Theranexus du 19/10/2021"
    ],
-   "engagements": [
-    {
-     "id": "2021-10-19_tresorerie-sept-2021-sebille#e1",
-     "texte": "Consultation FDA et démarrage de la phase III au S2 2022",
-     "echeance": "2022-12-31",
-     "statut": "warn",
-     "statue_par": "S088",
-     "note": "Repoussé au S1 2023 le 25/04/2022."
-    }
-   ],
+   "engagements": [],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -3788,14 +3636,6 @@
      "statut": "warn",
      "statue_par": "S096",
      "note": "Premiers résultats publiés le 05/01/2023."
-    },
-    {
-     "id": "2022-02-03_recrutement-phase-1-2-batten#e2",
-     "texte": "Démarrage de la phase III après consultation FDA fin 2022",
-     "echeance": "2022-12-31",
-     "statut": "warn",
-     "statue_par": "S088",
-     "note": "Repoussé au S1 2023 le 25/04/2022."
     },
     {
      "id": "2022-02-03_recrutement-phase-1-2-batten#e3",
@@ -4420,7 +4260,7 @@
      "echeance": "2023-12-31",
      "statut": "warn",
      "statue_par": "S110",
-     "note": "Repoussé au S1 2024 le 28/09/2023."
+     "note": "Repoussé au S1 2024 le 28/09/2023. Même échéance réaffirmée le 12/04/2023, le 09/05/2023, le 07/06/2023, le 12/07/2023 (annonces non recomptées)."
     }
    ],
    "liens": [],
@@ -4596,14 +4436,6 @@
    ],
    "engagements": [
     {
-     "id": "2023-04-12_resultats-annuels-2022#e1",
-     "texte": "Démarrage de la phase 3 Batten-1 en population pédiatrique fin 2023",
-     "echeance": "2023-12-31",
-     "statut": "warn",
-     "statue_par": "S110",
-     "note": "Repoussé au S1 2024."
-    },
-    {
      "id": "2023-04-12_resultats-annuels-2022#e2",
      "texte": "Visibilité d'au moins 12 mois",
      "echeance": "2024-04-12",
@@ -4654,16 +4486,7 @@
    "sources_libelle": [
     "CP Theranexus du 09/05/2023"
    ],
-   "engagements": [
-    {
-     "id": "2023-05-09_accord-fda-design-phase-3#e1",
-     "texte": "Début du recrutement de la phase 3 fin 2023",
-     "echeance": "2023-12-31",
-     "statut": "warn",
-     "statue_par": "S110",
-     "note": "Repoussé au S1 2024, puis conditionné à un financement."
-    }
-   ],
+   "engagements": [],
    "liens": [],
    "seance": {
     "jour_de_bourse": true,
@@ -4687,7 +4510,7 @@
      }
     ]
    },
-   "majeur": true
+   "majeur": false
   },
   {
    "id": "2023-06-07_avis-ema-design-phase-3",
@@ -4708,20 +4531,12 @@
    ],
    "engagements": [
     {
-     "id": "2023-06-07_avis-ema-design-phase-3#e1",
-     "texte": "Lancement de la phase 3 (début du recrutement) d'ici fin 2023",
-     "echeance": "2023-12-31",
-     "statut": "warn",
-     "statue_par": "S110",
-     "note": ""
-    },
-    {
      "id": "2023-06-07_avis-ema-design-phase-3#e2",
      "texte": "Premières ventes de Batten-1 à partir de 2027",
      "echeance": "2027-12-31",
      "statut": "warn",
      "statue_par": "S152",
-     "note": "Lancement international visé vers 2030 (Biocodex, 10/02/2026)."
+     "note": "Lancement international visé vers 2030 (Biocodex, 10/02/2026). Même échéance réaffirmée le 12/07/2023 (annonces non recomptées)."
     }
    ],
    "liens": [
@@ -5013,28 +4828,12 @@
    ],
    "engagements": [
     {
-     "id": "2023-07-12_levee-3-1m-1-28#e1",
-     "texte": "Lancement de la phase 3 Batten-1 au S2 2023",
-     "echeance": "2023-12-31",
-     "statut": "warn",
-     "statue_par": "S110",
-     "note": "Repoussé au S1 2024 le 28/09/2023."
-    },
-    {
      "id": "2023-07-12_levee-3-1m-1-28#e2",
      "texte": "Fin de la phase 3 Batten-1 fin 2026",
      "echeance": "2026-12-31",
      "statut": "warn",
      "statue_par": "S163",
      "note": "Phase 3 non démarrée ; fin estimée au 01/06/2028 sur la fiche NCT07882290."
-    },
-    {
-     "id": "2023-07-12_levee-3-1m-1-28#e3",
-     "texte": "Approbation et commercialisation de Batten-1 dès 2027",
-     "echeance": "2027-12-31",
-     "statut": "warn",
-     "statue_par": "S152",
-     "note": "Lancement international visé vers 2030."
     }
    ],
    "liens": [],
@@ -7005,7 +6804,7 @@
      "echeance": "2026-12-31",
      "statut": "warn",
      "statue_par": "S158",
-     "note": "Dépôt PUMA par Exeltis prévu au T1 2027."
+     "note": "Dépôt PUMA par Exeltis prévu au T1 2027. Même échéance réaffirmée le 28/04/2026 (annonces non recomptées)."
     },
     {
      "id": "2026-02-19_tresorerie-fin-2025#e3",
@@ -7090,14 +6889,6 @@
     "CP THX Pharma du 20/01/2026"
    ],
    "engagements": [
-    {
-     "id": "2026-04-28_resultats-annuels-2025#e1",
-     "texte": "Dépôts des demandes d'AMM de TX01 en 2026",
-     "echeance": "2026-12-31",
-     "statut": "warn",
-     "statue_par": "S158",
-     "note": "Dépôt PUMA prévu au T1 2027."
-    },
     {
      "id": "2026-04-28_resultats-annuels-2025#e2",
      "texte": "Vote du changement de dénomination à l'AG du 23/06/2026",
@@ -8400,8 +8191,9 @@
    "type": "brevet",
    "reference": "Brevet WO2017009472 / EP3322412 du 19/01/2017 : amitriptyline et hémicanaux cérébraux (famille THN101)",
    "url": "https://data.epo.org/gpi/EP3322412A1",
-   "archive": "reference",
-   "note": "Déposants/inventeurs non lus (Google Patents bloqué, PATENTSCOPE en erreur)."
+   "archive": "integral",
+   "note": "Déposants/inventeurs non lus (Google Patents bloqué, PATENTSCOPE en erreur).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S002",
@@ -8419,8 +8211,9 @@
    "type": "presse",
    "reference": "Bref Eco, 28/09/2017 : Theranexus prépare son introduction sur Euronext Growth",
    "url": "https://www.brefeco.com/actualite/sante/theranexus-prepare-son-introduction-sur-euronext-growth-paris",
-   "archive": "reference",
-   "note": ""
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S004",
@@ -8447,8 +8240,9 @@
    "type": "officiel",
    "reference": "Euronext IPO showcase du 11/10/2017 : note d'opération, fourchette 14,00-18,80 €",
    "url": "https://live.euronext.com/fr/ipo-showcase/theranexus-sa",
-   "archive": "reference",
-   "note": "Fiche Euronext IPO showcase ; le PDF de la note d'opération n'a pas pu être ouvert lors de la collecte. Élément de calendrier issu de la presse (BFM Bourse/tradingsat 767049)."
+   "archive": "integral",
+   "note": "Fiche Euronext IPO showcase ; le PDF de la note d'opération n'a pas pu être ouvert lors de la collecte. Élément de calendrier issu de la presse (BFM Bourse/tradingsat 767049).",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S007",
@@ -8586,8 +8380,9 @@
    "type": "essai",
    "reference": "Registre (Patsnap) du 27/09/2018 : NCT03698695, phase Ib THN201 vs donépézil",
    "url": "https://synapse.patsnap.com/drug/3fc98e339ede48c09adfea005a3ce180",
-   "archive": "reference",
-   "note": "Fiche https://clinicaltrials.gov/study/NCT03698695 non lisible (JS) ; données via agrégateur Patsnap Synapse. Enrôlement réel non lu. ; reprise via Patsnap Synapse"
+   "archive": "integral",
+   "note": "Fiche https://clinicaltrials.gov/study/NCT03698695 non lisible (JS) ; données via agrégateur Patsnap Synapse. Enrôlement réel non lu. ; reprise via Patsnap Synapse",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S021",
@@ -8605,8 +8400,9 @@
    "type": "CP",
    "reference": "CP Theranexus du 01/10/2018 : l'excellence scientifique de Theranexus mise à l'honneur",
    "url": "https://www.boursorama.com/bourse/actualites-amp/theranexus-l-excellence-scientifique-de-theranexus-mise-a-l-honneur-d28e2706dc85981e4d2d57c220749ffe",
-   "archive": "reference",
-   "note": "Distinction académique, pas un prix. ; reprise via Boursorama"
+   "archive": "integral",
+   "note": "Distinction académique, pas un prix. ; reprise via Boursorama",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S023",
@@ -8642,7 +8438,7 @@
    "date_source": "2018-10-29",
    "type": "CP",
    "reference": "CP Theranexus du 29/10/2018 : inclusion du dernier patient de la phase II THN102 (narcolepsie)",
-   "url": "https://www.biospace.com/theranexus-announces-inclusion-of-last-patient-in-phase-ii-trial-of-drug-candidate-thn102-on-narcolepsy-patients",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2018/10/FCACT044662_20181029.pdf",
    "archive": "integral",
    "note": "Version anglaise reprise par BioSpace (dateline Lyon, 29 octobre 2018). ; reprise via BioSpace",
    "texte_archive": "sources_textes.json"
@@ -8792,7 +8588,7 @@
    "type": "autre",
    "reference": "Br J Clin Pharmacol du 15/09/2019 : THN102 et privation de sommeil de 40 h (phase I)",
    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6848897",
-   "archive": "integral",
+   "archive": "extrait",
    "note": "",
    "texte_archive": "sources_textes.json"
   },
@@ -8802,8 +8598,9 @@
    "type": "presse",
    "reference": "Lyon Entreprises, 23/09/2019 : Franck Mouthon prend la tête de France Biotech",
    "url": "https://www.lyon-entreprises.com/dirigeant/carnet/franck-mouthon-prend-la-tete-de-france-biotech",
-   "archive": "reference",
-   "note": ""
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S043",
@@ -8891,8 +8688,9 @@
    "type": "autre",
    "reference": "Frontiers in Neuroscience du 16/06/2020 : THN201 et déficits neurocognitifs (préclinique)",
    "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00563/xml",
-   "archive": "reference",
-   "note": ""
+   "archive": "integral",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S052",
@@ -8930,8 +8728,9 @@
    "type": "presse",
    "reference": "Global Genes / RARE Daily, 12/08/2020 : désignation Rare Pediatric Disease pour BBDF-101",
    "url": "https://globalgenes.org/raredaily/fda-grants-rare-pediatric-disease-designation-to-theranexus-and-bbdf-for-batten-disease-therapy/",
-   "archive": "reference",
-   "note": ""
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S056",
@@ -8939,8 +8738,9 @@
    "type": "essai",
    "reference": "Registre (miroir trials.co) du 18/08/2020 : NCT02821715, phase 2 THN102 narcolepsie",
    "url": "https://trials.co/clinical-trials-details/-/NCT02821715",
-   "archive": "reference",
-   "note": "Miroirs : trials.co et https://ctv.veeva.com/study/safety-and-efficacy-of-thn102-on-sleepiness-in-narcoleptic-patients ; SAP : https://cdn.clinicaltrials.gov/large-docs/15/NCT02821715/SAP_000.pdf (non ouvert). Fiche primaire CT.gov non lisible (JS). [Correction : la mention d'un « CP de résultats positifs (2018) » est erronée ; le CP du 27/02/2019 annonce l'absence de différence vs modafinil.] ; reprise via trials.co"
+   "archive": "integral",
+   "note": "Miroirs : trials.co et https://ctv.veeva.com/study/safety-and-efficacy-of-thn102-on-sleepiness-in-narcoleptic-patients ; SAP : https://cdn.clinicaltrials.gov/large-docs/15/NCT02821715/SAP_000.pdf (non ouvert). Fiche primaire CT.gov non lisible (JS). [Correction : la mention d'un « CP de résultats positifs (2018) » est erronée ; le CP du 27/02/2019 annonce l'absence de différence vs modafinil.] ; reprise via trials.co",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S057",
@@ -9028,8 +8828,9 @@
    "type": "essai",
    "reference": "Registre (miroir trials.co) du 27/11/2020 : NCT03624920, phase 2 THN102 Parkinson",
    "url": "https://trials.co/clinical-trials-details/-/NCT03624920",
-   "archive": "reference",
-   "note": "Miroir trials.co ; fiche CT.gov non lisible (JS). Historique de versions (tab=history) non lisible. ; reprise via trials.co"
+   "archive": "integral",
+   "note": "Miroir trials.co ; fiche CT.gov non lisible (JS). Historique de versions (tab=history) non lisible. ; reprise via trials.co",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S066",
@@ -9077,8 +8878,9 @@
    "type": "autre",
    "reference": "Pain (PubMed 33769363) du 25/03/2021 : THN101 et hypersensibilité neuropathique (préclinique)",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33769363",
-   "archive": "reference",
-   "note": "Fiche PubMed non lisible (reCAPTCHA) ; métadonnées issues du résumé Patsnap Synapse et du lien LWW (journals.lww.com/pain/fulltext/10.1097/j.pain.0000000000002276). Aucun essai clinique THN101 trouvé dans les registres (voir entrée dédiée)."
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S071",
@@ -9156,8 +8958,8 @@
    "type": "autre",
    "reference": "Movement Disorders du 02/10/2021 : THN102 et somnolence de la maladie de Parkinson, phase 2a",
    "url": "https://www.inep.cz/files/2021-thn-102-for-excessive-daytime-sleepiness-associated-with-pd.pdf",
-   "archive": "integral",
-   "note": "Copie PDF hébergée par un site tchèque (inep.cz) ; version éditeur Wiley non ouverte. Patsnap date la parution en revue à 2022-02-01. ; reprise via inep.cz (copie PDF)",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -9196,8 +8998,9 @@
    "type": "brevet",
    "reference": "Brevet WO2022023573 / EP4188371 du 03/02/2022 : miglustat seul ou avec tréhalose (BBDF, Cardiff, Baylor)",
    "url": "https://patents.google.com/patent/AU2021319022A1/fr",
-   "archive": "reference",
-   "note": "Date de publication WO (2022-02-03) déduite du numéro [non vérifié] ; numéro du brevet EP délivré en 2026 [non vérifié]. ; reprise via Google Patents"
+   "archive": "integral",
+   "note": "Date de publication WO (2022-02-03) déduite du numéro [non vérifié] ; numéro du brevet EP délivré en 2026 [non vérifié]. ; reprise via Google Patents",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S083",
@@ -9454,8 +9257,9 @@
    "type": "presse",
    "reference": "Zonebourse, 12/07/2023 : Theranexus dévisse après avoir levé 3,1 millions d'euros",
    "url": "https://www.zonebourse.com/cours/action/THX-PHARMA-38226962/actualite/Theranexus-devisse-apres-avoir-leve-3-1-millions-d-euros-44317402/",
-   "archive": "reference",
-   "note": ""
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S109",
@@ -9553,8 +9357,9 @@
    "type": "officiel",
    "reference": "Université de Bordeaux du 23/04/2024 : PickASO lauréat France 2030",
    "url": "https://sts.u-bordeaux.fr/actualites/arna-laureat-france-2030",
-   "archive": "reference",
-   "note": "CP Actusnews : https://www.actusnews.com/en/theranexus/pr/2024/04/23/theranexus-diverchim-and-inserm-awarded-eur-4_7-million-in-funding-under-the-innovations-in-biotherapies-and-biomanufacturing ; PDF via Lyonbiopôle : https://lyonbiopole.com/wp-content/uploads/2024/04/Theranexus_CP_Projet_PickASO_Bpifrance_VDEF1.pdf"
+   "archive": "integral",
+   "note": "CP Actusnews : https://www.actusnews.com/en/theranexus/pr/2024/04/23/theranexus-diverchim-and-inserm-awarded-eur-4_7-million-in-funding-under-the-innovations-in-biotherapies-and-biomanufacturing ; PDF via Lyonbiopôle : https://lyonbiopole.com/wp-content/uploads/2024/04/Theranexus_CP_Projet_PickASO_Bpifrance_VDEF1.pdf",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S119",
@@ -9692,8 +9497,9 @@
    "type": "presse",
    "reference": "BFM Bourse, 18/12/2024 : Theranexus étend d'une année son horizon de financement",
    "url": "https://www.tradingsat.com/thx-pharma-ex-theranexus-FR0013286259/actualites/thx-pharma-ex-theranexus-la-biopharma-theranexus-etend-d-une-annee-son-horizon-de-financement-et-bondit-en-bourse-1129406.html",
-   "archive": "reference",
-   "note": ""
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S133",
@@ -9899,8 +9705,9 @@
    "type": "presse",
    "reference": "AFP (via Boursorama), 11/02/2026 : accord de licence entre Biocodex et THX Pharma",
    "url": "https://www.boursorama.com/bourse/actualites/maladies-rares-accord-de-licence-entre-les-francais-biocodex-et-thx-pharma-58919607f55d876ceee11db58277f850",
-   "archive": "reference",
-   "note": ""
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S154",
@@ -9957,7 +9764,7 @@
    "date_source": "2026-06-16",
    "type": "analyste",
    "reference": "CP THX Pharma du 16/06/2026 : Allinvest Securities initie la couverture à l'achat",
-   "url": "https://www.webdisclosure.com/press-release/theranexus-epa-althx-allinvest-securities-initie-la-couverture-de-titre-de-thx-pharma-theranexus-avec-une-recommandation-a-lachat-FQazjkTYutR",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/06/FCACT080119_20260616.pdf",
    "archive": "reference",
    "note": "Communiqué émis par la société elle-même ; MarketScreener affiche un consensus d'un analyste « BUY », objectif 5,80 € (04/11/2026), source non identifiée. | Titre relevé sur la liste Euronext (16 juin 2026, 8h00) ; contenu repris du CP du 9 juillet 2026.",
    "texte_archive": "sources_textes.json"
@@ -10104,8 +9911,9 @@
    "type": "AMF",
    "reference": "Déclaration de dirigeant AMF 2026DD1105382 du 02/04/2026 : Julien Veys, exercices et cessions d'options",
    "url": "https://bdif.amf-france.org/",
-   "archive": "reference",
-   "note": "Base BDIF de l'AMF, recherche du 21/11/2026 ; PDF lu. Six transactions des 16, 18 et 20/03/2026 : acquisitions à 2,9671 € et cessions de 4 944 titres à 3,10 €, 2 825 à 3,12 €, 4 488 à 3,05 €. Notification reçue le 01/04/2026. PDF à archiver."
+   "archive": "integral",
+   "note": "Base BDIF de l'AMF, recherche du 21/11/2026 ; PDF lu. Six transactions des 16, 18 et 20/03/2026 : acquisitions à 2,9671 € et cessions de 4 944 titres à 3,10 €, 2 825 à 3,12 €, 4 488 à 3,05 €. Notification reçue le 01/04/2026. PDF à archiver.",
+   "texte_archive": "sources_textes.json"
   },
   {
    "id": "S175",
