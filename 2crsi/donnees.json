@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T20:45",
+ "mis_a_jour": "2026-11-23T21:53",
  "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 187,
-  "sources": 240
+  "evenements": 188,
+  "sources": 245
  },
  "evenements": [
   {
@@ -1738,6 +1738,60 @@
    "majeur": true
   },
   {
+   "id": "2025-10-30_cac-fiduciaire-2425",
+   "date": "2025-10-30",
+   "date_affichee": "30 oct. 2025",
+   "sujets": [
+    "gouv",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Comptes 2024-25 certifiés par la seule Fiduciaire de Révision ; honoraires d'audit du groupe : 160 k€",
+   "texte": "Le rapport financier annuel 2024-25 contient un « Rapport du commissaire aux comptes sur les comptes consolidés », signé « Fait à Didenheim, le 30 octobre 2025 » par la seule Société Fiduciaire de Révision (pp. 122-125). Honoraires au titre des missions de commissariat aux comptes du groupe : « 160 k€ au titre de l'exercice clos au 30 juin 2025, contre 123 k€ au 30 juin 2024 ». Le rapport 2025-26 donne 165 K€ pour l'exercice 2024-25 et 227 K€ pour 2025-26. À l'AG du 18/12/2025, le mandat de la Fiduciaire n'est pas renouvelé et Ernst & Young Audit est nommé.",
+   "sources": [
+    "S178",
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2024-25, pp. 122-125 et § 3.7",
+    "Rapport financier annuel 2025-26, honoraires des commissaires aux comptes"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-11-07_cac-fiduciaire-2324"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-12-18_ag-2025"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-10-30",
+      "cloture": 13.3,
+      "volume": 383775,
+      "variation_pct": -6.7,
+      "volume_vs_moy20": 0.9
+     },
+     {
+      "role": "suivante",
+      "date": "2025-10-31",
+      "cloture": 10.14,
+      "volume": 2338461,
+      "variation_pct": -23.8,
+      "volume_vs_moy20": 6.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2025-10-30_resultats-2024-25",
    "date": "2025-10-30",
    "date_affichee": "30 oct. 2025",
@@ -1792,60 +1846,6 @@
     ]
    },
    "majeur": true
-  },
-  {
-   "id": "2025-10-30_cac-fiduciaire-2425",
-   "date": "2025-10-30",
-   "date_affichee": "30 oct. 2025",
-   "sujets": [
-    "gouv",
-    "res"
-   ],
-   "statut": "doc",
-   "titre": "Comptes 2024-25 certifiés par la seule Fiduciaire de Révision ; honoraires d'audit du groupe : 160 k€",
-   "texte": "Le rapport financier annuel 2024-25 contient un « Rapport du commissaire aux comptes sur les comptes consolidés », signé « Fait à Didenheim, le 30 octobre 2025 » par la seule Société Fiduciaire de Révision (pp. 122-125). Honoraires au titre des missions de commissariat aux comptes du groupe : « 160 k€ au titre de l'exercice clos au 30 juin 2025, contre 123 k€ au 30 juin 2024 ». Le rapport 2025-26 donne 165 K€ pour l'exercice 2024-25 et 227 K€ pour 2025-26. À l'AG du 18/12/2025, le mandat de la Fiduciaire n'est pas renouvelé et Ernst & Young Audit est nommé.",
-   "sources": [
-    "S178",
-    "S173"
-   ],
-   "sources_libelle": [
-    "Rapport financier annuel 2024-25, pp. 122-125 et § 3.7",
-    "Rapport financier annuel 2025-26, honoraires des commissaires aux comptes"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2024-11-07_cac-fiduciaire-2324"
-    },
-    {
-     "type": "precise",
-     "cible": "2025-12-18_ag-2025"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2025-10-30",
-      "cloture": 13.3,
-      "volume": 383775,
-      "variation_pct": -6.7,
-      "volume_vs_moy20": 0.9
-     },
-     {
-      "role": "suivante",
-      "date": "2025-10-31",
-      "cloture": 10.14,
-      "volume": 2338461,
-      "variation_pct": -23.8,
-      "volume_vs_moy20": 6.2
-     }
-    ]
-   },
-   "majeur": false
   },
   {
    "id": "2025-11-04_valeo-partenariat",
@@ -2263,6 +2263,62 @@
       "volume": 265173,
       "variation_pct": -3.8,
       "volume_vs_moy20": 1.3
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-01-22_sxb2-inspection-icpe",
+   "date": "2026-01-22",
+   "date_affichee": "22 janv. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Site Dumarey (futur FR-SXB2) : installation classée soumise à autorisation, arrêt industriel annoncé pour août 2026, cessation d'activité à venir",
+   "texte": "L'usine Dumarey Powerglide du 81 rue de la Rochelle, à Strasbourg, que vise la promesse de vente signée le 09/10/2026 par Aether Infrastructures, est une installation classée pour la protection de l'environnement soumise à autorisation (arrêté préfectoral du 07/10/2003, arrêté du 01/12/2020), non Seveso, « en exploitation avec titre » selon la fiche Géorisques mise à jour le 31/08/2026. Treize rubriques y sont inscrites, dont une fonderie d'aluminium, du traitement de surface et un stockage d'ammoniac. Rapport de l'inspection des installations classées (DREAL Grand Est) sur la visite du 22/01/2026 : « Dumarey annonce que l'exploitation industrielle sera arrêtée au mois d'août 2026 et que tout le personnel aura été licencié au mois de décembre. » « Un échange sur les modalités de cessation d'activité a eu lieu le 20 janvier, durant lequel les prescriptions en la matière ont été rappelées. L'exploitant a déjà contacté des organismes compétents en la matière. » L'inspection « estime pertinente la réalisation d'un contrôle élargi des émissions atmosphériques, dans le contexte local et dans le contexte de la future cessation, qui supposera des diagnostics environnementaux, notamment des sols pouvant avoir été affectés par des retombées ». Elle a programmé un contrôle des fumées de la fonderie (poussières, dioxines et furanes, PCB, composés organiques volatils, HAP, métaux), différé deux fois ; « dans l'hypothèse où des polluants persistants auraient été émis, il faudrait en tenir compte dans le cadre de la cessation d'activité, des retombées ayant pu contaminer les sols ». Le rapport situe ce contrôle dans un « contexte local, marqué par des émissions de polluants organiques persistants du broyeur de métaux Eska et de l'incinérateur Sénerval ». Aucune non-conformité n'est relevée, ni dans ce rapport ni dans celui de la visite du 28/11/2025 (« La visite d'inspection n'a révélé aucune non-conformité »), qui constate la baisse d'activité déclarée par l'exploitant le 28/01/2025. L'arrêté du 01/12/2020 fixe l'usage à prendre en compte à la cessation : « maintien d'un usage industriel » (art. 1.4.1) ; il impose la mise en sécurité du site dès l'arrêt et une notification au préfet « 3 mois avant l'arrêt définitif » (art. 1.4.2) ; le montant des garanties financières est de 301 834 euros (art. 1.3.2). L'arrêté de 2003 prescrit une surveillance annuelle des eaux souterraines par quatre piézomètres (art. 9.5). Le communiqué de 2CRSi du 12/10/2026 mentionne, pour la vente, « les conditions d'usage, dont l'agrément du Port Autonome de Strasbourg » ; il ne mentionne ni le classement du site ni sa cessation d'activité. Aucune pièce consultée ne dit qui, du vendeur ou de l'acquéreur, prend en charge les diagnostics et une éventuelle réhabilitation, ni sous quel régime un centre de données serait exploité sur le site.",
+   "sources": [
+    "S252",
+    "S253",
+    "S254",
+    "S255",
+    "S256"
+   ],
+   "sources_libelle": [
+    "Rapport d'inspection DREAL, visite du 22/01/2026 (Géorisques)",
+    "Rapport d'inspection DREAL, visite du 28/11/2025 (Géorisques)",
+    "Arrêté préfectoral du 01/12/2020 (Géorisques)",
+    "Arrêté préfectoral d'autorisation du 07/10/2003 (Géorisques)",
+    "Fiche Géorisques de l'installation, mise à jour le 31/08/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-09_sxb2-promesse"
+    }
+   ],
+   "revele_le": "2026-11-23",
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-01-22",
+      "cloture": 13.1,
+      "volume": 421681,
+      "variation_pct": 7.9,
+      "volume_vs_moy20": 2.2
+     },
+     {
+      "role": "suivante",
+      "date": "2026-01-23",
+      "cloture": 13.06,
+      "volume": 328082,
+      "variation_pct": -0.3,
+      "volume_vs_moy20": 1.6
      }
     ]
    },
@@ -3392,6 +3448,66 @@
    "majeur": false
   },
   {
+   "id": "2026-06-19_webinaire-commissaires",
+   "date": "2026-06-19",
+   "date_affichee": "19 juin 2026",
+   "sujets": [
+    "gouv",
+    "griz"
+   ],
+   "statut": "decl",
+   "titre": "Webinaire du PDG : « EY a fait une seule année de pause. Point. »",
+   "texte": "Interrogé sur les commissaires aux comptes, le PDG répond : « Il y a toujours eu un Big Four sur HAW, et précédemment sur 2CRSi. Il n'y a pas de débat là-dessus. » À la question « lors d'une AG, il restait le petit cabinet seulement », il répond : « Non, c'est pas vrai. EY était l'auditeur de HAW, et la sous-consolidation qu'on faisait était faite par SFR [Société Fiduciaire de Révision] pour une raison technique : c'est qu'au bout des six ans, EY devait faire une pause d'une année. EY a fait une seule année de pause. Point. » Il ajoute que « tous les comptes sont audités d'abord au niveau de HAW, c'est-à-dire HAW qui paye l'audit, et 2CRSi paye sa quote-part de l'audit seulement ». Les rapports annuels 2023-24 (16 mois) et 2024-25 sont certifiés par la seule Fiduciaire de Révision ; EY est nommé à l'AG du 18/12/2025.",
+   "sources": [
+    "S015",
+    "S203",
+    "S178"
+   ],
+   "sources_libelle": [
+    "Webinaire du 19/06/2026 (transcription automatique relue à l'écoute, 22:35–23:41)",
+    "Rapport financier annuel 2023-24, pp. 136-140",
+    "Rapport financier annuel 2024-25, pp. 122-125"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2024-11-07_cac-fiduciaire-2324"
+    },
+    {
+     "type": "precise",
+     "cible": "2025-10-30_cac-fiduciaire-2425"
+    },
+    {
+     "type": "precise",
+     "cible": "2020-07-24_haw-cac"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-19",
+      "cloture": 25.4,
+      "volume": 0,
+      "variation_pct": 0.0,
+      "volume_vs_moy20": 0.0
+     },
+     {
+      "role": "suivante",
+      "date": "2026-06-22",
+      "cloture": 22.0,
+      "volume": 2254165,
+      "variation_pct": -13.4,
+      "volume_vs_moy20": 7.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-06-19_webinaire-comptes",
    "date": "2026-06-19",
    "date_affichee": "19 juin 2026",
@@ -3478,66 +3594,6 @@
     {
      "type": "precise",
      "cible": "2025-08-13_chennai-ch4-site"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-06-19",
-      "cloture": 25.4,
-      "volume": 0,
-      "variation_pct": 0.0,
-      "volume_vs_moy20": 0.0
-     },
-     {
-      "role": "suivante",
-      "date": "2026-06-22",
-      "cloture": 22.0,
-      "volume": 2254165,
-      "variation_pct": -13.4,
-      "volume_vs_moy20": 7.7
-     }
-    ]
-   },
-   "majeur": false
-  },
-  {
-   "id": "2026-06-19_webinaire-commissaires",
-   "date": "2026-06-19",
-   "date_affichee": "19 juin 2026",
-   "sujets": [
-    "gouv",
-    "griz"
-   ],
-   "statut": "decl",
-   "titre": "Webinaire du PDG : « EY a fait une seule année de pause. Point. »",
-   "texte": "Interrogé sur les commissaires aux comptes, le PDG répond : « Il y a toujours eu un Big Four sur HAW, et précédemment sur 2CRSi. Il n'y a pas de débat là-dessus. » À la question « lors d'une AG, il restait le petit cabinet seulement », il répond : « Non, c'est pas vrai. EY était l'auditeur de HAW, et la sous-consolidation qu'on faisait était faite par SFR [Société Fiduciaire de Révision] pour une raison technique : c'est qu'au bout des six ans, EY devait faire une pause d'une année. EY a fait une seule année de pause. Point. » Il ajoute que « tous les comptes sont audités d'abord au niveau de HAW, c'est-à-dire HAW qui paye l'audit, et 2CRSi paye sa quote-part de l'audit seulement ». Les rapports annuels 2023-24 (16 mois) et 2024-25 sont certifiés par la seule Fiduciaire de Révision ; EY est nommé à l'AG du 18/12/2025.",
-   "sources": [
-    "S015",
-    "S203",
-    "S178"
-   ],
-   "sources_libelle": [
-    "Webinaire du 19/06/2026 (transcription automatique relue à l'écoute, 22:35–23:41)",
-    "Rapport financier annuel 2023-24, pp. 136-140",
-    "Rapport financier annuel 2024-25, pp. 122-125"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2024-11-07_cac-fiduciaire-2324"
-    },
-    {
-     "type": "precise",
-     "cible": "2025-10-30_cac-fiduciaire-2425"
-    },
-    {
-     "type": "precise",
-     "cible": "2020-07-24_haw-cac"
     }
    ],
    "seance": {
@@ -7364,29 +7420,6 @@
    "majeur": true
   },
   {
-   "id": "2026-10-31_sxb1-echeance",
-   "date": "2026-10-31",
-   "date_affichee": "fin oct. 2026",
-   "sujets": [
-    "aether"
-   ],
-   "statut": "echeance",
-   "titre": "Échéance : acquisition de FR-SXB1",
-   "texte": "Le CP du 08/07/2026 conditionne le démarrage de FR-SXB1 « courant de l'année 2027 » à « une finalisation de l'acquisition définitive du site avant la fin octobre 2026 ». Au 05/08/2026, l'offre ferme et engageante (rachat de société) était en attente de validation par le conseil d'administration du vendeur. Se vérifiera aussi au registre : apparition d'une filiale d'AETHER Infrastructures.",
-   "sources": [
-    "S008",
-    "S012"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi du 08/07/2026 (échéance)",
-    "CP 2CRSi du 05/08/2026 (état de l'offre)"
-   ],
-   "engagements": [],
-   "liens": [],
-   "avenir": false,
-   "majeur": false
-  },
-  {
    "id": "2026-10-31_rfa-evenements-commerciaux",
    "date": "2026-10-31",
    "date_affichee": "31 oct. 2026",
@@ -7431,6 +7464,29 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2026-10-31_sxb1-echeance",
+   "date": "2026-10-31",
+   "date_affichee": "fin oct. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : acquisition de FR-SXB1",
+   "texte": "Le CP du 08/07/2026 conditionne le démarrage de FR-SXB1 « courant de l'année 2027 » à « une finalisation de l'acquisition définitive du site avant la fin octobre 2026 ». Au 05/08/2026, l'offre ferme et engageante (rachat de société) était en attente de validation par le conseil d'administration du vendeur. Se vérifiera aussi au registre : apparition d'une filiale d'AETHER Infrastructures.",
+   "sources": [
+    "S008",
+    "S012"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 08/07/2026 (échéance)",
+    "CP 2CRSi du 05/08/2026 (état de l'offre)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "avenir": false,
+   "majeur": false
   },
   {
    "id": "2026-11-01_lettre-actionnaires",
@@ -7607,6 +7663,53 @@
    "majeur": true
   },
   {
+   "id": "2026-11-03_citadel-057",
+   "date": "2026-11-03",
+   "date_affichee": "3 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Citadel Securities (Europe) : position courte nette de 0,57 %, de nouveau au-dessus du seuil de publication",
+   "texte": "Déclaration publiée par l'AMF le 04/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,57 % du capital de 2CRSi à la date du 03/11/2026. Sa précédente position publiée était de 0,37 % au 05/08/2026, sous le seuil de publication de 0,5 %. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
+   "sources": [
+    "S187"
+   ],
+   "sources_libelle": [
+    "Déclaration AMF DPC1148455 du 04/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-05_citadel-058"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-03",
+      "cloture": 16.59,
+      "volume": 1662805,
+      "variation_pct": 22.3,
+      "volume_vs_moy20": 5.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-04",
+      "cloture": 17.87,
+      "volume": 1470831,
+      "variation_pct": 7.7,
+      "volume_vs_moy20": 3.9
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-11-03_commande-exaion",
    "date": "2026-11-03",
    "date_affichee": "3 nov. 2026",
@@ -7765,53 +7868,6 @@
    "majeur": true
   },
   {
-   "id": "2026-11-03_citadel-057",
-   "date": "2026-11-03",
-   "date_affichee": "3 nov. 2026",
-   "sujets": [
-    "mkt"
-   ],
-   "statut": "doc",
-   "titre": "Citadel Securities (Europe) : position courte nette de 0,57 %, de nouveau au-dessus du seuil de publication",
-   "texte": "Déclaration publiée par l'AMF le 04/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,57 % du capital de 2CRSi à la date du 03/11/2026. Sa précédente position publiée était de 0,37 % au 05/08/2026, sous le seuil de publication de 0,5 %. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
-   "sources": [
-    "S187"
-   ],
-   "sources_libelle": [
-    "Déclaration AMF DPC1148455 du 04/11/2026"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-08-05_citadel-058"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-11-03",
-      "cloture": 16.59,
-      "volume": 1662805,
-      "variation_pct": 22.3,
-      "volume_vs_moy20": 5.5
-     },
-     {
-      "role": "suivante",
-      "date": "2026-11-04",
-      "cloture": 17.87,
-      "volume": 1470831,
-      "variation_pct": 7.7,
-      "volume_vs_moy20": 3.9
-     }
-    ]
-   },
-   "majeur": false
-  },
-  {
    "id": "2026-11-04_citadel-079",
    "date": "2026-11-04",
    "date_affichee": "4 nov. 2026",
@@ -7954,53 +8010,6 @@
    "majeur": false
   },
   {
-   "id": "2026-11-10_uet-immersion",
-   "date": "2026-11-10",
-   "date_affichee": "10 novembre 2026",
-   "sujets": [
-    "autre"
-   ],
-   "statut": "doc",
-   "titre": "Partenariat technique avec UET : 2CRSi valide le VectorEdge Large et garantit ses serveurs en immersion monophasique",
-   "texte": "Communiqué daté de Marco Island (Floride). Universal Edge Technologies (UET), conceptrice des systèmes VectorEdge, et 2CRSi annoncent « un partenariat technique » : 2CRSi « a évalué et validé le système VectorEdge Large d'UET et garantit jusqu'à trois ans ses serveurs fonctionnant dans ce système de refroidissement par immersion monophasique » ; la validation du VectorEdge Carbon doit commencer « très prochainement ». VectorEdge Carbon : quatre GPU NVIDIA H200 (ou RTX PRO 6000), environ 3,5 kW, transportable par deux personnes. VectorEdge Large : 24 GPU H200 NVL ou plus, 35 à 50 kW. UET travaille avec la filiale américaine de 2CRSi pour les clients américains, « y compris les agences gouvernementales » (configurations conformes au TAA), et avec 2CRSi en France pour « les clients des pays alliés ». Présentation du VectorEdge Carbon sur le stand de 2CRSi au salon Supercomputing 2026 (Chicago, 17-19/11). Le communiqué ne donne ni montant, ni volume, ni durée d'engagement, et ne mentionne pas ÆTHER.",
-   "sources": [
-    "S207"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi / UET du 10/11/2026"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2022-10-28_brevets"
-    }
-   ],
-   "seance": {
-    "jour_de_bourse": true,
-    "heure": null,
-    "seances": [
-     {
-      "role": "jour",
-      "date": "2026-11-10",
-      "cloture": 17.1,
-      "volume": 318479,
-      "variation_pct": -0.5,
-      "volume_vs_moy20": 0.7
-     },
-     {
-      "role": "suivante",
-      "date": "2026-11-11",
-      "cloture": 18.76,
-      "volume": 485584,
-      "variation_pct": 9.7,
-      "volume_vs_moy20": 1.1
-     }
-    ]
-   },
-   "majeur": true
-  },
-  {
    "id": "2026-11-10_aether-linkedin-95mw",
    "date": "2026-11-10",
    "date_affichee": "10 nov. 2026",
@@ -8070,26 +8079,26 @@
    "majeur": false
   },
   {
-   "id": "2026-11-11_citadel-050",
-   "date": "2026-11-11",
-   "date_affichee": "11 nov. 2026",
+   "id": "2026-11-10_uet-immersion",
+   "date": "2026-11-10",
+   "date_affichee": "10 novembre 2026",
    "sujets": [
-    "mkt"
+    "autre"
    ],
    "statut": "doc",
-   "titre": "Positions courtes : Citadel Securities (Europe) à 0,50 % au 11/11",
-   "texte": "Déclaration publiée par l'AMF le 12/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,50 % du capital de 2CRSi à la date du 11/11/2026, contre 0,67 % au 06/11 et 0,79 % au 04/11. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
+   "titre": "Partenariat technique avec UET : 2CRSi valide le VectorEdge Large et garantit ses serveurs en immersion monophasique",
+   "texte": "Communiqué daté de Marco Island (Floride). Universal Edge Technologies (UET), conceptrice des systèmes VectorEdge, et 2CRSi annoncent « un partenariat technique » : 2CRSi « a évalué et validé le système VectorEdge Large d'UET et garantit jusqu'à trois ans ses serveurs fonctionnant dans ce système de refroidissement par immersion monophasique » ; la validation du VectorEdge Carbon doit commencer « très prochainement ». VectorEdge Carbon : quatre GPU NVIDIA H200 (ou RTX PRO 6000), environ 3,5 kW, transportable par deux personnes. VectorEdge Large : 24 GPU H200 NVL ou plus, 35 à 50 kW. UET travaille avec la filiale américaine de 2CRSi pour les clients américains, « y compris les agences gouvernementales » (configurations conformes au TAA), et avec 2CRSi en France pour « les clients des pays alliés ». Présentation du VectorEdge Carbon sur le stand de 2CRSi au salon Supercomputing 2026 (Chicago, 17-19/11). Le communiqué ne donne ni montant, ni volume, ni durée d'engagement, et ne mentionne pas ÆTHER.",
    "sources": [
-    "S212"
+    "S207"
    ],
    "sources_libelle": [
-    "Déclaration AMF DPC1150216 du 12/11/2026"
+    "CP 2CRSi / UET du 10/11/2026"
    ],
    "engagements": [],
    "liens": [
     {
      "type": "precise",
-     "cible": "2026-11-06_positions-courtes"
+     "cible": "2022-10-28_brevets"
     }
    ],
    "seance": {
@@ -8098,23 +8107,23 @@
     "seances": [
      {
       "role": "jour",
+      "date": "2026-11-10",
+      "cloture": 17.1,
+      "volume": 318479,
+      "variation_pct": -0.5,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
       "date": "2026-11-11",
       "cloture": 18.76,
       "volume": 485584,
       "variation_pct": 9.7,
       "volume_vs_moy20": 1.1
-     },
-     {
-      "role": "suivante",
-      "date": "2026-11-12",
-      "cloture": 18.33,
-      "volume": 338721,
-      "variation_pct": -2.3,
-      "volume_vs_moy20": 0.7
      }
     ]
    },
-   "majeur": false
+   "majeur": true
   },
   {
    "id": "2026-11-11_balo-avis-ag",
@@ -8147,6 +8156,53 @@
     {
      "type": "precise",
      "cible": "2026-11-03_webinaire-pros"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-11",
+      "cloture": 18.76,
+      "volume": 485584,
+      "variation_pct": 9.7,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-12",
+      "cloture": 18.33,
+      "volume": 338721,
+      "variation_pct": -2.3,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-11-11_citadel-050",
+   "date": "2026-11-11",
+   "date_affichee": "11 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Positions courtes : Citadel Securities (Europe) à 0,50 % au 11/11",
+   "texte": "Déclaration publiée par l'AMF le 12/11/2026 (règlement UE 236/2012, art. 9) : Citadel Securities (Europe) Limited détient une position courte nette de 0,50 % du capital de 2CRSi à la date du 11/11/2026, contre 0,67 % au 06/11 et 0,79 % au 04/11. La déclaration ne donne ni le nombre d'actions ni le motif de la position ; elle est établie sous la responsabilité du déclarant et n'a pas été contrôlée par l'AMF.",
+   "sources": [
+    "S212"
+   ],
+   "sources_libelle": [
+    "Déclaration AMF DPC1150216 du 12/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-06_positions-courtes"
     }
    ],
    "seance": {
@@ -8554,29 +8610,6 @@
    "majeur": false
   },
   {
-   "id": "2026-12-31_sxb2-echeance",
-   "date": "2026-12-31",
-   "date_affichee": "31 déc. 2026",
-   "sujets": [
-    "aether",
-    "res"
-   ],
-   "statut": "echeance",
-   "titre": "Échéance : signature de FR-SXB2 ; clôture du S1 2026/27",
-   "texte": "Premier semestre de l'exercice de l'ambition « milliard ».",
-   "sources": [
-    "S012",
-    "S113"
-   ],
-   "sources_libelle": [
-    "CP 2CRSi du 05/08/2026",
-    "CP 2CRSi du 12/10/2026 (promesse de vente)"
-   ],
-   "engagements": [],
-   "liens": [],
-   "majeur": false
-  },
-  {
    "id": "2026-12-31_eupilot-fin",
    "date": "2026-12-31",
    "date_affichee": "31 déc. 2026",
@@ -8599,6 +8632,29 @@
      "cible": "2021-12-01_eupilot"
     }
    ],
+   "majeur": false
+  },
+  {
+   "id": "2026-12-31_sxb2-echeance",
+   "date": "2026-12-31",
+   "date_affichee": "31 déc. 2026",
+   "sujets": [
+    "aether",
+    "res"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : signature de FR-SXB2 ; clôture du S1 2026/27",
+   "texte": "Premier semestre de l'exercice de l'ambition « milliard ».",
+   "sources": [
+    "S012",
+    "S113"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 05/08/2026",
+    "CP 2CRSi du 12/10/2026 (promesse de vente)"
+   ],
+   "engagements": [],
+   "liens": [],
    "majeur": false
   },
   {
@@ -11562,6 +11618,56 @@
    "url": "https://bdif.amf-france.org/back/api/v1/documents/2026/2026E1151970/745DA0343FA952BCF9991E65C57C56C45A447F8F7D17DFB3EECCEB17C70267A8.pdf",
    "archive": "integral",
    "note": "Ajoutée à la main le 23/11/2026 d'après la déclaration publiée sur la BDIF (transmise par l'utilisateur), avant son entrée dans le fichier data.gouv.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S252",
+   "date_source": "2026-01-30",
+   "type": "officiel",
+   "reference": "DREAL Grand Est, rapport de l'Inspection des installations classées daté du 30/01/2026, visite du 22/01/2026 : DUMAREY POWERGLIDE (Ex GM), 81 rue de la Rochelle, Strasbourg (code AIOT 0006700463), publié sur Géorisques",
+   "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/iP35kTfgEa08E9Br1dYaDaKctuQwOoNB",
+   "archive": "integral",
+   "note": "Partie « Contexte et constats » publiée sur Géorisques. PDF archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S253",
+   "date_source": "2025-12-02",
+   "type": "officiel",
+   "reference": "DREAL Grand Est, rapport de l'Inspection des installations classées daté du 02/12/2025, visite du 28/11/2025 : DUMAREY POWERGLIDE (Ex GM), Strasbourg (code AIOT 0006700463), publié sur Géorisques",
+   "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/aIL9CqGcwjMvZTHCOq9HDJ3JNmkGGXKU",
+   "archive": "integral",
+   "note": "PDF archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S254",
+   "date_source": "2020-12-01",
+   "type": "officiel",
+   "reference": "Préfet du Bas-Rhin, arrêté préfectoral du 01/12/2020 (prescriptions applicables à l'établissement du 81 rue de la Rochelle, Strasbourg), publié sur Géorisques",
+   "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/document/8ab90ca276277ae7017628d878040008",
+   "archive": "integral",
+   "note": "PDF scanné (21 pages) ; texte obtenu par reconnaissance de caractères, des erreurs sont possibles. Passages cités relus : chapitres 1.3 (garanties financières) et 1.4 (cessation d'activité).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S255",
+   "date_source": "2003-10-07",
+   "type": "officiel",
+   "reference": "Préfet du Bas-Rhin, arrêté préfectoral d'autorisation du 07/10/2003 (GENERAL MOTORS Strasbourg, 81 rue de la Rochelle), publié sur Géorisques",
+   "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/document/c471143e2b3d4e3fb8fffaa3b42b4dbf",
+   "archive": "integral",
+   "note": "PDF de 32 pages, texte natif. Passages cités : article 6 (mise à l'arrêt définitif), article 9.5 (surveillance des eaux souterraines).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S256",
+   "date_source": "2026-08-31",
+   "type": "registre",
+   "reference": "Géorisques, fiche de l'installation classée DUMAREY POWERGLIDE (Ex GM), code AIOT 0006700463, mise à jour le 31/08/2026 (relevé du 23/11/2026)",
+   "url": "https://www.georisques.gouv.fr/api/v1/installations_classees?codeAIOT=0006700463",
+   "archive": "integral",
+   "note": "Relevé par l'API publique de Géorisques.",
    "texte_archive": "sources_textes.json"
   }
  ],
