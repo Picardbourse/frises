@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T23:07",
+ "mis_a_jour": "2026-11-23T23:36",
  "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 189,
-  "sources": 248
+  "evenements": 190,
+  "sources": 249
  },
  "evenements": [
   {
@@ -8330,6 +8330,48 @@
    "majeur": false
   },
   {
+   "id": "2026-11-12_thermai-airsys",
+   "date": "2026-11-12",
+   "date_affichee": "12 nov. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Un communiqué d'Airsys cite 2CRSi comme fabricant des serveurs de la jeune société britannique ThermAI",
+   "texte": "Airsys, société américaine de gestion thermique, annonce être l'investisseur principal et le partenaire technique de ThermAI, société britannique qui veut installer des serveurs de calcul chez des particuliers et récupérer leur chaleur pour le chauffage et l'eau chaude. Le communiqué indique : « 2CRSi builds the servers through its Manchester-based subsidiary, using NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, each with 96 GB of memory. » Chaque installation associe un serveur à six GPU au système de récupération de chaleur. Le prototype devait être exposé sur le stand de 2CRSi au salon SC26 (Chicago, 17-19/11/2026). ThermAI a clos un tour de financement d'amorçage (« pre-seed »), dont le montant n'est pas indiqué, et vise, « following initial pilots », un déploiement « in 100 homes with UK social housing providers in 2027 ». Le communiqué ne mentionne ni commande, ni volume, ni montant pour 2CRSi ; 2CRSi ne figure pas dans la liste du « partner network » de ThermAI. Aucun communiqué de 2CRSi sur le sujet n'a été trouvé au 23/11/2026.",
+   "sources": [
+    "S260"
+   ],
+   "sources_libelle": [
+    "Communiqué d'Airsys du 12/11/2026 (GlobeNewswire)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-12",
+      "cloture": 18.33,
+      "volume": 338721,
+      "variation_pct": -2.3,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-13",
+      "cloture": 18.31,
+      "volume": 509127,
+      "variation_pct": -0.1,
+      "volume_vs_moy20": 1.1
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-11-15_valeo-sop",
    "date": "2026-11-15",
    "date_affichee": "nov. 2026",
@@ -11759,6 +11801,16 @@
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/07/FCEQS004897_20230720.pdf",
    "archive": "integral",
    "note": "Version française diffusée par le canal réglementé (archive DILA). Version anglaise : FCEQS004896_20230720.pdf. PDF archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S260",
+   "date_source": "2026-11-12",
+   "type": "CP tiers",
+   "reference": "Communiqué d'Airsys du 12/11/2026 : « Airsys moves into heat reuse as ThermAI turns GPU servers into home heating » (GlobeNewswire)",
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401546/0/en/airsys-moves-into-heat-reuse-as-thermai-turns-gpu-servers-into-home-heating.html",
+   "archive": "integral",
+   "note": "Extraits seulement (communiqué d'un tiers, en anglais) ; texte lu en entier sur la page le 23/11/2026. Piste signalée par un message du forum.",
    "texte_archive": "sources_textes.json"
   }
  ],
