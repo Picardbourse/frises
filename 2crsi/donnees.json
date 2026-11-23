@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T22:11",
+ "mis_a_jour": "2026-11-23T22:32",
  "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 188,
-  "sources": 246
+  "sources": 247
  },
  "evenements": [
   {
@@ -2277,12 +2277,13 @@
    ],
    "statut": "doc",
    "titre": "Site Dumarey (futur FR-SXB2) : installation classée soumise à autorisation, arrêt industriel annoncé pour août 2026, cessation d'activité à venir",
-   "texte": "L'usine Dumarey Powerglide du 81 rue de la Rochelle, à Strasbourg, que vise la promesse de vente signée le 09/10/2026 par Aether Infrastructures, est une installation classée pour la protection de l'environnement soumise à autorisation (arrêté préfectoral du 07/10/2003, arrêté du 01/12/2020), non Seveso, « en exploitation avec titre » selon la fiche Géorisques mise à jour le 31/08/2026. Treize rubriques y sont inscrites, dont une fonderie d'aluminium, du traitement de surface et un stockage d'ammoniac. Rapport de l'inspection des installations classées (DREAL Grand Est) sur la visite du 22/01/2026 : « Dumarey annonce que l'exploitation industrielle sera arrêtée au mois d'août 2026 et que tout le personnel aura été licencié au mois de décembre. » « Un échange sur les modalités de cessation d'activité a eu lieu le 20 janvier, durant lequel les prescriptions en la matière ont été rappelées. L'exploitant a déjà contacté des organismes compétents en la matière. » L'inspection « estime pertinente la réalisation d'un contrôle élargi des émissions atmosphériques, dans le contexte local et dans le contexte de la future cessation, qui supposera des diagnostics environnementaux, notamment des sols pouvant avoir été affectés par des retombées ». Elle a programmé un contrôle des fumées de la fonderie (poussières, dioxines et furanes, PCB, composés organiques volatils, HAP, métaux), différé deux fois ; « dans l'hypothèse où des polluants persistants auraient été émis, il faudrait en tenir compte dans le cadre de la cessation d'activité, des retombées ayant pu contaminer les sols ». Le rapport situe ce contrôle dans un « contexte local, marqué par des émissions de polluants organiques persistants du broyeur de métaux Eska et de l'incinérateur Sénerval ». Aucune non-conformité n'est relevée, ni dans ce rapport ni dans celui de la visite du 28/11/2025 (« La visite d'inspection n'a révélé aucune non-conformité »), qui constate la baisse d'activité déclarée par l'exploitant le 28/01/2025. L'arrêté du 01/12/2020 fixe l'usage à prendre en compte à la cessation : « maintien d'un usage industriel » (art. 1.4.1) ; il impose la mise en sécurité du site dès l'arrêt et une notification au préfet « 3 mois avant l'arrêt définitif » (art. 1.4.2) ; le montant des garanties financières est de 301 834 euros (art. 1.3.2). L'arrêté de 2003 prescrit une surveillance annuelle des eaux souterraines par quatre piézomètres (art. 9.5). Le communiqué de 2CRSi du 12/10/2026 mentionne, pour la vente, « les conditions d'usage, dont l'agrément du Port Autonome de Strasbourg » ; il ne mentionne ni le classement du site ni sa cessation d'activité. Aucune pièce consultée ne dit qui, du vendeur ou de l'acquéreur, prend en charge les diagnostics et une éventuelle réhabilitation, ni sous quel régime un centre de données serait exploité sur le site.",
+   "texte": "L'usine Dumarey Powerglide du 81 rue de la Rochelle, à Strasbourg, que vise la promesse de vente signée le 09/10/2026 par Aether Infrastructures, est une installation classée pour la protection de l'environnement soumise à autorisation (arrêté préfectoral du 07/10/2003, arrêté du 01/12/2020), non Seveso, « en exploitation avec titre » selon la fiche Géorisques mise à jour le 31/08/2026. Treize rubriques y sont inscrites, dont une fonderie d'aluminium, du traitement de surface et un stockage d'ammoniac. Rapport de l'inspection des installations classées (DREAL Grand Est) sur la visite du 22/01/2026 : « Dumarey annonce que l'exploitation industrielle sera arrêtée au mois d'août 2026 et que tout le personnel aura été licencié au mois de décembre. » « Un échange sur les modalités de cessation d'activité a eu lieu le 20 janvier, durant lequel les prescriptions en la matière ont été rappelées. L'exploitant a déjà contacté des organismes compétents en la matière. » L'inspection « estime pertinente la réalisation d'un contrôle élargi des émissions atmosphériques, dans le contexte local et dans le contexte de la future cessation, qui supposera des diagnostics environnementaux, notamment des sols pouvant avoir été affectés par des retombées ». Elle a programmé un contrôle des fumées de la fonderie (poussières, dioxines et furanes, PCB, composés organiques volatils, HAP, métaux), différé deux fois ; « dans l'hypothèse où des polluants persistants auraient été émis, il faudrait en tenir compte dans le cadre de la cessation d'activité, des retombées ayant pu contaminer les sols ». Le rapport situe ce contrôle dans un « contexte local, marqué par des émissions de polluants organiques persistants du broyeur de métaux Eska et de l'incinérateur Sénerval ». Aucune non-conformité n'est relevée, ni dans ce rapport ni dans celui de la visite du 28/11/2025 (« La visite d'inspection n'a révélé aucune non-conformité »), qui constate la baisse d'activité déclarée par l'exploitant le 28/01/2025. L'arrêté du 01/12/2020 fixe l'usage à prendre en compte à la cessation : « maintien d'un usage industriel » (art. 1.4.1) ; il impose la mise en sécurité du site dès l'arrêt et une notification au préfet « 3 mois avant l'arrêt définitif » (art. 1.4.2) ; le montant des garanties financières est de 301 834 euros (art. 1.3.2). L'arrêté du 01/12/2020 prescrit une surveillance annuelle de la nappe par sept ouvrages, pour les hydrocarbures et la conductivité, et pour les BTEX sur deux d'entre eux (chapitre 9.3). Un arrêté du 06/09/2005 avait imposé à l'exploitant d'alors un « diagnostic de l'état des sols au regard d'une contamination éventuelle en métaux », au motif que la fonderie « a rejeté des métaux qui ont pu contaminer les sols environnants » ; les résultats de ce diagnostic ne figurent pas parmi les documents publiés sur Géorisques. Le communiqué de 2CRSi du 12/10/2026 mentionne, pour la vente, « les conditions d'usage, dont l'agrément du Port Autonome de Strasbourg » ; il ne mentionne ni le classement du site ni sa cessation d'activité. Aucune pièce consultée ne dit qui, du vendeur ou de l'acquéreur, prend en charge les diagnostics et une éventuelle réhabilitation, ni sous quel régime un centre de données serait exploité sur le site.",
    "sources": [
     "S252",
     "S253",
     "S254",
     "S255",
+    "S258",
     "S256"
    ],
    "sources_libelle": [
@@ -2290,6 +2291,7 @@
     "Rapport d'inspection DREAL, visite du 28/11/2025 (Géorisques)",
     "Arrêté préfectoral du 01/12/2020 (Géorisques)",
     "Arrêté préfectoral d'autorisation du 07/10/2003 (Géorisques)",
+    "Arrêté préfectoral du 06/09/2005, diagnostic des sols (Géorisques)",
     "Fiche Géorisques de l'installation, mise à jour le 31/08/2026"
    ],
    "engagements": [],
@@ -11685,6 +11687,16 @@
    "url": "https://www.kalrayinc.com/recognition/odyssai-highly-energy-efficient-modular-edge-computing-servers-for-embedded-ai/",
    "archive": "integral",
    "note": "Page lue par un outil automatique : à relire sur la page avant toute citation plus longue.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S258",
+   "date_source": "2005-09-06",
+   "type": "officiel",
+   "reference": "Préfet du Bas-Rhin, arrêté préfectoral du 06/09/2005 relatif à la société GENERAL MOTORS à Strasbourg (diagnostic de l'état des sols), publié sur Géorisques",
+   "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/document/89fbbbbc91b64a13a76c5d3cc21b4c0a",
+   "archive": "integral",
+   "note": "PDF de 5 pages ; texte obtenu par reconnaissance de caractères, des erreurs sont possibles. Passages cités relus : considérants et articles 1, 3 et 4.",
    "texte_archive": "sources_textes.json"
   }
  ],
