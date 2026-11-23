@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T14:41",
+ "mis_a_jour": "2026-11-23T20:45",
  "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 186,
-  "sources": 239
+  "evenements": 187,
+  "sources": 240
  },
  "evenements": [
   {
@@ -8475,6 +8475,31 @@
    "majeur": false
   },
   {
+   "id": "2026-11-20_vad-qube-research-tech-042",
+   "date": "2026-11-20",
+   "date_affichee": "20 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Positions courtes : Qube Research & Technologies Limited à 0,42 % au 20/11/2026, sous le seuil de publication",
+   "texte": "Selon la déclaration publiée par l'AMF (n° 2026E1151970), Qube Research & Technologies Limited détient une position courte nette de 0,42 % du capital de 2CRSi à la date du 20/11/2026 (publication du 23/11/2026), contre 0,50 % au 19/11/2026. Le seuil de publication étant de 0,5 %, les variations suivantes de cette position ne seront plus publiées tant qu'elle restera en dessous. Déclaration établie sous la responsabilité du déclarant.",
+   "sources": [
+    "S251"
+   ],
+   "sources_libelle": [
+    "Déclaration AMF de position courte nette n° 2026E1151970, publiée le 23/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-19_vad-qube-research-tech-05"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-12-03_eurohpc-depot-lot2",
    "date": "2026-12-03",
    "date_affichee": "3 déc. 2026",
@@ -11527,6 +11552,16 @@
    "url": "https://www.data.gouv.fr/fr/datasets/62738e33f1be79935d3e5553/",
    "archive": "integral",
    "note": "Relevé automatiquement par la veille AMF le 23/11/2026 (fichier « Historique des positions courtes nettes », data.gouv.fr). LEI du déclarant : 549300DCU7KOL83B3B08.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S251",
+   "date_source": "2026-11-23",
+   "type": "registre",
+   "reference": "AMF, déclaration de position courte nette n° 2026E1151970 (BDIF) : Qube Research & Technologies Limited, 2CRSi, 0,42 % au 20/11/2026, publiée le 23/11/2026",
+   "url": "https://bdif.amf-france.org/back/api/v1/documents/2026/2026E1151970/745DA0343FA952BCF9991E65C57C56C45A447F8F7D17DFB3EECCEB17C70267A8.pdf",
+   "archive": "integral",
+   "note": "Ajoutée à la main le 23/11/2026 d'après la déclaration publiée sur la BDIF (transmise par l'utilisateur), avant son entrée dans le fichier data.gouv.",
    "texte_archive": "sources_textes.json"
   }
  ],
