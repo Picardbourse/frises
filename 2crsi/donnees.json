@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T21:53",
+ "mis_a_jour": "2026-11-23T22:11",
  "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 188,
-  "sources": 245
+  "sources": 246
  },
  "evenements": [
   {
@@ -8934,9 +8934,16 @@
   {
    "sujet": "autre",
    "question": "Projets annoncés sans bilan public",
-   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu.",
+   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu. ODYSSAI : une note de bas de page, « Dossier en cours d'instruction à la BPI. », accompagne le projet à l'identique dans quatre rapports de 2CRSi, du rapport annuel 2022-23 (juin 2023) au rapport semestriel au 31/12/2025 (mars 2026), alors que des produits de subvention « Odyssai » sont comptabilisés (42 k€ en 2024-25, 33 k€ en 2025-26). Le rapport annuel 2025-26 ne reprend plus cette note : il décrit un projet en cours, visant « un serveur standard et un serveur durci », avec un consortium de « trois acteurs français » (Thales, Kalray, 2CRSi). Une page de Kalray du 20/04/2026 présente le projet et affiche aussi le logo d'UPMEM. Aucune pièce ne donne sa durée, sa date de fin ni son budget ; aucun produit n'a été annoncé.",
    "attendu": "Une communication de la société, de ses partenaires ou de Bpifrance.",
-   "sources": []
+   "sources": [
+    "S065",
+    "S173",
+    "S178",
+    "S202",
+    "S203",
+    "S257"
+   ]
   },
   {
    "sujet": "autre",
@@ -11668,6 +11675,16 @@
    "url": "https://www.georisques.gouv.fr/api/v1/installations_classees?codeAIOT=0006700463",
    "archive": "integral",
    "note": "Relevé par l'API publique de Géorisques.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S257",
+   "date_source": "2026-04-20",
+   "type": "web",
+   "reference": "Kalray, page « ODYSSAI, Highly energy-efficient modular edge computing servers for embedded AI » (20/04/2026, modifiée le 11/05/2026)",
+   "url": "https://www.kalrayinc.com/recognition/odyssai-highly-energy-efficient-modular-edge-computing-servers-for-embedded-ai/",
+   "archive": "integral",
+   "note": "Page lue par un outil automatique : à relire sur la page avant toute citation plus longue.",
    "texte_archive": "sources_textes.json"
   }
  ],
