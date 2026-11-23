@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T21:06",
- "arrete_au": "2026-11-22",
+ "genere_le": "2026-11-23",
+ "mis_a_jour": "2026-11-23T14:41",
+ "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 185,
-  "sources": 238
+  "evenements": 186,
+  "sources": 239
  },
  "evenements": [
   {
@@ -8436,6 +8436,45 @@
    "majeur": true
   },
   {
+   "id": "2026-11-19_vad-qube-research-tech-05",
+   "date": "2026-11-19",
+   "date_affichee": "19 nov. 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "Positions courtes : Qube Research & Technologies Limited à 0,50 % au 19/11/2026",
+   "texte": "Selon le registre des positions courtes nettes publié par l'AMF (données ouvertes), Qube Research & Technologies Limited détient une position courte nette de 0,50 % du capital de 2CRSi à la date du 19/11/2026 (publication du 20/11/2026), contre 0,23 % au 15/09/2026. Déclaration établie sous la responsabilité du déclarant.",
+   "sources": [
+    "S250"
+   ],
+   "sources_libelle": [
+    "Registre AMF des positions courtes nettes, publication du 20/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-09-16_qube-sous-seuil"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-19",
+      "cloture": 15.87,
+      "volume": 314381,
+      "variation_pct": -2.5,
+      "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-12-03_eurohpc-depot-lot2",
    "date": "2026-12-03",
    "date_affichee": "3 déc. 2026",
@@ -11478,6 +11517,16 @@
    "url": "https://www.ledger.news/news/data-center-debate-intensifies-as-nygc-files-application-with-county-for-14-4-megawatt-ai/article_0f97ccb1-afac-4835-8eff-f11b7c117c75.html",
    "archive": "integral",
    "note": "Texte intégral relevé le 21/11/2026 dans textes/S249.txt. Propos du directeur du Planning du comté (délai de 30 jours, choix entre déclaration négative et EIR) ; déclaration du collectif ADCC. L'article intègre la demande complète (S245). Page à archiver en PDF.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S250",
+   "date_source": "2026-11-20",
+   "type": "registre",
+   "reference": "AMF, registre des positions courtes nettes (données ouvertes) : Qube Research & Technologies Limited, 2CRSi, 0,50 % au 19/11/2026, publiée le 20/11/2026",
+   "url": "https://www.data.gouv.fr/fr/datasets/62738e33f1be79935d3e5553/",
+   "archive": "integral",
+   "note": "Relevé automatiquement par la veille AMF le 23/11/2026 (fichier « Historique des positions courtes nettes », data.gouv.fr). LEI du déclarant : 549300DCU7KOL83B3B08.",
    "texte_archive": "sources_textes.json"
   }
  ],
