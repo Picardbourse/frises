@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T22:34",
+ "mis_a_jour": "2026-11-23T22:56",
  "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 188,
-  "sources": 247
+  "evenements": 189,
+  "sources": 248
  },
  "evenements": [
   {
@@ -461,6 +461,54 @@
       "volume": 151343,
       "variation_pct": 15.1,
       "volume_vs_moy20": 6.5
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2023-07-20_subvention-france-2030-ia-embarquee",
+   "date": "2023-07-20",
+   "date_affichee": "20 juil. 2023",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "France 2030 : 2CRSi annonce une subvention de 1 M€ de Bpifrance pour un système embarqué d'IA (projet collaboratif)",
+   "texte": "2CRSi « annonce l'obtention d'une subvention de 1 M€ auprès de la BPI dans le cadre de l'appel à projet « Maturation technologique et démonstration de solutions d'intelligence artificielle embarquée » de France 2030 ». « Cette subvention d'un montant total de 2,6 M€ s'inscrit dans le cadre d'un projet collaboratif dans lequel 2CRSi a pour vocation de développer un système \"embarqué\" modulaire, destiné à déployer des applications critiques utilisant l'intelligence artificielle en \"Edge Computing\". » Le communiqué ne nomme ni le projet ni les partenaires (« des industriels français de toutes tailles ») et ne donne ni durée ni échéance. Le rapport annuel 2025-26 rattache au même appel à projets le projet ODYSSAI (Thales, Kalray, 2CRSi). Les rapports de 2CRSi publiés de juin 2023 à mars 2026 portent, à propos d'ODYSSAI, la note « Dossier en cours d'instruction à la BPI. » ; les produits de subvention « Odyssai » comptabilisés sont de 42 k€ en 2024-25 et de 33 k€ en 2025-26.",
+   "sources": [
+    "S259",
+    "S173",
+    "S202",
+    "S065"
+   ],
+   "sources_libelle": [
+    "CP du 20/07/2023",
+    "Rapport financier annuel 2025-26 (projets collaboratifs ; note sur les subventions)",
+    "Rapport financier annuel 2022-23 (note sur ODYSSAI)",
+    "Rapport financier semestriel au 31/12/2025 (note sur ODYSSAI)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2023-07-20",
+      "cloture": 1.75,
+      "volume": 59213,
+      "variation_pct": -2.5,
+      "volume_vs_moy20": 2.0
+     },
+     {
+      "role": "suivante",
+      "date": "2023-07-21",
+      "cloture": 1.825,
+      "volume": 47017,
+      "variation_pct": 4.3,
+      "volume_vs_moy20": 1.5
      }
     ]
    },
@@ -8935,7 +8983,7 @@
   {
    "sujet": "autre",
    "question": "Projets annoncés sans bilan public",
-   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu. ODYSSAI : une note de bas de page, « Dossier en cours d'instruction à la BPI. », accompagne le projet à l'identique dans quatre rapports de 2CRSi, du rapport annuel 2022-23 (juin 2023) au rapport semestriel au 31/12/2025 (mars 2026), alors que des produits de subvention « Odyssai » sont comptabilisés (42 k€ en 2024-25, 33 k€ en 2025-26). Le rapport annuel 2025-26 ne reprend plus cette note : il décrit un projet en cours, visant « un serveur standard et un serveur durci », avec un consortium de « trois acteurs français » (Thales, Kalray, 2CRSi). Une page de Kalray du 20/04/2026 présente le projet et affiche aussi le logo d'UPMEM. Aucune pièce ne donne sa durée, sa date de fin ni son budget ; aucun produit n'a été annoncé.",
+   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu. ODYSSAI : le 20/07/2023, 2CRSi annonce une subvention de 1 M€ (2,6 M€ pour le projet collaboratif) ; une note de bas de page, « Dossier en cours d'instruction à la BPI. », accompagne le projet à l'identique dans quatre rapports de 2CRSi, du rapport annuel 2022-23 (juin 2023) au rapport semestriel au 31/12/2025 (mars 2026), alors que des produits de subvention « Odyssai » sont comptabilisés (42 k€ en 2024-25, 33 k€ en 2025-26). Le rapport annuel 2025-26 ne reprend plus cette note : il décrit un projet en cours, visant « un serveur standard et un serveur durci », avec un consortium de « trois acteurs français » (Thales, Kalray, 2CRSi). Une page de Kalray du 20/04/2026 présente le projet et affiche aussi le logo d'UPMEM. Aucune pièce ne donne sa durée, sa date de fin ni son budget ; aucun produit n'a été annoncé.",
    "attendu": "Une communication de la société, de ses partenaires ou de Bpifrance.",
    "sources": [
     "S065",
@@ -8943,7 +8991,8 @@
     "S178",
     "S202",
     "S203",
-    "S257"
+    "S257",
+    "S259"
    ]
   },
   {
@@ -11696,6 +11745,16 @@
    "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/document/89fbbbbc91b64a13a76c5d3cc21b4c0a",
    "archive": "integral",
    "note": "PDF de 5 pages ; texte obtenu par reconnaissance de caractères, des erreurs sont possibles. Passages cités relus : considérants et articles 1, 3 et 4.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S259",
+   "date_source": "2023-07-20",
+   "type": "CP",
+   "reference": "CP 2CRSi du 20/07/2023 : « 2CRSi obtient une subvention de 1 M€ dans le cadre du plan « France 2030 » »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/07/FCEQS004897_20230720.pdf",
+   "archive": "integral",
+   "note": "Version française diffusée par le canal réglementé (archive DILA). Version anglaise : FCEQS004896_20230720.pdf. PDF archivé.",
    "texte_archive": "sources_textes.json"
   }
  ],
