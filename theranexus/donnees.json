@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-22",
- "mis_a_jour": "2026-11-22T17:17",
- "arrete_au": "2026-11-22",
+ "genere_le": "2026-11-23",
+ "mis_a_jour": "2026-11-23T10:24",
+ "arrete_au": "2026-11-23",
  "version_provisoire": false,
  "config": {
   "code": "theranexus",
@@ -73,8 +73,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 176,
-  "sources": 194
+  "evenements": 179,
+  "sources": 197
  },
  "evenements": [
   {
@@ -3236,6 +3236,41 @@
    "majeur": false
   },
   {
+   "id": "2020-12-25_revue-tfeb-theranexus-bbdf",
+   "date": "2020-12-25",
+   "date_affichee": "25 déc. 2020",
+   "sujets": [
+    "batten",
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Revue scientifique sur TFEB et l'autophagie cosignée par Theranexus et la BBDF (Fundamental & Clinical Pharmacology)",
+   "texte": "« Evaluating and modulating TFEB in the control of autophagy: toward new treatments in CNS disorders » : article reçu le 15/09/2020, accepté le 27/11/2020, mis en ligne le 25/12/2020 et paru dans le volume de juin 2021 (35(3), p. 539-551 ; DOI 10.1111/fcp.12634). Cinq auteurs : Anaelle da Costa, Thibaud Metais, Franck Mouthon et Mathieu Charvériat (Theranexus, Lyon), Danielle Kerkovich (Beyond Batten Disease Foundation, Austin). Le résumé conclut que l'activation pharmacologique de TFEB « could clear toxic proteins to treat both rare and common forms of neurodegenerative disease ». Seuls la notice et le résumé ont été lus.",
+   "sources": [
+    "S195"
+   ],
+   "sources_libelle": [
+    "Fundamental & Clinical Pharmacology 2021;35(3):539-551 (notice PubMed)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2020-12-28",
+      "cloture": 20.5,
+      "volume": 171005,
+      "variation_pct": 7.6,
+      "volume_vs_moy20": 2.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2020-12-31_actionnariat-fin-2020",
    "date": "2020-12-31",
    "date_affichee": "31 déc. 2020",
@@ -4264,6 +4299,60 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2022-05-17_registre-miglustat-seul",
+   "date": "2022-05-17",
+   "date_affichee": "17 mai 2022",
+   "sujets": [
+    "batten",
+    "regl"
+   ],
+   "statut": "doc",
+   "titre": "Registre : la fiche de l'essai NCT05174039 passe de la combinaison tréhalose + miglustat au miglustat seul",
+   "texte": "Les versions de la fiche soumises le 13/12/2021 et le 02/02/2022 ont pour titre « An Open-label Safety, Pharmacokinetic, and Efficacy Study of the Combination of Trehalose and Miglustat for the Treatment of CLN3 Disease in Patients 17 Years of Age and Older » et décrivent un bras associant une perfusion hebdomadaire de tréhalose (jusqu'à 0,75 g/kg) au miglustat oral quotidien (jusqu'à 200 mg trois fois par jour). La version soumise le 17/05/2022 ne mentionne plus le tréhalose : bras « Oral miglustat », seule intervention « Miglustat 100Mg Oral Capsule ». Le communiqué du 25/04/2022 avait annoncé le passage au miglustat en monothérapie. Les versions du 02/02 et du 17/05/2022 indiquent un début effectif de l'étude au 18/01/2022 ; la fiche finale indique le 10/03/2022.",
+   "sources": [
+    "S197",
+    "S088"
+   ],
+   "sources_libelle": [
+    "ClinicalTrials.gov, historique de la fiche NCT05174039",
+    "CP Theranexus du 25/04/2022"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "confirme",
+     "cible": "2022-04-25_recentrage-maladies-rares"
+    },
+    {
+     "type": "precise",
+     "cible": "2022-03-10_debut-essai-batten-1-01"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2022-05-17",
+      "cloture": 1.67,
+      "volume": 31803,
+      "variation_pct": 7.9,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2022-05-18",
+      "cloture": 1.678,
+      "volume": 6909,
+      "variation_pct": 0.5,
+      "volume_vs_moy20": 0.2
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2022-07-12_tresorerie-juin-2022",
@@ -7360,6 +7449,49 @@
    "majeur": true
   },
   {
+   "id": "2026-03-10_recommandations-cln3",
+   "date": "2026-03-10",
+   "date_affichee": "10 mars 2026",
+   "sujets": [
+    "batten",
+    "regl"
+   ],
+   "statut": "doc",
+   "titre": "Premières recommandations internationales de diagnostic et de prise en charge de la maladie CLN3 (Orphanet Journal of Rare Diseases)",
+   "texte": "Consensus Delphi de 39 experts internationaux de huit spécialités, dont un représentant des patients : 53 recommandations en onze domaines (diagnostic, prise en charge, vision, épilepsie, nutrition, fin de vie…). Article reçu le 22/04/2025, accepté le 02/03/2026 ; premier auteur Jonathan W. Mink, dernier auteur Angela Schulz ; une co-autrice est rattachée à la Beyond Batten Disease Foundation. Soutiens déclarés : Care Beyond Diagnosis, Amicus Therapeutics, Beyond Batten Disease Foundation. Sur les essais, le texte indique seulement que, si des thérapies deviennent disponibles, « longitudinal natural history data may serve as an effective comparator measurement of efficacy ». Il ne contient ni le mot « miglustat » ni le mot « placebo ».",
+   "sources": [
+    "S196"
+   ],
+   "sources_libelle": [
+    "Orphanet Journal of Rare Diseases du 10/03/2026"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-03-10",
+      "cloture": 3.38,
+      "volume": 132552,
+      "variation_pct": 5.0,
+      "volume_vs_moy20": 0.3
+     },
+     {
+      "role": "suivante",
+      "date": "2026-03-11",
+      "cloture": 3.25,
+      "volume": 82956,
+      "variation_pct": -3.8,
+      "volume_vs_moy20": 0.2
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-03-26_declarations-dirigeants",
    "date": "2026-03-26",
    "date_affichee": "mars 2026",
@@ -7889,16 +8021,20 @@
    ],
    "statut": "doc",
    "titre": "Phase 3 Batten-1-02 déposée (FDA, MHRA, 6 pays UE) : environ 27 enfants, en ouvert, 52 semaines, financée par Biocodex",
-   "texte": "Étude multicentrique à bras unique (10 centres aux États-Unis et en Europe), enfants de 4 à 17 ans, critère principal acuité visuelle comparée à l'histoire naturelle (NIH, UKE Hambourg). Recrutement attendu d'ici fin 2026 sous réserve des autorisations. La fiche NCT07882290 du registre ClinicalTrials.gov (soumise le 21/07/2026, publiée le 20/10/2026) indique la BBDF comme promoteur et Theranexus comme collaborateur, 27 patients, un début estimé en décembre 2026 et une fin de collecte du critère principal estimée en juin 2028 ; statut « Not yet recruiting ». Ce design diffère de celui annoncé en mai-juin 2023 après les avis FDA et EMA (environ 60 patients, double aveugle contre placebo, 2 ans) ; les CP de 2026 ne commentent pas ce changement. Le document d'enregistrement universel 2025, déposé le 29/04/2026, décrit encore une « étude multicentrique randomisée en double-aveugle » contre placebo, portant sur « environ 76 patients CLN3 âgés de 4 à 16 ans » et « deux ans de traitement » (§ 5.2.3). La fiche du registre porte l'identifiant CTIS 2023-510533-29-00 ; la fiche européenne a été publiée le 20/11/2026 (voir l'événement des 16-19 novembre 2026).",
+   "texte": "Étude multicentrique à bras unique (10 centres aux États-Unis et en Europe), enfants de 4 à 17 ans, critère principal acuité visuelle comparée à l'histoire naturelle (NIH, UKE Hambourg). Recrutement attendu d'ici fin 2026 sous réserve des autorisations. La fiche NCT07882290 du registre ClinicalTrials.gov (soumise le 21/07/2026, publiée le 20/10/2026) indique la BBDF comme promoteur et Theranexus comme collaborateur, 27 patients, un début estimé en décembre 2026 et une fin de collecte du critère principal estimée en juin 2028 ; statut « Not yet recruiting ». Ce design diffère de celui annoncé en mai-juin 2023 après les avis FDA et EMA (environ 60 patients, double aveugle contre placebo, 2 ans) ; les CP de 2026 ne commentent pas ce changement. Le plan annoncé le 12/12/2019 prévoyait déjà une comparaison à l'histoire naturelle (6 adolescents ou adultes puis 30 enfants suivis 2 ans) ; le bras placebo apparaît dans le communiqué du 25/04/2022. Le document d'enregistrement universel 2025, déposé le 29/04/2026, décrit encore une « étude multicentrique randomisée en double-aveugle » contre placebo, portant sur « environ 76 patients CLN3 âgés de 4 à 16 ans » et « deux ans de traitement » (§ 5.2.3). La fiche du registre porte l'identifiant CTIS 2023-510533-29-00 ; la fiche européenne a été publiée le 20/11/2026 (voir l'événement des 16-19 novembre 2026).",
    "sources": [
     "S164",
     "S172",
-    "S157"
+    "S157",
+    "S045",
+    "S088"
    ],
    "sources_libelle": [
     "CP THX Pharma du 01/09/2026",
     "Registre ClinicalTrials.gov, fiche NCT07882290 (publiée le 20/10/2026)",
-    "DEU 2025 (29/04/2026)"
+    "DEU 2025 (29/04/2026)",
+    "CP Theranexus du 12/12/2019",
+    "CP Theranexus du 25/04/2022"
    ],
    "engagements": [
     {
@@ -10635,6 +10771,36 @@
    "url": "https://bdif.amf-france.org/back/api/v1/documents/2020/D.20-0414/B34699A6D45C2A772D97765742703923BABD18DB0EF13E2A43A9513EDC1E11A1.pdf",
    "archive": "integral",
    "note": "Lu le 22/11/2026 dans la base BDIF de l'AMF par le navigateur du PC. PDF archivé sans ses images : textes/pdf/AMF_2020-04-30_DEU-2019_D20-0414_sans-images.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S195",
+   "date_source": "2020-12-25",
+   "type": "autre",
+   "reference": "Fundamental & Clinical Pharmacology 2021;35(3):539-551 (en ligne le 25/12/2020) : revue sur TFEB et l'autophagie, Theranexus et BBDF",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33259088/",
+   "archive": "integral",
+   "note": "Notice et résumé PubMed (PMID 33259088) relevés le 23/11/2026 ; article lui-même (Wiley, DOI 10.1111/fcp.12634) non ouvert.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S196",
+   "date_source": "2026-03-10",
+   "type": "autre",
+   "reference": "Orphanet Journal of Rare Diseases 21, 155 du 10/03/2026 : recommandations internationales pour le diagnostic et la prise en charge de la maladie CLN3 (méthode Delphi)",
+   "url": "https://link.springer.com/article/10.1186/s13023-026-04298-2",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S197",
+   "date_source": "2022-05-17",
+   "type": "registre",
+   "reference": "ClinicalTrials.gov, historique des versions de la fiche NCT05174039 (versions du 13/12/2021, du 02/02/2022 et du 17/05/2022)",
+   "url": "https://clinicaltrials.gov/study/NCT05174039?tab=history",
+   "archive": "integral",
+   "note": "Historique lu le 23/11/2026 depuis le navigateur du PC (l'action GitHub reçoit une erreur 403). Seules les versions 0 à 2 sont archivées.",
    "texte_archive": "sources_textes.json"
   }
  ],
