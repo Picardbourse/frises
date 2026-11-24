@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T23:36",
- "arrete_au": "2026-11-23",
+ "genere_le": "2026-11-24",
+ "mis_a_jour": "2026-11-24T10:26",
+ "arrete_au": "2026-11-24",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 190,
-  "sources": 249
+  "sources": 251
  },
  "evenements": [
   {
@@ -6270,14 +6270,16 @@
    ],
    "statut": "doc",
    "titre": "FR-SXB2 : promesse de vente signée pour le site Dumarey Powerglide (Port du Rhin)",
-   "texte": "Selon le CP du 12/10/2026, Aether Infrastructures a signé le 09/10 une promesse de vente portant sur le site industriel Dumarey Powerglide (ex-Punch Powerglide et General Motors), au Port du Rhin à Strasbourg : c'est le site FR-SXB2. Environ 90 hectares et 110 000 m² de bâtiments ; le site « ambitionne de devenir, à terme, le plus grand site industriel d'Europe dédié aux infrastructures d'intelligence artificielle ». Un bail conclu en parallèle permet d'occuper « dès le 15 octobre » les zones déjà disponibles. La réalisation de la vente « reste soumise aux conditions d'usage, dont l'agrément du Port Autonome de Strasbourg ». Les textes organiques du Port autonome prévoient que son domaine privé « ne pourra être affecté, toutefois, soit par voie de location, soit par voie d'aliénation, qu'à des établissements commerciaux ou industriels utilisant habituellement la navigation fluviale pour la réception ou pour l'expédition des marchandises faisant l'objet de leur trafic ou de leur fabrication » (loi du 26 avril 1924, art. 9 ; convention annexée, art. 32), le conseil d'administration statuant « définitivement » sur les « locations et aliénations de terrains » (convention, art. 10). Aucune pièce ne précise si le site relève du domaine privé du Port ni comment ce critère serait appliqué au projet. Organisation en trois pôles (Aether Utilities pour l'énergie, Aether Facilities pour le campus, Aether Compute pour l'AI Factory). Énergie : 25 MW fournis par Strasbourg Électricité Réseaux ; stockage et sécurisation étudiés avec SOCOMEC ; une unité de thermolyse de biomasse avec cogénération de froid étudiée avec Haffner Energy. 2CRSi, « fournisseur pressenti des serveurs du site », « estime que le déploiement des premières capacités de calcul de l'AI Factory sur l'exercice 2026-2027 représente pour le groupe un potentiel de chiffre d'affaires supérieur à un milliard d'euros », sous réserve : « un retard dans l'obtention des permis ou dans la disponibilité des composants pourrait reporter tout ou partie des livraisons au-delà de la clôture de l'exercice » (fin juin 2027). Le groupe souhaite aussi y relocaliser l'intégration des serveurs Godì, puis la production de cartes mères. Partenaires cités en plus de Nhood et Projex : ÉS, Valeo, Demathieu Bard, Equans, Axelera AI, VSORA, SiPearl, Nvidia, AMD, Viridien, Dassault Systèmes, Outscale, Superphenix, Clever Cloud (le CP parle de « partenaires qui viennent compléter cet écosystème », sans préciser lesquels sont membres du consortium).",
+   "texte": "Selon le CP du 12/10/2026, Aether Infrastructures a signé le 09/10 une promesse de vente portant sur le site industriel Dumarey Powerglide (ex-Punch Powerglide et General Motors), au Port du Rhin à Strasbourg : c'est le site FR-SXB2. Environ 90 hectares et 110 000 m² de bâtiments ; le site « ambitionne de devenir, à terme, le plus grand site industriel d'Europe dédié aux infrastructures d'intelligence artificielle ». Un bail conclu en parallèle permet d'occuper « dès le 15 octobre » les zones déjà disponibles. La réalisation de la vente « reste soumise aux conditions d'usage, dont l'agrément du Port Autonome de Strasbourg ». Les textes organiques du Port autonome prévoient que son domaine privé « ne pourra être affecté, toutefois, soit par voie de location, soit par voie d'aliénation, qu'à des établissements commerciaux ou industriels utilisant habituellement la navigation fluviale pour la réception ou pour l'expédition des marchandises faisant l'objet de leur trafic ou de leur fabrication » (loi du 26 avril 1924, art. 9 ; convention annexée, art. 32), le conseil d'administration statuant « définitivement » sur les « locations et aliénations de terrains » (convention, art. 10). Le règlement intérieur du conseil d'administration du Port (version du 11/12/2023) délègue par ailleurs au directeur général l'« agrément, dans le cadre des restrictions au droit de disposer inscrites au Livre foncier ou résultant d'actes de cession signés, des acquéreurs de tout ou partie des parcelles appartenant à des tiers ainsi grevées, et définition des conditions de cet agrément » (annexe II, point 4.6). Aucune pièce ne précise si le site relève du domaine privé du Port ou de parcelles de tiers grevées d'une telle restriction, ni quelles conditions s'appliqueraient au projet. Organisation en trois pôles (Aether Utilities pour l'énergie, Aether Facilities pour le campus, Aether Compute pour l'AI Factory). Énergie : 25 MW fournis par Strasbourg Électricité Réseaux ; stockage et sécurisation étudiés avec SOCOMEC ; une unité de thermolyse de biomasse avec cogénération de froid étudiée avec Haffner Energy. 2CRSi, « fournisseur pressenti des serveurs du site », « estime que le déploiement des premières capacités de calcul de l'AI Factory sur l'exercice 2026-2027 représente pour le groupe un potentiel de chiffre d'affaires supérieur à un milliard d'euros », sous réserve : « un retard dans l'obtention des permis ou dans la disponibilité des composants pourrait reporter tout ou partie des livraisons au-delà de la clôture de l'exercice » (fin juin 2027). Le groupe souhaite aussi y relocaliser l'intégration des serveurs Godì, puis la production de cartes mères. Partenaires cités en plus de Nhood et Projex : ÉS, Valeo, Demathieu Bard, Equans, Axelera AI, VSORA, SiPearl, Nvidia, AMD, Viridien, Dassault Systèmes, Outscale, Superphenix, Clever Cloud (le CP parle de « partenaires qui viennent compléter cet écosystème », sans préciser lesquels sont membres du consortium).",
    "sources": [
     "S113",
-    "S219"
+    "S219",
+    "S261"
    ],
    "sources_libelle": [
     "CP 2CRSi du 12/10/2026",
-    "Textes organiques du Port autonome de Strasbourg (version au 01/10/2012)"
+    "Textes organiques du Port autonome de Strasbourg (version au 01/10/2012)",
+    "Règlement intérieur du conseil d'administration du Port autonome de Strasbourg (11/12/2023)"
    ],
    "engagements": [
     {
@@ -8499,15 +8501,17 @@
    ],
    "statut": "doc",
    "titre": "NYGC dépose au comté d'Amador la demande de permis du data center de Buena Vista : 14,4 MW, en une seule phase",
-   "texte": "NewYork GreenCloud, LLC dépose le 19/11/2026 auprès du Planning Department du comté d'Amador une demande de permis d'usage conditionnel pour le « Buena Vista Data Center » (référence UP-26;11-2 ; lettre de son dirigeant datée du 18/11). Le dossier décrit « a 14.4 MW data center with supporting facilities to be powered by the existing 18.5 MW Buena Vista Biomass Power facility » : deux salles formées de quatre bâtiments modulaires préfabriqués (12 994 pieds carrés), un stockage par batteries de 10 MW / 20 MWh et trois turbines à gaz de 6 MW en secours ; l'électricité excédentaire serait vendue au réseau californien. Il indique : « Construction is anticipated to take approximately 8 months » et « The Project would not be developed in phases ». Le terrain appartient à Oneto Group, Inc., qui a donné son accord par lettre du 29/10/2026 ; NYGC y dispose d'environ 30 acres « under lease ». Le dossier ne mentionne ni 2CRSi, ni les serveurs, ni un client. NYGC présentait jusque-là un data center de 16 MW (séance du 22/09, site de NYGC). Le Ledger Dispatch publie le dossier complet le 20/11. Selon le directeur du Planning, le comté « has 30 days to determine if the application is complete » ; un dossier complet doit permettre de déterminer le niveau d'étude environnementale, « Negative Declaration or EIR ». Aucune date de décision n'est fixée. Le moratoire demandé par des habitants n'a pas été inscrit à l'ordre du jour du Board of Supervisors.",
+   "texte": "NewYork GreenCloud, LLC dépose le 19/11/2026 auprès du Planning Department du comté d'Amador une demande de permis d'usage conditionnel pour le « Buena Vista Data Center » (référence UP-26;11-2 ; lettre de son dirigeant datée du 18/11). Le dossier décrit « a 14.4 MW data center with supporting facilities to be powered by the existing 18.5 MW Buena Vista Biomass Power facility » : deux salles formées de quatre bâtiments modulaires préfabriqués (12 994 pieds carrés), un stockage par batteries de 10 MW / 20 MWh et trois turbines à gaz de 6 MW en secours ; l'électricité excédentaire serait vendue au réseau californien. Il indique : « Construction is anticipated to take approximately 8 months » et « The Project would not be developed in phases ». Le terrain appartient à Oneto Group, Inc., qui a donné son accord par lettre du 29/10/2026 ; NYGC y dispose d'environ 30 acres « under lease ». Le dossier ne mentionne ni 2CRSi, ni les serveurs, ni un client. NYGC présentait jusque-là un data center de 16 MW (séance du 22/09, site de NYGC). Le Ledger Dispatch publie le dossier complet le 20/11. Le comté consacre au projet une page de sa rubrique « Current Projects », qui ne contient au 24/11/2026 qu'un document, « Application Received 11/19/26 ». Selon le directeur du Planning, le comté « has 30 days to determine if the application is complete » ; un dossier complet doit permettre de déterminer le niveau d'étude environnementale, « Negative Declaration or EIR ». Aucune date de décision n'est fixée. Le moratoire demandé par des habitants n'a pas été inscrit à l'ordre du jour du Board of Supervisors.",
    "sources": [
     "S245",
+    "S262",
     "S249",
     "S225",
     "S112"
    ],
    "sources_libelle": [
     "Demande de permis UP-26;11-2, comté d'Amador (18-19/11/2026)",
+    "Page du projet sur le site du comté d'Amador (relevé du 24/11/2026)",
     "Ledger Dispatch, 20/11/2026",
     "Séance du Board of Supervisors du 22/09/2026",
     "Site de NYGC, capture du 11/10/2026"
@@ -11811,6 +11815,26 @@
    "url": "https://www.globenewswire.com/news-release/2026/11/12/3401546/0/en/airsys-moves-into-heat-reuse-as-thermai-turns-gpu-servers-into-home-heating.html",
    "archive": "integral",
    "note": "Extraits seulement (communiqué d'un tiers, en anglais) ; texte lu en entier sur la page le 23/11/2026. Piste signalée par un message du forum.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S261",
+   "date_source": "2023-12-11",
+   "type": "officiel",
+   "reference": "Port autonome de Strasbourg, règlement intérieur du conseil d'administration, version du 11/12/2023 (annexe II, point 4.6, p. 24/37)",
+   "url": "https://www.strasbourg.port.fr/wp-content/uploads/2018/07/20231211_RI-CA-VDEF.pdf",
+   "archive": "integral",
+   "note": "Pièce trouvée par la tâche planifiée du 24/11/2026 ; point 4.6 relu sur l'image de la page 24. PDF archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S262",
+   "date_source": "2026-11-19",
+   "type": "officiel",
+   "reference": "Comté d'Amador, Planning Department : page du projet « NewYork GreenCloud, LLC - Buena Vista Data Center Project », réf. UP-26;11-2 (relevé du 24/11/2026)",
+   "url": "https://www.amadorcounty.gov/departments/planning/current-projects/newyork-greencloud-llc-buena-vista-data-center-project",
+   "archive": "integral",
+   "note": "Page lue dans le navigateur le 24/11/2026 ; le PDF en lien n'a pas été téléchargé (le dossier complet est archivé sous S245, d'après la copie publiée par le Ledger Dispatch). Date de source = date de réception affichée.",
    "texte_archive": "sources_textes.json"
   }
  ],
