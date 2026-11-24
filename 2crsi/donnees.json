@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-24",
- "mis_a_jour": "2026-11-24T10:33",
+ "mis_a_jour": "2026-11-24T18:18",
  "arrete_au": "2026-11-24",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 190,
-  "sources": 252
+  "evenements": 191,
+  "sources": 254
  },
  "evenements": [
   {
@@ -8657,6 +8657,33 @@
    "majeur": false
   },
   {
+   "id": "2026-11-24_aether-serie-partenaires",
+   "date": "2026-11-24",
+   "date_affichee": "24 nov. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "doc",
+   "titre": "Æther Infrastructures présente Agora Calycé comme partenaire du consortium ; une semaine plus tôt, le rôle de Nhood sur FR-SXB2",
+   "texte": "La page LinkedIn d'Æther Infrastructures publie une série hebdomadaire, « Une semaine, un partenaire ». Le n° 2 (24/11) présente Agora Calycé, « connectivité, cloud et exploitation, partenaire du consortium ÆTHER », « hébergeur et opérateur français de cloud souverain, né à Strasbourg en 2013 au sein du groupe Socomec » : « Sur FR-SXB2, Agora Calycé connecte et opère : réseau du campus, interconnexion à l'écosystème strasbourgeois, exploitation et continuité de service. » Le post cite Thierry Stiegler, directeur général délégué. Agora Calycé ne figurait pas parmi les douze membres annoncés le 08/07/2026 ; Socomec en fait partie. Le n° 1, affiché « 1 sem » le 24/11 (soit vers le 17/11), porte sur Nhood, « partenaire engagé dans la transformation du site industriel FR-SXB2 à Strasbourg », qui apporte « son savoir-faire en régénération urbaine et transformation immobilière : procédures d'urbanisme et d'autorisation, adaptation des bâtiments existants, aménagement du futur campus industriel et intégration dans son environnement » ; il cite Marco Balducci, CEO de Nhood. Aucun des deux posts ne mentionne de contrat, de montant ni de calendrier.",
+   "sources": [
+    "S265",
+    "S264"
+   ],
+   "sources_libelle": [
+    "Post LinkedIn d'Æther Infrastructures, n° 2 (Agora Calycé), 24/11/2026",
+    "Post LinkedIn d'Æther Infrastructures, n° 1 (Nhood), vers le 17/11/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-07-08_aether-12-membres"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-12-03_eurohpc-depot-lot2",
    "date": "2026-12-03",
    "date_affichee": "3 déc. 2026",
@@ -11848,6 +11875,26 @@
    "url": "https://www.bpifrance.fr/sites/default/files/inline-files/Recueil%20AAP%20France%202030%20Bpifrance.pdf",
    "archive": "integral",
    "note": "Date = date du fichier en ligne (Last-Modified 29/02/2024), le recueil lui-même n'est pas daté à la page lue. La fiche ne donne pas la date de début du projet ni la part de chaque partenaire. Contact presse omis de l'archive. Piste signalée sur le forum, vérifiée sur pièce le 24/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S264",
+   "date_source": "2026-11-17",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'Æther Infrastructures, « Une semaine, un partenaire #1 » : Nhood",
+   "url": "https://lnkd.in/p/e8gcha2R",
+   "archive": "integral",
+   "note": "Date déduite : post affiché « 1 sem • Modifié » le 24/11, série « chaque mardi ». Texte collé par l'utilisateur. Les sept personnes remerciées ne sont pas reproduites ; Helexia France est citée dans les remerciements, sans rôle indiqué.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S265",
+   "date_source": "2026-11-24",
+   "type": "linkedin",
+   "reference": "Post LinkedIn d'Æther Infrastructures, « Une semaine, un partenaire #2 » : Agora Calycé",
+   "url": "https://lnkd.in/p/eZi_-Eay",
+   "archive": "integral",
+   "note": "Texte collé par l'utilisateur (post affiché « 2 h » à 17 h 23). Agora Calycé n'apparaît dans aucune pièce antérieure du corpus. Aucun contrat ni montant.",
    "texte_archive": "sources_textes.json"
   }
  ],
