@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-24",
- "mis_a_jour": "2026-11-24T20:27",
+ "mis_a_jour": "2026-11-24T21:42",
  "arrete_au": "2026-11-24",
  "version_provisoire": false,
  "config": {
@@ -74,7 +74,7 @@
  },
  "nb": {
   "evenements": 180,
-  "sources": 202
+  "sources": 205
  },
  "evenements": [
   {
@@ -8556,7 +8556,7 @@
   {
    "sujet": "batten",
    "question": "Les agences (FDA, EMA) acceptent-elles la phase 3 à bras unique de Batten-1 comme essai d'enregistrement ?",
-   "etat": "Mai-juin 2023 : accords FDA et EMA annoncés sur une étude randomisée en double aveugle contre placebo d'environ 60 enfants de 4 à 16 ans sur 2 ans, plus une cohorte ouverte de 9 patients. Juillet 2024 : étude « optimisée » après les données à 18 mois. Septembre 2025 : « phase 3 européenne ouverte (~20 patients, 12 mois) ». 01/09/2026 : dépôts d'une étude à bras unique d'environ 27 enfants de 4 à 17 ans sur 52 semaines, comparée à l'histoire naturelle. Le DEU 2025 (29/04/2026) décrit encore une étude randomisée en double aveugle contre placebo d'« environ 76 patients » sur deux ans. La fiche primaire du registre (publiée le 20/10/2026) confirme l'étude à bras unique de 27 patients. Le protocole public (version 1.1 du 19/10/2026) explique le choix : un essai contre placebo « appeared unrealistic », notamment à cause de l'accès au miglustat hors autorisation aux États-Unis et de sa prise en charge dans trois pays nordiques. L'essai est autorisé dans six pays de l'UE (16-19/11/2026). Une autorisation d'essai ne vaut pas accord sur sa recevabilité pour une demande de mise sur le marché ; la fiche européenne mentionne un avis scientifique de l'EMA dont le contenu n'est pas public, et aucune pièce ne donne la position de la FDA.",
+   "etat": "Mai-juin 2023 : accords FDA et EMA annoncés sur une étude randomisée en double aveugle contre placebo d'environ 60 enfants de 4 à 16 ans sur 2 ans, plus une cohorte ouverte de 9 patients. Juillet 2024 : étude « optimisée » après les données à 18 mois. Septembre 2025 : « phase 3 européenne ouverte (~20 patients, 12 mois) ». 01/09/2026 : dépôts d'une étude à bras unique d'environ 27 enfants de 4 à 17 ans sur 52 semaines, comparée à l'histoire naturelle. Le DEU 2025 (29/04/2026) décrit encore une étude randomisée en double aveugle contre placebo d'« environ 76 patients » sur deux ans. La fiche primaire du registre (publiée le 20/10/2026) confirme l'étude à bras unique de 27 patients. Le protocole public (version 1.1 du 19/10/2026) explique le choix : un essai contre placebo « appeared unrealistic », notamment à cause de l'accès au miglustat hors autorisation aux États-Unis et de sa prise en charge dans trois pays nordiques. L'essai est autorisé dans six pays de l'UE (16-19/11/2026). Une autorisation d'essai ne vaut pas accord sur sa recevabilité pour une demande de mise sur le marché ; la fiche européenne mentionne un avis scientifique de l'EMA dont le contenu n'est pas public, et aucune pièce ne donne la position de la FDA. Le calcul d'effectif du protocole (section 8.10) repose sur une cohorte rétrospective non publiée de 25 enfants non traités et 13 traités et suppose un écart de 0,30 logMAR à 12 mois ; il conclut à 27 sujets par groupe pour 80 % de puissance, portés à 30 après une majoration de 10 %, alors que l'essai prévoit environ 27 enfants. Précédent dans une autre forme de la maladie : en avril 2017, l'EMA a recommandé l'autorisation de Brineura (CLN2) sur un essai à bras unique de 24 enfants comparé à l'histoire naturelle, « under exceptional circumstances » et avec des obligations après autorisation.",
    "attendu": "Autorisations FDA et MHRA ; compte rendu d'une interaction avec la FDA ou l'EMA sur le nouveau design ; communiqué de la société.",
    "sources": [
     "S102",
@@ -8568,7 +8568,8 @@
     "S172",
     "S157",
     "S176",
-    "S177"
+    "S177",
+    "S203"
    ]
   },
   {
@@ -8679,12 +8680,14 @@
   {
    "sujet": "tx01",
    "question": "Comment TX01 serait-il enregistré aux États-Unis dans la maladie de Niemann-Pick C, où le miglustat n'a pas cette indication ?",
-   "etat": "10/02/2026 : Biocodex reçoit la licence de TX01 pour les États-Unis et le Canada, dans la maladie de Gaucher de type 1 et la maladie de Niemann-Pick C. La notice américaine du miglustat en gélules ne porte que sur l'adulte atteint de la maladie de Gaucher de type 1. En Europe, la voie retenue (PUMA) s'appuie sur une indication pédiatrique déjà existante de la gélule. Aucune pièce ne décrit le dossier ni le calendrier américains de TX01.",
+   "etat": "10/02/2026 : Biocodex reçoit la licence de TX01 pour les États-Unis et le Canada, dans la maladie de Gaucher de type 1 et la maladie de Niemann-Pick C. La notice américaine du miglustat en gélules ne porte que sur l'adulte atteint de la maladie de Gaucher de type 1. En mars 2010, la FDA a adressé à Actelion une lettre de réponse complète pour l'extension de Zavesca à la maladie de Niemann-Pick C, en demandant des données précliniques et cliniques supplémentaires ; la presse spécialisée rapporte un comité consultatif favorable mais partagé sur le niveau de preuve. En Europe, la voie retenue (PUMA) s'appuie sur une indication pédiatrique déjà existante de la gélule. Aucune pièce ne décrit le dossier ni le calendrier américains de TX01.",
    "attendu": "Voie réglementaire et calendrier américains de TX01 ; jalons de l'accord Biocodex liés à TX01.",
    "sources": [
     "S152",
     "S202",
-    "S158"
+    "S158",
+    "S204",
+    "S205"
    ]
   }
  ],
@@ -10938,6 +10941,36 @@
    "type": "officiel",
    "reference": "DailyMed (NIH), notice américaine des gélules de miglustat génériques, révision de juin 2025",
    "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d746749d-de15-4225-b806-59b0765d25ae",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S203",
+   "date_source": "2017-04-21",
+   "type": "officiel",
+   "reference": "EMA, communiqué du 21/04/2017 : avis favorable à l'autorisation de Brineura (cerliponase alfa) dans la maladie CLN2 (EMA/CHMP/250656/2017)",
+   "url": "https://www.ema.europa.eu/en/news/new-medicine-rare-neurodegenerative-disorder-children",
+   "archive": "integral",
+   "note": "Communiqué lu le 24/11/2026 depuis le navigateur du PC ; extraits archivés. Autre société, autre maladie de la même famille : cité comme précédent réglementaire.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S204",
+   "date_source": "2010-03-10",
+   "type": "CP tiers",
+   "reference": "CP Actelion du 10/03/2010 : lettre de réponse complète de la FDA pour Zavesca (miglustat) dans la maladie de Niemann-Pick C",
+   "url": "https://www.swiss-press.com/en/actelion-receives-fda-complete-response-letter-for/778713",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S205",
+   "date_source": "2010-03-10",
+   "type": "presse",
+   "reference": "BioCentury du 10/03/2010 : « Zavesca receives complete response »",
+   "url": "https://www.biocentury.com/article/36859/zavesca-receives-complete-response",
    "archive": "extrait",
    "note": "",
    "texte_archive": "sources_textes.json"
