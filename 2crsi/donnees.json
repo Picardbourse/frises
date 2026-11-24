@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-24",
- "mis_a_jour": "2026-11-24T20:14",
+ "mis_a_jour": "2026-11-24T20:19",
  "arrete_au": "2026-11-24",
  "version_provisoire": false,
  "config": {
@@ -80,7 +80,7 @@
   ]
  },
  "nb": {
-  "evenements": 192,
+  "evenements": 193,
   "sources": 254
  },
  "evenements": [
@@ -3936,6 +3936,56 @@
    "majeur": false
   },
   {
+   "id": "2026-06-30_notes-saisie-litiges",
+   "date": "2026-06-30",
+   "date_affichee": "30 juin 2026",
+   "revele_le": "2026-10-31",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Comptes au 30/06/2026 : 4,4 M€ sous saisie conservatoire (0,4 M€ un an plus tôt), une avance à un fournisseur en justice, 5,4 M€ de factures fournisseurs échues depuis plus de 91 jours",
+   "texte": "Relevé des notes du rapport financier annuel 2025-26, sans commentaire de la société dans ses communiqués. (1) Comptes sociaux de 2CRSi SA, détail des « débiteurs divers » : « Saisie conservatoire : 4 408 k€ » (p. 136), contre « Saisie conservatoire : 445 k€ » au 30/06/2025 (rapport 2024-25, p. 139) ; le rapport n'indique ni l'auteur ni l'objet de la saisie. (2) Les provisions pour risques et charges de 2CRSi SA s'élèvent à 2 403 k€ : « Cette évolution s'explique principalement par la constitution d'une provision de 1 162 k€ au titre d'une avance versée à un fournisseur, dont le remboursement fait l'objet d'une procédure judiciaire en cours » (p. 135) ; le fournisseur n'est pas nommé. En consolidé, les provisions pour litiges passent de 123 k€ à 903 k€ (p. 106). (3) Délais de paiement de 2CRSi SA (tableau légal, p. 50) : 5 695 k€ de factures fournisseurs échues, dont 5 401 k€ depuis 91 jours et plus (5 972 k€ au 30/06/2025, rapport 2024-25, p. 51) ; 4 320 k€ de factures clients échues, dont 2 671 k€ depuis 91 jours et plus ; la ligne des factures exclues comme « litigieuses » n'est pas renseignée. (4) Créances clients : les 1 989 k€ dépréciés chez 2CRSi SA couvrent « des factures demeurées impayées à la date d'arrêté des comptes. Sur ce montant, 452 k€ font l'objet de discussions avec le client concerné en vue de convenir d'un échéancier de paiement » (p. 135) ; 2 246 k€ sont dépréciés chez 2CRSi Corp (p. 112). (5) « Le compte courant de la filiale 2CRSi Middle East a été provisionné pour un montant de 4 316 K€. Cette dépréciation résulte de l'impossibilité pour la filiale de refacturer ses coûts à sa société mère, alors même que son personnel contribue au chiffre d'affaires réalisé par 2CRSi SA » (p. 135) ; cette provision est sans effet sur les comptes consolidés. Au total, les dotations aux dépréciations et provisions de l'exercice représentent 12 435 k€ en consolidé (p. 112).",
+   "sources": [
+    "S173",
+    "S178"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2025-26, p. 50, 106, 112, 135 et 136",
+    "Rapport financier annuel 2024-25, p. 51 et 139"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-31_rfa-2025-26"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-30",
+      "cloture": 30.68,
+      "volume": 374311,
+      "variation_pct": -0.9,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-07-01",
+      "cloture": 37.5,
+      "volume": 1089561,
+      "variation_pct": 22.2,
+      "volume_vs_moy20": 2.1
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-07-01_portzamparc-59",
    "date": "2026-07-01",
    "date_affichee": "1er juil. 2026",
@@ -7405,7 +7455,7 @@
    ],
    "statut": "doc",
    "titre": "Rapport financier annuel : 180 M€ d'opérations 2024/25 « similaires » non réexaminées, contrat HAW autorisé a posteriori, Alispalu, enquêtes américaines",
-   "texte": "Rapport financier annuel 2025-26 (152 pages) publié le 31/10/2026. Principaux éléments absents du CP du 30/10 : (1) « Les conséquences de cette analyse [l'avis juridique ayant conduit à annuler 32,5 M€ de CA] n'ont pas été appréhendées sur des opérations similaires enregistrées dans les comptes au 30 juin 2025 portant sur un montant de chiffre d'affaires de 180 M€ » (§3.7.1), sur un CA 2024/25 de 220,7 M€ certifié sans réserve. (2) Contrat HAW : signé le 29/06/2026 avec effet au 02/07/2024, prix de 14 042 k€ HT fixé à 8 % du coût de construction d'un projet de 14,4 MW destiné au site de NYGC à Ione (Californie) ; « la créance de 16,9 M€ TTC n'était ni facturée ni encaissée au 30 juin 2026 » ; autorisation du conseil le 30/10/2026 seulement, le PDG ne prenant pas part au vote ; soumis à l'AG du 17/12/2026 au titre de l'article L. 225-42 (convention non autorisée) ; la continuité d'exploitation suppose que cette créance « sera compensée avec le compte courant de HAW » (§3.5.1) ; « une partie importante de l'Ebitda de l'année est réalisée avec HAW » (§2.3). (3) Parties liées : HAW 14 066 k€ de CA, Alispalu SAS (100 % Alain Wilmouth) 1 316 k€ (complément de prix sur 118 serveurs Walker Pass vendus en décembre 2024) et 585 k€ de charges, AETHER 630 k€, NYGC 60 k€ ; créances de 16,9 M€, 1,6 M€, 0,8 M€ et 0,1 M€ ; compte courant HAW 14,2 M€, rémunéré (240 k€ d'intérêts), exigible à moins d'un an (§3.10.1). (4) Enquêtes américaines : subpoena BIS (nov. 2024), grand jury subpoenas NDCal (avr. et oct. 2025) et CDCal (mai 2026), Export Administration Regulations, aucune provision (§2.8.1). (5) Adimes est une filiale à 100 % de 2CRSi SA (ex-Boston France), usine d'assemblage du groupe, future « 2CRSi OEM » (§1.1.2, §3.4.2). (6) Dépréciations : stocks dépréciés à 25 % de la valeur brute (7 % un an plus tôt), 4,2 M€ sur créances clients ; effectif moyen 103 (112). (7) Opérations du PDG : cession d'environ 60 000 titres le 02/10/2025 à 13 € (« suite à l'erreur sur la plateforme de trading ») et achat de 6 000 titres le 07/04/2025, déclarés à l'AMF le 24/02/2026 (§2.5.5.2). (8) Le document contient des mentions de rédaction non retirées (« [obligations restant à exécuter après le 30 octobre 2026 : à préciser] », p. 72 ; « Puis remplace la dernière phrase […] par : », p. 62) et renvoie à une note 3.9.4 inexistante. Les rapports du commissaire aux comptes y figurent en image (p. 119-122 et 148-151). (9) « En 2025, les services Finance, Comptabilité et Ressources Humaines ont été transférés de 2CRSi à Holding Alain Wilmouth » (p. 79). (10) Services : 27,7 M€ de revenus, dont 14,0 M€ du contrat HAW ; hors ce contrat, « environ 13,7 M€ » contre 8,3 M€ (p. 22-23), chiffre qui inclut Green Data, consolidée depuis le 14/11/2025 (contribution de (1 813) k€ au résultat net, p. 93) et 0,63 M€ facturés à AETHER Infrastructures ; les principales facturations de l'activité Cloud Solutions « ont été réalisées avec des parties liées » (p. 23). (11) Avances et acomptes reçus des clients : 21 134 k€ contre 16 055 k€ (p. 109). (12) Gouvernance : conseil réuni 6 fois, taux de participation de 71,43 % (p. 63) ; comité d'audit et des risques composé de Lilla Merabet (présidente), Michel Wilmouth, Hervé Landau et Nathalie Roos (du 18/12/2025 au 08/09/2026) ; recommandations Middlenext R5 (formation), R13 (évaluation du conseil), R15 (diversité) et R17 (succession) non appliquées ou « en cours de réflexion ». L'objectif d'un milliard « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD ni du contrat conclu avec NYGC » (p. 25).",
+   "texte": "Rapport financier annuel 2025-26 (152 pages) publié le 31/10/2026. Principaux éléments absents du CP du 30/10 : (1) « Les conséquences de cette analyse [l'avis juridique ayant conduit à annuler 32,5 M€ de CA] n'ont pas été appréhendées sur des opérations similaires enregistrées dans les comptes au 30 juin 2025 portant sur un montant de chiffre d'affaires de 180 M€ » (§3.7.1), sur un CA 2024/25 de 220,7 M€ certifié sans réserve. (2) Contrat HAW : signé le 29/06/2026 avec effet au 02/07/2024, prix de 14 042 k€ HT fixé à 8 % du coût de construction d'un projet de 14,4 MW destiné au site de NYGC à Ione (Californie) ; « la créance de 16,9 M€ TTC n'était ni facturée ni encaissée au 30 juin 2026 » ; autorisation du conseil le 30/10/2026 seulement, le PDG ne prenant pas part au vote ; soumis à l'AG du 17/12/2026 au titre de l'article L. 225-42 (convention non autorisée) ; la continuité d'exploitation suppose que cette créance « sera compensée avec le compte courant de HAW » (§3.5.1) ; « une partie importante de l'Ebitda de l'année est réalisée avec HAW » (§2.3). (3) Parties liées : HAW 14 066 k€ de CA, Alispalu SAS (100 % Alain Wilmouth) 1 316 k€ (complément de prix sur 118 serveurs Walker Pass vendus en décembre 2024) et 585 k€ de charges, AETHER 630 k€, NYGC 60 k€ ; créances de 16,9 M€, 1,6 M€, 0,8 M€ et 0,1 M€ ; compte courant HAW 14,2 M€, rémunéré (240 k€ d'intérêts), exigible à moins d'un an (§3.10.1). (4) Enquêtes américaines : subpoena BIS (nov. 2024), grand jury subpoenas NDCal (avr. et oct. 2025) et CDCal (mai 2026), Export Administration Regulations, aucune provision (§2.8.1). (5) Adimes est une filiale à 100 % de 2CRSi SA (ex-Boston France), usine d'assemblage du groupe, future « 2CRSi OEM » (§1.1.2, §3.4.2). (6) Dépréciations : stocks dépréciés à 25 % de la valeur brute (7 % un an plus tôt), 4,2 M€ sur créances clients ; effectif moyen 103 (112). (7) Opérations du PDG : cession d'environ 60 000 titres le 02/10/2025 à 13 € (« suite à l'erreur sur la plateforme de trading ») et achat de 6 000 titres le 07/04/2025, déclarés à l'AMF le 24/02/2026 (§2.5.5.2). (8) Le document contient des mentions de rédaction non retirées (« [obligations restant à exécuter après le 30 octobre 2026 : à préciser] », p. 72 ; « Puis remplace la dernière phrase […] par : », p. 62) et renvoie à une note 3.9.4 inexistante. Les rapports du commissaire aux comptes y figurent en image (p. 119-122 et 148-151). (9) « En 2025, les services Finance, Comptabilité et Ressources Humaines ont été transférés de 2CRSi à Holding Alain Wilmouth » (p. 79). (10) Services : 27,7 M€ de revenus, dont 14,0 M€ du contrat HAW ; hors ce contrat, « environ 13,7 M€ » contre 8,3 M€ (p. 22-23), chiffre qui inclut Green Data, consolidée depuis le 14/11/2025 (contribution de (1 813) k€ au résultat net, p. 93) et 0,63 M€ facturés à AETHER Infrastructures ; les principales facturations de l'activité Cloud Solutions « ont été réalisées avec des parties liées » (p. 23). (11) Avances et acomptes reçus des clients : 21 134 k€ contre 16 055 k€ (p. 109). (12) Gouvernance : conseil réuni 6 fois, taux de participation de 71,43 % (p. 63) ; comité d'audit et des risques composé de Lilla Merabet (présidente), Michel Wilmouth, Hervé Landau et Nathalie Roos (du 18/12/2025 au 08/09/2026) ; recommandations Middlenext R5 (formation), R13 (évaluation du conseil), R15 (diversité) et R17 (succession) non appliquées ou « en cours de réflexion ». L'objectif d'un milliard « n'intègre aucun chiffre d'affaires au titre du contrat-cadre de 610 M USD ni du contrat conclu avec NYGC » (p. 25). (13) Continuité d'exploitation (p. 97) : la direction dit avoir établi des prévisions de trésorerie mensuelles « jusqu'au 31 octobre 2027, soit douze mois à compter de la date d'arrêté des comptes », puis conclut « sur la base de ses prévisions de trésorerie, établies jusqu'au 30 juin 2027 ».",
    "sources": [
     "S173"
    ],
