@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-23",
- "mis_a_jour": "2026-11-23T10:24",
- "arrete_au": "2026-11-23",
+ "genere_le": "2026-11-24",
+ "mis_a_jour": "2026-11-24T20:27",
+ "arrete_au": "2026-11-24",
  "version_provisoire": false,
  "config": {
   "code": "theranexus",
@@ -73,8 +73,8 @@
   "lectures": []
  },
  "nb": {
-  "evenements": 179,
-  "sources": 197
+  "evenements": 180,
+  "sources": 202
  },
  "evenements": [
   {
@@ -6845,13 +6845,13 @@
    ],
    "statut": "doc",
    "titre": "Deux publications sur le miglustat dans la CLN3 : étude ouverte (Neurology) et vie réelle pédiatrique (J Child Neurol)",
-   "texte": "Neurology (DOI 10.1212/WNL.0000000000214110), avec un éditorial intitulé « Is Miglustat an Effective Treatment for CLN3 (Batten) Disease? » ; Journal of Child Neurology (DOI 10.1177/08830738251374538, PMID 40966007), usage hors AMM chez des enfants australiens, co-signé par un scientifique de la BBDF. Articles non ouverts : auteurs, effectifs, chiffres et dates exactes [non vérifiés].",
+   "texte": "Neurology (en ligne le 09/09/2025 ; 105(7):e214110 ; DOI 10.1212/WNL.0000000000214110) : étude ouverte d'un seul centre, l'hôpital Bambino Gesù de Rome (Pietrafusa et al., dernier auteur Nicola Specchio). Six patients d'âge médian 20,3 ans, miglustat jusqu'à 15 mg/kg/j ou 600 mg/j, suivi médian de 3,9 ans ; variation annuelle moyenne du score physique UBDRS de +1,96 point (écart-type 0,80). Conclusion du résumé : « associated with a slower rate of physical decline compared with historical controls », avec pour limites « small sample size, genetic heterogeneity, and open-label design ». Le même numéro publie un éditorial de Jonathan W. Mink et Jennifer Vermilion, « Is Miglustat an Effective Treatment for CLN3 (Batten) Disease? » (non ouvert). Journal of Child Neurology (DOI 10.1177/08830738251374538, PMID 40966007, en ligne le 18/09/2025) : usage hors AMM chez deux enfants australiens d'une même fratrie, co-signé par une scientifique de la BBDF ; article non ouvert.",
    "sources": [
     "S140",
     "S142"
    ],
    "sources_libelle": [
-    "Neurology du 01/09/2025",
+    "Neurology, en ligne le 09/09/2025",
     "Journal of Child Neurology du 19/09/2025"
    ],
    "engagements": [],
@@ -7302,6 +7302,56 @@
       "volume": 89123,
       "variation_pct": -5.9,
       "volume_vs_moy20": 1.1
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2026-02-03_bons-revue-prioritaire-prolonges",
+   "date": "2026-02-03",
+   "date_affichee": "3 févr. 2026",
+   "sujets": [
+    "batten",
+    "regl"
+   ],
+   "statut": "doc",
+   "titre": "États-Unis : la loi prolonge jusqu'au 30/09/2029 les bons de revue prioritaire pour les maladies pédiatriques rares",
+   "texte": "La loi de finances américaine pour 2026 (Public Law 119-75, approuvée le 03/02/2026) modifie par sa section 6604 l'article 529 de la loi sur les médicaments : la date limite du 20 décembre 2024 est remplacée par « September 30, 2029 ». Batten-1 (alors BBDF-101) a reçu en août 2020 la désignation « Rare Pediatric Disease », qui ouvre droit, à l'enregistrement, à un bon cessible. Les communiqués de 2026 de la société ne mentionnent ni ce bon ni son bénéficiaire.",
+   "sources": [
+    "S199",
+    "S054"
+   ],
+   "sources_libelle": [
+    "Public Law 119-75 du 03/02/2026, section 6604",
+    "CP Theranexus du 11/08/2020"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2020-08-11_odd-rpdd-fda-bbdf101"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-02-03",
+      "cloture": 2.38,
+      "volume": 86391,
+      "variation_pct": 1.7,
+      "volume_vs_moy20": 0.8
+     },
+     {
+      "role": "suivante",
+      "date": "2026-02-04",
+      "cloture": 2.26,
+      "volume": 91605,
+      "variation_pct": -5.0,
+      "volume_vs_moy20": 0.8
      }
     ]
    },
@@ -8596,6 +8646,45 @@
     "S152",
     "S158",
     "S152"
+   ]
+  },
+  {
+   "sujet": "batten",
+   "question": "Qui recevrait le bon de revue prioritaire américain attaché à Batten-1, et l'enregistrement peut-il intervenir avant le 30/09/2029 ?",
+   "etat": "Août 2020 : désignation « Rare Pediatric Disease » de la FDA, qui donne droit à l'enregistrement à un bon « cessible ou transférable » ; le communiqué anglais dit qu'elle qualifie Theranexus pour ce bon, la page de la fondation dit que les désignations lui ont été accordées. Le DEU 2019 rappelle que BioMarin a cédé le bon de Brineura 125 M$ en 2017. 03/02/2026 : la loi américaine prolonge le dispositif jusqu'au 30/09/2029. Calendrier connu de Batten-1 : fin de collecte du critère principal en juin 2028, lancement visé vers 2030. Aucun communiqué de 2026 ne dit qui, de la fondation, de Biocodex ou de THX Pharma, recevrait le bon ou son produit.",
+   "attendu": "Mention du bon dans le DEU 2026 ou dans un communiqué ; calendrier de dépôt de la demande d'enregistrement américaine.",
+   "sources": [
+    "S054",
+    "S055",
+    "S200",
+    "S194",
+    "S199",
+    "S172"
+   ]
+  },
+  {
+   "sujet": "batten",
+   "question": "Quelle place pour la forme buvable face aux gélules de miglustat déjà disponibles, génériques compris ?",
+   "etat": "Le miglustat en gélules est autorisé depuis 2002 (Zavesca) et des génériques le sont en Europe depuis 2017. Le protocole de la phase 3 constate que l'accès hors autorisation au miglustat dans la CLN3 est de plus en plus courant aux États-Unis et pris en charge dans trois pays nordiques, et il admet les enfants déjà traités après une semaine d'arrêt. Le DEU 2025 ne contient pas le mot « générique ». La société met en avant le brevet de formulation, le brevet d'usage (jusqu'en 2041) et les exclusivités orphelines. Ni le prix visé ni la part attendue de patients passant de la gélule à la forme buvable ne sont publiés.",
+   "attendu": "Prix et conditions de remboursement visés ; position de la société sur l'usage hors autorisation des gélules après l'enregistrement.",
+   "sources": [
+    "S177",
+    "S172",
+    "S201",
+    "S157",
+    "S165",
+    "S116"
+   ]
+  },
+  {
+   "sujet": "tx01",
+   "question": "Comment TX01 serait-il enregistré aux États-Unis dans la maladie de Niemann-Pick C, où le miglustat n'a pas cette indication ?",
+   "etat": "10/02/2026 : Biocodex reçoit la licence de TX01 pour les États-Unis et le Canada, dans la maladie de Gaucher de type 1 et la maladie de Niemann-Pick C. La notice américaine du miglustat en gélules ne porte que sur l'adulte atteint de la maladie de Gaucher de type 1. En Europe, la voie retenue (PUMA) s'appuie sur une indication pédiatrique déjà existante de la gélule. Aucune pièce ne décrit le dossier ni le calendrier américains de TX01.",
+   "attendu": "Voie réglementaire et calendrier américains de TX01 ; jalons de l'accord Biocodex liés à TX01.",
+   "sources": [
+    "S152",
+    "S202",
+    "S158"
    ]
   }
  ],
@@ -10228,9 +10317,9 @@
   },
   {
    "id": "S140",
-   "date_source": "2025-09-01",
+   "date_source": "2025-09-09",
    "type": "autre",
-   "reference": "Neurology du 01/09/2025 : étude ouverte à long terme du miglustat dans la CLN3",
+   "reference": "Neurology 2025;105(7):e214110 (en ligne le 09/09/2025) : étude ouverte à long terme du miglustat dans la CLN3",
    "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000214110",
    "archive": "extrait",
    "note": "",
@@ -10801,6 +10890,56 @@
    "url": "https://clinicaltrials.gov/study/NCT05174039?tab=history",
    "archive": "integral",
    "note": "Historique lu le 23/11/2026 depuis le navigateur du PC (l'action GitHub reçoit une erreur 403). Seules les versions 0 à 2 sont archivées.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S198",
+   "date_source": "2026-06-16",
+   "type": "analyste",
+   "reference": "Invest Securities du 16/06/2026 : initiation de couverture THX Pharma, Achat, objectif 10,40 € (65 pages)",
+   "url": "https://www.invest-securities.com/",
+   "archive": "reference",
+   "note": "Recherche payée par l'émetteur, communiquée à la société avant publication (p. 64). Texte non reproduit (« reproduction interdite ») ; pas d'adresse publique du document connue. Écarts relevés avec les pièces : « environ 360 patients » pour la phase 3 (27 au registre) ; p = 0,07 et 0,08 attribués au pilote (données en vie réelle de mai 2025). Citée en référence seulement ; aucun fait de la frise n'en est tiré.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S199",
+   "date_source": "2026-02-03",
+   "type": "officiel",
+   "reference": "Public Law 119-75 du 03/02/2026 (Consolidated Appropriations Act, 2026), section 6604 : prolongation des bons de revue prioritaire pour les maladies pédiatriques rares",
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+   "archive": "integral",
+   "note": "Texte officiel lu le 24/11/2026 sur govinfo.gov depuis le navigateur du PC ; seule la section 6604 (a) et (b) est archivée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S200",
+   "date_source": "2026-11-24",
+   "type": "web",
+   "reference": "Beyond Batten Disease Foundation, page programme « Batten-1 » (chronologie), consultée le 24/11/2026",
+   "url": "https://beyondbatten.org/research/bbdf101/",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S201",
+   "date_source": "2017-11-10",
+   "type": "officiel",
+   "reference": "EMA, information produit de Miglustat Gen.Orph (générique du miglustat en gélules), première autorisation le 10/11/2017",
+   "url": "https://www.ema.europa.eu/en/documents/product-information/miglustat-genorph-epar-product-information_en.pdf",
+   "archive": "extrait",
+   "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S202",
+   "date_source": "2025-06-30",
+   "type": "officiel",
+   "reference": "DailyMed (NIH), notice américaine des gélules de miglustat génériques, révision de juin 2025",
+   "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d746749d-de15-4225-b806-59b0765d25ae",
+   "archive": "extrait",
+   "note": "",
    "texte_archive": "sources_textes.json"
   }
  ],
