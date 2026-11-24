@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-24",
- "mis_a_jour": "2026-11-24T10:26",
+ "mis_a_jour": "2026-11-24T10:33",
  "arrete_au": "2026-11-24",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 190,
-  "sources": 251
+  "sources": 252
  },
  "evenements": [
   {
@@ -475,14 +475,15 @@
    ],
    "statut": "doc",
    "titre": "France 2030 : 2CRSi annonce une subvention de 1 M€ de Bpifrance pour un système embarqué d'IA (projet collaboratif)",
-   "texte": "2CRSi « annonce l'obtention d'une subvention de 1 M€ auprès de la BPI dans le cadre de l'appel à projet « Maturation technologique et démonstration de solutions d'intelligence artificielle embarquée » de France 2030 ». « Cette subvention d'un montant total de 2,6 M€ s'inscrit dans le cadre d'un projet collaboratif dans lequel 2CRSi a pour vocation de développer un système \"embarqué\" modulaire, destiné à déployer des applications critiques utilisant l'intelligence artificielle en \"Edge Computing\". » Le communiqué ne nomme ni le projet ni les partenaires (« des industriels français de toutes tailles ») et ne donne ni durée ni échéance. Le rapport annuel 2025-26 rattache au même appel à projets le projet ODYSSAI (Thales, Kalray, 2CRSi). Les rapports de 2CRSi publiés de juin 2023 à mars 2026 portent, à propos d'ODYSSAI, la note « Dossier en cours d'instruction à la BPI. » ; Produits de subvention « Odyssai » comptabilisés par 2CRSi SA : aucun en 2022-23, 502 € sur l'exercice de seize mois clos le 30/06/2024, 42 k€ en 2024-25, 33 k€ en 2025-26, soit environ 76 k€ en trois exercices. Le rapport annuel 2023-24 précise : « Quant au projet OdyssAI, un acompte a déjà été versé et donc les produits seront constatés lors des 2 prochains exercices à hauteur des dépenses encourues. » Le montant de l'acompte n'est pas indiqué.",
+   "texte": "2CRSi « annonce l'obtention d'une subvention de 1 M€ auprès de la BPI dans le cadre de l'appel à projet « Maturation technologique et démonstration de solutions d'intelligence artificielle embarquée » de France 2030 ». « Cette subvention d'un montant total de 2,6 M€ s'inscrit dans le cadre d'un projet collaboratif dans lequel 2CRSi a pour vocation de développer un système \"embarqué\" modulaire, destiné à déployer des applications critiques utilisant l'intelligence artificielle en \"Edge Computing\". » Le communiqué ne nomme ni le projet ni les partenaires (« des industriels français de toutes tailles ») et ne donne ni durée ni échéance. Le rapport annuel 2025-26 rattache au même appel à projets le projet ODYSSAI (Thales, Kalray, 2CRSi). Le recueil France 2030 de Bpifrance (p. 458) en donne la fiche : « THALES chef de file en partenariat avec 2CRSI, KALRAY et UPMEM », durée de 36 mois, montant total du projet 7 939 008 €, aide de 2 630 494 € (subvention 1 972 871 €, avance récupérable 657 623 €) ; la fiche n'indique ni la date de début ni la part de chaque partenaire. Les rapports de 2CRSi publiés de juin 2023 à mars 2026 portent, à propos d'ODYSSAI, la note « Dossier en cours d'instruction à la BPI. » ; Produits de subvention « Odyssai » comptabilisés par 2CRSi SA : aucun en 2022-23, 502 € sur l'exercice de seize mois clos le 30/06/2024, 42 k€ en 2024-25, 33 k€ en 2025-26, soit environ 76 k€ en trois exercices. Le rapport annuel 2023-24 précise : « Quant au projet OdyssAI, un acompte a déjà été versé et donc les produits seront constatés lors des 2 prochains exercices à hauteur des dépenses encourues. » Le montant de l'acompte n'est pas indiqué.",
    "sources": [
     "S259",
     "S173",
     "S202",
     "S065",
     "S203",
-    "S178"
+    "S178",
+    "S263"
    ],
    "sources_libelle": [
     "CP du 20/07/2023",
@@ -490,7 +491,8 @@
     "Rapport financier annuel 2022-23 (note sur ODYSSAI)",
     "Rapport financier semestriel au 31/12/2025 (note sur ODYSSAI)",
     "Rapport financier annuel 2023-24 (note 4.4.7, subventions)",
-    "Rapport financier annuel 2024-25 (note 4.3.4.7, subventions)"
+    "Rapport financier annuel 2024-25 (note 4.3.4.7, subventions)",
+    "Bpifrance, Recueil France 2030, p. 458 (fiche ODYSSAI)"
    ],
    "engagements": [],
    "liens": [],
@@ -9033,7 +9035,7 @@
   {
    "sujet": "autre",
    "question": "Projets annoncés sans bilan public",
-   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu. ODYSSAI : le 20/07/2023, 2CRSi annonce une subvention de 1 M€ (2,6 M€ pour le projet collaboratif) ; une note de bas de page, « Dossier en cours d'instruction à la BPI. », accompagne le projet à l'identique dans quatre rapports de 2CRSi, du rapport annuel 2022-23 (juin 2023) au rapport semestriel au 31/12/2025 (mars 2026), alors que le rapport annuel 2023-24 indique qu'« un acompte a déjà été versé » et que les produits « seront constatés lors des 2 prochains exercices » ; produits comptabilisés : 502 € en 2023-24, 42 k€ en 2024-25, 33 k€ en 2025-26, soit environ 76 k€ pour 1 M€ annoncé. Le rapport annuel 2025-26 ne reprend plus cette note : il décrit un projet en cours, visant « un serveur standard et un serveur durci », avec un consortium de « trois acteurs français » (Thales, Kalray, 2CRSi). Une page de Kalray du 20/04/2026 présente le projet et affiche aussi le logo d'UPMEM. Aucune pièce ne donne sa durée, sa date de fin ni son budget ; aucun produit n'a été annoncé.",
+   "etat": "Accord Larsen & Toubro (2023), projets France 2030 ReNESENS (2022, échéance de trois ans en octobre 2025) et ODYSSAI (2023) avec Kalray : aucun bilan public connu. ODYSSAI : le 20/07/2023, 2CRSi annonce une subvention de 1 M€ (2,6 M€ pour le projet collaboratif) ; une note de bas de page, « Dossier en cours d'instruction à la BPI. », accompagne le projet à l'identique dans quatre rapports de 2CRSi, du rapport annuel 2022-23 (juin 2023) au rapport semestriel au 31/12/2025 (mars 2026), alors que le rapport annuel 2023-24 indique qu'« un acompte a déjà été versé » et que les produits « seront constatés lors des 2 prochains exercices » ; produits comptabilisés : 502 € en 2023-24, 42 k€ en 2024-25, 33 k€ en 2025-26, soit environ 76 k€ pour 1 M€ annoncé. Le rapport annuel 2025-26 ne reprend plus cette note : il décrit un projet en cours, visant « un serveur standard et un serveur durci », avec un consortium de « trois acteurs français » (Thales, Kalray, 2CRSi). Une page de Kalray du 20/04/2026 présente le projet et affiche aussi le logo d'UPMEM. Le recueil France 2030 de Bpifrance (p. 458) indique Thales comme chef de file, avec 2CRSi, Kalray et UPMEM, une durée de 36 mois, un montant total de 7 939 008 € et une aide de 2 630 494 € (subvention 1 972 871 €, avance récupérable 657 623 €). Aucune pièce ne donne la date de début ni la date de fin ; aucun produit n'a été annoncé.",
    "attendu": "Une communication de la société, de ses partenaires ou de Bpifrance.",
    "sources": [
     "S065",
@@ -9042,7 +9044,8 @@
     "S202",
     "S203",
     "S257",
-    "S259"
+    "S259",
+    "S263"
    ]
   },
   {
@@ -11835,6 +11838,16 @@
    "url": "https://www.amadorcounty.gov/departments/planning/current-projects/newyork-greencloud-llc-buena-vista-data-center-project",
    "archive": "integral",
    "note": "Page lue dans le navigateur le 24/11/2026 ; le PDF en lien n'a pas été téléchargé (le dossier complet est archivé sous S245, d'après la copie publiée par le Ledger Dispatch). Date de source = date de réception affichée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S263",
+   "date_source": "2024-02-29",
+   "type": "officiel",
+   "reference": "Bpifrance, « Recueil France 2030 », fiche du projet ODYSSAI, p. 458",
+   "url": "https://www.bpifrance.fr/sites/default/files/inline-files/Recueil%20AAP%20France%202030%20Bpifrance.pdf",
+   "archive": "integral",
+   "note": "Date = date du fichier en ligne (Last-Modified 29/02/2024), le recueil lui-même n'est pas daté à la page lue. La fiche ne donne pas la date de début du projet ni la part de chaque partenaire. Contact presse omis de l'archive. Piste signalée sur le forum, vérifiée sur pièce le 24/11/2026.",
    "texte_archive": "sources_textes.json"
   }
  ],
