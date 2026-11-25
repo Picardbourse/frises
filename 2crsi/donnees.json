@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T16:42",
+ "mis_a_jour": "2026-11-25T17:42",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 207,
-  "sources": 279
+  "evenements": 208,
+  "sources": 282
  },
  "evenements": [
   {
@@ -3453,6 +3453,52 @@
       "volume": 290404,
       "variation_pct": 2.4,
       "volume_vs_moy20": 0.6
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-05-12_msci-small-cap",
+   "date": "2026-05-12",
+   "date_affichee": "12 mai 2026",
+   "sujets": [
+    "mkt"
+   ],
+   "statut": "doc",
+   "titre": "MSCI annonce l'entrée de 2CRSi dans le MSCI France Small Cap, effective le 29 mai",
+   "texte": "Liste publique de MSCI datée du 12/05/2026 (« MSCI Global Small Cap Indexes ») : 2CRSI figure parmi les trois ajouts du MSCI France, avec DBV Technologies et Inventiva ; les changements « will take place as of the close of May 29, 2026 ». Les fonds qui répliquent ces indices achètent alors le titre. Selon les clôtures quotidiennes (Yahoo Finance), le cours passe de 35,18 € le 12/05 à 51,60 € le 29/05, jour de l'entrée effective, où 549 154 titres sont échangés, le plus fort volume de la période ; il atteint 58,45 € le 02/06, plus haut de l'année. Aucune pièce ne mesure la part des achats indiciels dans cette hausse. Les rapports déposés à la SEC par des fonds américains montrent ensuite des lignes 2CRSi chez iShares (environ 97 600 actions sur quatre fonds MSCI au 31/07/2026), CREF (60 505 au 30/09) et Fidelity. 2CRSi ne figure ni parmi les ajouts ni parmi les retraits des revues d'août et de novembre 2026.",
+   "sources": [
+    "S291",
+    "S292",
+    "S293"
+   ],
+   "sources_libelle": [
+    "MSCI, liste publique Global Small Cap Indexes du 12/05/2026",
+    "MSCI, listes publiques d'août et de novembre 2026",
+    "Rapports N-PORT d'iShares Trust (31/07/2026) et de CREF (30/09/2026), SEC"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-05-12",
+      "cloture": 35.18,
+      "volume": 194509,
+      "variation_pct": -5.4,
+      "volume_vs_moy20": 0.6
+     },
+     {
+      "role": "suivante",
+      "date": "2026-05-13",
+      "cloture": 37.34,
+      "volume": 122082,
+      "variation_pct": 6.1,
+      "volume_vs_moy20": 0.4
      }
     ]
    },
@@ -12860,6 +12906,36 @@
    "url": "https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en",
    "archive": "integral",
    "note": "Lu le 25/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S291",
+   "date_source": "2026-05-12",
+   "type": "CP tiers",
+   "reference": "MSCI, « MSCI Global Small Cap Indexes » — liste publique des changements, Genève, 12/05/2026",
+   "url": "https://app2.msci.com/eqb/gimi/smallcap/MSCI_May26_SCPublicList.pdf",
+   "archive": "integral",
+   "note": "Lu le 25/11/2026 (WebFetch).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S292",
+   "date_source": "2026-11-11",
+   "type": "CP tiers",
+   "reference": "MSCI, listes publiques Global Small Cap Indexes d'août 2026 et de novembre 2026",
+   "url": "https://www.msci.com/eqb/gimi/smallcap/MSCI_Nov26_SCPublicList.pdf",
+   "archive": "integral",
+   "note": "Liste d'août : https://app2.msci.com/eqb/gimi/smallcap/MSCI_Aug26_SCPublicList.pdf. Lu le 25/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S293",
+   "date_source": "2026-11-25",
+   "type": "CP tiers",
+   "reference": "Rapports N-PORT : iShares Trust (iShares Core MSCI EAFE, MSCI EAFE Small-Cap, MSCI Europe Small-Cap, Core MSCI Europe) au 31/07/2026 ; College Retirement Equities Fund au 30/06 et au 30/09/2026 (SEC)",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%222CRSI%22&forms=NPORT-P",
+   "archive": "integral",
+   "note": "Fichiers primary_doc.xml lus sur sec.gov le 25/11/2026 (accessions 0001004726-26-008816, -008841, -008834, -008869 ; 0000777535-26-000116 et -000158).",
    "texte_archive": "sources_textes.json"
   }
  ],
