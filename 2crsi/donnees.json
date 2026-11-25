@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T07:32",
+ "mis_a_jour": "2026-11-25T07:41",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 194,
-  "sources": 255
+  "evenements": 195,
+  "sources": 257
  },
  "evenements": [
   {
@@ -3109,6 +3109,55 @@
    "majeur": false
   },
   {
+   "id": "2026-05-28_refere-loyers-locaux",
+   "date": "2026-05-28",
+   "date_affichee": "28 mai 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Référé : 2CRSi et Adimes condamnées à verser 1,24 M€ de provisions sur loyers au bailleur de locaux commerciaux",
+   "texte": "Ordonnance du juge des référés du tribunal judiciaire de Strasbourg (RG 26/00226), rendue en premier ressort : SAS SAF 4 Steel, absorbée en cours d'instance par SAS SAF 6, contre SA 2CRSI et SARL Adimes (anciennement Boston France). Trois baux commerciaux lient le bailleur à 2CRSi (2011, 2017, 2020) et deux à Adimes (2015, 2018), dans deux bâtiments d'un même ensemble immobilier. Selon le bailleur, les deux sociétés « ont cessé en 2022 de procéder au règlement de leurs loyers et charges », en invoquant un manquement à l'obligation de délivrance (infiltrations) ; deux ordonnances du 15/02/2024, confirmées en appel le 02/04/2025, avaient rejeté la demande de provision et ordonné une expertise. Le juge relève que, selon la note de l'expert du 19/01/2026, « les travaux de réfection entrepris depuis juillet 2023 permettent un usage normal de l'ensemble des locaux, conforme à leurs destinations », et qu'« aucune pièce ne permet d'attester des défauts de chauffage/climatisation allégués » ; l'expert n'a pas encore rendu son rapport définitif. Les sommes portent sur les loyers et charges échus « sur la période du 05 juillet 2023 au 07 mai 2026 ». Dispositif : « CONDAMNONS la Sa 2CRSI à verser […] une provision de 916.238,40 € avec intérêts au taux légal à compter du 22 novembre 2022 » ; « CONDAMNONS la Sàrl ADIMES à verser […] une provision de 327.334,41 € » avec les mêmes intérêts ; 2 000 € chacune au titre de l'article 700 ; décision exécutoire par provision. Une ordonnance de référé est une décision provisoire, qui ne tranche pas le fond. Le rapport financier annuel 2025-26, publié le 31/10/2026, ne mentionne pas ce litige ; aucune pièce du corpus n'indique si un appel a été formé.",
+   "sources": [
+    "S267",
+    "S173"
+   ],
+   "sources_libelle": [
+    "TJ Strasbourg, ordonnance de référé du 28/05/2026, RG 26/00226 (base Judilibre)",
+    "Rapport financier annuel 2025-26 (absence de mention)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-30_notes-saisie-litiges"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-05-28",
+      "cloture": 49.42,
+      "volume": 302635,
+      "variation_pct": 2.5,
+      "volume_vs_moy20": 1.3
+     },
+     {
+      "role": "suivante",
+      "date": "2026-05-29",
+      "cloture": 51.6,
+      "volume": 549154,
+      "variation_pct": 4.4,
+      "volume_vs_moy20": 2.3
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-06-02_election-amador-d5",
    "date": "2026-06-02",
    "date_affichee": "2 juin 2026",
@@ -3203,13 +3252,15 @@
    ],
    "statut": "doc",
    "titre": "Le tribunal judiciaire de Strasbourg condamne 2CRSi à payer 1,58 M€ de loyers et charges au bailleur de ses bureaux de Strasbourg",
-   "texte": "Jugement du tribunal judiciaire de Strasbourg (3e chambre civile, RG 24/11082), rendu en premier ressort entre une société civile immobilière, bailleur (son nom est masqué dans la décision publiée), et la SA 2CRSI. Deux baux commerciaux signés le 01/10/2018, pour douze ans à compter du 01/01/2019, portent sur un immeuble de Strasbourg : rez-de-chaussée, 1er, 3e et 4e étages pour l'un, 2e étage pour l'autre. Le jugement rappelle deux ordonnances de référé, du 28/10/2021 et du 05/01/2023, condamnant 2CRSi à verser une provision, et un jugement du 11/06/2025 qui « a constaté le paiement de la société 2CRSI en cours d'instance des loyers et charges sollicités et l'a condamnée au paiement des intérêts, clause pénale et indemnités ». 2CRSi a signifié un congé partiel le 28/06/2024 ; le bailleur l'a assignée le 06/12/2024. 2CRSi invoquait des désordres dans les locaux et un comportement abusif du bailleur ; une expertise est en cours. Dispositif : « CONDAMNE la SA 2CRSI à payer la somme de 1 581 731,16 € due par la société 2CRSI au titre des loyers et charges pour le 27 février 2026 », 29 498,67 € de clause pénale et 3 000 € au titre de l'article 700 ; le bailleur est débouté de sa demande de 30 000 € de dommages et intérêts, 2CRSi de ses demandes de restitution du dépôt de garantie et d'indemnisation ; la décision est exécutoire par provision. Le congé est jugé valable pour le seul 2e étage, à compter du 31/05/2025. Le rapport financier annuel 2025-26, publié le 31/10/2026, ne mentionne pas ce litige. Un jugement de premier ressort peut faire l'objet d'un appel ; aucune pièce du corpus n'indique si un appel a été formé.",
+   "texte": "Jugement du tribunal judiciaire de Strasbourg (3e chambre civile, RG 24/11082), rendu en premier ressort entre une société civile immobilière, bailleur (son nom est masqué dans la décision publiée), et la SA 2CRSI. Deux baux commerciaux signés le 01/10/2018, pour douze ans à compter du 01/01/2019, portent sur un immeuble de Strasbourg : rez-de-chaussée, 1er, 3e et 4e étages pour l'un, 2e étage pour l'autre. Le jugement rappelle deux ordonnances de référé, du 28/10/2021 et du 05/01/2023, condamnant 2CRSi à verser une provision, et un jugement du 11/06/2025 qui « a constaté le paiement de la société 2CRSI en cours d'instance des loyers et charges sollicités et l'a condamnée au paiement des intérêts, clause pénale et indemnités » : ce premier jugement (RG 23/03643) la condamnait à 60 405,24 € de clauses pénales, 268 087,72 € d'impayés ayant été réglés le 30/06/2023, après l'assignation. 2CRSi a signifié un congé partiel le 28/06/2024 ; le bailleur l'a assignée le 06/12/2024. 2CRSi invoquait des désordres dans les locaux et un comportement abusif du bailleur ; une expertise est en cours. Dispositif : « CONDAMNE la SA 2CRSI à payer la somme de 1 581 731,16 € due par la société 2CRSI au titre des loyers et charges pour le 27 février 2026 », 29 498,67 € de clause pénale et 3 000 € au titre de l'article 700 ; le bailleur est débouté de sa demande de 30 000 € de dommages et intérêts, 2CRSi de ses demandes de restitution du dépôt de garantie et d'indemnisation ; la décision est exécutoire par provision. Le congé est jugé valable pour le seul 2e étage, à compter du 31/05/2025. Le rapport financier annuel 2025-26, publié le 31/10/2026, ne mentionne pas ce litige. Un jugement de premier ressort peut faire l'objet d'un appel ; aucune pièce du corpus n'indique si un appel a été formé.",
    "sources": [
     "S266",
+    "S268",
     "S173"
    ],
    "sources_libelle": [
     "TJ Strasbourg, jugement du 10/06/2026, RG 24/11082 (base Judilibre)",
+    "TJ Strasbourg, jugement du 11/06/2025, RG 23/03643 (base Judilibre)",
     "Rapport financier annuel 2025-26 (absence de mention)"
    ],
    "engagements": [],
@@ -12049,6 +12100,26 @@
    "url": "https://www.courdecassation.fr/decision/6a29d835cdc6046d47def710",
    "archive": "integral",
    "note": "Lu sur le site officiel le 25/11/2026. Le nom du bailleur et les adresses sont masqués dans la décision publiée : ne pas les rétablir. Extraits archivés ; texte intégral à archiver.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S267",
+   "date_source": "2026-05-28",
+   "type": "officiel",
+   "reference": "Tribunal judiciaire de Strasbourg, ordonnance de référé du 28/05/2026, RG 26/00226 (base Judilibre)",
+   "url": "https://www.courdecassation.fr/decision/6a18b45dcdc6046d474a80b3",
+   "archive": "integral",
+   "note": "Texte de la page officielle copié par l'utilisateur le 25/11/2026 (lecture automatique bloquée). La cour d'appel et les adresses sont masquées.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S268",
+   "date_source": "2025-06-11",
+   "type": "officiel",
+   "reference": "Tribunal judiciaire de Strasbourg, 3e chambre civile, jugement du 11/06/2025, RG 23/03643 (base Judilibre)",
+   "url": "https://www.courdecassation.fr/decision/684c98d2b34a5cb0e489b1c7",
+   "archive": "integral",
+   "note": "Texte de la page officielle copié par l'utilisateur le 25/11/2026. Nom du bailleur non repris sur la frise (masqué dans S266).",
    "texte_archive": "sources_textes.json"
   }
  ],
