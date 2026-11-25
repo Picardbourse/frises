@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-24",
- "mis_a_jour": "2026-11-24T20:19",
- "arrete_au": "2026-11-24",
+ "genere_le": "2026-11-25",
+ "mis_a_jour": "2026-11-25T07:32",
+ "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 193,
-  "sources": 254
+  "evenements": 194,
+  "sources": 255
  },
  "evenements": [
   {
@@ -3193,6 +3193,55 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2026-06-10_tj-loyers-bureaux",
+   "date": "2026-06-10",
+   "date_affichee": "10 juin 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Le tribunal judiciaire de Strasbourg condamne 2CRSi à payer 1,58 M€ de loyers et charges au bailleur de ses bureaux de Strasbourg",
+   "texte": "Jugement du tribunal judiciaire de Strasbourg (3e chambre civile, RG 24/11082), rendu en premier ressort entre une société civile immobilière, bailleur (son nom est masqué dans la décision publiée), et la SA 2CRSI. Deux baux commerciaux signés le 01/10/2018, pour douze ans à compter du 01/01/2019, portent sur un immeuble de Strasbourg : rez-de-chaussée, 1er, 3e et 4e étages pour l'un, 2e étage pour l'autre. Le jugement rappelle deux ordonnances de référé, du 28/10/2021 et du 05/01/2023, condamnant 2CRSi à verser une provision, et un jugement du 11/06/2025 qui « a constaté le paiement de la société 2CRSI en cours d'instance des loyers et charges sollicités et l'a condamnée au paiement des intérêts, clause pénale et indemnités ». 2CRSi a signifié un congé partiel le 28/06/2024 ; le bailleur l'a assignée le 06/12/2024. 2CRSi invoquait des désordres dans les locaux et un comportement abusif du bailleur ; une expertise est en cours. Dispositif : « CONDAMNE la SA 2CRSI à payer la somme de 1 581 731,16 € due par la société 2CRSI au titre des loyers et charges pour le 27 février 2026 », 29 498,67 € de clause pénale et 3 000 € au titre de l'article 700 ; le bailleur est débouté de sa demande de 30 000 € de dommages et intérêts, 2CRSi de ses demandes de restitution du dépôt de garantie et d'indemnisation ; la décision est exécutoire par provision. Le congé est jugé valable pour le seul 2e étage, à compter du 31/05/2025. Le rapport financier annuel 2025-26, publié le 31/10/2026, ne mentionne pas ce litige. Un jugement de premier ressort peut faire l'objet d'un appel ; aucune pièce du corpus n'indique si un appel a été formé.",
+   "sources": [
+    "S266",
+    "S173"
+   ],
+   "sources_libelle": [
+    "TJ Strasbourg, jugement du 10/06/2026, RG 24/11082 (base Judilibre)",
+    "Rapport financier annuel 2025-26 (absence de mention)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-06-30_notes-saisie-litiges"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-06-10",
+      "cloture": 49.0,
+      "volume": 430347,
+      "variation_pct": -2.7,
+      "volume_vs_moy20": 1.5
+     },
+     {
+      "role": "suivante",
+      "date": "2026-06-11",
+      "cloture": 48.22,
+      "volume": 150350,
+      "variation_pct": -1.6,
+      "volume_vs_moy20": 0.5
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2026-06-11_calyos",
@@ -11990,6 +12039,16 @@
    "url": "https://lnkd.in/p/eZi_-Eay",
    "archive": "integral",
    "note": "Texte collé par l'utilisateur (post affiché « 2 h » à 17 h 23). Agora Calycé n'apparaît dans aucune pièce antérieure du corpus. Aucun contrat ni montant.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S266",
+   "date_source": "2026-06-10",
+   "type": "officiel",
+   "reference": "Tribunal judiciaire de Strasbourg, 3e chambre civile, jugement du 10/06/2026, RG 24/11082 (base Judilibre)",
+   "url": "https://www.courdecassation.fr/decision/6a29d835cdc6046d47def710",
+   "archive": "integral",
+   "note": "Lu sur le site officiel le 25/11/2026. Le nom du bailleur et les adresses sont masqués dans la décision publiée : ne pas les rétablir. Extraits archivés ; texte intégral à archiver.",
    "texte_archive": "sources_textes.json"
   }
  ],
