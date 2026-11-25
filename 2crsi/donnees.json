@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T15:57",
+ "mis_a_jour": "2026-11-25T16:05",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 204,
-  "sources": 269
+  "evenements": 205,
+  "sources": 273
  },
  "evenements": [
   {
@@ -755,6 +755,59 @@
    "engagements": [],
    "liens": [],
    "majeur": false
+  },
+  {
+   "id": "2023-11-17_reprise-cotation",
+   "date": "2023-11-17",
+   "date_affichee": "17 nov. 2023",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Reprise de la cotation après la publication du rapport annuel 2022/23 « définitif », assorti d'une réserve des commissaires aux comptes",
+   "texte": "L'exercice 2022/23 est clos le 28/02/2023. Le 11/08/2023, la société reporte son assemblée du 31/08 : « En raison de la vente de sa branche « distribution » qui a perturbé les processus de clôture et d'audit des comptes du Groupe qui est toujours en cours, la société ne sera pas en mesure de publier son Rapport Annuel 2022/23 » avant l'assemblée ; elle annonce une requête au tribunal judiciaire de Strasbourg pour prolonger le délai légal de six mois. Le 05/10/2023, « pour remédier aux problèmes de communication financière rencontrés », elle propose de clôturer désormais au 30 juin (exercice 2023-24 de seize mois) et diffère la publication du chiffre d'affaires semestriel. Un premier rapport annuel est mis en ligne le 27/10/2023. Les cours quotidiens ne montrent aucun échange sur le titre du 31/10 au 16/11/2023 ; l'avis de suspension d'Euronext n'est pas dans le corpus. Le 15/11/2023, la société publie le rapport « définitif », avec le rapport des commissaires aux comptes : « Ces derniers ont émis une réserve sur l'estimation des effets financiers de la vente de « Boston Limited ». Pour donner suite à une demande de l'Autorité des Marchés, ce communiqué de presse reprend les termes exacts de cette réserve : […] Contrairement aux dispositions de la norme IAS 10, l'annexe ne mentionne pas l'estimation des effets financiers sur les comptes du groupe de cet événement postérieur significatif. » La société indique que cette réserve « résulte des strictes obligations de confidentialité imposées par l'acheteur ». Le 16/11/2023, elle annonce « la reprise de la cotation de son action à compter de la séance du 17 novembre 9h » : « Après validation d'Euronext, cette reprise de cotation fait suite à la publication et à la mise à disposition du public du rapport financier annuel définitif de l'exercice 2022/23 ».",
+   "sources": [
+    "S281",
+    "S282",
+    "S283",
+    "S284"
+   ],
+   "sources_libelle": [
+    "Communiqué du 16/11/2023 : reprise de la cotation (DILA)",
+    "Communiqué du 15/11/2023 : rapport financier annuel définitif (DILA)",
+    "Communiqué du 11/08/2023 : report de l'assemblée générale (DILA)",
+    "Communiqué du 05/10/2023 : assemblée fixée au 30/11/2023 (DILA)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2023-07-18_cession-boston"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2023-11-17",
+      "cloture": 0.83,
+      "volume": 271079,
+      "variation_pct": 4.0,
+      "volume_vs_moy20": 20.0
+     },
+     {
+      "role": "suivante",
+      "date": "2023-11-20",
+      "cloture": 1.38,
+      "volume": 542724,
+      "variation_pct": 66.3,
+      "volume_vs_moy20": 21.1
+     }
+    ]
+   },
+   "majeur": true
   },
   {
    "id": "2024-01-15_contrat-cadre-610",
@@ -12574,7 +12627,7 @@
    "reference": "Communiqué 2CRSi et EdgeMode du 31/03/2021 : « EdgeMode, spécialiste du HPC et des cryptomonnaies, choisit les serveurs haute performance à faible consommation d'énergie de 2CRSi »",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2021/03/FCEQS002045_20210331.pdf",
    "archive": "integral",
-   "note": "Communiqué absent du site investisseurs de la société ; texte récupéré à la DILA (adresse du PDF reconstituée d'après le nom du fichier, à vérifier).",
+   "note": "Communiqué absent du site investisseurs de la société ; texte récupéré à la DILA ; adresse du PDF vérifiée le 25/11/2026.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -12605,6 +12658,46 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1652958/000168316825001176/edgemode_i10ka2-123123.htm",
    "archive": "integral",
    "note": "Lu sur sec.gov le 25/11/2026 (navigateur du PC).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S281",
+   "date_source": "2023-11-16",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi du 16/11/2023 : « Reprise de la cotation à compter du 17 novembre »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/11/FCEQS005288_20231116.pdf",
+   "archive": "integral",
+   "note": "Communiqué absent du site investisseurs de la société ; PDF lu à la DILA le 25/11/2026 (navigateur du PC). Texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S282",
+   "date_source": "2023-11-15",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi du 15/11/2023 : « Mise à disposition du rapport financier annuel définitif »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/11/FCEQS005280_20231115.pdf",
+   "archive": "integral",
+   "note": "Communiqué absent du site investisseurs de la société ; PDF lu à la DILA le 25/11/2026 (navigateur du PC). Texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S283",
+   "date_source": "2023-08-11",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi du 11/08/2023 : « Report de l'assemblée générale mixte du 31 Août 2023 »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/08/FCEQS004978_20230811.pdf",
+   "archive": "integral",
+   "note": "Communiqué absent du site investisseurs de la société ; PDF lu à la DILA le 25/11/2026 (navigateur du PC). Texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S284",
+   "date_source": "2023-10-05",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi du 05/10/2023 : « Assemblée générale mixte fixée au 30/11/2023 — Point sur les prochaines annonces »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/10/FCEQS005148_20231005.pdf",
+   "archive": "integral",
+   "note": "Communiqué absent du site investisseurs de la société ; PDF lu à la DILA le 25/11/2026 (navigateur du PC). Texte intégral non archivé.",
    "texte_archive": "sources_textes.json"
   }
  ],
