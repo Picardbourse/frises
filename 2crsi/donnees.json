@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T13:47",
+ "mis_a_jour": "2026-11-25T15:57",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 202,
-  "sources": 265
+  "evenements": 204,
+  "sources": 269
  },
  "evenements": [
   {
@@ -150,6 +150,50 @@
    ],
    "engagements": [],
    "liens": [],
+   "majeur": true
+  },
+  {
+   "id": "2021-03-31_edgemode-commandes",
+   "date": "2021-03-31",
+   "date_affichee": "31 mars 2021",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi annonce deux commandes d'EdgeMode (1 M$ et 1,25 M$) et un « partenariat à long terme »",
+   "texte": "Communiqué commun : EdgeMode Inc., société américaine de minage de cryptomonnaie et de calcul, et 2CRSi « annoncent la conclusion de premiers contrats marquant le début d'un partenariat à long terme ». « Une première commande d'un montant total de 1 million de dollars avait été passée par EdgeMode en février 2021 » ; « une deuxième commande pour un montant de 1,25 million de dollars en mars, qui sera livrée en avril 2021 ». Le communiqué mentionne l'intention d'EdgeMode de commander une capacité supplémentaire « significative » dans les six mois. Un document déposé par le client à la SEC le 07/02/2022 indique que ses machines sont alors hébergées par 2CRSi dans l'État de New York : « The Company pays 2CRSI hosting fees of $0.08 per KWH plus a monthly hosting charge of $50 per MWH. »",
+   "sources": [
+    "S277",
+    "S278"
+   ],
+   "sources_libelle": [
+    "Communiqué 2CRSi et EdgeMode du 31/03/2021 (DILA)",
+    "Fourth Wave Energy (devenue Edgemode), formulaire 8-K du 07/02/2022 (SEC)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2021-03-31",
+      "cloture": 4.97,
+      "volume": 10870,
+      "variation_pct": -0.2,
+      "volume_vs_moy20": 0.1
+     },
+     {
+      "role": "suivante",
+      "date": "2021-04-01",
+      "cloture": 5.34,
+      "volume": 84859,
+      "variation_pct": 7.4,
+      "volume_vs_moy20": 1.0
+     }
+    ]
+   },
    "majeur": true
   },
   {
@@ -429,6 +473,50 @@
     {
      "type": "precise",
      "cible": "2020-12-23_coin-citadel"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2023-01-02",
+      "cloture": 3.08,
+      "volume": 2371,
+      "variation_pct": 0.0,
+      "volume_vs_moy20": 0.1
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2022-12-31_edgemode-materiel-rendu",
+   "date": "2022-12-31",
+   "date_affichee": "31 déc. 2022",
+   "revele_le": "2023-04-17",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Edgemode déclare une dette de 1,18 M$ envers 2CRSi et dit avoir rendu le matériel",
+   "texte": "Rapport annuel 2022 d'Edgemode, déposé à la SEC le 17/04/2023 : « There is an outstanding debt of $1,179,972 on the miners. The miners have been returned to 2CRSI upon termination of the contract and as such the Company is making no further payments against the potential balance. No confirmation has been received from 2CRSI and as such the balance remains outstanding on the Company's balance sheet ». Les serveurs servaient au minage d'Ethereum, arrêté par le changement de protocole de cette cryptomonnaie. Le rapport modifié déposé le 21/02/2025 (exercice 2023) parle d'« approximately $1.6 million of debt », d'activités suspendues, et répète qu'aucune confirmation n'a été reçue de 2CRSi. Ces pièces émanent du seul client. Aucun communiqué de 2CRSi ne revient sur ce partenariat ; le rapport annuel 2022-23 de 2CRSi mentionne, sans nommer EdgeMode, un « client RPNY » : matériel loué sorti de l'actif pour 705 k€ et protocole d'accord. Le rapprochement entre les deux n'est pas établi.",
+   "sources": [
+    "S279",
+    "S280",
+    "S202"
+   ],
+   "sources_libelle": [
+    "Edgemode, rapport annuel 2022, formulaire 10-K du 17/04/2023 (SEC)",
+    "Edgemode, rapport annuel 2023 modifié, formulaire 10-K/A du 21/02/2025 (SEC)",
+    "Rapport financier annuel 2022-23 de 2CRSi (client « RPNY »)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2021-03-31_edgemode-commandes"
     }
    ],
    "seance": {
@@ -12477,6 +12565,46 @@
    "url": "https://www.courdecassation.fr/decision/69a68e02cdc6046d4754e3c8",
    "archive": "integral",
    "note": "PDF officiel fourni par l'utilisateur le 25/11/2026 ; nom du client masqué dans la décision, non rétabli sur la frise (choix de l'utilisateur du 25/11 : événement présenté comme « une société cliente », sans lien avec les événements Linkoffice). PDF et texte dans pistes/pieces/2026-11-25/.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S277",
+   "date_source": "2021-03-31",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi et EdgeMode du 31/03/2021 : « EdgeMode, spécialiste du HPC et des cryptomonnaies, choisit les serveurs haute performance à faible consommation d'énergie de 2CRSi »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2021/03/FCEQS002045_20210331.pdf",
+   "archive": "integral",
+   "note": "Communiqué absent du site investisseurs de la société ; texte récupéré à la DILA (adresse du PDF reconstituée d'après le nom du fichier, à vérifier).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S278",
+   "date_source": "2022-02-07",
+   "type": "CP tiers",
+   "reference": "Fourth Wave Energy, Inc. (devenue Edgemode, Inc.), formulaire 8-K déposé à la SEC le 07/02/2022",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652958/000168316822000702/fourthwave_8k.htm",
+   "archive": "integral",
+   "note": "Lu sur sec.gov le 25/11/2026 (navigateur du PC).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S279",
+   "date_source": "2023-04-17",
+   "type": "CP tiers",
+   "reference": "Edgemode, Inc., rapport annuel 2022, formulaire 10-K déposé à la SEC le 17/04/2023",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652958/000168316823002430/edgemode_i10k-123122.htm",
+   "archive": "integral",
+   "note": "Lu sur sec.gov le 25/11/2026 (navigateur du PC).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S280",
+   "date_source": "2025-02-21",
+   "type": "CP tiers",
+   "reference": "Edgemode, Inc., rapport annuel 2023 modifié, formulaire 10-K/A déposé à la SEC le 21/02/2025",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652958/000168316825001176/edgemode_i10ka2-123123.htm",
+   "archive": "integral",
+   "note": "Lu sur sec.gov le 25/11/2026 (navigateur du PC).",
    "texte_archive": "sources_textes.json"
   }
  ],
