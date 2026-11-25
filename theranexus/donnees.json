@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-24",
- "mis_a_jour": "2026-11-24T21:42",
- "arrete_au": "2026-11-24",
+ "genere_le": "2026-11-25",
+ "mis_a_jour": "2026-11-25T13:55",
+ "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
   "code": "theranexus",
@@ -74,7 +74,7 @@
  },
  "nb": {
   "evenements": 180,
-  "sources": 205
+  "sources": 206
  },
  "evenements": [
   {
@@ -7317,14 +7317,16 @@
    ],
    "statut": "doc",
    "titre": "États-Unis : la loi prolonge jusqu'au 30/09/2029 les bons de revue prioritaire pour les maladies pédiatriques rares",
-   "texte": "La loi de finances américaine pour 2026 (Public Law 119-75, approuvée le 03/02/2026) modifie par sa section 6604 l'article 529 de la loi sur les médicaments : la date limite du 20 décembre 2024 est remplacée par « September 30, 2029 ». Batten-1 (alors BBDF-101) a reçu en août 2020 la désignation « Rare Pediatric Disease », qui ouvre droit, à l'enregistrement, à un bon cessible. Les communiqués de 2026 de la société ne mentionnent ni ce bon ni son bénéficiaire.",
+   "texte": "La loi de finances américaine pour 2026 (Public Law 119-75, approuvée le 03/02/2026) modifie par sa section 6604 l'article 529 de la loi sur les médicaments : la date limite du 20 décembre 2024 est remplacée par « September 30, 2029 ». Batten-1 (alors BBDF-101) a reçu en août 2020 la désignation « Rare Pediatric Disease », que le communiqué de l'époque présentait comme ouvrant droit à un bon cessible. Cet article 529 réserve le bon à un médicament dont le principe actif n'a jamais été autorisé aux États-Unis (« contains no active moiety [...] that has been previously approved »), ce que n'est pas le miglustat. Les communiqués de 2026 de la société ne mentionnent ni ce bon ni son bénéficiaire.",
    "sources": [
     "S199",
-    "S054"
+    "S054",
+    "S206"
    ],
    "sources_libelle": [
     "Public Law 119-75 du 03/02/2026, section 6604",
-    "CP Theranexus du 11/08/2020"
+    "CP Theranexus du 11/08/2020",
+    "United States Code, titre 21, § 360ff"
    ],
    "engagements": [],
    "liens": [
@@ -8651,16 +8653,18 @@
   },
   {
    "sujet": "batten",
-   "question": "Qui recevrait le bon de revue prioritaire américain attaché à Batten-1, et l'enregistrement peut-il intervenir avant le 30/09/2029 ?",
-   "etat": "Août 2020 : désignation « Rare Pediatric Disease » de la FDA, qui donne droit à l'enregistrement à un bon « cessible ou transférable » ; le communiqué anglais dit qu'elle qualifie Theranexus pour ce bon, la page de la fondation dit que les désignations lui ont été accordées. Le DEU 2019 rappelle que BioMarin a cédé le bon de Brineura 125 M$ en 2017. 03/02/2026 : la loi américaine prolonge le dispositif jusqu'au 30/09/2029. Calendrier connu de Batten-1 : fin de collecte du critère principal en juin 2028, lancement visé vers 2030. Aucun communiqué de 2026 ne dit qui, de la fondation, de Biocodex ou de THX Pharma, recevrait le bon ou son produit.",
-   "attendu": "Mention du bon dans le DEU 2026 ou dans un communiqué ; calendrier de dépôt de la demande d'enregistrement américaine.",
+   "question": "Batten-1 peut-il prétendre au bon de revue prioritaire américain des maladies pédiatriques rares ?",
+   "etat": "Août 2020 : désignation « Rare Pediatric Disease » de la FDA pour BBDF-101 (alors tréhalose + miglustat) ; le communiqué anglais dit qu'elle qualifie Theranexus pour un bon cessible, la page de la fondation dit que les désignations lui ont été accordées. Le DEU 2019 rappelle que BioMarin a cédé le bon de Brineura 125 M$ en 2017. 03/02/2026 : la loi américaine prolonge le dispositif jusqu'au 30/09/2029. Mais la loi réserve le bon à une demande portant sur un médicament qui « contains no active moiety [...] that has been previously approved in any other application », déposée par la voie 505(b)(1). Or Batten-1 est depuis 2022 du miglustat seul, et le miglustat est déjà autorisé aux États-Unis (gélules, dont des génériques). Aucune pièce de la société ne dit si Batten-1 reste éligible ; les communiqués de 2026 ne mentionnent pas ce bon.",
+   "attendu": "Position de la société ou de ses partenaires sur l'éligibilité ; voie de dépôt américaine retenue pour Batten-1.",
    "sources": [
     "S054",
     "S055",
     "S200",
     "S194",
     "S199",
-    "S172"
+    "S206",
+    "S088",
+    "S202"
    ]
   },
   {
@@ -10973,6 +10977,16 @@
    "url": "https://www.biocentury.com/article/36859/zavesca-receives-complete-response",
    "archive": "extrait",
    "note": "",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S206",
+   "date_source": "2026-02-03",
+   "type": "officiel",
+   "reference": "United States Code, titre 21, § 360ff : conditions d'attribution du bon de revue prioritaire pour les maladies pédiatriques rares (version à jour de la loi du 03/02/2026)",
+   "url": "https://www.law.cornell.edu/uscode/text/21/360ff",
+   "archive": "integral",
+   "note": "Texte de loi lu le 25/11/2026 sur le site du Legal Information Institute (reprise fidèle du code fédéral, à défaut du site uscode.house.gov) ; extraits archivés.",
    "texte_archive": "sources_textes.json"
   }
  ],
