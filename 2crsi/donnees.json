@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T07:43",
+ "mis_a_jour": "2026-11-25T08:00",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 195,
-  "sources": 257
+  "evenements": 196,
+  "sources": 258
  },
  "evenements": [
   {
@@ -758,6 +758,55 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2024-05-16_green-data-administrateur-provisoire",
+   "date": "2024-05-16",
+   "date_affichee": "16 mai 2024",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Green Data : la cour d'appel de Versailles désigne un administrateur provisoire à la demande de l'associé minoritaire",
+   "texte": "Arrêt de la cour d'appel de Versailles (chambre civile 1-5, RG 23/06528), rendu en dernier ressort : Azur Datacenter contre Green Data et 2CRSI. Green Data est alors détenue à 55 % par 2CRSi, qui la préside depuis l'assemblée du 28/01/2022, et à 45 % par Azur Datacenter. La cour infirme l'ordonnance du juge des référés du tribunal de commerce de Nanterre du 10/07/2023, qui avait rejeté la demande, et désigne un administrateur provisoire « pour une durée d'un an, renouvelable », chargé notamment d'« établir les conventions réglementées », d'« organiser une reconstitution de comptabilité depuis l'exercice 2021/2022 clos le 28 février 2022 » et de « convoquer et présider toute assemblée générale […] en vue de l'approbation des comptes 2019/2020, 2020/2021, 2021/2022 et 2022/2023 ». Motifs : « il est établi que la société Green Data ne fonctionne pas normalement, l'absence d'assemblées générales et de comptes régulièrement établis constituant une importante anomalie » ; la cour retient un « péril imminent ». 2CRSi et Green Data contestaient tout péril et mettaient en cause la gestion antérieure à novembre 2021 ; elles sont condamnées à 3 000 € au titre de l'article 700. Le différend entre les deux associés a pris fin par un protocole du 14/11/2025, 2CRSi acquérant les 45 % restants.",
+   "sources": [
+    "S269",
+    "S173"
+   ],
+   "sources_libelle": [
+    "CA Versailles, arrêt du 16/05/2024, RG 23/06528 (base Judilibre)",
+    "Rapport financier annuel 2025-26 (protocole du 14/11/2025)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-11-14_green-data-100"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2024-05-16",
+      "cloture": 4.46,
+      "volume": 66526,
+      "variation_pct": -3.5,
+      "volume_vs_moy20": 0.6
+     },
+     {
+      "role": "suivante",
+      "date": "2024-05-17",
+      "cloture": 4.38,
+      "volume": 86032,
+      "variation_pct": -1.8,
+      "volume_vs_moy20": 0.8
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2024-05-20_earthmade-revendeur",
@@ -12120,6 +12169,16 @@
    "url": "https://www.courdecassation.fr/decision/684c98d2b34a5cb0e489b1c7",
    "archive": "integral",
    "note": "Texte de la page officielle copié par l'utilisateur le 25/11/2026. Nom du bailleur non repris sur la frise (masqué dans S266).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S269",
+   "date_source": "2024-05-16",
+   "type": "officiel",
+   "reference": "Cour d'appel de Versailles, chambre civile 1-5, arrêt du 16/05/2024, RG 23/06528 (base Judilibre)",
+   "url": "https://www.courdecassation.fr/decision/6646f4afe8553e0008164598",
+   "archive": "integral",
+   "note": "PDF officiel téléchargé par l'utilisateur le 25/11/2026 ; texte intégral et PDF rangés dans pistes/pieces/2026-11-25/ (hors publication : personnes physiques nommées ou masquées).",
    "texte_archive": "sources_textes.json"
   }
  ],
