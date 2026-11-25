@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T17:42",
+ "mis_a_jour": "2026-11-25T18:03",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 208,
-  "sources": 282
+  "evenements": 210,
+  "sources": 284
  },
  "evenements": [
   {
@@ -6458,6 +6458,31 @@
    "majeur": false
   },
   {
+   "id": "2026-09-30_eia-buena-vista-hors-service",
+   "date": "2026-09-30",
+   "date_affichee": "sept. 2026",
+   "sujets": [
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "Registre fédéral de l'énergie (EIA) : la centrale de Buena Vista toujours déclarée hors service",
+   "texte": "Dans le relevé mensuel des installations de l'agence américaine de l'énergie (EIA-860M) de septembre 2026, la centrale Buena Vista Biomass Power (code 58472, comté d'Amador) a le statut « Out of service and NOT expected to return to service in next calendar year ». L'exploitant déclaré est Buena Vista Biomass LLC ; puissance nominale 22,5 MW, nette d'été 17,8 MW. Statut, exploitant et puissance sont inchangés dans tous les relevés depuis janvier 2019. Les déclarations de production (EIA-923) montrent une dernière production nette en février 2016 (8 126 MWh), zéro de mars 2016 à décembre 2019, puis plus aucune déclaration. Le statut est déclaré par l'exploitant à l'EIA ; le registre ne dit pas s'il a été mis à jour depuis le rachat de la centrale par NYGC.",
+   "sources": [
+    "S294"
+   ],
+   "sources_libelle": [
+    "EIA, relevés EIA-860M (septembre 2026) et EIA-923, centrale 58472"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-08-26_nygc-faq"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-10-01_calaveras-01-10",
    "date": "2026-10-01",
    "date_affichee": "1er oct. 2026",
@@ -9600,6 +9625,26 @@
      "cible": "2026-07-30_eurohpc-appel"
     }
    ],
+   "majeur": false
+  },
+  {
+   "id": "2027-04-30_semestriel-echeance",
+   "date": "2027-04-30",
+   "date_affichee": "30 avr. 2027",
+   "sujets": [
+    "res"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : rapport semestriel au 31/12/2026",
+   "texte": "Les règles d'Euronext Growth (règle 4.2.1) imposent de publier le rapport semestriel dans les quatre mois suivant la fin du deuxième trimestre de l'exercice, soit au plus tard le 30/04/2027 pour le semestre clos le 31/12/2026 (exercice ouvert le 01/07/2026). Le rapport comprend les comptes semestriels et un rapport d'activité ; la règle n'exige pas de rapport de l'auditeur pour le semestre.",
+   "sources": [
+    "S295"
+   ],
+   "sources_libelle": [
+    "Euronext Growth Markets Rule Book, Book I, règle 4.2.1"
+   ],
+   "engagements": [],
+   "liens": [],
    "majeur": false
   },
   {
@@ -12936,6 +12981,26 @@
    "url": "https://efts.sec.gov/LATEST/search-index?q=%222CRSI%22&forms=NPORT-P",
    "archive": "integral",
    "note": "Fichiers primary_doc.xml lus sur sec.gov le 25/11/2026 (accessions 0001004726-26-008816, -008841, -008834, -008869 ; 0000777535-26-000116 et -000158).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S294",
+   "date_source": "2026-09-30",
+   "type": "registre",
+   "reference": "U.S. Energy Information Administration (EIA), centrale Buena Vista Biomass Power (code 58472) : relevé mensuel des installations EIA-860M (septembre 2026) et production nette EIA-923",
+   "url": "https://www.eia.gov/electricity/data/browser/#/plant/58472",
+   "archive": "integral",
+   "note": "Lu le 25/11/2026 via l'API api.eia.gov (operating-generator-capacity, relevés 2019-01 à 2026-09, statut inchangé) et le navigateur de données de l'EIA (série ELEC.PLANT.GEN.58472-ALL-ALL.M). Statut déclaré par l'exploitant.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S295",
+   "date_source": "2024-05-02",
+   "type": "officiel",
+   "reference": "Euronext Growth Markets Rule Book, Book I : Harmonised Rules, règle 4.2.1 (en vigueur au 02/05/2024)",
+   "url": "https://www.euronext.com/sites/default/files/2024-04/euronext_growth_harmonised_rulebook_i.pdf",
+   "archive": "integral",
+   "note": "Lu le 25/11/2026 (WebFetch).",
    "texte_archive": "sources_textes.json"
   }
  ],
