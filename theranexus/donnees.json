@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T13:55",
+ "mis_a_jour": "2026-11-25T16:15",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -74,7 +74,7 @@
  },
  "nb": {
   "evenements": 180,
-  "sources": 206
+  "sources": 207
  },
  "evenements": [
   {
@@ -7876,7 +7876,7 @@
    ],
    "statut": "doc",
    "titre": "Trésorerie de 17,5 M€ au 30 juin 2026 ; pro forma au 31 mars ramené de 22,3 M€ à 19,9 M€ (TVA de 2,4 M€)",
-   "texte": "Le CP explique que les 22,3 M€ publiés au 31/03/2026 incluaient un remboursement de TVA de 2,4 M€ reçu en avril. Biocodex prend en charge l'intégralité des coûts de développement clinique de Batten-1.",
+   "texte": "Le CP donne une trésorerie « proforma de 19,9 M€ au 31 mars 2026 (soit 22,3 M€ corrigé de 2,4 M€ de TVA reversée en avril 2026) » : les 22,3 M€ publiés au 31/03/2026 incluaient 2,4 M€ de TVA, reversée en avril. Biocodex prend en charge l'intégralité des coûts de développement clinique de Batten-1.",
    "sources": [
     "S162",
     "S161"
@@ -8142,13 +8142,15 @@
    ],
    "statut": "doc",
    "titre": "Brevet européen EP 4 188 371 délivré pour l'usage de Batten-1 dans la CLN3, protection jusqu'au 30 juillet 2041",
-   "texte": "Titulaires : BBDF, Baylor College of Medicine et Cardiff University (priorité EP du 30/07/2020) ; licence exclusive mondiale de la BBDF à THX Pharma ; validation dans 38 États. S'y ajoutent la famille de brevets de formulation de THX Pharma et les désignations orphelines FDA (août 2020) et UE (octobre 2020). Un rectificatif a été publié le 09/09/2026 (objet non précisé).",
+   "texte": "Titulaires : BBDF, Baylor College of Medicine et Cardiff University (priorité EP du 30/07/2020) ; licence exclusive mondiale de la BBDF à THX Pharma ; validation dans 38 États. S'y ajoutent la famille de brevets de formulation de THX Pharma et les désignations orphelines FDA (août 2020) et UE (octobre 2020). Le communiqué du 8 septembre ajoutait : « La FDA a par ailleurs accordé au programme la désignation de maladie pédiatrique rare (Rare Pediatric Disease Designation) ». Un rectificatif du 09/09/2026 l'annule et le remplace : « une erreur matérielle s'était glissée – la désignation RPDD pour le produit historique BBDF-101 ne peut pas s'appliquer au candidat médicament Batten-1 » ; la phrase n'y figure plus.",
    "sources": [
     "S165",
+    "S207",
     "S082"
    ],
    "sources_libelle": [
     "CP THX Pharma du 08/09/2026",
+    "CP rectificatif THX Pharma du 09/09/2026",
     "Brevet WO2022023573 / EP4188371 du 03/02/2022"
    ],
    "engagements": [],
@@ -8654,8 +8656,8 @@
   {
    "sujet": "batten",
    "question": "Batten-1 peut-il prétendre au bon de revue prioritaire américain des maladies pédiatriques rares ?",
-   "etat": "Août 2020 : désignation « Rare Pediatric Disease » de la FDA pour BBDF-101 (alors tréhalose + miglustat) ; le communiqué anglais dit qu'elle qualifie Theranexus pour un bon cessible, la page de la fondation dit que les désignations lui ont été accordées. Le DEU 2019 rappelle que BioMarin a cédé le bon de Brineura 125 M$ en 2017. 03/02/2026 : la loi américaine prolonge le dispositif jusqu'au 30/09/2029. Mais la loi réserve le bon à une demande portant sur un médicament qui « contains no active moiety [...] that has been previously approved in any other application », déposée par la voie 505(b)(1). Or Batten-1 est depuis 2022 du miglustat seul, et le miglustat est déjà autorisé aux États-Unis (gélules, dont des génériques). Aucune pièce de la société ne dit si Batten-1 reste éligible ; les communiqués de 2026 ne mentionnent pas ce bon.",
-   "attendu": "Position de la société ou de ses partenaires sur l'éligibilité ; voie de dépôt américaine retenue pour Batten-1.",
+   "etat": "Août 2020 : désignation « Rare Pediatric Disease » de la FDA pour BBDF-101 (alors tréhalose + miglustat) ; le communiqué anglais dit qu'elle qualifie Theranexus pour un bon cessible, la page de la fondation dit que les désignations lui ont été accordées. Le DEU 2019 rappelle que BioMarin a cédé le bon de Brineura 125 M$ en 2017. 03/02/2026 : la loi américaine prolonge le dispositif jusqu'au 30/09/2029. Mais la loi réserve le bon à une demande portant sur un médicament qui « contains no active moiety [...] that has been previously approved in any other application », déposée par la voie 505(b)(1). Or Batten-1 est depuis 2022 du miglustat seul, et le miglustat est déjà autorisé aux États-Unis (gélules, dont des génériques). 09/09/2026 : dans un rectificatif à son communiqué sur le brevet européen, la société écrit que « la désignation RPDD pour le produit historique BBDF-101 ne peut pas s'appliquer au candidat médicament Batten-1 ». Les communiqués de 2026 ne mentionnent pas le bon lui-même.",
+   "attendu": "Voie de dépôt américaine retenue pour Batten-1 ; toute nouvelle désignation demandée pour Batten-1 lui-même.",
    "sources": [
     "S054",
     "S055",
@@ -8664,7 +8666,8 @@
     "S199",
     "S206",
     "S088",
-    "S202"
+    "S202",
+    "S207"
    ]
   },
   {
@@ -10579,7 +10582,7 @@
    "reference": "CP THX Pharma du 08/09/2026 : brevet européen EP 4 188 371 protégeant Batten-1",
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/09/FCACT081257_20260908.pdf",
    "archive": "integral",
-   "note": "Texte Actusnews repris par ABC Bourse ; un rectificatif a été publié le 9 septembre 2026 à 8h30 (contenu de la correction non précisé sur la page consultée). ; reprise via ABC Bourse",
+   "note": "Texte Actusnews repris par ABC Bourse ; annulé et remplacé par le rectificatif du 9 septembre 2026 (S207)",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -10987,6 +10990,16 @@
    "url": "https://www.law.cornell.edu/uscode/text/21/360ff",
    "archive": "integral",
    "note": "Texte de loi lu le 25/11/2026 sur le site du Legal Information Institute (reprise fidèle du code fédéral, à défaut du site uscode.house.gov) ; extraits archivés.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S207",
+   "date_source": "2026-09-09",
+   "type": "CP",
+   "reference": "CP rectificatif THX Pharma du 09/09/2026 : brevet européen EP 4 188 371 (annule et remplace le communiqué du 08/09/2026)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/09/FCACT081274_20260909.pdf",
+   "archive": "integral",
+   "note": "Information réglementée déposée à l'AMF (DILA) ; texte intégral archivé.",
    "texte_archive": "sources_textes.json"
   }
  ],
