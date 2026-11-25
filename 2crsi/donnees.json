@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T18:03",
+ "mis_a_jour": "2026-11-25T18:08",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -8432,9 +8432,9 @@
      "id": "2026-11-03_commande-exaion#e1",
      "texte": "17 serveurs HGX B300 livrés à Exaion « dès cette semaine »",
      "echeance": "2026-11-08",
-     "statut": "todo",
+     "statut": "nd",
      "statue_par": null,
-     "note": ""
+     "note": "aucune pièce de 2CRSi trouvée au 25/11/2026 ; MARA (09/11/2026, S285 à S287) indique des B300 livrés de novembre à début décembre pour Exaion, sans nommer le fournisseur"
     },
     {
      "id": "2026-11-03_commande-exaion#e2",
