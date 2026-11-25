@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T13:41",
+ "mis_a_jour": "2026-11-25T13:47",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,10 +80,32 @@
   ]
  },
  "nb": {
-  "evenements": 199,
-  "sources": 262
+  "evenements": 202,
+  "sources": 265
  },
  "evenements": [
+  {
+   "id": "2020-05-26_linkoffice-contrat",
+   "date": "2020-05-26",
+   "date_affichee": "26 mai 2020",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi annonce un contrat d'un « montant global de 6,5 M€ » avec Linkoffice",
+   "texte": "Communiqué reproduit dans le document d'enregistrement universel 2020-21 : « 2CRSi et Linkoffice concluent un contrat d'un montant global de 6,5M€ », pour la fourniture de serveurs de calcul et de stockage. « La première commande ferme (environ un quart du total) sera livrée en 2020. Les tranches suivantes seront conditionnées, entre autres, à la parfaite exécution de cette première partie. La durée du contrat est de quatre années. » Selon le communiqué, Linkoffice « entre dans le top 20 des clients français en 2020 ». Un jugement du 23/12/2024 mentionne un abonnement de 48 mois signé entre les deux sociétés le 28/08/2020. Aucune pièce du corpus n'indique si les tranches suivantes ont été commandées.",
+   "sources": [
+    "S274",
+    "S275"
+   ],
+   "sources_libelle": [
+    "Document d'enregistrement universel 2020-21, événements marquants (p. 163 du PDF)",
+    "TJ Strasbourg, juge de l'exécution, 23/12/2024, RG 24/10798 (base Judilibre)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": false
+  },
   {
    "id": "2020-07-24_haw-cac",
    "date": "2020-07-24",
@@ -1163,6 +1185,53 @@
    "engagements": [],
    "liens": [],
    "revele_le": "2026-10-31",
+   "majeur": false
+  },
+  {
+   "id": "2024-12-23_linkoffice-saisie-conservatoire",
+   "date": "2024-12-23",
+   "date_affichee": "23 déc. 2024",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Le juge de l'exécution maintient la saisie conservatoire pratiquée par 2CRSi sur les comptes de son client Linkoffice",
+   "texte": "Jugement du juge de l'exécution du tribunal judiciaire de Strasbourg (RG 24/10798), en premier ressort. Sur ordonnance du 30/10/2024, « la société 2CRSI a fait diligenter sur les comptes bancaires de la société LINKOFFICE une saisie conservatoire par acte des 12 et 14 novembre 2024 », pour une créance évaluée provisoirement à 487 937,15 €. Le jugement relève un abonnement de 48 mois signé le 28/08/2020 (location de baies de stockage, logiciels, infogérance) et des factures de 148 585,98 € au 22/06/2023. Linkoffice contestait la créance (électricité, baies de stockage, licences, infogérance), invoquait 441 953,43 € de prestations qu'elle disait facturées mais non réalisées, et reprochait à 2CRSi de mettre sa pérennité en péril ; le juge note qu'« elle reconnaît elle-même ne pas disposer de la trésorerie suffisante ». Il juge la créance vraisemblable et son recouvrement menacé : « DÉBOUTE la SAS LINKOFFICE de l'intégralité de ses demandes », avec 3 000 € au titre de l'article 700. Une saisie conservatoire est une mesure provisoire ; elle ne tranche pas le fond.",
+   "sources": [
+    "S275"
+   ],
+   "sources_libelle": [
+    "TJ Strasbourg, juge de l'exécution, 23/12/2024, RG 24/10798 (base Judilibre)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2020-05-26_linkoffice-contrat"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2024-12-23",
+      "cloture": 3.87,
+      "volume": 17653,
+      "variation_pct": -1.0,
+      "volume_vs_moy20": 0.4
+     },
+     {
+      "role": "suivante",
+      "date": "2024-12-24",
+      "cloture": 3.93,
+      "volume": 6918,
+      "variation_pct": 1.6,
+      "volume_vs_moy20": 0.1
+     }
+    ]
+   },
    "majeur": false
   },
   {
@@ -2889,6 +2958,48 @@
       "cloture": 29.9,
       "volume": 1090986,
       "variation_pct": 16.6,
+      "volume_vs_moy20": 1.9
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-02-25_ca-colmar-client-location-serveurs",
+   "date": "2026-02-25",
+   "date_affichee": "25 fév. 2026",
+   "sujets": [
+    "res"
+   ],
+   "statut": "doc",
+   "titre": "Cour d'appel de Colmar : la créance de 2CRSi sur une société cliente en sauvegarde est fixée à 132 140,51 €",
+   "texte": "Arrêt de la cour d'appel de Colmar (1re chambre civile, RG 24/04097), sur appel d'une ordonnance de référé du 15/11/2023 ; le nom de la société cliente est masqué dans la décision publiée. « Suivant une offre acceptée du 26 mai 2020 et un bon de commande du 28 août 2020 », cette société a conclu avec 2CRSi, pour 48 mois, un contrat de location de serveurs à 32 800 € HT par mois, avec services réseau, infogérance et licences. « Depuis le mois d'avril 2023, la société 2CRSI a fermé l'accès distant aux serveurs dédiés, interdisant à la société [V] de procéder à la sauvegarde de ses données. » L'ordonnance de 2023 avait condamné 2CRSi, sous astreinte de 1 000 € par jour de retard, à restituer les identifiants, à permettre la sauvegarde des données et à cesser de limiter les droits d'administrateur du client, et avait condamné le client à une provision de 132 140,51 €. Le client a été placé en sauvegarde judiciaire le 20/01/2025. La cour fixe à son passif 132 140,51 € et 1 500 € d'article 700 ; elle écarte les hausses de tarif d'électricité demandées par 2CRSi (148 585,98 € réclamés), car « il est constant que la société 2CRSI n'a pas respecté la procédure contractuellement prévue par les parties ». Le différend sur 744 barrettes de mémoire facturées 269 328 € HT en mars 2022 est renvoyé au juge du fond.",
+   "sources": [
+    "S276"
+   ],
+   "sources_libelle": [
+    "CA Colmar, 1re chambre civile, arrêt du 25/02/2026, RG 24/04097 (base Judilibre)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-02-25",
+      "cloture": 29.9,
+      "volume": 1090986,
+      "variation_pct": 16.6,
+      "volume_vs_moy20": 1.9
+     },
+     {
+      "role": "suivante",
+      "date": "2026-02-26",
+      "cloture": 27.7,
+      "volume": 1159363,
+      "variation_pct": -7.4,
       "volume_vs_moy20": 1.9
      }
     ]
@@ -12336,6 +12447,36 @@
    "url": "https://www.otcmarkets.com/stock/CCTL/disclosure",
    "archive": "integral",
    "note": "PDF : textes/pdf/S273.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S274",
+   "date_source": "2021-07-28",
+   "type": "officiel",
+   "reference": "Document d'enregistrement universel 2020-21 de 2CRSi (292 p.), déposé le 28/07/2021",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/8888/01/FCEQS002380_20210728.pdf",
+   "archive": "integral",
+   "note": "Récupéré à la DILA ; texte seul dans pistes/pieces/2026-11-25/. Le communiqué d'origine (26/05/2020) n'est pas archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S275",
+   "date_source": "2024-12-23",
+   "type": "officiel",
+   "reference": "Tribunal judiciaire de Strasbourg, juge de l'exécution, jugement du 23/12/2024, RG 24/10798 (base Judilibre)",
+   "url": "https://www.courdecassation.fr/decision/6769e32c9786ffe39c0b8c49",
+   "archive": "integral",
+   "note": "PDF officiel fourni par l'utilisateur le 25/11/2026 ; PDF et texte intégral dans pistes/pieces/2026-11-25/ (hors publication).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S276",
+   "date_source": "2026-02-25",
+   "type": "officiel",
+   "reference": "Cour d'appel de Colmar, 1re chambre civile, arrêt du 25/02/2026, RG 24/04097 (base Judilibre)",
+   "url": "https://www.courdecassation.fr/decision/69a68e02cdc6046d4754e3c8",
+   "archive": "integral",
+   "note": "PDF officiel fourni par l'utilisateur le 25/11/2026 ; nom du client masqué dans la décision, non rétabli sur la frise (choix de l'utilisateur du 25/11 : événement présenté comme « une société cliente », sans lien avec les événements Linkoffice). PDF et texte dans pistes/pieces/2026-11-25/.",
    "texte_archive": "sources_textes.json"
   }
  ],
