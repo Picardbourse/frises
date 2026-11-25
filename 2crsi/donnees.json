@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T18:08",
+ "mis_a_jour": "2026-11-25T20:10",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 210,
-  "sources": 284
+  "sources": 285
  },
  "evenements": [
   {
@@ -9287,20 +9287,22 @@
    ],
    "statut": "doc",
    "titre": "NYGC dépose au comté d'Amador la demande de permis du data center de Buena Vista : 14,4 MW, en une seule phase",
-   "texte": "NewYork GreenCloud, LLC dépose le 19/11/2026 auprès du Planning Department du comté d'Amador une demande de permis d'usage conditionnel pour le « Buena Vista Data Center » (référence UP-26;11-2 ; lettre de son dirigeant datée du 18/11). Le dossier décrit « a 14.4 MW data center with supporting facilities to be powered by the existing 18.5 MW Buena Vista Biomass Power facility » : deux salles formées de quatre bâtiments modulaires préfabriqués (12 994 pieds carrés), un stockage par batteries de 10 MW / 20 MWh et trois turbines à gaz de 6 MW en secours ; l'électricité excédentaire serait vendue au réseau californien. Il indique : « Construction is anticipated to take approximately 8 months » et « The Project would not be developed in phases ». Le terrain appartient à Oneto Group, Inc., qui a donné son accord par lettre du 29/10/2026 ; NYGC y dispose d'environ 30 acres « under lease ». Le dossier ne mentionne ni 2CRSi, ni les serveurs, ni un client. NYGC présentait jusque-là un data center de 16 MW (séance du 22/09, site de NYGC). Le Ledger Dispatch publie le dossier complet le 20/11. Le comté consacre au projet une page de sa rubrique « Current Projects », qui ne contient au 24/11/2026 qu'un document, « Application Received 11/19/26 ». Selon le directeur du Planning, le comté « has 30 days to determine if the application is complete » ; un dossier complet doit permettre de déterminer le niveau d'étude environnementale, « Negative Declaration or EIR ». Aucune date de décision n'est fixée. Le moratoire demandé par des habitants n'a pas été inscrit à l'ordre du jour du Board of Supervisors.",
+   "texte": "NewYork GreenCloud, LLC dépose le 19/11/2026 auprès du Planning Department du comté d'Amador une demande de permis d'usage conditionnel pour le « Buena Vista Data Center » (référence UP-26;11-2 ; lettre de son dirigeant datée du 18/11). Le dossier décrit « a 14.4 MW data center with supporting facilities to be powered by the existing 18.5 MW Buena Vista Biomass Power facility » : deux salles formées de quatre bâtiments modulaires préfabriqués (12 994 pieds carrés), un stockage par batteries de 10 MW / 20 MWh et trois turbines à gaz de 6 MW en secours ; l'électricité excédentaire serait vendue au réseau californien. Il indique : « Construction is anticipated to take approximately 8 months » et « The Project would not be developed in phases ». Le terrain appartient à Oneto Group, Inc., qui a donné son accord par lettre du 29/10/2026 ; NYGC y dispose d'environ 30 acres « under lease ». Le dossier ne mentionne ni 2CRSi, ni les serveurs, ni un client. NYGC présentait jusque-là un data center de 16 MW (séance du 22/09, site de NYGC). Le Ledger Dispatch publie le dossier complet le 20/11. Le comté consacre au projet une page de sa rubrique « Current Projects », qui ne contient au 24/11/2026 qu'un document, « Application Received 11/19/26 ». Selon le directeur du Planning, le comté « has 30 days to determine if the application is complete » ; un dossier complet doit permettre de déterminer le niveau d'étude environnementale, « Negative Declaration or EIR ». Aucune date de décision n'est fixée. Le moratoire demandé par des habitants n'a pas été inscrit à l'ordre du jour du Board of Supervisors. Le 24/11/2026, le collectif Amador Data Center Community Action adresse au comté une note technique de 33 pages, avant toute réunion du comité technique (TAC) : elle demande une évaluation environnementale de l'ensemble du projet (data center, centrale biomasse, turbines, batteries) et liste 101 demandes de pièces ; elle précise ne pas affirmer « that every identified effect is significant ». Aucune réponse du comté n'est publiée au 25/11/2026.",
    "sources": [
     "S245",
     "S262",
     "S249",
     "S225",
-    "S112"
+    "S112",
+    "S296"
    ],
    "sources_libelle": [
     "Demande de permis UP-26;11-2, comté d'Amador (18-19/11/2026)",
     "Page du projet sur le site du comté d'Amador (relevé du 24/11/2026)",
     "Ledger Dispatch, 20/11/2026",
     "Séance du Board of Supervisors du 22/09/2026",
-    "Site de NYGC, capture du 11/10/2026"
+    "Site de NYGC, capture du 11/10/2026",
+    "Note du collectif Amador Data Center Community Action au comté, 24/11/2026"
    ],
    "engagements": [],
    "liens": [
@@ -13001,6 +13003,16 @@
    "url": "https://www.euronext.com/sites/default/files/2024-04/euronext_growth_harmonised_rulebook_i.pdf",
    "archive": "integral",
    "note": "Lu le 25/11/2026 (WebFetch).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S296",
+   "date_source": "2026-11-24",
+   "type": "CP tiers",
+   "reference": "Amador Data Center Community Action, « Buena Vista Data Center — UP-26;11-2. Early Environmental Review Submission », note de 33 pages adressée au Planning Department du comté d'Amador, 24/11/2026 (archivée par l'Amador Transparency Project)",
+   "url": "https://records.amadorproject.org/documents/source/ai-data-center/2026-11-24-early-environmental-review/early-environmental-review-submission-up-26-11-2.pdf",
+   "archive": "integral",
+   "note": "PDF transmis par l'utilisateur le 25/11/2026 (textes/pdf/S296.pdf). Page de l'archive : https://amadorproject.org/archives/ai-data-center/reports/2026-11-24-early-environmental-review.html. Signataire (consultante, personne privée) non nommée.",
    "texte_archive": "sources_textes.json"
   }
  ],
