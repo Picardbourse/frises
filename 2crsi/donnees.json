@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T16:34",
+ "mis_a_jour": "2026-11-25T16:39",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 205,
-  "sources": 273
+  "evenements": 207,
+  "sources": 279
  },
  "evenements": [
   {
@@ -8635,6 +8635,57 @@
    "majeur": false
   },
   {
+   "id": "2026-11-09_mara-exaion-79m",
+   "date": "2026-11-09",
+   "date_affichee": "9 nov. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "MARA, actionnaire majoritaire d'Exaion : un contrat de 79 M$ sur quatre ans, servi par des GPU B300 livrés de novembre à début décembre",
+   "texte": "Lettre aux actionnaires de MARA Holdings pour le troisième trimestre 2026 (annexée à un formulaire 8-K du 09/11/2026) : « Exaion signed a four-year $79M GPU-as-a-service contract on 100% take-or-pay terms with its first US customer. » Le rapport trimestriel au 30/09/2026 indique qu'au cours du trimestre Exaion « entered into an agreement to provide dedicated GPU capacity to customers ». Lors de la conférence de résultats du 09/11/2026, le président-directeur général de MARA, Frederick Thiel, précise : « the GPUs that are powering this initial contract are B300. Those have been ordered and delivery will be received commencing this month through the first part of December » ; la capacité est hébergée « in France » et la mise en service d'une première partie est attendue avant la fin de l'année. MARA ne nomme pas le fournisseur des serveurs. Le 03/11/2026, 2CRSi avait annoncé une commande d'Exaion de 83 serveurs HGX B300 à livrer de novembre à fin décembre. MARA présente aussi un portefeuille d'« over $3 billion » de demandes, qui sont « indications of demand and are not yet contracted or committed ».",
+   "sources": [
+    "S285",
+    "S286",
+    "S287"
+   ],
+   "sources_libelle": [
+    "MARA Holdings, lettre aux actionnaires du T3 2026 (8-K du 09/11/2026, SEC)",
+    "MARA Holdings, rapport trimestriel au 30/09/2026 (10-Q, SEC)",
+    "Conférence de résultats MARA du 09/11/2026 (transcription The Motley Fool)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-03_commande-exaion"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-09",
+      "cloture": 17.19,
+      "volume": 308528,
+      "variation_pct": 8.2,
+      "volume_vs_moy20": 0.7
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-10",
+      "cloture": 17.1,
+      "volume": 318479,
+      "variation_pct": -0.5,
+      "volume_vs_moy20": 0.7
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
    "id": "2026-11-10_aether-linkedin-95mw",
    "date": "2026-11-10",
    "date_affichee": "10 nov. 2026",
@@ -8938,6 +8989,53 @@
       "volume": 509127,
       "variation_pct": -0.1,
       "volume_vs_moy20": 1.1
+     }
+    ]
+   },
+   "majeur": false
+  },
+  {
+   "id": "2026-11-13_earthmade-proces-reporte",
+   "date": "2026-11-13",
+   "date_affichee": "13 nov. 2026",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Affaire du revendeur californien : le procès est reporté au 5 octobre 2027",
+   "texte": "Dans l'affaire pénale visant le dirigeant d'Earthmade Computer (tribunal fédéral du Central District of California, 2:26-cr-00618), une ordonnance du 13/11/2026 reporte le procès : « Jury Trial is continued from December 1, 2026 to October 5, 2027 ». Le report fait suite à une demande conjointe déposée par le parquet le 12/11/2026. Une ordonnance de protection des pièces communiquées a été rendue le 06/11/2026. Le registre ne mentionne pas 2CRSi. La personne poursuivie est présumée innocente.",
+   "sources": [
+    "S288"
+   ],
+   "sources_libelle": [
+    "Registre du dossier 2:26-cr-00618 (C.D. Cal.), entrées 40 à 43 (CourtListener)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-01_doj-earthmade"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2026-11-13",
+      "cloture": 18.31,
+      "volume": 509127,
+      "variation_pct": -0.1,
+      "volume_vs_moy20": 1.1
+     },
+     {
+      "role": "suivante",
+      "date": "2026-11-16",
+      "cloture": 17.18,
+      "volume": 312046,
+      "variation_pct": -6.2,
+      "volume_vs_moy20": 0.6
      }
     ]
    },
@@ -9305,16 +9403,20 @@
    ],
    "statut": "echeance",
    "titre": "Échéance : date limite de dépôt des offres du lot 2 de l'appel « AI Gigafactories »",
-   "texte": "Le 03/12/2026 à 17 h (heure de Luxembourg) pour le lot 2 (« Large-Scale »). La France n'y apporte pas de contribution ; les États hôtes du lot 2 sont le Portugal, l'Espagne, l'Allemagne, l'Italie et la Grèce, et le lot admet des projets multi-pays. La société n'a pas indiqué le lot visé par ÆTHER ; le CP du 18/02/2026 mentionnait des sites « étudiés » en Allemagne et au Luxembourg, sans suite publiée. À vérifier ensuite : liste des candidats du lot 2 annoncée à l'ouverture des offres.",
+   "texte": "Le 03/12/2026 à 17 h (heure de Luxembourg) pour le lot 2 (« Large-Scale »). La France n'y apporte pas de contribution ; les États hôtes du lot 2 sont le Portugal, l'Espagne, l'Allemagne, l'Italie et la Grèce, et le lot admet des projets multi-pays. La société n'a pas indiqué le lot visé par ÆTHER ; le CP du 18/02/2026 mentionnait des sites « étudiés » en Allemagne et au Luxembourg, sans suite publiée. Le 06/11/2026, l'entreprise commune EuroHPC a indiqué qu'un problème technique de son système de dépôt touchait toutes les offres des deux lots, « whether in draft or already submitted » : les candidats doivent les recréer et les redéposer ; la date du lot 2 est maintenue. À vérifier ensuite : liste des candidats du lot 2 annoncée à l'ouverture des offres.",
    "sources": [
     "S024",
     "S210",
-    "S055"
+    "S055",
+    "S289",
+    "S290"
    ],
    "sources_libelle": [
     "Page EuroHPC de l'appel, mise à jour du 05/11/2026",
     "EuroHPC JU, annexe 2 : États participants",
-    "CP 2CRSi du 18/02/2026"
+    "CP 2CRSi du 18/02/2026",
+    "HPCwire, 06/11/2026",
+    "EuroHPC, page de l'appel (mise à jour du 05/11/2026)"
    ],
    "engagements": [],
    "liens": [
@@ -12698,6 +12800,66 @@
    "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/10/FCEQS005148_20231005.pdf",
    "archive": "integral",
    "note": "Communiqué absent du site investisseurs de la société ; PDF lu à la DILA le 25/11/2026 (navigateur du PC). Texte intégral non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S285",
+   "date_source": "2026-11-09",
+   "type": "CP tiers",
+   "reference": "MARA Holdings, Inc., lettre aux actionnaires du troisième trimestre 2026 (annexe 99 au formulaire 8-K du 09/11/2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1507605/000150760526000026/q326shareholderletter.htm",
+   "archive": "integral",
+   "note": "Lu sur sec.gov le 25/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S286",
+   "date_source": "2026-11-09",
+   "type": "CP tiers",
+   "reference": "MARA Holdings, Inc., rapport trimestriel au 30/09/2026 (formulaire 10-Q du 09/11/2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1507605/000150760526000028/mara-20260930.htm",
+   "archive": "integral",
+   "note": "Lu sur sec.gov le 25/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S287",
+   "date_source": "2026-11-09",
+   "type": "transcription",
+   "reference": "The Motley Fool, transcription de la conférence de résultats de MARA Holdings du 09/11/2026 (reprise par Webull le 10/11/2026)",
+   "url": "https://www.webull.com/news/15898095287452672",
+   "archive": "integral",
+   "note": "Transcription publiée par un tiers, une erreur est possible ; enregistrement d'origine non écouté. Lu le 25/11/2026.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S288",
+   "date_source": "2026-11-13",
+   "type": "registre",
+   "reference": "Registre du dossier United States v. Lui, 2:26-cr-00618 (C.D. Cal.), entrées 40 à 43 (CourtListener, copie du registre PACER)",
+   "url": "https://www.courtlistener.com/docket/74906491/united-states-v-lui/",
+   "archive": "integral",
+   "note": "Lu le 25/11/2026. Les entrées relatives aux cautions citent des adresses de particuliers : ne rien en reprendre.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S289",
+   "date_source": "2026-11-06",
+   "type": "presse",
+   "reference": "HPCwire, 06/11/2026 : « EuroHPC Requires Bidders to Resubmit AI Gigafactory Proposals »",
+   "url": "https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/",
+   "archive": "integral",
+   "note": "Reprise d'un avis d'EuroHPC.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S290",
+   "date_source": "2026-11-05",
+   "type": "officiel",
+   "reference": "EuroHPC JU, page de l'appel « Call for tenders for the selection of Artificial Intelligence Gigafactory consortia » (mise à jour du 05/11/2026)",
+   "url": "https://eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en",
+   "archive": "integral",
+   "note": "Lu le 25/11/2026.",
    "texte_archive": "sources_textes.json"
   }
  ],
