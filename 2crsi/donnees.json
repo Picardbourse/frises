@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T08:00",
+ "mis_a_jour": "2026-11-25T13:41",
  "arrete_au": "2026-11-25",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 196,
-  "sources": 258
+  "evenements": 199,
+  "sources": 262
  },
  "evenements": [
   {
@@ -107,6 +107,28 @@
    "engagements": [],
    "liens": [],
    "majeur": false
+  },
+  {
+   "id": "2020-12-23_coin-citadel",
+   "date": "2020-12-23",
+   "date_affichee": "23 déc. 2020",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi annonce un contrat de « près de 6 millions de dollars » avec l'américain Coin Citadel",
+   "texte": "Communiqué : « 2CRSi conclut un contrat de près de 6 millions de dollars pour la fourniture de puissance de calcul au spécialiste fintech américain Coin Citadel ». « Cette première commande représente un montant total de près de 6 millions de dollars US » ; « les nouveaux serveurs seront livrés avant la fin du mois de janvier 2021 ». Le communiqué ne précise pas la forme du contrat. Dans son rapport annuel 2020 (comptes non audités), le client le décrit ainsi : « In June 2020, Coin Citadel entered into a 36-month finance lease agreement with 2CRSI for 1,056 Octopus GPU servers », avec des mensualités de 158 802,60 $ dues à compter de la fin de l'installation, et « As of December 31, 2020 installation is in process ». Trente-six mensualités représentent 5,72 M$. Le client date le contrat de juin 2020, le communiqué est de décembre ; aucune pièce n'explique l'écart.",
+   "sources": [
+    "S270",
+    "S271"
+   ],
+   "sources_libelle": [
+    "Communiqué 2CRSi du 23/12/2020 (DILA)",
+    "Coin Citadel, rapport annuel 2020, note 5 (OTC Markets, non audité)"
+   ],
+   "engagements": [],
+   "liens": [],
+   "majeur": true
   },
   {
    "id": "2021-05-17_rouses-point",
@@ -360,6 +382,48 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2022-12-31_coin-citadel-contrat-caduc",
+   "date": "2022-12-31",
+   "date_affichee": "31 déc. 2022",
+   "revele_le": "2023-03-31",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "Coin Citadel déclare que son contrat de location avec 2CRSi est « void »",
+   "texte": "Rapport annuel 2022 de Coin Citadel (comptes non audités), note 5 : « As of December 31, 2022 the lease agreement is void. The Company also paid deposits to 2CRSI in the amount of $60,000, of which collectability is currently indeterminable. » Son rapport du deuxième trimestre 2024 ajoute : « In June 2024 Coin Citadel received $30,000 of the original $60,000 deposit. » Ces pièces émanent du seul client. Elles n'établissent ni que des serveurs aient été livrés, ni qui a mis fin au contrat, ni qu'un chiffre d'affaires ait été comptabilisé par 2CRSi. Aucun communiqué de 2CRSi ne revient sur ce contrat et le nom du client n'apparaît pas dans ses rapports annuels 2021-22 à 2025-26. La date de révélation est approximative (mise en ligne vers le 31/03/2023).",
+   "sources": [
+    "S272",
+    "S273"
+   ],
+   "sources_libelle": [
+    "Coin Citadel, rapport annuel 2022, note 5 (OTC Markets, non audité)",
+    "Coin Citadel, rapport du 2e trimestre 2024 (OTC Markets, non audité)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2020-12-23_coin-citadel"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": false,
+    "heure": null,
+    "seances": [
+     {
+      "role": "suivante",
+      "date": "2023-01-02",
+      "cloture": 3.08,
+      "volume": 2371,
+      "variation_pct": 0.0,
+      "volume_vs_moy20": 0.1
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2023-02-28_normes-francaises",
@@ -768,7 +832,7 @@
    ],
    "statut": "doc",
    "titre": "Green Data : la cour d'appel de Versailles désigne un administrateur provisoire à la demande de l'associé minoritaire",
-   "texte": "Arrêt de la cour d'appel de Versailles (chambre civile 1-5, RG 23/06528), rendu en dernier ressort : Azur Datacenter contre Green Data et 2CRSI. Green Data est alors détenue à 55 % par 2CRSi, qui la préside depuis l'assemblée du 28/01/2022, et à 45 % par Azur Datacenter. La cour infirme l'ordonnance du juge des référés du tribunal de commerce de Nanterre du 10/07/2023, qui avait rejeté la demande, et désigne un administrateur provisoire « pour une durée d'un an, renouvelable », chargé notamment d'« établir les conventions réglementées », d'« organiser une reconstitution de comptabilité depuis l'exercice 2021/2022 clos le 28 février 2022 » et de « convoquer et présider toute assemblée générale […] en vue de l'approbation des comptes 2019/2020, 2020/2021, 2021/2022 et 2022/2023 ». Motifs : « il est établi que la société Green Data ne fonctionne pas normalement, l'absence d'assemblées générales et de comptes régulièrement établis constituant une importante anomalie » ; la cour retient un « péril imminent ». 2CRSi et Green Data contestaient tout péril et mettaient en cause la gestion antérieure à novembre 2021 ; elles sont condamnées à 3 000 € au titre de l'article 700. Le différend entre les deux associés a pris fin par un protocole du 14/11/2025, 2CRSi acquérant les 45 % restants.",
+   "texte": "Arrêt de la cour d'appel de Versailles (chambre civile 1-5, RG 23/06528), rendu en dernier ressort : Azur Datacenter contre Green Data et 2CRSI. Green Data est alors détenue à 55 % par 2CRSi, qui la préside depuis l'assemblée du 28/01/2022, et à 45 % par Azur Datacenter. La cour infirme l'ordonnance du juge des référés du tribunal de commerce de Nanterre du 10/07/2023, qui avait rejeté la demande, et désigne un administrateur provisoire « pour une durée d'un an, renouvelable », chargé notamment d'« établir les conventions réglementées », d'« organiser une reconstitution de comptabilité depuis l'exercice 2021/2022 clos le 28 février 2022 » et de « convoquer et présider toute assemblée générale […] en vue de l'approbation des comptes 2019/2020, 2020/2021, 2021/2022 et 2022/2023 ». Motifs : « il est établi que la société Green Data ne fonctionne pas normalement, l'absence d'assemblées générales et de comptes régulièrement établis constituant une importante anomalie » ; la cour retient un « péril imminent ». La cour s'appuie notamment sur des écrits du commissaire aux comptes de Green Data : un courrier du 03/08/2022 (38 000 € en banque et 2 502 549 € de dettes fournisseurs au 29/07/2022, faits « de nature à compromettre la continuité d'exploitation de la société Green Data ») et un document de travail mis à jour le 15/02/2023, « qui ne constitue qu'un document de travail et non un rapport », où l'on lit : « le contrôle interne a des déficiences significatives » et « l'absence de tenue d'assemblées générales ordinaires depuis la création de la société ». Elle relève aussi une dette reconnue de 1 589 615,86 € envers EDF et un échéancier de loyers respecté. 2CRSi et Green Data contestaient tout péril et mettaient en cause la gestion antérieure à novembre 2021, 2CRSi indiquant avoir « versé plus de 7 millions d'euros à Green Data » ; elles sont condamnées à 3 000 € au titre de l'article 700. Le différend entre les deux associés a pris fin par un protocole du 14/11/2025, 2CRSi acquérant les 45 % restants.",
    "sources": [
     "S269",
     "S173"
@@ -1388,6 +1452,59 @@
     ]
    },
    "majeur": true
+  },
+  {
+   "id": "2025-06-30_green-data-deconsolidation",
+   "date": "2025-06-30",
+   "date_affichee": "30 juin 2025",
+   "revele_le": "2025-11-06",
+   "sujets": [
+    "res",
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "Green Data sort des comptes consolidés : valeurs figées depuis février 2023, déconsolidation au 30 juin 2025",
+   "texte": "Le rapport annuel 2023-24 indique que « la société Green Data est consolidée sur base des valeurs figées au 28 février 2023 compte tenu de la non-disponibilité des comptes annuels ». Le rapport 2024-25 (note 3.2.2.1.8, p. 98) indique que « le Groupe a exclu Green Data du périmètre de consolidation au 30 juin 2025 » : le compte courant de 2CRSi SA sur sa filiale, 7,6 M€ net, est reclassé en autre créance ; titres et compte courant sont dépréciés de 1 455 k€ ; 2CRSi a payé 1 882 k€ au bailleur de Green Data au titre de sa caution. Green Data, détenue à 55 %, est alors présidée par un administrateur désigné en justice. Elle revient dans les comptes le 14/11/2025, quand 2CRSi rachète les 45 % restants : le rapport 2025-26 (p. 93 et 96) retient un écart d'acquisition initial de 10 616 k€, dont une partie est affectée aux équipements, réévalués d'une valeur nette comptable de 394 k€ à une valeur d'entrée de 10 939 k€ « sur la base d'un inventaire physique valorisé » ; l'écart résiduel est de 2 707 k€.",
+   "sources": [
+    "S178",
+    "S203",
+    "S173"
+   ],
+   "sources_libelle": [
+    "Rapport financier annuel 2024-25, note 3.2.2.1.8 (p. 98)",
+    "Rapport financier annuel 2023-24, périmètre de consolidation",
+    "Rapport financier annuel 2025-26, p. 93 et 96"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2025-11-14_green-data-100"
+    }
+   ],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2025-06-30",
+      "cloture": 6.65,
+      "volume": 488379,
+      "variation_pct": -2.6,
+      "volume_vs_moy20": 2.6
+     },
+     {
+      "role": "suivante",
+      "date": "2025-07-01",
+      "cloture": 6.21,
+      "volume": 297777,
+      "variation_pct": -6.6,
+      "volume_vs_moy20": 1.4
+     }
+    ]
+   },
+   "majeur": false
   },
   {
    "id": "2025-07-01_aether-candidature",
@@ -12148,7 +12265,7 @@
    "reference": "Tribunal judiciaire de Strasbourg, 3e chambre civile, jugement du 10/06/2026, RG 24/11082 (base Judilibre)",
    "url": "https://www.courdecassation.fr/decision/6a29d835cdc6046d47def710",
    "archive": "integral",
-   "note": "Lu sur le site officiel le 25/11/2026. Le nom du bailleur et les adresses sont masqués dans la décision publiée : ne pas les rétablir. Extraits archivés ; texte intégral à archiver.",
+   "note": "Lu sur le site officiel le 25/11/2026. Le nom du bailleur et les adresses sont masqués dans la décision publiée : ne pas les rétablir. Extraits archivés dans textes/S266.txt ; PDF officiel dans textes/pdf/S266.pdf.",
    "texte_archive": "sources_textes.json"
   },
   {
@@ -12179,6 +12296,46 @@
    "url": "https://www.courdecassation.fr/decision/6646f4afe8553e0008164598",
    "archive": "integral",
    "note": "PDF officiel téléchargé par l'utilisateur le 25/11/2026 ; texte intégral et PDF rangés dans pistes/pieces/2026-11-25/ (hors publication : personnes physiques nommées ou masquées).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S270",
+   "date_source": "2020-12-23",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi du 23/12/2020 : « 2CRSi conclut un contrat de près de 6 millions de dollars pour la fourniture de puissance de calcul au spécialiste fintech américain Coin Citadel »",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2020/12/FCEQS001792_20201223.pdf",
+   "archive": "integral",
+   "note": "Communiqué absent du site investisseurs de la société ; récupéré à la DILA.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S271",
+   "date_source": "2022-03-31",
+   "type": "CP tiers",
+   "reference": "Coin Citadel Inc., rapport annuel 2020 (« Amendment 1 »), note 5, déposé sur OTC Markets (comptes non audités)",
+   "url": "https://www.otcmarkets.com/stock/CCTL/disclosure",
+   "archive": "integral",
+   "note": "Mis en ligne en mars 2022 (date approximative). PDF : textes/pdf/S271.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S272",
+   "date_source": "2023-03-31",
+   "type": "CP tiers",
+   "reference": "Coin Citadel Inc., rapport annuel 2022, note 5, déposé sur OTC Markets (comptes non audités)",
+   "url": "https://www.otcmarkets.com/stock/CCTL/disclosure",
+   "archive": "integral",
+   "note": "Mis en ligne vers le 31/03/2023 (date approximative). PDF : textes/pdf/S272.pdf.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S273",
+   "date_source": "2024-08-15",
+   "type": "CP tiers",
+   "reference": "Coin Citadel Inc., rapport du 2e trimestre 2024, déposé sur OTC Markets (comptes non audités)",
+   "url": "https://www.otcmarkets.com/stock/CCTL/disclosure",
+   "archive": "integral",
+   "note": "PDF : textes/pdf/S273.pdf.",
    "texte_archive": "sources_textes.json"
   }
  ],
