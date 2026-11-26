@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-25",
- "mis_a_jour": "2026-11-25T20:10",
- "arrete_au": "2026-11-25",
+ "genere_le": "2026-11-26",
+ "mis_a_jour": "2026-11-26T08:55",
+ "arrete_au": "2026-11-26",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 210,
-  "sources": 285
+  "evenements": 211,
+  "sources": 286
  },
  "evenements": [
   {
@@ -9468,6 +9468,51 @@
    "majeur": false
   },
   {
+   "id": "2026-11-26_commandes-en-cours-460m",
+   "date": "2026-11-26",
+   "date_affichee": "26 nov. 2026",
+   "sujets": [
+    "res",
+    "nygc"
+   ],
+   "statut": "doc",
+   "titre": "« Plus de 460 M$ » de commandes en cours, détail reporté après examen des règles américaines d'exportation ; NYGC « non retenue, pour le moment »",
+   "texte": "2CRSi fait état de commandes en cours « pour un montant total supérieur à 460 millions de dollars américains », « issues exclusivement de clients nord-américains et européens ». Le communiqué définit ces commandes comme « signées et restant à livrer ou à exécuter, exprimées en prix contractuels et non en prix catalogue » ; « leur acompte est déjà reçu, ou le sera dès que Nvidia aura validé la conformité. Ce montant peut donc évoluer ». Le total n'inclut « rien au titre du contrat-cadre de 610 MUSD ni de la commande NewYork GreenCloud (NYGC) » et comprend « au moins 43,4 MUSD de prestations d'hébergement de serveurs dans une AI Factory », valeur des contrats sur toute leur durée. Aucun client n'est nommé : le détail sera publié « une fois cet examen terminé », l'examen portant sur la règle intérimaire du Bureau of Industry and Security « Addressing Remote Access to Advanced Semiconductors », « en vigueur depuis le 19 novembre 2026 ». Le communiqué indique qu'« à la suite du rapport publié par Grizzly Research le 18 juin 2026, 2CRSi et Nvidia ont décidé, dès la fin août 2026, d'appliquer des règles très strictes de validation des commandes clients », portant « sur le client, sur l'utilisateur final et sur l'usage final des équipements ». NYGC : la société « vient de déposer sa demande de permis de construire » ; 2CRSi « n'a aujourd'hui aucune information, positive ou négative, permettant de dire si cette livraison pourra encore intervenir sur son exercice en cours » et « a donc décidé de ne pas retenir cette commande dans ses ambitions chiffrées, pour le moment ». Le rapport financier annuel du 31/10/2026 indiquait déjà que l'objectif d'un milliard n'intégrait aucun chiffre d'affaires au titre de ce contrat. Le communiqué maintient : « 2CRSi vise un chiffre d'affaires d'un milliard d'euros sur l'exercice 2026/27, clos fin juin 2027 ». Il mentionne le salon SC26 (Chicago, 15 au 20/11/2026), la solution de datacenter Edge codéveloppée avec Valeo et les solutions durcies développées pour Universal Edge Technologies.",
+   "sources": [
+    "S297",
+    "S173"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 26/11/2026",
+    "Rapport financier annuel 2025/26 (objectif d'un milliard hors NYGC et hors contrat-cadre)"
+   ],
+   "engagements": [
+    {
+     "id": "2026-11-26_commandes-en-cours-460m#e1",
+     "texte": "Publication, « pour l'ouverture du Forum ODDO BHF de Lyon, le 7 janvier 2027 », de « prévisions chiffrées et des indications de marge d'EBITDA » (le Groupe « devrait publier »)",
+     "echeance": "2027-01-07",
+     "statut": "todo",
+     "statue_par": null,
+     "note": ""
+    }
+   ],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-29_expert-nygc-290"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-11-19_bis-regle-puces-ia"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-11-18_nygc-demande-permis"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-12-03_eurohpc-depot-lot2",
    "date": "2026-12-03",
    "date_affichee": "3 déc. 2026",
@@ -13013,6 +13058,16 @@
    "url": "https://records.amadorproject.org/documents/source/ai-data-center/2026-11-24-early-environmental-review/early-environmental-review-submission-up-26-11-2.pdf",
    "archive": "integral",
    "note": "PDF transmis par l'utilisateur le 25/11/2026 (textes/pdf/S296.pdf). Page de l'archive : https://amadorproject.org/archives/ai-data-center/reports/2026-11-24-early-environmental-review.html. Signataire (consultante, personne privée) non nommée.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S297",
+   "date_source": "2026-11-26",
+   "type": "CP",
+   "reference": "CP 2CRSi du 26/11/2026 : « 460 MUSD de commandes en cours. Conformité export d'abord. Le détail sera publié après examen des nouvelles règles américaines d'exportation » (3 pages)",
+   "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261126-FR.pdf",
+   "archive": "integral",
+   "note": "PDF transmis par l'utilisateur le 26/11/2026 (textes/pdf/S297.pdf).",
    "texte_archive": "sources_textes.json"
   }
  ],
