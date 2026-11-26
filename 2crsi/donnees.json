@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-26",
- "mis_a_jour": "2026-11-26T10:29",
+ "mis_a_jour": "2026-11-26T15:43",
  "arrete_au": "2026-11-26",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 211,
-  "sources": 287
+  "evenements": 212,
+  "sources": 288
  },
  "evenements": [
   {
@@ -9468,6 +9468,39 @@
    "majeur": false
   },
   {
+   "id": "2026-11-25_cbs-partenaires-nvidia",
+   "date": "2026-11-25",
+   "date_affichee": "25 nov. 2026",
+   "sujets": [
+    "gouv"
+   ],
+   "statut": "doc",
+   "titre": "CBS News cite 2CRSi à propos de l'affaire du revendeur californien, sans la mettre en cause",
+   "texte": "Une enquête de CBS News sur des sociétés californiennes à capitaux chinois qui achètent les puces les plus avancées de Nvidia consacre un passage à 2CRSi, qu'elle présente comme un partenaire « elite » de Nvidia aux États-Unis et la branche d'un groupe français. Selon l'article, des documents consultés par la chaîne relient à 2CRSi le dirigeant d'Earthmade Computer, inculpé en 2026 : le site de 2CRSi cite Topmost Corp. comme partenaire agréé, et le site du revendeur se disait revendeur agréé de 2CRSi. CBS rappelle que l'acte d'accusation vise l'achat de 100 serveurs H100 (plus de 22 M$) à un fabricant non nommé, et écrit que 2CRSi « has not been accused of wrongdoing ». L'article indique que le chiffre d'affaires américain de 2CRSi est passé de 201 M$ à 4,7 M$ (soit les 185 M€ et 4,3 M€ de 2CRSi Corporation publiés le 30/10/2026). Écart avec les pièces : CBS rattache le client « signalé aux autorités » au subpoena de grand jury du parquet de Los Angeles, alors que la lettre aux actionnaires du 01/11/2026 le rattache à la demande administrative du département du Commerce de novembre 2024. Aucune pièce de justice du corpus ne nomme 2CRSi. La personne poursuivie est présumée innocente.",
+   "sources": [
+    "S299",
+    "S175",
+    "S172"
+   ],
+   "sources_libelle": [
+    "CBS News, enquête du 25/11/2026 sur les partenaires de Nvidia",
+    "Lettre aux actionnaires du 01/11/2026",
+    "CP des résultats annuels du 30/10/2026"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-01_doj-earthmade"
+    },
+    {
+     "type": "precise",
+     "cible": "2024-07-24_topmost-partenaire"
+    }
+   ],
+   "majeur": true
+  },
+  {
    "id": "2026-11-26_commandes-en-cours-460m",
    "date": "2026-11-26",
    "date_affichee": "26 nov. 2026",
@@ -13080,6 +13113,16 @@
    "url": "https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en",
    "archive": "integral",
    "note": "Relevé le 26/11/2026 par le navigateur du PC (pièce d'origine : pistes/pieces/2026-11-26/). Le mot « remains » figure dans la page.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S299",
+   "date_source": "2026-11-25",
+   "type": "presse",
+   "reference": "CBS News, « 2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals. », 25/11/2026",
+   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
+   "archive": "integral",
+   "note": "Lu le 26/11/2026 dans le navigateur du PC (53 paragraphes ; passage sur 2CRSi aux § 32 à 39). Relevé en français dans pistes/2026-11-26f ; texte intégral non archivé (article de presse). L'article nomme la personne poursuivie : nom non repris.",
    "texte_archive": "sources_textes.json"
   }
  ],
