@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-26",
- "mis_a_jour": "2026-11-26T15:43",
+ "mis_a_jour": "2026-11-26T22:21",
  "arrete_au": "2026-11-26",
  "version_provisoire": false,
  "config": {
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 212,
-  "sources": 288
+  "evenements": 213,
+  "sources": 293
  },
  "evenements": [
   {
@@ -501,16 +501,20 @@
    ],
    "statut": "doc",
    "titre": "Edgemode déclare une dette de 1,18 M$ envers 2CRSi et dit avoir rendu le matériel",
-   "texte": "Rapport annuel 2022 d'Edgemode, déposé à la SEC le 17/04/2023 : « There is an outstanding debt of $1,179,972 on the miners. The miners have been returned to 2CRSI upon termination of the contract and as such the Company is making no further payments against the potential balance. No confirmation has been received from 2CRSI and as such the balance remains outstanding on the Company's balance sheet ». Les serveurs servaient au minage d'Ethereum, arrêté par le changement de protocole de cette cryptomonnaie. Le rapport modifié déposé le 21/02/2025 (exercice 2023) parle d'« approximately $1.6 million of debt », d'activités suspendues, et répète qu'aucune confirmation n'a été reçue de 2CRSi. Ces pièces émanent du seul client. Aucun communiqué de 2CRSi ne revient sur ce partenariat ; le rapport annuel 2022-23 de 2CRSi mentionne, sans nommer EdgeMode, un « client RPNY » : matériel loué sorti de l'actif pour 705 k€ et protocole d'accord. Le rapprochement entre les deux n'est pas établi.",
+   "texte": "Rapport annuel 2022 d'Edgemode, déposé à la SEC le 17/04/2023 : « There is an outstanding debt of $1,179,972 on the miners. The miners have been returned to 2CRSI upon termination of the contract and as such the Company is making no further payments against the potential balance. No confirmation has been received from 2CRSI and as such the balance remains outstanding on the Company's balance sheet ». Les serveurs servaient au minage d'Ethereum, arrêté par le changement de protocole de cette cryptomonnaie. Le rapport modifié déposé le 21/02/2025 (exercice 2023) parle d'« approximately $1.6 million of debt », d'activités suspendues, et répète qu'aucune confirmation n'a été reçue de 2CRSi. Ces pièces émanent du seul client. Aucun communiqué de 2CRSi ne revient sur ce partenariat ; le rapport annuel 2022-23 de 2CRSi mentionne un « client RPNY » : matériel loué sorti de l'actif pour 705 k€ et protocole d'accord. RPNY est une société distincte d'EdgeMode : la presse locale la présente en octobre 2021 comme un fabricant de centres de données mobiles de Long Island, installé sur le site de Rouses Point et partenaire de 2CRSi pour y construire serveurs et remorques ; le registre de l'État de New York recense RPNY Holdings, LLC et Rouses Point Data Center, LLC, créées en mars et avril 2021 à la même adresse de Holbrook. Aucune pièce du corpus ne relie le matériel rendu par EdgeMode au litige avec RPNY.",
    "sources": [
     "S279",
     "S280",
-    "S202"
+    "S202",
+    "S303",
+    "S304"
    ],
    "sources_libelle": [
     "Edgemode, rapport annuel 2022, formulaire 10-K du 17/04/2023 (SEC)",
     "Edgemode, rapport annuel 2023 modifié, formulaire 10-K/A du 21/02/2025 (SEC)",
-    "Rapport financier annuel 2022-23 de 2CRSi (client « RPNY »)"
+    "Rapport financier annuel 2022-23 de 2CRSi (client « RPNY »)",
+    "Press-Republican, « Data center manufacturer coming to Ex-Pfizer space » (octobre 2021)",
+    "Registre des sociétés de l'État de New York (données ouvertes, 26/11/2026)"
    ],
    "engagements": [],
    "liens": [
@@ -3022,12 +3026,14 @@
    ],
    "statut": "doc",
    "titre": "Chemours et 2CRSi s'associent pour le refroidissement liquide biphasé",
-   "texte": "Après la qualification du fluide Chemours sur les serveurs 2CRSi, partenariat pour accélérer l'adoption de l'immersion biphasée dans les serveurs haute densité. Détail à compléter (texte à coller).",
+   "texte": "Chemours et 2CRSi annoncent la signature d'un accord de développement conjoint (« Joint Development Agreement »), « à la suite de la qualification réussie du fluide de refroidissement par immersion diphasique Opteon™ de Chemours sur la gamme actuelle de serveurs 2CRSi ». Une note du communiqué précise que l'accord fait suite à « plusieurs années de tests concluants réalisés sur les serveurs Atlantis™ et Octopus™ de 2CRSi avec le fluide Opteon™ 2P50 ». L'objet est le développement de solutions de refroidissement diphasique, par immersion et « direct-to-chip », pour les infrastructures à haute densité. Le communiqué ne donne ni montant, ni volume, ni calendrier. Dans sa présentation aux investisseurs de septembre 2026, Chemours cite la « successful qualification of Chemours’ two-phase immersion cooling fluid by Samsung Electronics and 2CRSi » et indique des premières ventes de fluides diphasiques « of less than $1 million » au deuxième trimestre 2026, tous clients confondus.",
    "sources": [
-    "S056"
+    "S056",
+    "S302"
    ],
    "sources_libelle": [
-    "CP 2CRSi du 24/02/2026"
+    "CP 2CRSi du 24/02/2026",
+    "Chemours, présentation aux investisseurs de septembre 2026 (SEC, 8-K du 09/09/2026)"
    ],
    "engagements": [],
    "liens": [],
@@ -9443,6 +9449,41 @@
    "majeur": false
   },
   {
+   "id": "2026-11-20_cgv-controle-export",
+   "date": "2026-11-20",
+   "date_affichee": "20 nov. 2026",
+   "revele_le": "2026-11-26",
+   "sujets": [
+    "gouv",
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi ajoute à ses conditions générales de vente une clause sur la règle américaine du 19/11",
+   "texte": "Les conditions générales de vente publiées sur le site de 2CRSi portent la date du 20/11/2026. Elles contiennent un article 9.3.8 absent de la version précédente, datée du 11/05/2026 : « Conformément à l’article 744.24(e) des Export Administration Regulations américaines (« EAR »), le Client est informé qu’une autorisation du Bureau of Industry and Security américain (« BIS ») est requise si des produits de calcul avancé fournis au titre du Contrat (notamment ECCN 3A090 et 4A090) sont utilisés dans un centre de données pour donner accès à plus de 12 000 000 d’« aggregate TPP » […] à des sociétés, ou pour le compte de sociétés, dont le siège ou celui de la société mère ultime est situé à Macao ou dans un pays du Country Group D:5 (dont la Chine). » L'article ajoute : « 2CRSi pourra suspendre la livraison des Fournitures jusqu’à l’obtention de toute autorisation requise, sans engager sa responsabilité. » L'article 9.3.1 interdit en outre toute réexportation vers la Russie et la Biélorussie, mention que la version du 11/05/2026 ne contient pas. Les conditions de paiement par défaut du matériel sont les mêmes dans les deux versions : « cinquante pour cent (50 %) le jour de l’acceptation de la Commande par 2CRSi et (ii) cinquante pour cent (50 %) à la livraison », et 100 % à l'acceptation pour « la première Commande passée par un nouveau Client établi dans le Territoire », le Territoire étant le pays de l'entité 2CRSi qui émet la proposition ; les prix s'entendent EXW dans les locaux de 2CRSi ; ces règles valent « sauf stipulation contraire dans la Proposition ». Une version antérieure, datée du 17/05/2023, demandait 100 % « pour toute première commande ». Les deux versions de 2026 n'ont pas été comparées ligne à ligne. La société n'a pas annoncé cette modification ; la date est celle que porte la page, relevée le 26/11/2026.",
+   "sources": [
+    "S300",
+    "S301",
+    "S235"
+   ],
+   "sources_libelle": [
+    "Conditions générales de vente de 2CRSi, version datée du 20/11/2026 (site de la société)",
+    "Version datée du 11/05/2026, capture de l'Internet Archive du 09/08/2026",
+    "Règle du BIS du 19/11/2026 (Federal Register)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-11-19_bis-regle-puces-ia"
+    },
+    {
+     "type": "precise",
+     "cible": "2026-11-26_commandes-en-cours-460m"
+    }
+   ],
+   "majeur": false
+  },
+  {
    "id": "2026-11-24_aether-agora-calyce",
    "date": "2026-11-24",
    "date_affichee": "24 nov. 2026",
@@ -13124,6 +13165,54 @@
    "archive": "integral",
    "note": "Lu le 26/11/2026 dans le navigateur du PC (53 paragraphes ; passage sur 2CRSi aux § 32 à 39). Relevé en français dans pistes/2026-11-26f ; texte intégral non archivé (article de presse). L'article nomme la personne poursuivie : nom non repris.",
    "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S300",
+   "date_source": "2026-11-20",
+   "type": "web",
+   "reference": "2CRSi, « Conditions générales de vente », version datée du 20/11/2026 (site de la société)",
+   "url": "https://2crsi.com/fr/general-terms-and-conditions-of-sale",
+   "archive": "integral",
+   "note": "Lu le 26/11/2026 dans le navigateur du PC ; 75 929 caractères, SHA-256 992ea040… ; textes/S300.txt ne contient que des extraits (art. 3, 9.3, 12, partie 2), texte intégral à archiver. Date de modification au plan du site : 2026-11-20.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S301",
+   "date_source": "2026-05-11",
+   "type": "web",
+   "reference": "2CRSi, « Conditions générales de vente », version datée du 11/05/2026, capture de l'Internet Archive du 09/08/2026",
+   "url": "https://web.archive.org/web/20260809070234/https://2crsi.com/fr/general-terms-and-conditions-of-sale",
+   "archive": "integral",
+   "note": "Capture lue le 26/11/2026 (74 502 caractères) : pas de renvoi à l'article 744.24, ni Russie ni Biélorussie. Captures de la version du 17/05/2023 : 26/09/2023 à 05/12/2025 (30 535 caractères). Texte non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S302",
+   "date_source": "2026-09-09",
+   "type": "CP tiers",
+   "reference": "The Chemours Company, « Investor Presentation September 2026 », annexe 99.1 du formulaire 8-K déposé à la SEC le 09/09/2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000027/cc-ex99_1.htm",
+   "archive": "integral",
+   "note": "Lu le 26/11/2026 sur sec.gov (38 167 caractères) ; « Recorded initial sales of less than $1 million for two-phase fluids during 2Q26 ». Texte non archivé.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S303",
+   "date_source": "2021-10-01",
+   "type": "presse",
+   "reference": "Press-Republican (Plattsburgh), « Data center manufacturer coming to Ex-Pfizer space », octobre 2021",
+   "url": "https://www.pressrepublican.com/news/data-center-manufacturer-coming-to-ex-pfizer-space/article_05138da8-226a-11ec-8195-439046eead08.html",
+   "archive": "reference",
+   "note": "Lu par résumé le 26/11/2026 ; la page ne porte pas de date, celle du 01/10/2021 est tirée de l'identifiant de l'article. L'article nomme un associé de RPNY : nom non repris."
+  },
+  {
+   "id": "S304",
+   "date_source": "2026-11-26",
+   "type": "registre",
+   "reference": "État de New York, Department of State, « Active Corporations: Beginning 1800 » (données ouvertes, mise à jour du 26/11/2026) : RPNY Holdings, LLC (DOS 5980951, 05/04/2021), Rouses Point Data Center, LLC (DOS 5975940, 29/03/2021), ERS Rouses Point LLC (DOS 5435776), Verte Storage LLC (DOS 6838294), 2CRSi Corporation (DOS 5942919)",
+   "url": "https://data.ny.gov/Economic-Development/Active-Corporations-Beginning-1800/n9v6-gdp6",
+   "archive": "reference",
+   "note": "Interrogé le 26/11/2026 par l'interface de données (recherche par nom et par adresse). Aucune société nommée « NewYork GreenCloud »."
   }
  ],
  "lieux": [
