@@ -22,7 +22,7 @@
  },
  "page": "index.html",
  "genere_le": "2026-11-26",
- "mis_a_jour": "2026-11-26T08:55",
+ "mis_a_jour": "2026-11-26T10:29",
  "arrete_au": "2026-11-26",
  "version_provisoire": false,
  "config": {
@@ -81,7 +81,7 @@
  },
  "nb": {
   "evenements": 211,
-  "sources": 286
+  "sources": 287
  },
  "evenements": [
   {
@@ -9513,39 +9513,6 @@
    "majeur": true
   },
   {
-   "id": "2026-12-03_eurohpc-depot-lot2",
-   "date": "2026-12-03",
-   "date_affichee": "3 déc. 2026",
-   "sujets": [
-    "aether"
-   ],
-   "statut": "echeance",
-   "titre": "Échéance : date limite de dépôt des offres du lot 2 de l'appel « AI Gigafactories »",
-   "texte": "Le 03/12/2026 à 17 h (heure de Luxembourg) pour le lot 2 (« Large-Scale »). La France n'y apporte pas de contribution ; les États hôtes du lot 2 sont le Portugal, l'Espagne, l'Allemagne, l'Italie et la Grèce, et le lot admet des projets multi-pays. La société n'a pas indiqué le lot visé par ÆTHER ; le CP du 18/02/2026 mentionnait des sites « étudiés » en Allemagne et au Luxembourg, sans suite publiée. Le 06/11/2026, l'entreprise commune EuroHPC a indiqué qu'un problème technique de son système de dépôt touchait toutes les offres des deux lots, « whether in draft or already submitted » : les candidats doivent les recréer et les redéposer ; la date du lot 2 est maintenue. À vérifier ensuite : liste des candidats du lot 2 annoncée à l'ouverture des offres.",
-   "sources": [
-    "S024",
-    "S210",
-    "S055",
-    "S289",
-    "S290"
-   ],
-   "sources_libelle": [
-    "Page EuroHPC de l'appel, mise à jour du 05/11/2026",
-    "EuroHPC JU, annexe 2 : États participants",
-    "CP 2CRSi du 18/02/2026",
-    "HPCwire, 06/11/2026",
-    "EuroHPC, page de l'appel (mise à jour du 05/11/2026)"
-   ],
-   "engagements": [],
-   "liens": [
-    {
-     "type": "precise",
-     "cible": "2026-10-22_eurohpc-report-lot1"
-    }
-   ],
-   "majeur": false
-  },
-  {
    "id": "2026-12-17_ag-2026",
    "date": "2026-12-17",
    "date_affichee": "17 déc. 2026",
@@ -9566,6 +9533,41 @@
     {
      "type": "precise",
      "cible": "2026-11-11_balo-avis-ag"
+    }
+   ],
+   "majeur": false
+  },
+  {
+   "id": "2026-12-30_eurohpc-depot-lot2",
+   "date": "2026-12-30",
+   "date_affichee": "30 déc. 2026",
+   "sujets": [
+    "aether"
+   ],
+   "statut": "echeance",
+   "titre": "Échéance : date limite de dépôt des offres du lot 2 de l'appel « AI Gigafactories »",
+   "texte": "Le 30/12/2026 à 17 h (heure de Luxembourg) pour le lot 2 (« Large-Scale »). La date, d'abord fixée au 03/12/2026, a été repoussée par la mise à jour du 25/11/2026 de la page de l'appel, « in order to give tenderers the necessary time to prepare their proposals » ; les questions de clarification sur le lot 2 sont reçues jusqu'au 09/12/2026 ; le lot 1 reste au 04/02/2027. La France n'apporte pas de contribution au lot 2 ; les États hôtes du lot 2 sont le Portugal, l'Espagne, l'Allemagne, l'Italie et la Grèce, et le lot admet des projets multi-pays. La société n'a pas indiqué le lot visé par ÆTHER ; le CP du 18/02/2026 mentionnait des sites « étudiés » en Allemagne et au Luxembourg, sans suite publiée. Le 06/11/2026, l'entreprise commune EuroHPC a indiqué qu'un problème technique de son système de dépôt touchait toutes les offres des deux lots, « whether in draft or already submitted » : les candidats doivent les recréer et les redéposer. À vérifier ensuite : liste des candidats du lot 2 annoncée à l'ouverture des offres.",
+   "sources": [
+    "S024",
+    "S210",
+    "S055",
+    "S289",
+    "S290",
+    "S298"
+   ],
+   "sources_libelle": [
+    "Page EuroHPC de l'appel, mise à jour du 05/11/2026",
+    "EuroHPC JU, annexe 2 : États participants",
+    "CP 2CRSi du 18/02/2026",
+    "HPCwire, 06/11/2026",
+    "EuroHPC, page de l'appel (mise à jour du 05/11/2026)",
+    "EuroHPC, page de l'appel (mise à jour du 25/11/2026 : report du lot 2)"
+   ],
+   "engagements": [],
+   "liens": [
+    {
+     "type": "precise",
+     "cible": "2026-10-22_eurohpc-report-lot1"
     }
    ],
    "majeur": false
@@ -13068,6 +13070,16 @@
    "url": "https://static.actifin.co/documents/2026/2CRSI-CP-20261126-FR.pdf",
    "archive": "integral",
    "note": "PDF transmis par l'utilisateur le 26/11/2026 (textes/pdf/S297.pdf).",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S298",
+   "date_source": "2026-11-25",
+   "type": "officiel",
+   "reference": "EuroHPC JU, page de l'appel « AI Gigafactories » (EUROHPC-2026-CEI-AIGF-01), mise à jour du 25/11/2026",
+   "url": "https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en",
+   "archive": "integral",
+   "note": "Relevé le 26/11/2026 par le navigateur du PC (pièce d'origine : pistes/pieces/2026-11-26/). Le mot « remains » figure dans la page.",
    "texte_archive": "sources_textes.json"
   }
  ],
