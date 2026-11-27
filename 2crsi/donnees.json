@@ -21,9 +21,9 @@
   "lieux": "précision : site, ville, région ou pays ; la localisation au niveau région/pays est approximative"
  },
  "page": "index.html",
- "genere_le": "2026-11-26",
- "mis_a_jour": "2026-11-26T22:21",
- "arrete_au": "2026-11-26",
+ "genere_le": "2026-11-27",
+ "mis_a_jour": "2026-11-27T11:43",
+ "arrete_au": "2026-11-27",
  "version_provisoire": false,
  "config": {
   "code": "2crsi",
@@ -80,8 +80,8 @@
   ]
  },
  "nb": {
-  "evenements": 213,
-  "sources": 293
+  "evenements": 214,
+  "sources": 295
  },
  "evenements": [
   {
@@ -735,6 +735,50 @@
       "volume": 61246,
       "variation_pct": 1.0,
       "volume_vs_moy20": 10.1
+     }
+    ]
+   },
+   "majeur": true
+  },
+  {
+   "id": "2023-09-26_vates-offre-commune",
+   "date": "2023-09-26",
+   "date_affichee": "26 sept. 2023",
+   "sujets": [
+    "autre"
+   ],
+   "statut": "doc",
+   "titre": "2CRSi et Vates annoncent une offre commune « serveur + licence », présentée comme « souveraine »",
+   "texte": "Communiqué : 2CRSi et Vates, éditeur français de logiciels de virtualisation open source, « s’associent pour offrir une solution commune souveraine ». Après le projet RENESENS, les deux sociétés proposent « une offre commerciale commune qui sera déployée à compter d’octobre 2023 », décrite comme « une offre globale serveur +licence labellisée Vates/2CRSi ». Le communiqué ajoute : « Cette solution vient clairement concurrencer les offres des leaders américains, tant par sa souveraineté que par sa remarquable attractivité économique. » Il ne nomme aucune gamme de serveurs et ne donne ni prix, ni volume, ni client. Dans un billet du 22/03/2024, Vates indique que les serveurs livrés avec son logiciel XCP-ng sont ceux de la gamme Mona de 2CRSi, à processeurs AMD, et parle de son « first OEM server vendor partnership ».",
+   "sources": [
+    "S305",
+    "S306"
+   ],
+   "sources_libelle": [
+    "CP 2CRSi du 26/09/2023 (DILA)",
+    "Vates, billet du 22/03/2024"
+   ],
+   "engagements": [],
+   "liens": [],
+   "seance": {
+    "jour_de_bourse": true,
+    "heure": null,
+    "seances": [
+     {
+      "role": "jour",
+      "date": "2023-09-26",
+      "cloture": 1.41,
+      "volume": 19873,
+      "variation_pct": -5.7,
+      "volume_vs_moy20": 1.7
+     },
+     {
+      "role": "suivante",
+      "date": "2023-09-27",
+      "cloture": 1.43,
+      "volume": 36235,
+      "variation_pct": 1.4,
+      "volume_vs_moy20": 2.9
      }
     ]
    },
@@ -13213,6 +13257,25 @@
    "url": "https://data.ny.gov/Economic-Development/Active-Corporations-Beginning-1800/n9v6-gdp6",
    "archive": "reference",
    "note": "Interrogé le 26/11/2026 par l'interface de données (recherche par nom et par adresse). Aucune société nommée « NewYork GreenCloud »."
+  },
+  {
+   "id": "S305",
+   "date_source": "2023-09-26",
+   "type": "CP",
+   "reference": "Communiqué 2CRSi du 26/09/2023, « 2CRSi et Vates s’associent pour créer une offre commune » (archive de la DILA, FCEQS005080 ; version anglaise FCEQS005078)",
+   "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/EQS/2023/09/FCEQS005080_20230926.pdf",
+   "archive": "integral",
+   "note": "Texte : textes/S305.txt, extrait du PDF le 27/11/2026 (navigateur du PC) ; coordonnées des contacts non reprises.",
+   "texte_archive": "sources_textes.json"
+  },
+  {
+   "id": "S306",
+   "date_source": "2024-03-22",
+   "type": "web",
+   "reference": "Vates, billet de blog du 22/03/2024, « Simplifying IT: 2CRSi's Mona Servers with XCP-ng Onboard »",
+   "url": "https://vates.tech/blog/simplifying-it-2crsis-mona-servers-with-xcp-ng-onboard",
+   "archive": "reference",
+   "note": "Lu par résumé le 27/11/2026 ; texte intégral non archivé. Source tierce (partenaire)."
   }
  ],
  "lieux": [
